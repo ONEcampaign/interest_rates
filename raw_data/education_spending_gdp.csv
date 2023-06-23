@@ -1,0 +1,3041 @@
+﻿indicator,year,value,iso_code,units,name
+Education,2009,4.498479843,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2010,3.674759984,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2011,4.17305994,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2012,4.077429771,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2013,3.867699981,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2014,4.093698733,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2015,4.454237938,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2016,4.333099842,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2017,4.134349823,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2018,4.312764883,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2019,3.936285138,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2020,4.111616688,East Asia & Pacific,% of GDP,East Asia & Pacific
+Education,2001,4.587885141,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2002,4.536999941,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2003,4.923079967,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2004,4.781730175,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2005,4.903789997,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2006,4.821650028,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2007,4.633289814,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2008,4.884970188,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2009,5.046319962,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2010,5.05092001,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2011,4.896920204,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2012,4.843949795,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2013,4.953005075,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2014,4.878499985,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2015,4.885540009,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2016,4.770905969,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2017,4.689909935,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2018,4.675159931,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2019,4.630020142,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2020,5.07,Europe & Central Asia,% of GDP,Europe & Central Asia
+Education,2014,4.680204868,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2015,4.238609791,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2016,4.592265129,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2017,4.470970154,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2018,4.460289955,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2019,4.403110027,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2020,4.399374962,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Education,2008,4.282284975,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2010,4.392223482,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2011,3.484970093,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2012,4.273994903,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2013,4.098185062,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2014,4.317732596,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2015,3.930850029,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2016,4.567229986,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2017,4.221014977,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2018,5.136470998,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2019,4.427714944,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2020,3.879869938,Middle East & North Africa,% of GDP,Middle East & North Africa
+Education,2010,6.038171446,North America,% of GDP,North America
+Education,2011,5.891807699,North America,% of GDP,North America
+Education,2012,5.484221796,North America,% of GDP,North America
+Education,2013,5.419970833,North America,% of GDP,North America
+Education,2014,5.490489105,North America,% of GDP,North America
+Education,2015,4.846395016,North America,% of GDP,North America
+Education,2016,4.80728507,North America,% of GDP,North America
+Education,2017,5.034595013,North America,% of GDP,North America
+Education,2018,4.900655031,North America,% of GDP,North America
+Education,2019,4.880820036,North America,% of GDP,North America
+Education,2020,5.61,North America,% of GDP,North America
+Education,2004,3.262240052,South Asia,% of GDP,South Asia
+Education,2005,3.188750029,South Asia,% of GDP,South Asia
+Education,2006,2.900000095,South Asia,% of GDP,South Asia
+Education,2007,2.742635012,South Asia,% of GDP,South Asia
+Education,2008,3.50999999,South Asia,% of GDP,South Asia
+Education,2009,3.504124999,South Asia,% of GDP,South Asia
+Education,2010,3.479449987,South Asia,% of GDP,South Asia
+Education,2011,3.271369934,South Asia,% of GDP,South Asia
+Education,2012,3.330429912,South Asia,% of GDP,South Asia
+Education,2013,3.29549317,South Asia,% of GDP,South Asia
+Education,2014,3.088589907,South Asia,% of GDP,South Asia
+Education,2015,3.275026846,South Asia,% of GDP,South Asia
+Education,2016,3.494546142,South Asia,% of GDP,South Asia
+Education,2017,3.451116954,South Asia,% of GDP,South Asia
+Education,2018,3.43209781,South Asia,% of GDP,South Asia
+Education,2019,3.349730413,South Asia,% of GDP,South Asia
+Education,2020,4.183101012,South Asia,% of GDP,South Asia
+Education,2010,3.544029951,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2011,3.582365036,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2012,3.452700019,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2013,3.61578989,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2014,3.698624969,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2015,3.801520109,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2016,3.747920036,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2017,3.789769888,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2018,3.87612009,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2019,3.711319923,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2020,3.732915044,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Education,2002,4.899490118,High income,% of GDP,High income
+Education,2005,4.844334841,High income,% of GDP,High income
+Education,2008,4.839900017,High income,% of GDP,High income
+Education,2009,5.018044949,High income,% of GDP,High income
+Education,2010,5.05092001,High income,% of GDP,High income
+Education,2011,4.824919939,High income,% of GDP,High income
+Education,2012,4.767404171,High income,% of GDP,High income
+Education,2013,4.856455088,High income,% of GDP,High income
+Education,2014,4.860694885,High income,% of GDP,High income
+Education,2015,4.832545042,High income,% of GDP,High income
+Education,2016,4.712300818,High income,% of GDP,High income
+Education,2017,4.558460236,High income,% of GDP,High income
+Education,2018,4.668979883,High income,% of GDP,High income
+Education,2019,4.669209957,High income,% of GDP,High income
+Education,2020,5.150730133,High income,% of GDP,High income
+Education,2010,3.343889952,Low income,% of GDP,Low income
+Education,2011,3.269814968,Low income,% of GDP,Low income
+Education,2012,3.253409982,Low income,% of GDP,Low income
+Education,2013,3.067680001,Low income,% of GDP,Low income
+Education,2014,3.15555501,Low income,% of GDP,Low income
+Education,2015,3.156545043,Low income,% of GDP,Low income
+Education,2016,2.958430052,Low income,% of GDP,Low income
+Education,2017,2.913915038,Low income,% of GDP,Low income
+Education,2018,3.199790001,Low income,% of GDP,Low income
+Education,2019,3.237070084,Low income,% of GDP,Low income
+Education,2020,3.002110004,Low income,% of GDP,Low income
+Education,2010,4.12473011,Lower middle income,% of GDP,Lower middle income
+Education,2011,3.916825056,Lower middle income,% of GDP,Lower middle income
+Education,2012,4.018030167,Lower middle income,% of GDP,Lower middle income
+Education,2013,4.576469898,Lower middle income,% of GDP,Lower middle income
+Education,2014,4.25138998,Lower middle income,% of GDP,Lower middle income
+Education,2015,4.154720068,Lower middle income,% of GDP,Lower middle income
+Education,2016,4.299444914,Lower middle income,% of GDP,Lower middle income
+Education,2017,4.3182238,Lower middle income,% of GDP,Lower middle income
+Education,2018,4.061404943,Lower middle income,% of GDP,Lower middle income
+Education,2019,3.716379881,Lower middle income,% of GDP,Lower middle income
+Education,2020,4.183101012,Lower middle income,% of GDP,Lower middle income
+Education,2010,3.869227052,Upper middle income,% of GDP,Upper middle income
+Education,2011,4.197289944,Upper middle income,% of GDP,Upper middle income
+Education,2012,3.989559889,Upper middle income,% of GDP,Upper middle income
+Education,2013,4.058229923,Upper middle income,% of GDP,Upper middle income
+Education,2014,4.360330105,Upper middle income,% of GDP,Upper middle income
+Education,2015,4.280404806,Upper middle income,% of GDP,Upper middle income
+Education,2016,4.737750053,Upper middle income,% of GDP,Upper middle income
+Education,2017,4.57488513,Upper middle income,% of GDP,Upper middle income
+Education,2018,4.45058012,Upper middle income,% of GDP,Upper middle income
+Education,2019,4.225659847,Upper middle income,% of GDP,Upper middle income
+Education,2020,4.527186917,Upper middle income,% of GDP,Upper middle income
+Education,2015,4.743500233,Blend,% of GDP,Blend
+Education,2016,5.224139929,Blend,% of GDP,Blend
+Education,2017,4.708969831,Blend,% of GDP,Blend
+Education,2018,4.342994572,Blend,% of GDP,Blend
+Education,2010,3.869227052,IBRD,% of GDP,IBRD
+Education,2011,4.070869923,IBRD,% of GDP,IBRD
+Education,2012,4.120819807,IBRD,% of GDP,IBRD
+Education,2013,4.391880035,IBRD,% of GDP,IBRD
+Education,2014,4.438379666,IBRD,% of GDP,IBRD
+Education,2015,4.222899914,IBRD,% of GDP,IBRD
+Education,2016,4.344810009,IBRD,% of GDP,IBRD
+Education,2017,4.25,IBRD,% of GDP,IBRD
+Education,2018,4.328904867,IBRD,% of GDP,IBRD
+Education,2019,4.109290123,IBRD,% of GDP,IBRD
+Education,2020,4.246679783,IBRD,% of GDP,IBRD
+Education,2010,3.656625032,IDA,% of GDP,
+Education,2011,3.754230022,IDA,% of GDP,
+Education,2012,3.5042393,IDA,% of GDP,
+Education,2013,3.421379924,IDA,% of GDP,
+Education,2014,3.671705008,IDA,% of GDP,
+Education,2015,3.735805035,IDA,% of GDP,
+Education,2016,3.686490059,IDA,% of GDP,
+Education,2017,3.775149941,IDA,% of GDP,
+Education,2018,3.886130095,IDA,% of GDP,
+Education,2019,3.596839905,IDA,% of GDP,
+Education,2020,3.702399969,IDA,% of GDP,
+Education,2005,4.898519993,Not classified_lending,% of GDP,Not classified_lending
+Education,2008,4.90378499,Not classified_lending,% of GDP,Not classified_lending
+Education,2009,5.077455044,Not classified_lending,% of GDP,Not classified_lending
+Education,2010,5.297860146,Not classified_lending,% of GDP,Not classified_lending
+Education,2011,5.070785046,Not classified_lending,% of GDP,Not classified_lending
+Education,2012,4.863114834,Not classified_lending,% of GDP,Not classified_lending
+Education,2013,4.98458004,Not classified_lending,% of GDP,Not classified_lending
+Education,2014,4.878499985,Not classified_lending,% of GDP,Not classified_lending
+Education,2015,4.909530163,Not classified_lending,% of GDP,Not classified_lending
+Education,2016,4.798150063,Not classified_lending,% of GDP,Not classified_lending
+Education,2017,4.826184988,Not classified_lending,% of GDP,Not classified_lending
+Education,2018,4.912330151,Not classified_lending,% of GDP,Not classified_lending
+Education,2019,4.841609955,Not classified_lending,% of GDP,Not classified_lending
+Education,2020,5.22,Not classified_lending,% of GDP,Not classified_lending
+Education,2010,3.548259974,Africa,% of GDP,Africa
+Education,2011,3.582365036,Africa,% of GDP,Africa
+Education,2012,3.479490042,Africa,% of GDP,Africa
+Education,2013,4.083439827,Africa,% of GDP,Africa
+Education,2014,4.083680153,Africa,% of GDP,Africa
+Education,2015,3.897724986,Africa,% of GDP,Africa
+Education,2016,4.011160135,Africa,% of GDP,Africa
+Education,2017,3.796624899,Africa,% of GDP,Africa
+Education,2018,3.886130095,Africa,% of GDP,Africa
+Education,2019,3.713849902,Africa,% of GDP,Africa
+Education,2020,3.763430119,Africa,% of GDP,Africa
+Education,2013,4.809329987,America,% of GDP,America
+Education,2014,4.760030031,America,% of GDP,America
+Education,2015,4.470389843,America,% of GDP,America
+Education,2016,4.722535133,America,% of GDP,America
+Education,2017,4.518219948,America,% of GDP,America
+Education,2018,4.545729876,America,% of GDP,America
+Education,2019,4.553109884,America,% of GDP,America
+Education,2020,4.585385084,America,% of GDP,America
+Education,2008,3.459830046,Asia,% of GDP,Asia
+Education,2009,3.589999914,Asia,% of GDP,Asia
+Education,2010,3.508440018,Asia,% of GDP,Asia
+Education,2011,3.462009907,Asia,% of GDP,Asia
+Education,2012,3.50744009,Asia,% of GDP,Asia
+Education,2013,3.445914984,Asia,% of GDP,Asia
+Education,2014,3.421649933,Asia,% of GDP,Asia
+Education,2015,3.372126866,Asia,% of GDP,Asia
+Education,2016,3.505990028,Asia,% of GDP,Asia
+Education,2017,3.528923819,Asia,% of GDP,Asia
+Education,2018,3.531774998,Asia,% of GDP,Asia
+Education,2019,3.539999962,Asia,% of GDP,Asia
+Education,2020,3.879869938,Asia,% of GDP,Asia
+Education,2001,4.81137991,Europe,% of GDP,Europe
+Education,2002,5.164219856,Europe,% of GDP,Europe
+Education,2003,5.114180088,Europe,% of GDP,Europe
+Education,2004,5.046380043,Europe,% of GDP,Europe
+Education,2005,5.073949814,Europe,% of GDP,Europe
+Education,2007,4.868740082,Europe,% of GDP,Europe
+Education,2008,5.029049873,Europe,% of GDP,Europe
+Education,2009,5.43156004,Europe,% of GDP,Europe
+Education,2010,5.289154707,Europe,% of GDP,Europe
+Education,2011,5.071619987,Europe,% of GDP,Europe
+Education,2012,4.952995062,Europe,% of GDP,Europe
+Education,2013,5.009419918,Europe,% of GDP,Europe
+Education,2014,4.928280115,Europe,% of GDP,Europe
+Education,2015,4.909530163,Europe,% of GDP,Europe
+Education,2016,4.792669773,Europe,% of GDP,Europe
+Education,2017,4.689909935,Europe,% of GDP,Europe
+Education,2018,4.678199768,Europe,% of GDP,Europe
+Education,2019,4.669209957,Europe,% of GDP,Europe
+Education,2020,5.19,Europe,% of GDP,Europe
+Education,2015,5.710000038,Oceania,% of GDP,Oceania
+Education,2017,5.698274851,Oceania,% of GDP,Oceania
+Education,2018,6.210705042,Oceania,% of GDP,Oceania
+Education,2019,5.149515152,Oceania,% of GDP,Oceania
+Education,2020,5.98,Oceania,% of GDP,Oceania
+Education,2005,2.569999933,AFG,% of GDP,Afghanistan
+Education,2006,2.900000095,AFG,% of GDP,Afghanistan
+Education,2007,2.849999905,AFG,% of GDP,Afghanistan
+Education,2008,3.50999999,AFG,% of GDP,Afghanistan
+Education,2009,3.730000019,AFG,% of GDP,Afghanistan
+Education,2010,3.479449987,AFG,% of GDP,Afghanistan
+Education,2011,3.462009907,AFG,% of GDP,Afghanistan
+Education,2012,3.319999933,AFG,% of GDP,Afghanistan
+Education,2013,3.454459906,AFG,% of GDP,Afghanistan
+Education,2014,3.695219994,AFG,% of GDP,Afghanistan
+Education,2015,3.255800009,AFG,% of GDP,Afghanistan
+Education,2016,3.511980057,AFG,% of GDP,Afghanistan
+Education,2017,3.373310089,AFG,% of GDP,Afghanistan
+Education,2018,3.199790001,AFG,% of GDP,Afghanistan
+Education,2019,3.213779926,AFG,% of GDP,Afghanistan
+Education,2020,2.860859487,AFG,% of GDP,Afghanistan
+Education,2000,2.607530117,AGO,% of GDP,Angola
+Education,2005,2.120110035,AGO,% of GDP,Angola
+Education,2006,2.281460047,AGO,% of GDP,Angola
+Education,2007,2.920000076,AGO,% of GDP,Angola
+Education,2008,2.690000057,AGO,% of GDP,Angola
+Education,2009,3.210000038,AGO,% of GDP,Angola
+Education,2010,3.421319962,AGO,% of GDP,Angola
+Education,2011,3.029999971,AGO,% of GDP,Angola
+Education,2012,3.081909895,AGO,% of GDP,Angola
+Education,2013,4.438950062,AGO,% of GDP,Angola
+Education,2014,3.122920036,AGO,% of GDP,Angola
+Education,2015,3.486900091,AGO,% of GDP,Angola
+Education,2016,2.754940033,AGO,% of GDP,Angola
+Education,2017,2.466880083,AGO,% of GDP,Angola
+Education,2018,2.044699907,AGO,% of GDP,Angola
+Education,2019,1.927459955,AGO,% of GDP,Angola
+Education,2020,2.415199995,AGO,% of GDP,Angola
+Education,2000,3.828870058,AIA,% of GDP,
+Education,2001,5.401760101,AIA,% of GDP,
+Education,2002,5.416409969,AIA,% of GDP,
+Education,2003,5.095880032,AIA,% of GDP,
+Education,2005,2.956020117,AIA,% of GDP,
+Education,2008,2.830379963,AIA,% of GDP,
+Education,2015,2.979640007,AIA,% of GDP,
+Education,2016,3.139630079,AIA,% of GDP,
+Education,2017,3.606650114,AIA,% of GDP,
+Education,2018,3.316950083,AIA,% of GDP,
+Education,2019,2.791810036,AIA,% of GDP,
+Education,2020,4.009513751,AIA,% of GDP,
+Education,2000,3.430170059,ALB,% of GDP,Albania
+Education,2001,3.458699942,ALB,% of GDP,Albania
+Education,2002,3.117799997,ALB,% of GDP,Albania
+Education,2003,3.138230085,ALB,% of GDP,Albania
+Education,2004,3.227519989,ALB,% of GDP,Albania
+Education,2005,3.281549931,ALB,% of GDP,Albania
+Education,2006,3.191459894,ALB,% of GDP,Albania
+Education,2007,3.275929928,ALB,% of GDP,Albania
+Education,2010,3.413075048,ALB,% of GDP,Albania
+Education,2011,3.079999924,ALB,% of GDP,Albania
+Education,2012,2.930000067,ALB,% of GDP,Albania
+Education,2013,3.539299965,ALB,% of GDP,Albania
+Education,2014,3.049999952,ALB,% of GDP,Albania
+Education,2015,3.437969923,ALB,% of GDP,Albania
+Education,2016,3.962090015,ALB,% of GDP,Albania
+Education,2017,3.611730099,ALB,% of GDP,Albania
+Education,2018,3.154901166,ALB,% of GDP,Albania
+Education,2019,3.916650057,ALB,% of GDP,Albania
+Education,2020,3.099999905,ALB,% of GDP,Albania
+Education,2000,4.580309868,ARG,% of GDP,Argentina
+Education,2001,4.833740234,ARG,% of GDP,Argentina
+Education,2002,4.017340183,ARG,% of GDP,Argentina
+Education,2003,3.535049915,ARG,% of GDP,Argentina
+Education,2004,3.486520052,ARG,% of GDP,Argentina
+Education,2005,3.860009909,ARG,% of GDP,Argentina
+Education,2006,4.128210068,ARG,% of GDP,Argentina
+Education,2007,4.462600231,ARG,% of GDP,Argentina
+Education,2008,4.844409943,ARG,% of GDP,Argentina
+Education,2009,5.531050205,ARG,% of GDP,Argentina
+Education,2010,5.019710064,ARG,% of GDP,Argentina
+Education,2011,5.290629864,ARG,% of GDP,Argentina
+Education,2012,5.345829964,ARG,% of GDP,Argentina
+Education,2013,5.436610222,ARG,% of GDP,Argentina
+Education,2014,5.361440182,ARG,% of GDP,Argentina
+Education,2015,5.776110172,ARG,% of GDP,Argentina
+Education,2016,5.545489788,ARG,% of GDP,Argentina
+Education,2017,5.454319954,ARG,% of GDP,Argentina
+Education,2018,4.877739906,ARG,% of GDP,Argentina
+Education,2019,4.724170208,ARG,% of GDP,Argentina
+Education,2020,5.016049862,ARG,% of GDP,Argentina
+Education,2000,2.772730112,ARM,% of GDP,Armenia
+Education,2001,2.469439983,ARM,% of GDP,Armenia
+Education,2002,2.135040045,ARM,% of GDP,Armenia
+Education,2003,2.145040035,ARM,% of GDP,Armenia
+Education,2004,2.486730099,ARM,% of GDP,Armenia
+Education,2005,2.712029934,ARM,% of GDP,Armenia
+Education,2006,2.715770006,ARM,% of GDP,Armenia
+Education,2007,3.018939972,ARM,% of GDP,Armenia
+Education,2008,3.172729969,ARM,% of GDP,Armenia
+Education,2009,3.840790033,ARM,% of GDP,Armenia
+Education,2010,3.249000072,ARM,% of GDP,Armenia
+Education,2011,3.143850088,ARM,% of GDP,Armenia
+Education,2012,2.772480011,ARM,% of GDP,Armenia
+Education,2013,2.650180101,ARM,% of GDP,Armenia
+Education,2014,2.247240067,ARM,% of GDP,Armenia
+Education,2015,2.80591011,ARM,% of GDP,Armenia
+Education,2016,2.75812006,ARM,% of GDP,Armenia
+Education,2017,2.707590103,ARM,% of GDP,Armenia
+Education,2018,2.255870104,ARM,% of GDP,Armenia
+Education,2019,2.561850071,ARM,% of GDP,Armenia
+Education,2020,2.705670118,ARM,% of GDP,Armenia
+Education,2021,2.771389961,ARM,% of GDP,Armenia
+Education,2002,3.395250082,ATG,% of GDP,Antigua and Barbuda
+Education,2009,2.508889914,ATG,% of GDP,Antigua and Barbuda
+Education,2012,2.485247654,ATG,% of GDP,Antigua and Barbuda
+Education,2013,2.606475928,ATG,% of GDP,Antigua and Barbuda
+Education,2014,2.701471045,ATG,% of GDP,Antigua and Barbuda
+Education,2015,2.840734053,ATG,% of GDP,Antigua and Barbuda
+Education,2016,2.430799961,ATG,% of GDP,Antigua and Barbuda
+Education,2017,2.448479891,ATG,% of GDP,Antigua and Barbuda
+Education,2018,2.644079924,ATG,% of GDP,Antigua and Barbuda
+Education,2019,2.831340075,ATG,% of GDP,Antigua and Barbuda
+Education,2020,3.453119993,ATG,% of GDP,Antigua and Barbuda
+Education,2021,3.836250067,ATG,% of GDP,Antigua and Barbuda
+Education,2000,4.887310028,AUS,% of GDP,Australia
+Education,2005,4.898519993,AUS,% of GDP,Australia
+Education,2006,4.740650177,AUS,% of GDP,Australia
+Education,2007,4.656219959,AUS,% of GDP,Australia
+Education,2008,4.632780075,AUS,% of GDP,Australia
+Education,2009,5.084519863,AUS,% of GDP,Australia
+Education,2010,5.543039799,AUS,% of GDP,Australia
+Education,2011,5.069950104,AUS,% of GDP,Australia
+Education,2012,4.867879868,AUS,% of GDP,Australia
+Education,2013,5.229239941,AUS,% of GDP,Australia
+Education,2014,5.164690018,AUS,% of GDP,Australia
+Education,2015,5.315839767,AUS,% of GDP,Australia
+Education,2016,5.286230087,AUS,% of GDP,Australia
+Education,2017,5.136809826,AUS,% of GDP,Australia
+Education,2018,5.123449802,AUS,% of GDP,Australia
+Education,2019,5.135310173,AUS,% of GDP,Australia
+Education,2020,6.1,AUS,% of GDP,Australia
+Education,2000,5.588809967,AUT,% of GDP,Austria
+Education,2001,5.575479984,AUT,% of GDP,Austria
+Education,2002,5.522130013,AUT,% of GDP,Austria
+Education,2003,5.361830235,AUT,% of GDP,Austria
+Education,2004,5.302430153,AUT,% of GDP,Austria
+Education,2005,5.249370098,AUT,% of GDP,Austria
+Education,2006,5.226520061,AUT,% of GDP,Austria
+Education,2007,5.146900177,AUT,% of GDP,Austria
+Education,2008,5.263959885,AUT,% of GDP,Austria
+Education,2009,5.730249882,AUT,% of GDP,Austria
+Education,2010,5.700479984,AUT,% of GDP,Austria
+Education,2011,5.592269897,AUT,% of GDP,Austria
+Education,2012,5.480400085,AUT,% of GDP,Austria
+Education,2013,5.547110081,AUT,% of GDP,Austria
+Education,2014,5.447619915,AUT,% of GDP,Austria
+Education,2015,5.456580162,AUT,% of GDP,Austria
+Education,2016,5.47961998,AUT,% of GDP,Austria
+Education,2017,5.371590137,AUT,% of GDP,Austria
+Education,2018,5.224520206,AUT,% of GDP,Austria
+Education,2019,5.212910175,AUT,% of GDP,Austria
+Education,2020,5.07,AUT,% of GDP,Austria
+Education,2000,3.853990078,AZE,% of GDP,Azerbaijan
+Education,2001,3.503420115,AZE,% of GDP,Azerbaijan
+Education,2002,3.154459953,AZE,% of GDP,Azerbaijan
+Education,2003,3.286149979,AZE,% of GDP,Azerbaijan
+Education,2004,3.447700024,AZE,% of GDP,Azerbaijan
+Education,2005,2.974620104,AZE,% of GDP,Azerbaijan
+Education,2006,2.555520058,AZE,% of GDP,Azerbaijan
+Education,2007,2.549279928,AZE,% of GDP,Azerbaijan
+Education,2008,2.44092989,AZE,% of GDP,Azerbaijan
+Education,2009,3.224309921,AZE,% of GDP,Azerbaijan
+Education,2010,2.780620098,AZE,% of GDP,Azerbaijan
+Education,2011,2.435640097,AZE,% of GDP,Azerbaijan
+Education,2012,2.067630053,AZE,% of GDP,Azerbaijan
+Education,2013,2.442130089,AZE,% of GDP,Azerbaijan
+Education,2014,2.633039951,AZE,% of GDP,Azerbaijan
+Education,2015,2.951679945,AZE,% of GDP,Azerbaijan
+Education,2016,2.903409958,AZE,% of GDP,Azerbaijan
+Education,2017,2.473819971,AZE,% of GDP,Azerbaijan
+Education,2018,2.455430031,AZE,% of GDP,Azerbaijan
+Education,2019,2.681080103,AZE,% of GDP,Azerbaijan
+Education,2020,4.332049847,AZE,% of GDP,Azerbaijan
+Education,2000,2.645479918,BDI,% of GDP,Burundi
+Education,2001,2.903909922,BDI,% of GDP,Burundi
+Education,2002,3.004930019,BDI,% of GDP,Burundi
+Education,2004,3.74496007,BDI,% of GDP,Burundi
+Education,2005,3.632159948,BDI,% of GDP,Burundi
+Education,2008,5.192900181,BDI,% of GDP,Burundi
+Education,2009,6.171949863,BDI,% of GDP,Burundi
+Education,2010,6.775249958,BDI,% of GDP,Burundi
+Education,2011,6.319250107,BDI,% of GDP,Burundi
+Education,2012,6.167860031,BDI,% of GDP,Burundi
+Education,2013,5.995359898,BDI,% of GDP,Burundi
+Education,2014,6.784520149,BDI,% of GDP,Burundi
+Education,2015,6.370540142,BDI,% of GDP,Burundi
+Education,2016,4.691999912,BDI,% of GDP,Burundi
+Education,2017,4.762020111,BDI,% of GDP,Burundi
+Education,2018,5.078649998,BDI,% of GDP,Burundi
+Education,2019,5.346680164,BDI,% of GDP,Burundi
+Education,2020,5.040979862,BDI,% of GDP,Burundi
+Education,2005,5.795859814,BEL,% of GDP,Belgium
+Education,2008,6.332940102,BEL,% of GDP,Belgium
+Education,2009,6.458099842,BEL,% of GDP,Belgium
+Education,2010,6.442590237,BEL,% of GDP,Belgium
+Education,2011,6.431990147,BEL,% of GDP,Belgium
+Education,2012,6.255764873,BEL,% of GDP,Belgium
+Education,2013,6.630529881,BEL,% of GDP,Belgium
+Education,2014,6.590469837,BEL,% of GDP,Belgium
+Education,2015,6.451570034,BEL,% of GDP,Belgium
+Education,2016,6.461730003,BEL,% of GDP,Belgium
+Education,2017,6.425340176,BEL,% of GDP,Belgium
+Education,2018,6.381370068,BEL,% of GDP,Belgium
+Education,2019,6.339759827,BEL,% of GDP,Belgium
+Education,2020,6.71,BEL,% of GDP,Belgium
+Education,2000,2.113660097,BEN,% of GDP,Benin
+Education,2001,2.365099907,BEN,% of GDP,Benin
+Education,2002,2.159490108,BEN,% of GDP,Benin
+Education,2003,2.283159971,BEN,% of GDP,Benin
+Education,2004,2.566900015,BEN,% of GDP,Benin
+Education,2005,2.656680107,BEN,% of GDP,Benin
+Education,2006,2.56340003,BEN,% of GDP,Benin
+Education,2007,2.363310099,BEN,% of GDP,Benin
+Education,2008,2.777280092,BEN,% of GDP,Benin
+Education,2009,3.089270115,BEN,% of GDP,Benin
+Education,2010,3.679970026,BEN,% of GDP,Benin
+Education,2011,4.397880077,BEN,% of GDP,Benin
+Education,2012,3.562020063,BEN,% of GDP,Benin
+Education,2013,3.327510118,BEN,% of GDP,Benin
+Education,2014,3.161789894,BEN,% of GDP,Benin
+Education,2015,3.17298007,BEN,% of GDP,Benin
+Education,2016,2.899100065,BEN,% of GDP,Benin
+Education,2017,3.535589933,BEN,% of GDP,Benin
+Education,2018,2.931619883,BEN,% of GDP,Benin
+Education,2019,2.965199947,BEN,% of GDP,Benin
+Education,2020,3.003659964,BEN,% of GDP,Benin
+Education,2005,3.941139936,BFA,% of GDP,Burkina Faso
+Education,2006,3.982189894,BFA,% of GDP,Burkina Faso
+Education,2007,4.07983017,BFA,% of GDP,Burkina Faso
+Education,2010,3.502229929,BFA,% of GDP,Burkina Faso
+Education,2011,3.985150099,BFA,% of GDP,Burkina Faso
+Education,2012,3.603159904,BFA,% of GDP,Burkina Faso
+Education,2013,4.083439827,BFA,% of GDP,Burkina Faso
+Education,2014,4.053299904,BFA,% of GDP,Burkina Faso
+Education,2015,3.67008996,BFA,% of GDP,Burkina Faso
+Education,2017,5.628469944,BFA,% of GDP,Burkina Faso
+Education,2018,5.488609791,BFA,% of GDP,Burkina Faso
+Education,2019,5.696849823,BFA,% of GDP,Burkina Faso
+Education,2020,5.519080162,BFA,% of GDP,Burkina Faso
+Education,2000,2.125080109,BGD,% of GDP,Bangladesh
+Education,2001,2.171930075,BGD,% of GDP,Bangladesh
+Education,2002,2.017149925,BGD,% of GDP,Bangladesh
+Education,2003,2.069390059,BGD,% of GDP,Bangladesh
+Education,2004,1.940140009,BGD,% of GDP,Bangladesh
+Education,2006,2.131289959,BGD,% of GDP,Bangladesh
+Education,2007,2.202219963,BGD,% of GDP,Bangladesh
+Education,2008,2.05456996,BGD,% of GDP,Bangladesh
+Education,2009,1.939419985,BGD,% of GDP,Bangladesh
+Education,2011,2.132699966,BGD,% of GDP,Bangladesh
+Education,2012,2.046670731,BGD,% of GDP,Bangladesh
+Education,2013,1.966160025,BGD,% of GDP,Bangladesh
+Education,2014,2.098716631,BGD,% of GDP,Bangladesh
+Education,2015,1.872254171,BGD,% of GDP,Bangladesh
+Education,2016,2.221199955,BGD,% of GDP,Bangladesh
+Education,2017,2.216619551,BGD,% of GDP,Bangladesh
+Education,2018,1.947955457,BGD,% of GDP,Bangladesh
+Education,2019,1.97184662,BGD,% of GDP,Bangladesh
+Education,2020,2.049217564,BGD,% of GDP,Bangladesh
+Education,2021,2.119385001,BGD,% of GDP,Bangladesh
+Education,2001,3.384239912,BGR,% of GDP,Bulgaria
+Education,2002,3.386080027,BGR,% of GDP,Bulgaria
+Education,2003,3.998450041,BGR,% of GDP,Bulgaria
+Education,2004,2.319950104,BGR,% of GDP,Bulgaria
+Education,2005,4.108799934,BGR,% of GDP,Bulgaria
+Education,2006,3.903460026,BGR,% of GDP,Bulgaria
+Education,2007,3.682640076,BGR,% of GDP,Bulgaria
+Education,2008,4.222380161,BGR,% of GDP,Bulgaria
+Education,2009,4.274290085,BGR,% of GDP,Bulgaria
+Education,2010,3.857969999,BGR,% of GDP,Bulgaria
+Education,2011,3.546979904,BGR,% of GDP,Bulgaria
+Education,2012,3.476370096,BGR,% of GDP,Bulgaria
+Education,2013,4.058229923,BGR,% of GDP,Bulgaria
+Education,2014,4.082929279,BGR,% of GDP,Bulgaria
+Education,2015,3.921794893,BGR,% of GDP,Bulgaria
+Education,2016,3.403310123,BGR,% of GDP,Bulgaria
+Education,2017,4.075270176,BGR,% of GDP,Bulgaria
+Education,2018,4.045300007,BGR,% of GDP,Bulgaria
+Education,2019,4.197179794,BGR,% of GDP,Bulgaria
+Education,2020,4.04,BGR,% of GDP,Bulgaria
+Education,2005,3.329999924,BHR,% of GDP,Bahrain
+Education,2006,2.874409914,BHR,% of GDP,Bahrain
+Education,2007,2.575000048,BHR,% of GDP,Bahrain
+Education,2008,2.496779919,BHR,% of GDP,Bahrain
+Education,2009,3.339999914,BHR,% of GDP,Bahrain
+Education,2010,3.190000057,BHR,% of GDP,Bahrain
+Education,2011,3.029999971,BHR,% of GDP,Bahrain
+Education,2012,2.645309925,BHR,% of GDP,Bahrain
+Education,2013,2.476890087,BHR,% of GDP,Bahrain
+Education,2014,2.467459917,BHR,% of GDP,Bahrain
+Education,2015,2.674540043,BHR,% of GDP,Bahrain
+Education,2016,2.869999886,BHR,% of GDP,Bahrain
+Education,2017,2.324520111,BHR,% of GDP,Bahrain
+Education,2018,2.36661005,BHR,% of GDP,Bahrain
+Education,2019,2.094909906,BHR,% of GDP,Bahrain
+Education,2020,2.152050018,BHR,% of GDP,Bahrain
+Education,2000,2.232840061,BHS,% of GDP,Bahamas
+Education,2005,2.289999962,BHS,% of GDP,Bahamas
+Education,2007,2.730000019,BHS,% of GDP,Bahamas
+Education,2008,2.890000105,BHS,% of GDP,Bahamas
+Education,2009,2.920000076,BHS,% of GDP,Bahamas
+Education,2010,2.779999971,BHS,% of GDP,Bahamas
+Education,2011,2.660000086,BHS,% of GDP,Bahamas
+Education,2012,2.609999895,BHS,% of GDP,Bahamas
+Education,2013,2.720000029,BHS,% of GDP,Bahamas
+Education,2014,2.5,BHS,% of GDP,Bahamas
+Education,2015,2.249900103,BHS,% of GDP,Bahamas
+Education,2016,2.331180096,BHS,% of GDP,Bahamas
+Education,2017,2.422770023,BHS,% of GDP,Bahamas
+Education,2018,2.249670029,BHS,% of GDP,Bahamas
+Education,2019,2.288419962,BHS,% of GDP,Bahamas
+Education,2020,2.371340036,BHS,% of GDP,Bahamas
+Education,2021,2.782219887,BHS,% of GDP,Bahamas
+Education,2000,6.196619987,BLR,% of GDP,Belarus
+Education,2004,5.712259769,BLR,% of GDP,Belarus
+Education,2005,5.871029854,BLR,% of GDP,Belarus
+Education,2006,6.076960087,BLR,% of GDP,Belarus
+Education,2007,5.152100086,BLR,% of GDP,Belarus
+Education,2009,4.368939877,BLR,% of GDP,Belarus
+Education,2010,5.220039845,BLR,% of GDP,Belarus
+Education,2011,4.684790134,BLR,% of GDP,Belarus
+Education,2012,4.959640026,BLR,% of GDP,Belarus
+Education,2013,5.009419918,BLR,% of GDP,Belarus
+Education,2014,4.818309784,BLR,% of GDP,Belarus
+Education,2015,4.787519932,BLR,% of GDP,Belarus
+Education,2016,4.946549892,BLR,% of GDP,Belarus
+Education,2017,4.794990063,BLR,% of GDP,Belarus
+Education,2018,5.381110191,BLR,% of GDP,Belarus
+Education,2019,4.97947979,BLR,% of GDP,Belarus
+Education,2020,4.952449799,BLR,% of GDP,Belarus
+Education,2021,4.705530167,BLR,% of GDP,Belarus
+Education,2000,5.028429985,BLZ,% of GDP,Belize
+Education,2001,5.796929836,BLZ,% of GDP,Belize
+Education,2003,5.248209953,BLZ,% of GDP,Belize
+Education,2004,5.33589983,BLZ,% of GDP,Belize
+Education,2008,5.772630215,BLZ,% of GDP,Belize
+Education,2009,6.178170204,BLZ,% of GDP,Belize
+Education,2010,6.719759941,BLZ,% of GDP,Belize
+Education,2013,6.425370216,BLZ,% of GDP,Belize
+Education,2014,6.614689827,BLZ,% of GDP,Belize
+Education,2015,6.870150089,BLZ,% of GDP,Belize
+Education,2016,7.29365015,BLZ,% of GDP,Belize
+Education,2017,7.45028019,BLZ,% of GDP,Belize
+Education,2018,7.472270012,BLZ,% of GDP,Belize
+Education,2019,7.138390064,BLZ,% of GDP,Belize
+Education,2020,7.528779984,BLZ,% of GDP,Belize
+Education,2021,8.707010269,BLZ,% of GDP,Belize
+Education,2010,7.809999943,BOL,% of GDP,Bolivia
+Education,2011,7.070000172,BOL,% of GDP,Bolivia
+Education,2012,7.900000095,BOL,% of GDP,Bolivia
+Education,2013,7.579999924,BOL,% of GDP,Bolivia
+Education,2014,8.260000229,BOL,% of GDP,Bolivia
+Education,2015,8.93999958,BOL,% of GDP,Bolivia
+Education,2016,8.850000381,BOL,% of GDP,Bolivia
+Education,2017,8.659999847,BOL,% of GDP,Bolivia
+Education,2018,8.899999619,BOL,% of GDP,Bolivia
+Education,2019,7.672689999,BOL,% of GDP,Bolivia
+Education,2020,9.837454856,BOL,% of GDP,Bolivia
+Education,2000,3.948930025,BRA,% of GDP,Brazil
+Education,2001,3.844680071,BRA,% of GDP,Brazil
+Education,2002,3.750370026,BRA,% of GDP,Brazil
+Education,2004,3.974479914,BRA,% of GDP,Brazil
+Education,2005,4.4790802,BRA,% of GDP,Brazil
+Education,2006,4.870600224,BRA,% of GDP,Brazil
+Education,2007,4.974259853,BRA,% of GDP,Brazil
+Education,2008,5.268839836,BRA,% of GDP,Brazil
+Education,2009,5.463550091,BRA,% of GDP,Brazil
+Education,2010,5.648799896,BRA,% of GDP,Brazil
+Education,2011,5.737410069,BRA,% of GDP,Brazil
+Education,2012,5.855100155,BRA,% of GDP,Brazil
+Education,2013,5.838850021,BRA,% of GDP,Brazil
+Education,2014,5.948480129,BRA,% of GDP,Brazil
+Education,2015,6.24105978,BRA,% of GDP,Brazil
+Education,2016,6.314040184,BRA,% of GDP,Brazil
+Education,2017,6.32047987,BRA,% of GDP,Brazil
+Education,2018,6.088510036,BRA,% of GDP,Brazil
+Education,2019,5.963469982,BRA,% of GDP,Brazil
+Education,2000,4.71585989,BRB,% of GDP,Barbados
+Education,2001,6.055369854,BRB,% of GDP,Barbados
+Education,2002,5.880620003,BRB,% of GDP,Barbados
+Education,2003,6.245699883,BRB,% of GDP,Barbados
+Education,2004,6.024280071,BRB,% of GDP,Barbados
+Education,2005,5.669650078,BRB,% of GDP,Barbados
+Education,2007,5.220389843,BRB,% of GDP,Barbados
+Education,2008,4.922599792,BRB,% of GDP,Barbados
+Education,2009,5.116179943,BRB,% of GDP,Barbados
+Education,2010,6.054399967,BRB,% of GDP,Barbados
+Education,2012,5.262740135,BRB,% of GDP,Barbados
+Education,2013,5.148990154,BRB,% of GDP,Barbados
+Education,2014,6.143499851,BRB,% of GDP,Barbados
+Education,2015,5.382919788,BRB,% of GDP,Barbados
+Education,2016,4.707320213,BRB,% of GDP,Barbados
+Education,2017,4.366380215,BRB,% of GDP,Barbados
+Education,2018,5.428860188,BRB,% of GDP,Barbados
+Education,2019,3.203989983,BRB,% of GDP,Barbados
+Education,2020,3.05817008,BRB,% of GDP,Barbados
+Education,2021,6.453619957,BRB,% of GDP,Barbados
+Education,2000,5.786759853,BTN,% of GDP,Bhutan
+Education,2001,5.91573,BTN,% of GDP,Bhutan
+Education,2004,6.609069824,BTN,% of GDP,Bhutan
+Education,2005,7.287149906,BTN,% of GDP,Bhutan
+Education,2008,4.911590099,BTN,% of GDP,Bhutan
+Education,2009,4.741740227,BTN,% of GDP,Bhutan
+Education,2010,4.12473011,BTN,% of GDP,Bhutan
+Education,2011,4.765230179,BTN,% of GDP,Bhutan
+Education,2012,7.773543685,BTN,% of GDP,Bhutan
+Education,2013,5.722750187,BTN,% of GDP,Bhutan
+Education,2014,6.04489994,BTN,% of GDP,Bhutan
+Education,2015,6.273189581,BTN,% of GDP,Bhutan
+Education,2016,6.993332339,BTN,% of GDP,Bhutan
+Education,2017,7.39539837,BTN,% of GDP,Bhutan
+Education,2018,6.801033667,BTN,% of GDP,Bhutan
+Education,2019,5.675445621,BTN,% of GDP,Bhutan
+Education,2020,5.901417908,BTN,% of GDP,Bhutan
+Education,2021,7.003523707,BTN,% of GDP,Bhutan
+Education,2005,10.67858982,BWA,% of GDP,Botswana
+Education,2007,8.851490021,BWA,% of GDP,Botswana
+Education,2009,9.632920265,BWA,% of GDP,Botswana
+Education,2015,7.806509972,BWA,% of GDP,Botswana
+Education,2016,7.974830151,BWA,% of GDP,Botswana
+Education,2017,7.299749851,BWA,% of GDP,Botswana
+Education,2018,6.721310139,BWA,% of GDP,Botswana
+Education,2019,6.91437006,BWA,% of GDP,Botswana
+Education,2020,8.739999771,BWA,% of GDP,Botswana
+Education,2000,1.612650037,CAF,% of GDP,Central African Republic
+Education,2002,1.519569993,CAF,% of GDP,Central African Republic
+Education,2003,1.539800048,CAF,% of GDP,Central African Republic
+Education,2004,1.624529958,CAF,% of GDP,Central African Republic
+Education,2005,1.652220011,CAF,% of GDP,Central African Republic
+Education,2006,1.415060043,CAF,% of GDP,Central African Republic
+Education,2007,1.313320041,CAF,% of GDP,Central African Republic
+Education,2008,1.290009975,CAF,% of GDP,Central African Republic
+Education,2009,1.254580021,CAF,% of GDP,Central African Republic
+Education,2010,1.117609978,CAF,% of GDP,Central African Republic
+Education,2011,1.107920051,CAF,% of GDP,Central African Republic
+Education,2012,1.980350018,CAF,% of GDP,Central African Republic
+Education,2013,2.638210058,CAF,% of GDP,Central African Republic
+Education,2014,2.220149994,CAF,% of GDP,Central African Republic
+Education,2015,1.910230041,CAF,% of GDP,Central African Republic
+Education,2016,1.754089952,CAF,% of GDP,Central African Republic
+Education,2017,1.75364995,CAF,% of GDP,Central African Republic
+Education,2018,1.565879941,CAF,% of GDP,Central African Republic
+Education,2019,1.768710017,CAF,% of GDP,Central African Republic
+Education,2020,2.166699886,CAF,% of GDP,Central African Republic
+Education,2000,5.423319817,CAN,% of GDP,Canada
+Education,2001,4.953030109,CAN,% of GDP,Canada
+Education,2002,4.993080139,CAN,% of GDP,Canada
+Education,2005,4.765880108,CAN,% of GDP,Canada
+Education,2007,4.766409874,CAN,% of GDP,Canada
+Education,2008,4.62612009,CAN,% of GDP,Canada
+Education,2009,4.840579987,CAN,% of GDP,Canada
+Education,2010,5.356369972,CAN,% of GDP,Canada
+Education,2011,5.262050152,CAN,% of GDP,Canada
+Education,2012,4.692587187,CAN,% of GDP,Canada
+Education,2013,4.589009762,CAN,% of GDP,Canada
+Education,2014,4.843589783,CAN,% of GDP,Canada
+Education,2015,4.739379883,CAN,% of GDP,Canada
+Education,2016,4.816420078,CAN,% of GDP,Canada
+Education,2017,4.959969997,CAN,% of GDP,Canada
+Education,2018,4.888979912,CAN,% of GDP,Canada
+Education,2019,4.772930145,CAN,% of GDP,Canada
+Education,2020,5.17,CAN,% of GDP,Canada
+Education,2000,4.648369789,CHE,% of GDP,Switzerland
+Education,2001,4.81137991,CHE,% of GDP,Switzerland
+Education,2002,5.164219856,CHE,% of GDP,Switzerland
+Education,2003,5.36935997,CHE,% of GDP,Switzerland
+Education,2004,5.293079853,CHE,% of GDP,Switzerland
+Education,2005,5.057400227,CHE,% of GDP,Switzerland
+Education,2006,4.81757021,CHE,% of GDP,Switzerland
+Education,2007,4.557980061,CHE,% of GDP,Switzerland
+Education,2008,4.731929779,CHE,% of GDP,Switzerland
+Education,2009,4.89041996,CHE,% of GDP,Switzerland
+Education,2010,4.765629768,CHE,% of GDP,Switzerland
+Education,2011,4.815269947,CHE,% of GDP,Switzerland
+Education,2012,4.8583498,CHE,% of GDP,Switzerland
+Education,2013,4.869029999,CHE,% of GDP,Switzerland
+Education,2014,4.877799988,CHE,% of GDP,Switzerland
+Education,2015,4.93844986,CHE,% of GDP,Switzerland
+Education,2016,4.926459789,CHE,% of GDP,Switzerland
+Education,2017,4.951570034,CHE,% of GDP,Switzerland
+Education,2018,4.863259792,CHE,% of GDP,Switzerland
+Education,2019,5.093264241,CHE,% of GDP,Switzerland
+Education,2020,5.22,CHE,% of GDP,Switzerland
+Education,2000,3.77583003,CHL,% of GDP,Chile
+Education,2002,4.081210136,CHL,% of GDP,Chile
+Education,2003,3.963459969,CHL,% of GDP,Chile
+Education,2004,3.538389921,CHL,% of GDP,Chile
+Education,2005,3.262830019,CHL,% of GDP,Chile
+Education,2006,3.021529913,CHL,% of GDP,Chile
+Education,2007,3.21378994,CHL,% of GDP,Chile
+Education,2008,3.792429924,CHL,% of GDP,Chile
+Education,2009,4.230649948,CHL,% of GDP,Chile
+Education,2010,4.162089825,CHL,% of GDP,Chile
+Education,2011,4.045189857,CHL,% of GDP,Chile
+Education,2012,4.541704178,CHL,% of GDP,Chile
+Education,2013,4.529429913,CHL,% of GDP,Chile
+Education,2014,4.730949879,CHL,% of GDP,Chile
+Education,2015,4.875309944,CHL,% of GDP,Chile
+Education,2016,5.342010021,CHL,% of GDP,Chile
+Education,2017,5.419660091,CHL,% of GDP,Chile
+Education,2018,5.433169842,CHL,% of GDP,Chile
+Education,2019,5.618120193,CHL,% of GDP,Chile
+Education,2005,2.390000105,CHN,% of GDP,China
+Education,2006,2.440000057,CHN,% of GDP,China
+Education,2007,2.700000048,CHN,% of GDP,China
+Education,2008,3.630000114,CHN,% of GDP,China
+Education,2009,3.75,CHN,% of GDP,China
+Education,2010,3.75,CHN,% of GDP,China
+Education,2011,3.52196002,CHN,% of GDP,China
+Education,2012,4.077429771,CHN,% of GDP,China
+Education,2013,3.852509975,CHN,% of GDP,China
+Education,2014,3.726639986,CHN,% of GDP,China
+Education,2015,3.82487011,CHN,% of GDP,China
+Education,2016,3.79362011,CHN,% of GDP,China
+Education,2017,3.667449951,CHN,% of GDP,China
+Education,2018,3.542490005,CHN,% of GDP,China
+Education,2019,3.539999962,CHN,% of GDP,China
+Education,2020,3.569999933,CHN,% of GDP,China
+Education,2000,2.40031004,CIV,% of GDP,Cote d'Ivoire
+Education,2001,2.444770098,CIV,% of GDP,Cote d'Ivoire
+Education,2002,2.810480118,CIV,% of GDP,Cote d'Ivoire
+Education,2003,2.864370108,CIV,% of GDP,Cote d'Ivoire
+Education,2004,2.911760092,CIV,% of GDP,Cote d'Ivoire
+Education,2005,2.919440031,CIV,% of GDP,Cote d'Ivoire
+Education,2006,2.819999933,CIV,% of GDP,Cote d'Ivoire
+Education,2007,3.016139984,CIV,% of GDP,Cote d'Ivoire
+Education,2008,3.098530054,CIV,% of GDP,Cote d'Ivoire
+Education,2009,3.173939943,CIV,% of GDP,Cote d'Ivoire
+Education,2010,3.246510029,CIV,% of GDP,Cote d'Ivoire
+Education,2011,2.865760088,CIV,% of GDP,Cote d'Ivoire
+Education,2012,3.434469938,CIV,% of GDP,Cote d'Ivoire
+Education,2013,3.458600044,CIV,% of GDP,Cote d'Ivoire
+Education,2014,3.314169884,CIV,% of GDP,Cote d'Ivoire
+Education,2015,3.494159937,CIV,% of GDP,Cote d'Ivoire
+Education,2016,3.97232008,CIV,% of GDP,Cote d'Ivoire
+Education,2017,3.80347991,CIV,% of GDP,Cote d'Ivoire
+Education,2018,3.239939928,CIV,% of GDP,Cote d'Ivoire
+Education,2019,3.716379881,CIV,% of GDP,Cote d'Ivoire
+Education,2020,3.443020105,CIV,% of GDP,Cote d'Ivoire
+Education,2000,1.702849984,CMR,% of GDP,Cameroon
+Education,2001,2.297339916,CMR,% of GDP,Cameroon
+Education,2003,2.822590113,CMR,% of GDP,Cameroon
+Education,2004,2.795300007,CMR,% of GDP,Cameroon
+Education,2005,2.65651989,CMR,% of GDP,Cameroon
+Education,2006,2.539910078,CMR,% of GDP,Cameroon
+Education,2007,2.87816,CMR,% of GDP,Cameroon
+Education,2008,2.498270035,CMR,% of GDP,Cameroon
+Education,2009,2.907900095,CMR,% of GDP,Cameroon
+Education,2010,2.84803009,CMR,% of GDP,Cameroon
+Education,2011,2.653369904,CMR,% of GDP,Cameroon
+Education,2012,2.603060007,CMR,% of GDP,Cameroon
+Education,2013,2.655479908,CMR,% of GDP,Cameroon
+Education,2014,2.583960056,CMR,% of GDP,Cameroon
+Education,2015,2.657919884,CMR,% of GDP,Cameroon
+Education,2016,2.562340021,CMR,% of GDP,Cameroon
+Education,2017,3.059629917,CMR,% of GDP,Cameroon
+Education,2018,3.030960083,CMR,% of GDP,Cameroon
+Education,2019,3.080879927,CMR,% of GDP,Cameroon
+Education,2020,3.166160107,CMR,% of GDP,Cameroon
+Education,2010,1.524979949,COD,% of GDP,DR Congo
+Education,2013,2.062210083,COD,% of GDP,DR Congo
+Education,2014,1.951429963,COD,% of GDP,DR Congo
+Education,2015,2.170439959,COD,% of GDP,DR Congo
+Education,2016,2.118690014,COD,% of GDP,DR Congo
+Education,2017,1.454949975,COD,% of GDP,DR Congo
+Education,2020,2.450000048,COD,% of GDP,DR Congo
+Education,2021,2.700000048,COD,% of GDP,DR Congo
+Education,2002,3.208319902,COG,% of GDP,Congo Republic
+Education,2003,2.836159945,COG,% of GDP,Congo Republic
+Education,2004,2.288130045,COG,% of GDP,Congo Republic
+Education,2005,1.681020021,COG,% of GDP,Congo Republic
+Education,2010,5.686729908,COG,% of GDP,Congo Republic
+Education,2012,2.739229918,COG,% of GDP,Congo Republic
+Education,2013,5.013879776,COG,% of GDP,Congo Republic
+Education,2014,3.183710098,COG,% of GDP,Congo Republic
+Education,2015,3.282579899,COG,% of GDP,Congo Republic
+Education,2016,5.239999771,COG,% of GDP,Congo Republic
+Education,2017,4.450520039,COG,% of GDP,Congo Republic
+Education,2018,2.995480061,COG,% of GDP,Congo Republic
+Education,2019,3.5753901,COG,% of GDP,Congo Republic
+Education,2020,4.448619843,COG,% of GDP,Congo Republic
+Education,2002,2.258419991,COM,% of GDP,Comoros
+Education,2008,4.42264986,COM,% of GDP,Comoros
+Education,2011,2.830450058,COM,% of GDP,Comoros
+Education,2012,2.747839928,COM,% of GDP,Comoros
+Education,2013,2.382760048,COM,% of GDP,Comoros
+Education,2014,2.744729996,COM,% of GDP,Comoros
+Education,2015,2.545059919,COM,% of GDP,Comoros
+Education,2002,7.876820087,CPV,% of GDP,Cabo Verde
+Education,2004,7.476640224,CPV,% of GDP,Cabo Verde
+Education,2006,6.529600143,CPV,% of GDP,Cabo Verde
+Education,2007,5.407549858,CPV,% of GDP,Cabo Verde
+Education,2008,5.518000126,CPV,% of GDP,Cabo Verde
+Education,2009,5.308959961,CPV,% of GDP,Cabo Verde
+Education,2010,5.567289829,CPV,% of GDP,Cabo Verde
+Education,2011,5.043610096,CPV,% of GDP,Cabo Verde
+Education,2012,5.068395127,CPV,% of GDP,Cabo Verde
+Education,2013,5.001440048,CPV,% of GDP,Cabo Verde
+Education,2014,4.963870049,CPV,% of GDP,Cabo Verde
+Education,2015,5.266910076,CPV,% of GDP,Cabo Verde
+Education,2016,5.288790226,CPV,% of GDP,Cabo Verde
+Education,2017,5.181749821,CPV,% of GDP,Cabo Verde
+Education,2018,5.368850231,CPV,% of GDP,Cabo Verde
+Education,2019,4.733459949,CPV,% of GDP,Cabo Verde
+Education,2020,7.58479023,CPV,% of GDP,Cabo Verde
+Education,2000,4.666950226,CRI,% of GDP,Costa Rica
+Education,2001,4.832029819,CRI,% of GDP,Costa Rica
+Education,2002,5.150440216,CRI,% of GDP,Costa Rica
+Education,2003,5.133739948,CRI,% of GDP,Costa Rica
+Education,2004,4.890629768,CRI,% of GDP,Costa Rica
+Education,2006,4.616139889,CRI,% of GDP,Costa Rica
+Education,2007,4.63451004,CRI,% of GDP,Costa Rica
+Education,2008,4.886970043,CRI,% of GDP,Costa Rica
+Education,2009,6.010300159,CRI,% of GDP,Costa Rica
+Education,2010,6.565740108,CRI,% of GDP,Costa Rica
+Education,2011,6.379889965,CRI,% of GDP,Costa Rica
+Education,2012,6.582399845,CRI,% of GDP,Costa Rica
+Education,2013,6.687399864,CRI,% of GDP,Costa Rica
+Education,2014,6.67952013,CRI,% of GDP,Costa Rica
+Education,2015,6.87349987,CRI,% of GDP,Costa Rica
+Education,2016,6.893959999,CRI,% of GDP,Costa Rica
+Education,2017,7.069809914,CRI,% of GDP,Costa Rica
+Education,2018,6.769919872,CRI,% of GDP,Costa Rica
+Education,2019,6.7958498,CRI,% of GDP,Costa Rica
+Education,2020,6.710669994,CRI,% of GDP,Costa Rica
+Education,2000,4.9895401,CYP,% of GDP,Cyprus
+Education,2001,5.11552,CYP,% of GDP,Cyprus
+Education,2002,5.581669807,CYP,% of GDP,Cyprus
+Education,2003,6.670229912,CYP,% of GDP,Cyprus
+Education,2004,6.117720127,CYP,% of GDP,Cyprus
+Education,2005,6.286670208,CYP,% of GDP,Cyprus
+Education,2006,6.330269814,CYP,% of GDP,Cyprus
+Education,2007,6.280829906,CYP,% of GDP,Cyprus
+Education,2008,6.722760201,CYP,% of GDP,Cyprus
+Education,2009,7.205450058,CYP,% of GDP,Cyprus
+Education,2010,6.54279995,CYP,% of GDP,Cyprus
+Education,2011,6.538539886,CYP,% of GDP,Cyprus
+Education,2012,5.911854572,CYP,% of GDP,Cyprus
+Education,2013,6.483779907,CYP,% of GDP,Cyprus
+Education,2014,6.440499783,CYP,% of GDP,Cyprus
+Education,2015,6.326129913,CYP,% of GDP,Cyprus
+Education,2016,6.145410061,CYP,% of GDP,Cyprus
+Education,2017,5.718530178,CYP,% of GDP,Cyprus
+Education,2018,5.152854129,CYP,% of GDP,Cyprus
+Education,2019,5.250639915,CYP,% of GDP,Cyprus
+Education,2020,6.06,CYP,% of GDP,Cyprus
+Education,2000,3.64034009,CZE,% of GDP,Czech Republic
+Education,2001,3.732830048,CZE,% of GDP,Czech Republic
+Education,2002,3.95878005,CZE,% of GDP,Czech Republic
+Education,2003,4.117280006,CZE,% of GDP,Czech Republic
+Education,2004,3.992389917,CZE,% of GDP,Czech Republic
+Education,2005,3.865910053,CZE,% of GDP,Czech Republic
+Education,2006,4.195509911,CZE,% of GDP,Czech Republic
+Education,2007,3.84717989,CZE,% of GDP,Czech Republic
+Education,2008,3.727190018,CZE,% of GDP,Czech Republic
+Education,2009,4.14605999,CZE,% of GDP,Czech Republic
+Education,2010,4.033500195,CZE,% of GDP,Czech Republic
+Education,2011,4.242090225,CZE,% of GDP,Czech Republic
+Education,2012,4.220709801,CZE,% of GDP,Czech Republic
+Education,2013,4.046760082,CZE,% of GDP,Czech Republic
+Education,2014,3.965229988,CZE,% of GDP,Czech Republic
+Education,2015,5.751820087,CZE,% of GDP,Czech Republic
+Education,2016,5.553730011,CZE,% of GDP,Czech Republic
+Education,2017,3.806159973,CZE,% of GDP,Czech Republic
+Education,2018,4.26692009,CZE,% of GDP,Czech Republic
+Education,2019,4.543379784,CZE,% of GDP,Czech Republic
+Education,2020,5.08,CZE,% of GDP,Czech Republic
+Education,2006,4.293960094,DEU,% of GDP,Germany
+Education,2007,4.366799831,DEU,% of GDP,Germany
+Education,2008,4.435949802,DEU,% of GDP,Germany
+Education,2009,4.909510136,DEU,% of GDP,Germany
+Education,2010,4.94367981,DEU,% of GDP,Germany
+Education,2011,4.82487011,DEU,% of GDP,Germany
+Education,2012,4.956580162,DEU,% of GDP,Germany
+Education,2013,4.935389996,DEU,% of GDP,Germany
+Education,2014,4.921020031,DEU,% of GDP,Germany
+Education,2015,4.855150223,DEU,% of GDP,Germany
+Education,2016,4.839230061,DEU,% of GDP,Germany
+Education,2017,4.871829987,DEU,% of GDP,Germany
+Education,2018,4.975769997,DEU,% of GDP,Germany
+Education,2019,5.116640091,DEU,% of GDP,Germany
+Education,2020,4.66,DEU,% of GDP,Germany
+Education,2000,9.659999847,DJI,% of GDP,Djibouti
+Education,2001,7.805429935,DJI,% of GDP,Djibouti
+Education,2002,8.447600365,DJI,% of GDP,Djibouti
+Education,2003,8.889849663,DJI,% of GDP,Djibouti
+Education,2004,9.264670372,DJI,% of GDP,Djibouti
+Education,2005,8.365889549,DJI,% of GDP,Djibouti
+Education,2006,8.278779984,DJI,% of GDP,Djibouti
+Education,2007,8.40625,DJI,% of GDP,Djibouti
+Education,2010,4.49022007,DJI,% of GDP,Djibouti
+Education,2012,6.351275518,DJI,% of GDP,Djibouti
+Education,2013,4.647825331,DJI,% of GDP,Djibouti
+Education,2014,4.384075213,DJI,% of GDP,Djibouti
+Education,2015,3.590240002,DJI,% of GDP,Djibouti
+Education,2016,3.924390078,DJI,% of GDP,Djibouti
+Education,2017,3.748559952,DJI,% of GDP,Djibouti
+Education,2018,3.627739906,DJI,% of GDP,Djibouti
+Education,2015,3.408580065,DMA,% of GDP,Dominica
+Education,2016,5.129720211,DMA,% of GDP,Dominica
+Education,2017,4.766749859,DMA,% of GDP,Dominica
+Education,2018,5.571549892,DMA,% of GDP,Dominica
+Education,2019,5.576189995,DMA,% of GDP,Dominica
+Education,2020,4.69630003,DMA,% of GDP,Dominica
+Education,2021,5.465845098,DMA,% of GDP,Dominica
+Education,2000,8.084340096,DNK,% of GDP,Denmark
+Education,2001,8.215450287,DNK,% of GDP,Denmark
+Education,2002,8.213029861,DNK,% of GDP,Denmark
+Education,2003,8.121930122,DNK,% of GDP,Denmark
+Education,2004,8.207630157,DNK,% of GDP,Denmark
+Education,2005,8.085570335,DNK,% of GDP,Denmark
+Education,2006,7.729909897,DNK,% of GDP,Denmark
+Education,2007,7.615600109,DNK,% of GDP,Denmark
+Education,2008,7.4760499,DNK,% of GDP,Denmark
+Education,2009,8.448880196,DNK,% of GDP,Denmark
+Education,2010,8.559550285,DNK,% of GDP,Denmark
+Education,2011,8.48486042,DNK,% of GDP,Denmark
+Education,2012,7.237820148,DNK,% of GDP,Denmark
+Education,2013,8.494429588,DNK,% of GDP,Denmark
+Education,2014,7.634850025,DNK,% of GDP,Denmark
+Education,2015,7.010414682,DNK,% of GDP,Denmark
+Education,2016,7.476940155,DNK,% of GDP,Denmark
+Education,2017,7.752439976,DNK,% of GDP,Denmark
+Education,2018,6.792779922,DNK,% of GDP,Denmark
+Education,2019,6.888579845,DNK,% of GDP,Denmark
+Education,2020,6.38,DNK,% of GDP,Denmark
+Education,2000,1.888290048,DOM,% of GDP,Dominican Republic
+Education,2001,1.967829943,DOM,% of GDP,Dominican Republic
+Education,2002,1.914010048,DOM,% of GDP,Dominican Republic
+Education,2003,1.84465003,DOM,% of GDP,Dominican Republic
+Education,2007,2.046789885,DOM,% of GDP,Dominican Republic
+Education,2010,1.900460005,DOM,% of GDP,Dominican Republic
+Education,2011,1.900239944,DOM,% of GDP,Dominican Republic
+Education,2012,2.49751997,DOM,% of GDP,Dominican Republic
+Education,2013,3.480540037,DOM,% of GDP,Dominican Republic
+Education,2014,3.963769913,DOM,% of GDP,Dominican Republic
+Education,2015,3.816240072,DOM,% of GDP,Dominican Republic
+Education,2016,3.850500107,DOM,% of GDP,Dominican Republic
+Education,2017,3.920269966,DOM,% of GDP,Dominican Republic
+Education,2018,3.928489923,DOM,% of GDP,Dominican Republic
+Education,2019,4.042769909,DOM,% of GDP,Dominican Republic
+Education,2020,4.618700027,DOM,% of GDP,Dominican Republic
+Education,2006,4.619999886,DZA,% of GDP,Algeria
+Education,2007,4.960000038,DZA,% of GDP,Algeria
+Education,2008,4.33701992,DZA,% of GDP,Algeria
+Education,2009,6.03000021,DZA,% of GDP,Algeria
+Education,2012,7.637596879,DZA,% of GDP,Algeria
+Education,2013,7.292296557,DZA,% of GDP,Algeria
+Education,2014,7.318700634,DZA,% of GDP,Algeria
+Education,2015,7.96296761,DZA,% of GDP,Algeria
+Education,2016,7.344359875,DZA,% of GDP,Algeria
+Education,2017,6.505380154,DZA,% of GDP,Algeria
+Education,2018,5.866350174,DZA,% of GDP,Algeria
+Education,2019,6.100359917,DZA,% of GDP,Algeria
+Education,2020,7.042397453,DZA,% of GDP,Algeria
+Education,2000,1.150930047,ECU,% of GDP,Ecuador
+Education,2009,4.342420101,ECU,% of GDP,Ecuador
+Education,2010,4.507430077,ECU,% of GDP,Ecuador
+Education,2011,4.726890087,ECU,% of GDP,Ecuador
+Education,2012,4.643070221,ECU,% of GDP,Ecuador
+Education,2013,5.004640102,ECU,% of GDP,Ecuador
+Education,2014,5.260990143,ECU,% of GDP,Ecuador
+Education,2015,4.998700142,ECU,% of GDP,Ecuador
+Education,2016,4.362750053,ECU,% of GDP,Ecuador
+Education,2017,4.614260197,ECU,% of GDP,Ecuador
+Education,2018,4.621459961,ECU,% of GDP,Ecuador
+Education,2019,4.225659847,ECU,% of GDP,Ecuador
+Education,2020,4.134130001,ECU,% of GDP,Ecuador
+Education,2021,3.691380024,ECU,% of GDP,Ecuador
+Education,2003,4.945630074,EGY,% of GDP,Egypt
+Education,2004,4.6707201,EGY,% of GDP,Egypt
+Education,2005,4.794429779,EGY,% of GDP,Egypt
+Education,2006,4.001780033,EGY,% of GDP,Egypt
+Education,2007,3.68460989,EGY,% of GDP,Egypt
+Education,2008,3.760829926,EGY,% of GDP,Egypt
+Education,2010,3.542649984,EGY,% of GDP,Egypt
+Education,2011,3.344300032,EGY,% of GDP,Egypt
+Education,2012,3.368299961,EGY,% of GDP,Egypt
+Education,2013,4.122529984,EGY,% of GDP,Egypt
+Education,2014,4.25138998,EGY,% of GDP,Egypt
+Education,2015,3.930850029,EGY,% of GDP,Egypt
+Education,2016,4.050000191,EGY,% of GDP,Egypt
+Education,2019,2.609999895,EGY,% of GDP,Egypt
+Education,2020,2.480000019,EGY,% of GDP,Egypt
+Education,2001,4.047160149,ERI,% of GDP,Eritrea
+Education,2002,3.523900032,ERI,% of GDP,Eritrea
+Education,2004,3.148969889,ERI,% of GDP,Eritrea
+Education,2006,2.127000093,ERI,% of GDP,Eritrea
+Education,2000,4.166049957,ESP,% of GDP,Spain
+Education,2001,4.111269951,ESP,% of GDP,Spain
+Education,2002,4.134570122,ESP,% of GDP,Spain
+Education,2003,4.173429966,ESP,% of GDP,Spain
+Education,2004,4.157859802,ESP,% of GDP,Spain
+Education,2005,4.144320011,ESP,% of GDP,Spain
+Education,2006,4.184820175,ESP,% of GDP,Spain
+Education,2007,4.254049778,ESP,% of GDP,Spain
+Education,2008,4.528059959,ESP,% of GDP,Spain
+Education,2009,4.912000179,ESP,% of GDP,Spain
+Education,2010,4.856080055,ESP,% of GDP,Spain
+Education,2011,4.896920204,ESP,% of GDP,Spain
+Education,2012,4.469339848,ESP,% of GDP,Spain
+Education,2013,4.351019859,ESP,% of GDP,Spain
+Education,2014,4.303380013,ESP,% of GDP,Spain
+Education,2015,4.286570072,ESP,% of GDP,Spain
+Education,2016,4.227640152,ESP,% of GDP,Spain
+Education,2017,4.207779884,ESP,% of GDP,Spain
+Education,2018,4.181570053,ESP,% of GDP,Spain
+Education,2019,4.234089851,ESP,% of GDP,Spain
+Education,2020,4.59,ESP,% of GDP,Spain
+Education,2000,5.339459896,EST,% of GDP,Estonia
+Education,2001,5.228459835,EST,% of GDP,Estonia
+Education,2002,5.43460989,EST,% of GDP,Estonia
+Education,2003,5.273099899,EST,% of GDP,Estonia
+Education,2004,4.876749992,EST,% of GDP,Estonia
+Education,2005,4.810269833,EST,% of GDP,Estonia
+Education,2007,4.619909763,EST,% of GDP,Estonia
+Education,2008,5.484039783,EST,% of GDP,Estonia
+Education,2009,5.960050106,EST,% of GDP,Estonia
+Education,2010,5.517789841,EST,% of GDP,Estonia
+Education,2011,5.014490128,EST,% of GDP,Estonia
+Education,2012,4.717720032,EST,% of GDP,Estonia
+Education,2013,4.843880177,EST,% of GDP,Estonia
+Education,2014,4.394330025,EST,% of GDP,Estonia
+Education,2015,5.144189835,EST,% of GDP,Estonia
+Education,2016,5.15763998,EST,% of GDP,Estonia
+Education,2017,4.961319923,EST,% of GDP,Estonia
+Education,2018,5.26320982,EST,% of GDP,Estonia
+Education,2019,5.301909924,EST,% of GDP,Estonia
+Education,2020,6.58,EST,% of GDP,Estonia
+Education,2000,3.983109951,ETH,% of GDP,Ethiopia
+Education,2001,3.700289965,ETH,% of GDP,Ethiopia
+Education,2002,3.632450104,ETH,% of GDP,Ethiopia
+Education,2006,5.490960121,ETH,% of GDP,Ethiopia
+Education,2007,5.451129913,ETH,% of GDP,Ethiopia
+Education,2008,5.408199787,ETH,% of GDP,Ethiopia
+Education,2009,4.422070026,ETH,% of GDP,Ethiopia
+Education,2010,4.496590137,ETH,% of GDP,Ethiopia
+Education,2011,5.485760212,ETH,% of GDP,Ethiopia
+Education,2012,5.56678009,ETH,% of GDP,Ethiopia
+Education,2013,4.498549938,ETH,% of GDP,Ethiopia
+Education,2014,4.602019787,ETH,% of GDP,Ethiopia
+Education,2015,4.737919807,ETH,% of GDP,Ethiopia
+Education,2016,5.061510086,ETH,% of GDP,Ethiopia
+Education,2017,5.64951992,ETH,% of GDP,Ethiopia
+Education,2018,5.06867981,ETH,% of GDP,Ethiopia
+Education,2019,4.480869007,ETH,% of GDP,Ethiopia
+Education,2000,5.709300041,FIN,% of GDP,Finland
+Education,2001,5.840250015,FIN,% of GDP,Finland
+Education,2002,6.0167799,FIN,% of GDP,Finland
+Education,2003,6.167439938,FIN,% of GDP,Finland
+Education,2004,6.157579899,FIN,% of GDP,Finland
+Education,2005,6.02507019,FIN,% of GDP,Finland
+Education,2006,5.928380013,FIN,% of GDP,Finland
+Education,2007,5.67125988,FIN,% of GDP,Finland
+Education,2008,5.83010006,FIN,% of GDP,Finland
+Education,2009,6.459559917,FIN,% of GDP,Finland
+Education,2010,6.504449844,FIN,% of GDP,Finland
+Education,2011,6.445049763,FIN,% of GDP,Finland
+Education,2012,7.148039818,FIN,% of GDP,Finland
+Education,2013,7.124040127,FIN,% of GDP,Finland
+Education,2014,7.102369785,FIN,% of GDP,Finland
+Education,2015,7.032080173,FIN,% of GDP,Finland
+Education,2016,6.851530075,FIN,% of GDP,Finland
+Education,2017,6.363110065,FIN,% of GDP,Finland
+Education,2018,6.275420189,FIN,% of GDP,Finland
+Education,2019,6.417109966,FIN,% of GDP,Finland
+Education,2020,5.88,FIN,% of GDP,Finland
+Education,2000,5.877739906,FJI,% of GDP,Fiji
+Education,2001,5.643109798,FJI,% of GDP,Fiji
+Education,2002,6.275869846,FJI,% of GDP,Fiji
+Education,2004,6.209159851,FJI,% of GDP,Fiji
+Education,2005,5.167059898,FJI,% of GDP,Fiji
+Education,2006,5.655320168,FJI,% of GDP,Fiji
+Education,2007,5.894720078,FJI,% of GDP,Fiji
+Education,2008,4.25357008,FJI,% of GDP,Fiji
+Education,2009,4.498479843,FJI,% of GDP,Fiji
+Education,2010,4.824359894,FJI,% of GDP,Fiji
+Education,2011,4.17305994,FJI,% of GDP,Fiji
+Education,2012,4.722650051,FJI,% of GDP,Fiji
+Education,2013,3.882889986,FJI,% of GDP,Fiji
+Education,2014,4.268219948,FJI,% of GDP,Fiji
+Education,2015,4.809319973,FJI,% of GDP,Fiji
+Education,2016,4.83589983,FJI,% of GDP,Fiji
+Education,2017,4.651189804,FJI,% of GDP,Fiji
+Education,2018,4.835710049,FJI,% of GDP,Fiji
+Education,2019,5.067880154,FJI,% of GDP,Fiji
+Education,2020,5.675352935,FJI,% of GDP,Fiji
+Education,2010,5.658596039,FRA,% of GDP,France
+Education,2011,5.482983112,FRA,% of GDP,France
+Education,2012,5.456467152,FRA,% of GDP,France
+Education,2013,5.500378132,FRA,% of GDP,France
+Education,2014,5.512063026,FRA,% of GDP,France
+Education,2015,5.464234829,FRA,% of GDP,France
+Education,2016,5.419066906,FRA,% of GDP,France
+Education,2017,5.451600075,FRA,% of GDP,France
+Education,2018,5.407169819,FRA,% of GDP,France
+Education,2019,5.354430199,FRA,% of GDP,France
+Education,2020,5.5,FRA,% of GDP,France
+Education,2000,3.827090025,GAB,% of GDP,Gabon
+Education,2010,3.078089952,GAB,% of GDP,Gabon
+Education,2011,2.987459898,GAB,% of GDP,Gabon
+Education,2012,3.013400078,GAB,% of GDP,Gabon
+Education,2013,3.029710054,GAB,% of GDP,Gabon
+Education,2014,2.666670084,GAB,% of GDP,Gabon
+Education,2015,2.991660118,GAB,% of GDP,Gabon
+Education,2016,2.662060022,GAB,% of GDP,Gabon
+Education,2017,3.326809883,GAB,% of GDP,Gabon
+Education,2018,2.933459997,GAB,% of GDP,Gabon
+Education,2019,2.73232007,GAB,% of GDP,Gabon
+Education,2020,3.181610107,GAB,% of GDP,Gabon
+Education,2000,4.023149967,GBR,% of GDP,United Kingdom
+Education,2001,4.108550072,GBR,% of GDP,United Kingdom
+Education,2002,4.628540039,GBR,% of GDP,United Kingdom
+Education,2003,4.80573988,GBR,% of GDP,United Kingdom
+Education,2004,4.729400158,GBR,% of GDP,United Kingdom
+Education,2005,4.929180145,GBR,% of GDP,United Kingdom
+Education,2006,4.973259926,GBR,% of GDP,United Kingdom
+Education,2007,4.908830166,GBR,% of GDP,United Kingdom
+Education,2008,4.884970188,GBR,% of GDP,United Kingdom
+Education,2009,5.046319962,GBR,% of GDP,United Kingdom
+Education,2010,5.66824007,GBR,% of GDP,United Kingdom
+Education,2011,5.559599876,GBR,% of GDP,United Kingdom
+Education,2012,5.659604073,GBR,% of GDP,United Kingdom
+Education,2013,5.500780106,GBR,% of GDP,United Kingdom
+Education,2014,5.564509869,GBR,% of GDP,United Kingdom
+Education,2015,5.514110088,GBR,% of GDP,United Kingdom
+Education,2016,5.375329971,GBR,% of GDP,United Kingdom
+Education,2017,5.384990215,GBR,% of GDP,United Kingdom
+Education,2018,5.167990208,GBR,% of GDP,United Kingdom
+Education,2019,5.207749844,GBR,% of GDP,United Kingdom
+Education,2020,5.53,GBR,% of GDP,United Kingdom
+Education,2000,2.181050062,GEO,% of GDP,Georgia
+Education,2001,2.137500048,GEO,% of GDP,Georgia
+Education,2002,2.235019922,GEO,% of GDP,Georgia
+Education,2003,2.065599918,GEO,% of GDP,Georgia
+Education,2004,2.914200068,GEO,% of GDP,Georgia
+Education,2005,2.484319925,GEO,% of GDP,Georgia
+Education,2006,3.00364995,GEO,% of GDP,Georgia
+Education,2007,2.696870089,GEO,% of GDP,Georgia
+Education,2008,2.919549942,GEO,% of GDP,Georgia
+Education,2009,3.222379923,GEO,% of GDP,Georgia
+Education,2010,2.803649902,GEO,% of GDP,Georgia
+Education,2011,2.576139927,GEO,% of GDP,Georgia
+Education,2012,1.906100035,GEO,% of GDP,Georgia
+Education,2013,2.886719942,GEO,% of GDP,Georgia
+Education,2014,2.997679949,GEO,% of GDP,Georgia
+Education,2015,3.164870024,GEO,% of GDP,Georgia
+Education,2016,3.593869925,GEO,% of GDP,Georgia
+Education,2017,3.574429989,GEO,% of GDP,Georgia
+Education,2018,3.52105999,GEO,% of GDP,Georgia
+Education,2019,3.808640003,GEO,% of GDP,Georgia
+Education,2020,3.850080013,GEO,% of GDP,Georgia
+Education,2021,3.623800039,GEO,% of GDP,Georgia
+Education,2001,5.354440212,GHA,% of GDP,Ghana
+Education,2004,7.535580158,GHA,% of GDP,Ghana
+Education,2005,7.42208004,GHA,% of GDP,Ghana
+Education,2006,5.259829998,GHA,% of GDP,Ghana
+Education,2007,5.519869804,GHA,% of GDP,Ghana
+Education,2008,5.757959843,GHA,% of GDP,Ghana
+Education,2009,5.317440033,GHA,% of GDP,Ghana
+Education,2010,5.540599823,GHA,% of GDP,Ghana
+Education,2011,8.14097023,GHA,% of GDP,Ghana
+Education,2012,7.919139862,GHA,% of GDP,Ghana
+Education,2013,4.576469898,GHA,% of GDP,Ghana
+Education,2014,4.39978981,GHA,% of GDP,Ghana
+Education,2015,4.434050083,GHA,% of GDP,Ghana
+Education,2016,4.394529819,GHA,% of GDP,Ghana
+Education,2017,3.533629894,GHA,% of GDP,Ghana
+Education,2018,3.886130095,GHA,% of GDP,Ghana
+Education,2000,2.593400002,GIN,% of GDP,Guinea
+Education,2001,2.081909895,GIN,% of GDP,Guinea
+Education,2002,2.593869925,GIN,% of GDP,Guinea
+Education,2003,2.371020079,GIN,% of GDP,Guinea
+Education,2004,2.210000038,GIN,% of GDP,Guinea
+Education,2005,1.849060059,GIN,% of GDP,Guinea
+Education,2008,1.581120014,GIN,% of GDP,Guinea
+Education,2009,2.207250118,GIN,% of GDP,Guinea
+Education,2010,2.551189899,GIN,% of GDP,Guinea
+Education,2011,2.287420034,GIN,% of GDP,Guinea
+Education,2012,1.833709955,GIN,% of GDP,Guinea
+Education,2013,2.63421011,GIN,% of GDP,Guinea
+Education,2014,2.422810078,GIN,% of GDP,Guinea
+Education,2015,2.517139912,GIN,% of GDP,Guinea
+Education,2016,2.544500113,GIN,% of GDP,Guinea
+Education,2017,2.320339918,GIN,% of GDP,Guinea
+Education,2018,2.384320021,GIN,% of GDP,Guinea
+Education,2019,1.848369956,GIN,% of GDP,Guinea
+Education,2020,2.199470043,GIN,% of GDP,Guinea
+Education,2000,1.465870023,GMB,% of GDP,Gambia
+Education,2001,1.158100009,GMB,% of GDP,Gambia
+Education,2002,1.44291997,GMB,% of GDP,Gambia
+Education,2003,1.363379955,GMB,% of GDP,Gambia
+Education,2004,0.622470021,GMB,% of GDP,Gambia
+Education,2005,0.691879988,GMB,% of GDP,Gambia
+Education,2006,0.751630008,GMB,% of GDP,Gambia
+Education,2007,0.81686002,GMB,% of GDP,Gambia
+Education,2008,2.181299925,GMB,% of GDP,Gambia
+Education,2009,1.908139944,GMB,% of GDP,Gambia
+Education,2010,2.563220024,GMB,% of GDP,Gambia
+Education,2011,2.50116992,GMB,% of GDP,Gambia
+Education,2012,2.637569904,GMB,% of GDP,Gambia
+Education,2013,1.818390012,GMB,% of GDP,Gambia
+Education,2014,2.230940104,GMB,% of GDP,Gambia
+Education,2015,2.160029888,GMB,% of GDP,Gambia
+Education,2016,2.024430037,GMB,% of GDP,Gambia
+Education,2017,2.459189892,GMB,% of GDP,Gambia
+Education,2018,2.365439892,GMB,% of GDP,Gambia
+Education,2019,2.788929939,GMB,% of GDP,Gambia
+Education,2020,2.763720036,GMB,% of GDP,Gambia
+Education,2010,1.860820055,GNB,% of GDP,Guinea-Bissau
+Education,2011,1.857859969,GNB,% of GDP,Guinea-Bissau
+Education,2012,2.001060009,GNB,% of GDP,Guinea-Bissau
+Education,2013,2.13248992,GNB,% of GDP,Guinea-Bissau
+Education,2014,2.200000048,GNB,% of GDP,Guinea-Bissau
+Education,2015,2.299999952,GNB,% of GDP,Guinea-Bissau
+Education,2016,2.299999952,GNB,% of GDP,Guinea-Bissau
+Education,2017,2.200000048,GNB,% of GDP,Guinea-Bissau
+Education,2018,2.137870073,GNB,% of GDP,Guinea-Bissau
+Education,2019,2.947819948,GNB,% of GDP,Guinea-Bissau
+Education,2020,2.708430052,GNB,% of GDP,Guinea-Bissau
+Education,2000,3.230190039,GRC,% of GDP,Greece
+Education,2001,3.364579916,GRC,% of GDP,Greece
+Education,2002,3.424309969,GRC,% of GDP,Greece
+Education,2003,3.429339886,GRC,% of GDP,Greece
+Education,2004,3.667190075,GRC,% of GDP,Greece
+Education,2005,3.963959932,GRC,% of GDP,Greece
+Education,2010,4.105631528,GRC,% of GDP,Greece
+Education,2011,4.435127446,GRC,% of GDP,Greece
+Education,2012,4.514549905,GRC,% of GDP,Greece
+Education,2013,4.475959569,GRC,% of GDP,Greece
+Education,2014,4.287009672,GRC,% of GDP,Greece
+Education,2015,3.661390066,GRC,% of GDP,Greece
+Education,2016,3.970241603,GRC,% of GDP,Greece
+Education,2017,3.477089882,GRC,% of GDP,Greece
+Education,2018,3.597340107,GRC,% of GDP,Greece
+Education,2019,3.5880301,GRC,% of GDP,Greece
+Education,2020,4.44,GRC,% of GDP,Greece
+Education,2003,3.926739931,GRD,% of GDP,Grenada
+Education,2015,4.238609791,GRD,% of GDP,Grenada
+Education,2017,3.173799992,GRD,% of GDP,Grenada
+Education,2018,3.552550077,GRD,% of GDP,Grenada
+Education,2006,3.032850027,GTM,% of GDP,Guatemala
+Education,2007,3.088089943,GTM,% of GDP,Guatemala
+Education,2008,3.236860037,GTM,% of GDP,Guatemala
+Education,2010,2.848649979,GTM,% of GDP,Guatemala
+Education,2011,2.968650103,GTM,% of GDP,Guatemala
+Education,2012,3.005249977,GTM,% of GDP,Guatemala
+Education,2013,2.888089895,GTM,% of GDP,Guatemala
+Education,2014,2.985620022,GTM,% of GDP,Guatemala
+Education,2015,3.030329943,GTM,% of GDP,Guatemala
+Education,2016,2.944740057,GTM,% of GDP,Guatemala
+Education,2017,2.950099945,GTM,% of GDP,Guatemala
+Education,2018,3.137049913,GTM,% of GDP,Guatemala
+Education,2019,3.199280024,GTM,% of GDP,Guatemala
+Education,2020,3.299720049,GTM,% of GDP,Guatemala
+Education,2021,3.108769894,GTM,% of GDP,Guatemala
+Education,2000,8.484149933,GUY,% of GDP,Guyana
+Education,2001,8.397299767,GUY,% of GDP,Guyana
+Education,2002,8.365539551,GUY,% of GDP,Guyana
+Education,2003,6.955900192,GUY,% of GDP,Guyana
+Education,2004,5.51293993,GUY,% of GDP,Guyana
+Education,2005,8.139730453,GUY,% of GDP,Guyana
+Education,2006,3.118910074,GUY,% of GDP,Guyana
+Education,2007,2.391170025,GUY,% of GDP,Guyana
+Education,2009,2.150579929,GUY,% of GDP,Guyana
+Education,2010,2.409389973,GUY,% of GDP,Guyana
+Education,2011,2.506690025,GUY,% of GDP,Guyana
+Education,2012,2.241319895,GUY,% of GDP,Guyana
+Education,2014,4.360330105,GUY,% of GDP,Guyana
+Education,2015,3.895699978,GUY,% of GDP,Guyana
+Education,2016,4.737750053,GUY,% of GDP,Guyana
+Education,2017,4.66478014,GUY,% of GDP,Guyana
+Education,2018,4.45058012,GUY,% of GDP,Guyana
+Education,2001,3.903700113,HKG,% of GDP,Hong Kong
+Education,2002,4.015540123,HKG,% of GDP,Hong Kong
+Education,2003,4.285299778,HKG,% of GDP,Hong Kong
+Education,2004,4.558959961,HKG,% of GDP,Hong Kong
+Education,2005,4.134630203,HKG,% of GDP,Hong Kong
+Education,2006,3.842789888,HKG,% of GDP,Hong Kong
+Education,2007,3.454550028,HKG,% of GDP,Hong Kong
+Education,2008,3.260629892,HKG,% of GDP,Hong Kong
+Education,2009,4.392129898,HKG,% of GDP,Hong Kong
+Education,2010,3.510030031,HKG,% of GDP,Hong Kong
+Education,2011,3.418220043,HKG,% of GDP,Hong Kong
+Education,2012,3.509609938,HKG,% of GDP,Hong Kong
+Education,2013,3.760319948,HKG,% of GDP,Hong Kong
+Education,2014,3.572550058,HKG,% of GDP,Hong Kong
+Education,2015,3.262120008,HKG,% of GDP,Hong Kong
+Education,2016,3.292649984,HKG,% of GDP,Hong Kong
+Education,2017,3.310100079,HKG,% of GDP,Hong Kong
+Education,2018,3.326519966,HKG,% of GDP,Hong Kong
+Education,2019,3.810600042,HKG,% of GDP,Hong Kong
+Education,2020,4.406340122,HKG,% of GDP,Hong Kong
+Education,2021,4.001029968,HKG,% of GDP,Hong Kong
+Education,2010,6.800000191,HND,% of GDP,Honduras
+Education,2011,6.099999905,HND,% of GDP,Honduras
+Education,2012,6.299727936,HND,% of GDP,Honduras
+Education,2013,5.874929905,HND,% of GDP,Honduras
+Education,2014,7.090119839,HND,% of GDP,Honduras
+Education,2015,6.412970066,HND,% of GDP,Honduras
+Education,2016,5.159619808,HND,% of GDP,Honduras
+Education,2017,4.937019825,HND,% of GDP,Honduras
+Education,2018,6.056469917,HND,% of GDP,Honduras
+Education,2019,4.912849903,HND,% of GDP,Honduras
+Education,2020,6.438439846,HND,% of GDP,Honduras
+Education,2002,3.783269882,HRV,% of GDP,Croatia
+Education,2003,3.831350088,HRV,% of GDP,Croatia
+Education,2004,3.785840034,HRV,% of GDP,Croatia
+Education,2007,3.940870047,HRV,% of GDP,Croatia
+Education,2008,4.252130032,HRV,% of GDP,Croatia
+Education,2009,4.358089924,HRV,% of GDP,Croatia
+Education,2010,4.19863987,HRV,% of GDP,Croatia
+Education,2011,4.096549988,HRV,% of GDP,Croatia
+Education,2012,4.776778404,HRV,% of GDP,Croatia
+Education,2013,4.500390053,HRV,% of GDP,Croatia
+Education,2014,4.941884216,HRV,% of GDP,Croatia
+Education,2015,4.931538493,HRV,% of GDP,Croatia
+Education,2016,4.717281423,HRV,% of GDP,Croatia
+Education,2017,3.854759932,HRV,% of GDP,Croatia
+Education,2018,3.907550097,HRV,% of GDP,Croatia
+Education,2019,3.916860104,HRV,% of GDP,Croatia
+Education,2020,5.54,HRV,% of GDP,Croatia
+Education,2014,1.753149986,HTI,% of GDP,Haiti
+Education,2015,1.857040048,HTI,% of GDP,Haiti
+Education,2016,1.395859957,HTI,% of GDP,Haiti
+Education,2017,1.504230022,HTI,% of GDP,Haiti
+Education,2018,1.632069945,HTI,% of GDP,Haiti
+Education,2019,1.786811317,HTI,% of GDP,Haiti
+Education,2020,1.371014364,HTI,% of GDP,Haiti
+Education,2000,4.868400097,HUN,% of GDP,Hungary
+Education,2001,4.931009769,HUN,% of GDP,Hungary
+Education,2002,5.179230213,HUN,% of GDP,Hungary
+Education,2003,5.791150093,HUN,% of GDP,Hungary
+Education,2004,5.326580048,HUN,% of GDP,Hungary
+Education,2005,5.318880081,HUN,% of GDP,Hungary
+Education,2006,5.288119793,HUN,% of GDP,Hungary
+Education,2007,5.133450031,HUN,% of GDP,Hungary
+Education,2008,4.966110229,HUN,% of GDP,Hungary
+Education,2009,4.944660187,HUN,% of GDP,Hungary
+Education,2010,4.721759796,HUN,% of GDP,Hungary
+Education,2011,4.561329842,HUN,% of GDP,Hungary
+Education,2012,4.141119957,HUN,% of GDP,Hungary
+Education,2013,4.187729836,HUN,% of GDP,Hungary
+Education,2014,4.600399971,HUN,% of GDP,Hungary
+Education,2015,4.494100094,HUN,% of GDP,Hungary
+Education,2016,4.6145401,HUN,% of GDP,Hungary
+Education,2017,4.614099979,HUN,% of GDP,Hungary
+Education,2018,4.622829914,HUN,% of GDP,Hungary
+Education,2019,4.237639904,HUN,% of GDP,Hungary
+Education,2020,4.76,HUN,% of GDP,Hungary
+Education,2001,2.460030079,IDN,% of GDP,Indonesia
+Education,2002,2.645689964,IDN,% of GDP,Indonesia
+Education,2003,3.217999935,IDN,% of GDP,Indonesia
+Education,2004,2.748470068,IDN,% of GDP,Indonesia
+Education,2005,2.872819901,IDN,% of GDP,Indonesia
+Education,2007,3.044250011,IDN,% of GDP,Indonesia
+Education,2008,2.901900053,IDN,% of GDP,Indonesia
+Education,2009,3.525130033,IDN,% of GDP,Indonesia
+Education,2010,2.81227994,IDN,% of GDP,Indonesia
+Education,2011,3.189440012,IDN,% of GDP,Indonesia
+Education,2012,3.407480001,IDN,% of GDP,Indonesia
+Education,2013,3.359040022,IDN,% of GDP,Indonesia
+Education,2014,3.288009882,IDN,% of GDP,Indonesia
+Education,2015,3.583600044,IDN,% of GDP,Indonesia
+Education,2016,3.5,IDN,% of GDP,Indonesia
+Education,2017,2.669980049,IDN,% of GDP,Indonesia
+Education,2018,3,IDN,% of GDP,Indonesia
+Education,2019,2.841850042,IDN,% of GDP,Indonesia
+Education,2020,3.49,IDN,% of GDP,Indonesia
+Education,2000,4.324790001,IND,% of GDP,India
+Education,2003,3.613409996,IND,% of GDP,India
+Education,2004,3.352540016,IND,% of GDP,India
+Education,2005,3.188750029,IND,% of GDP,India
+Education,2006,3.142849922,IND,% of GDP,India
+Education,2009,3.278249979,IND,% of GDP,India
+Education,2010,3.377690077,IND,% of GDP,India
+Education,2011,3.79618001,IND,% of GDP,India
+Education,2012,3.867500067,IND,% of GDP,India
+Education,2013,3.844670057,IND,% of GDP,India
+Education,2015,4.114570141,IND,% of GDP,India
+Education,2016,4.254079819,IND,% of GDP,India
+Education,2017,4.305449963,IND,% of GDP,India
+Education,2018,4.363739967,IND,% of GDP,India
+Education,2019,4.4072299,IND,% of GDP,India
+Education,2020,4.474229813,IND,% of GDP,India
+Education,2000,4.132259846,IRL,% of GDP,Ireland
+Education,2001,4.087490082,IRL,% of GDP,Ireland
+Education,2002,4.104879856,IRL,% of GDP,Ireland
+Education,2003,4.204939842,IRL,% of GDP,Ireland
+Education,2004,4.482960224,IRL,% of GDP,Ireland
+Education,2005,4.518980026,IRL,% of GDP,Ireland
+Education,2006,4.547420025,IRL,% of GDP,Ireland
+Education,2007,4.715410233,IRL,% of GDP,Ireland
+Education,2008,5.458280087,IRL,% of GDP,Ireland
+Education,2009,6.15610981,IRL,% of GDP,Ireland
+Education,2010,6.05136013,IRL,% of GDP,Ireland
+Education,2011,5.829040051,IRL,% of GDP,Ireland
+Education,2012,5.752689838,IRL,% of GDP,Ireland
+Education,2013,5.342050076,IRL,% of GDP,Ireland
+Education,2014,4.878499985,IRL,% of GDP,Ireland
+Education,2015,3.758769989,IRL,% of GDP,Ireland
+Education,2016,3.742120028,IRL,% of GDP,Ireland
+Education,2017,3.50928998,IRL,% of GDP,Ireland
+Education,2018,3.392869949,IRL,% of GDP,Ireland
+Education,2019,3.294610023,IRL,% of GDP,Ireland
+Education,2020,3.1,IRL,% of GDP,Ireland
+Education,2000,4.030640125,IRN,% of GDP,Iran
+Education,2001,4.071680069,IRN,% of GDP,Iran
+Education,2002,4.484879971,IRN,% of GDP,Iran
+Education,2003,4.363220215,IRN,% of GDP,Iran
+Education,2004,4.296629906,IRN,% of GDP,Iran
+Education,2005,4.056509972,IRN,% of GDP,Iran
+Education,2006,4.289989948,IRN,% of GDP,Iran
+Education,2007,4.596809864,IRN,% of GDP,Iran
+Education,2008,3.913759947,IRN,% of GDP,Iran
+Education,2009,3.842449903,IRN,% of GDP,Iran
+Education,2010,3.709180117,IRN,% of GDP,Iran
+Education,2011,3.484970093,IRN,% of GDP,Iran
+Education,2012,3.168590069,IRN,% of GDP,Iran
+Education,2013,3.06795001,IRN,% of GDP,Iran
+Education,2014,2.801350117,IRN,% of GDP,Iran
+Education,2015,2.797389984,IRN,% of GDP,Iran
+Education,2016,3.365760088,IRN,% of GDP,Iran
+Education,2017,3.790400028,IRN,% of GDP,Iran
+Education,2018,3.955359936,IRN,% of GDP,Iran
+Education,2019,3.663199902,IRN,% of GDP,Iran
+Education,2020,3.592430115,IRN,% of GDP,Iran
+Education,2000,6.431439877,ISL,% of GDP,Iceland
+Education,2001,6.705920219,ISL,% of GDP,Iceland
+Education,2002,7.298920155,ISL,% of GDP,Iceland
+Education,2003,7.245079994,ISL,% of GDP,Iceland
+Education,2004,7.161180019,ISL,% of GDP,Iceland
+Education,2005,7.338439941,ISL,% of GDP,Iceland
+Education,2006,7.195219994,ISL,% of GDP,Iceland
+Education,2007,6.944330215,ISL,% of GDP,Iceland
+Education,2008,7.036019802,ISL,% of GDP,Iceland
+Education,2009,7.189849854,ISL,% of GDP,Iceland
+Education,2010,6.944240093,ISL,% of GDP,Iceland
+Education,2011,6.789979935,ISL,% of GDP,Iceland
+Education,2012,7.582230091,ISL,% of GDP,Iceland
+Education,2013,7.448689938,ISL,% of GDP,Iceland
+Education,2014,7.641409874,ISL,% of GDP,Iceland
+Education,2015,7.457970142,ISL,% of GDP,Iceland
+Education,2016,7.432199955,ISL,% of GDP,Iceland
+Education,2017,7.583859921,ISL,% of GDP,Iceland
+Education,2018,7.561709881,ISL,% of GDP,Iceland
+Education,2019,7.547359943,ISL,% of GDP,Iceland
+Education,2020,7.72,ISL,% of GDP,Iceland
+Education,2000,6.112820148,ISR,% of GDP,Israel
+Education,2001,6.373980045,ISR,% of GDP,Israel
+Education,2002,6.465060234,ISR,% of GDP,Israel
+Education,2003,6.345499992,ISR,% of GDP,Israel
+Education,2004,5.940279961,ISR,% of GDP,Israel
+Education,2005,5.754590034,ISR,% of GDP,Israel
+Education,2006,5.75635004,ISR,% of GDP,Israel
+Education,2007,5.495950222,ISR,% of GDP,Israel
+Education,2008,5.519949913,ISR,% of GDP,Israel
+Education,2009,5.481719971,ISR,% of GDP,Israel
+Education,2010,5.5198102,ISR,% of GDP,Israel
+Education,2011,5.549369812,ISR,% of GDP,Israel
+Education,2012,5.672530174,ISR,% of GDP,Israel
+Education,2013,5.854259968,ISR,% of GDP,Israel
+Education,2014,5.766819954,ISR,% of GDP,Israel
+Education,2015,5.862110138,ISR,% of GDP,Israel
+Education,2016,5.855780125,ISR,% of GDP,Israel
+Education,2017,6.057909966,ISR,% of GDP,Israel
+Education,2018,6.112339973,ISR,% of GDP,Israel
+Education,2019,6.125780106,ISR,% of GDP,Israel
+Education,2020,7.07,ISR,% of GDP,Israel
+Education,2000,4.291079998,ITA,% of GDP,Italy
+Education,2001,4.650090218,ITA,% of GDP,Italy
+Education,2002,4.432409763,ITA,% of GDP,Italy
+Education,2003,4.541790009,ITA,% of GDP,Italy
+Education,2004,4.385200024,ITA,% of GDP,Italy
+Education,2005,4.238299847,ITA,% of GDP,Italy
+Education,2006,4.52545023,ITA,% of GDP,Italy
+Education,2007,4.10503006,ITA,% of GDP,Italy
+Education,2008,4.387949944,ITA,% of GDP,Italy
+Education,2009,4.523719788,ITA,% of GDP,Italy
+Education,2010,4.334119797,ITA,% of GDP,Italy
+Education,2011,4.115680218,ITA,% of GDP,Italy
+Education,2012,4.056019783,ITA,% of GDP,Italy
+Education,2013,4.143670082,ITA,% of GDP,Italy
+Education,2014,4.061279774,ITA,% of GDP,Italy
+Education,2015,4.073629856,ITA,% of GDP,Italy
+Education,2016,3.815789938,ITA,% of GDP,Italy
+Education,2017,4.044939995,ITA,% of GDP,Italy
+Education,2018,4.256140232,ITA,% of GDP,Italy
+Education,2019,4.095310211,ITA,% of GDP,Italy
+Education,2020,4.27,ITA,% of GDP,Italy
+Education,2000,4.983469963,JAM,% of GDP,Jamaica
+Education,2001,5.381030083,JAM,% of GDP,Jamaica
+Education,2002,5.375229836,JAM,% of GDP,Jamaica
+Education,2003,4.256849766,JAM,% of GDP,Jamaica
+Education,2004,3.912549973,JAM,% of GDP,Jamaica
+Education,2005,4.616419792,JAM,% of GDP,Jamaica
+Education,2007,5.49022007,JAM,% of GDP,Jamaica
+Education,2008,6.191319942,JAM,% of GDP,Jamaica
+Education,2009,6.198480129,JAM,% of GDP,Jamaica
+Education,2010,6.370600224,JAM,% of GDP,Jamaica
+Education,2011,6.266640186,JAM,% of GDP,Jamaica
+Education,2012,6.112460136,JAM,% of GDP,Jamaica
+Education,2013,6.251080036,JAM,% of GDP,Jamaica
+Education,2014,6.015860081,JAM,% of GDP,Jamaica
+Education,2015,5.455210209,JAM,% of GDP,Jamaica
+Education,2016,5.314610004,JAM,% of GDP,Jamaica
+Education,2017,5.260169983,JAM,% of GDP,Jamaica
+Education,2018,5.413809776,JAM,% of GDP,Jamaica
+Education,2019,5.163640022,JAM,% of GDP,Jamaica
+Education,2020,5.617499828,JAM,% of GDP,Jamaica
+Education,2021,6.027470112,JAM,% of GDP,Jamaica
+Education,2005,4.920000076,JOR,% of GDP,Jordan
+Education,2006,4.659999847,JOR,% of GDP,Jordan
+Education,2007,5.039999962,JOR,% of GDP,Jordan
+Education,2008,3.670000076,JOR,% of GDP,Jordan
+Education,2009,3.589999914,JOR,% of GDP,Jordan
+Education,2010,3.099999905,JOR,% of GDP,Jordan
+Education,2011,3.400000095,JOR,% of GDP,Jordan
+Education,2012,3.5,JOR,% of GDP,Jordan
+Education,2013,3.5,JOR,% of GDP,Jordan
+Education,2014,3.799999952,JOR,% of GDP,Jordan
+Education,2015,3.450000048,JOR,% of GDP,Jordan
+Education,2016,3.452820063,JOR,% of GDP,Jordan
+Education,2017,3.228539944,JOR,% of GDP,Jordan
+Education,2018,2.984810114,JOR,% of GDP,Jordan
+Education,2019,2.988470078,JOR,% of GDP,Jordan
+Education,2020,3.67,JOR,% of GDP,Jordan
+Education,2021,3.211380005,JOR,% of GDP,Jordan
+Education,2000,3.460119963,JPN,% of GDP,Japan
+Education,2001,3.400820017,JPN,% of GDP,Japan
+Education,2002,3.408989906,JPN,% of GDP,Japan
+Education,2003,3.466629982,JPN,% of GDP,Japan
+Education,2004,3.426110029,JPN,% of GDP,Japan
+Education,2005,3.314939976,JPN,% of GDP,Japan
+Education,2006,3.276679993,JPN,% of GDP,Japan
+Education,2007,3.279340029,JPN,% of GDP,Japan
+Education,2008,3.27241993,JPN,% of GDP,Japan
+Education,2010,3.599519968,JPN,% of GDP,Japan
+Education,2011,3.605279922,JPN,% of GDP,Japan
+Education,2012,3.64741993,JPN,% of GDP,Japan
+Education,2013,3.624969959,JPN,% of GDP,Japan
+Education,2014,3.551589966,JPN,% of GDP,Japan
+Education,2015,3.269819796,JPN,% of GDP,Japan
+Education,2016,3.146430016,JPN,% of GDP,Japan
+Education,2017,3.130579948,JPN,% of GDP,Japan
+Education,2018,3.077820063,JPN,% of GDP,Japan
+Education,2019,3.157249928,JPN,% of GDP,Japan
+Education,2020,3.42,JPN,% of GDP,Japan
+Education,2000,3.25661993,KAZ,% of GDP,Kazakhstan
+Education,2002,3.029700041,KAZ,% of GDP,Kazakhstan
+Education,2004,2.25590992,KAZ,% of GDP,Kazakhstan
+Education,2005,2.263530016,KAZ,% of GDP,Kazakhstan
+Education,2006,2.626780033,KAZ,% of GDP,Kazakhstan
+Education,2007,2.831389904,KAZ,% of GDP,Kazakhstan
+Education,2008,2.589459896,KAZ,% of GDP,Kazakhstan
+Education,2009,3.060719967,KAZ,% of GDP,Kazakhstan
+Education,2010,3.462260008,KAZ,% of GDP,Kazakhstan
+Education,2011,3.493520021,KAZ,% of GDP,Kazakhstan
+Education,2012,3.901690006,KAZ,% of GDP,Kazakhstan
+Education,2013,3.437370062,KAZ,% of GDP,Kazakhstan
+Education,2014,3.421649933,KAZ,% of GDP,Kazakhstan
+Education,2015,2.788579941,KAZ,% of GDP,Kazakhstan
+Education,2016,2.978100061,KAZ,% of GDP,Kazakhstan
+Education,2017,2.750819921,KAZ,% of GDP,Kazakhstan
+Education,2018,2.615950108,KAZ,% of GDP,Kazakhstan
+Education,2019,2.856970072,KAZ,% of GDP,Kazakhstan
+Education,2020,4.446203802,KAZ,% of GDP,Kazakhstan
+Education,2000,5.186729908,KEN,% of GDP,Kenya
+Education,2001,5.206210136,KEN,% of GDP,Kenya
+Education,2002,6.171999931,KEN,% of GDP,Kenya
+Education,2003,6.494269848,KEN,% of GDP,Kenya
+Education,2004,6.796929836,KEN,% of GDP,Kenya
+Education,2005,7.335649967,KEN,% of GDP,Kenya
+Education,2006,7.049839973,KEN,% of GDP,Kenya
+Education,2010,4.815489769,KEN,% of GDP,Kenya
+Education,2011,4.700129986,KEN,% of GDP,Kenya
+Education,2012,4.931210041,KEN,% of GDP,Kenya
+Education,2013,4.837210178,KEN,% of GDP,Kenya
+Education,2014,4.717299938,KEN,% of GDP,Kenya
+Education,2015,4.743500233,KEN,% of GDP,Kenya
+Education,2016,4.895180225,KEN,% of GDP,Kenya
+Education,2017,4.963089943,KEN,% of GDP,Kenya
+Education,2018,5.107619762,KEN,% of GDP,Kenya
+Education,2019,4.97439003,KEN,% of GDP,Kenya
+Education,2020,5.079969883,KEN,% of GDP,Kenya
+Education,2021,4.799039841,KEN,% of GDP,Kenya
+Education,2000,3.50838995,KGZ,% of GDP,Kyrgyz Republic
+Education,2001,3.854180098,KGZ,% of GDP,Kyrgyz Republic
+Education,2002,4.445459843,KGZ,% of GDP,Kyrgyz Republic
+Education,2003,4.475419998,KGZ,% of GDP,Kyrgyz Republic
+Education,2004,4.622439861,KGZ,% of GDP,Kyrgyz Republic
+Education,2005,4.873839855,KGZ,% of GDP,Kyrgyz Republic
+Education,2006,5.549860001,KGZ,% of GDP,Kyrgyz Republic
+Education,2007,6.467000008,KGZ,% of GDP,Kyrgyz Republic
+Education,2008,5.913189888,KGZ,% of GDP,Kyrgyz Republic
+Education,2009,6.232679844,KGZ,% of GDP,Kyrgyz Republic
+Education,2010,5.818830013,KGZ,% of GDP,Kyrgyz Republic
+Education,2011,6.79061985,KGZ,% of GDP,Kyrgyz Republic
+Education,2012,7.384230137,KGZ,% of GDP,Kyrgyz Republic
+Education,2013,6.780200005,KGZ,% of GDP,Kyrgyz Republic
+Education,2014,5.531599998,KGZ,% of GDP,Kyrgyz Republic
+Education,2015,5.985509872,KGZ,% of GDP,Kyrgyz Republic
+Education,2016,6.586150169,KGZ,% of GDP,Kyrgyz Republic
+Education,2017,6.026189804,KGZ,% of GDP,Kyrgyz Republic
+Education,2018,5.552670002,KGZ,% of GDP,Kyrgyz Republic
+Education,2019,5.366749763,KGZ,% of GDP,Kyrgyz Republic
+Education,2020,6.214864514,KGZ,% of GDP,Kyrgyz Republic
+Education,2000,1.666810036,KHM,% of GDP,Cambodia
+Education,2001,1.722219944,KHM,% of GDP,Cambodia
+Education,2002,1.711210012,KHM,% of GDP,Cambodia
+Education,2004,1.719820023,KHM,% of GDP,Cambodia
+Education,2007,1.599300027,KHM,% of GDP,Cambodia
+Education,2009,1.665680051,KHM,% of GDP,Cambodia
+Education,2010,1.533789992,KHM,% of GDP,Cambodia
+Education,2011,1.510689974,KHM,% of GDP,Cambodia
+Education,2012,1.61839785,KHM,% of GDP,Cambodia
+Education,2013,1.64706423,KHM,% of GDP,Cambodia
+Education,2014,1.674574067,KHM,% of GDP,Cambodia
+Education,2015,1.92503559,KHM,% of GDP,Cambodia
+Education,2016,2.06424746,KHM,% of GDP,Cambodia
+Education,2017,2.316151965,KHM,% of GDP,Cambodia
+Education,2018,2.578059368,KHM,% of GDP,Cambodia
+Education,2019,2.896629795,KHM,% of GDP,Cambodia
+Education,2020,3.126306431,KHM,% of GDP,Cambodia
+Education,2000,4.740389824,KNA,% of GDP,St. Kitts and Nevis
+Education,2001,4.421549797,KNA,% of GDP,St. Kitts and Nevis
+Education,2002,3.920510054,KNA,% of GDP,St. Kitts and Nevis
+Education,2003,3.790990114,KNA,% of GDP,St. Kitts and Nevis
+Education,2004,3.971349955,KNA,% of GDP,St. Kitts and Nevis
+Education,2005,3.831449986,KNA,% of GDP,St. Kitts and Nevis
+Education,2006,4.059279919,KNA,% of GDP,St. Kitts and Nevis
+Education,2007,4.193809986,KNA,% of GDP,St. Kitts and Nevis
+Education,2012,3.630496687,KNA,% of GDP,St. Kitts and Nevis
+Education,2013,3.817313375,KNA,% of GDP,St. Kitts and Nevis
+Education,2014,3.856778679,KNA,% of GDP,St. Kitts and Nevis
+Education,2015,2.643460035,KNA,% of GDP,St. Kitts and Nevis
+Education,2016,4.150000095,KNA,% of GDP,St. Kitts and Nevis
+Education,2017,4.25,KNA,% of GDP,St. Kitts and Nevis
+Education,2018,4.420000076,KNA,% of GDP,St. Kitts and Nevis
+Education,2019,4.300000191,KNA,% of GDP,St. Kitts and Nevis
+Education,2020,3.398791541,KNA,% of GDP,St. Kitts and Nevis
+Education,2021,2.448620081,KNA,% of GDP,St. Kitts and Nevis
+Education,2009,2.869999886,KOR,% of GDP,South Korea
+Education,2010,2.839999914,KOR,% of GDP,South Korea
+Education,2015,4.454237938,KOR,% of GDP,South Korea
+Education,2016,4.333099842,KOR,% of GDP,South Korea
+Education,2017,4.328239918,KOR,% of GDP,South Korea
+Education,2018,4.458079815,KOR,% of GDP,South Korea
+Education,2019,4.684659958,KOR,% of GDP,South Korea
+Education,2000,1.503690004,LAO,% of GDP,Laos
+Education,2001,1.990280032,LAO,% of GDP,Laos
+Education,2002,2.825220108,LAO,% of GDP,Laos
+Education,2004,2.413000107,LAO,% of GDP,Laos
+Education,2005,2.414089918,LAO,% of GDP,Laos
+Education,2006,2.958790064,LAO,% of GDP,Laos
+Education,2007,3.078419924,LAO,% of GDP,Laos
+Education,2008,2.27854991,LAO,% of GDP,Laos
+Education,2009,1.654850006,LAO,% of GDP,Laos
+Education,2010,1.709789991,LAO,% of GDP,Laos
+Education,2011,1.708019972,LAO,% of GDP,Laos
+Education,2012,1.821470022,LAO,% of GDP,Laos
+Education,2013,3.233809948,LAO,% of GDP,Laos
+Education,2014,2.937809944,LAO,% of GDP,Laos
+Education,2015,2.736897879,LAO,% of GDP,Laos
+Education,2016,2.774429761,LAO,% of GDP,Laos
+Education,2017,2.497972614,LAO,% of GDP,Laos
+Education,2018,2.33501229,LAO,% of GDP,Laos
+Education,2019,2.475329562,LAO,% of GDP,Laos
+Education,2020,2.299760057,LAO,% of GDP,Laos
+Education,2001,2.841480017,LBN,% of GDP,Lebanon
+Education,2002,2.552710056,LBN,% of GDP,Lebanon
+Education,2004,2.640949965,LBN,% of GDP,Lebanon
+Education,2005,2.646189928,LBN,% of GDP,Lebanon
+Education,2006,2.779759884,LBN,% of GDP,Lebanon
+Education,2007,2.583570004,LBN,% of GDP,Lebanon
+Education,2008,2.014790058,LBN,% of GDP,Lebanon
+Education,2009,1.765709996,LBN,% of GDP,Lebanon
+Education,2010,1.613309979,LBN,% of GDP,Lebanon
+Education,2011,1.652519941,LBN,% of GDP,Lebanon
+Education,2012,2.148089886,LBN,% of GDP,Lebanon
+Education,2013,2.432450056,LBN,% of GDP,Lebanon
+Education,2014,2,LBN,% of GDP,Lebanon
+Education,2015,2.099999905,LBN,% of GDP,Lebanon
+Education,2016,2.123929977,LBN,% of GDP,Lebanon
+Education,2017,2.132940054,LBN,% of GDP,Lebanon
+Education,2018,2.524470091,LBN,% of GDP,Lebanon
+Education,2019,2.592020035,LBN,% of GDP,Lebanon
+Education,2020,1.69,LBN,% of GDP,Lebanon
+Education,2008,1.701660037,LBR,% of GDP,Liberia
+Education,2011,2.239857621,LBR,% of GDP,Liberia
+Education,2012,1.777119994,LBR,% of GDP,Liberia
+Education,2013,1.690780044,LBR,% of GDP,Liberia
+Education,2014,2.200050116,LBR,% of GDP,Liberia
+Education,2015,2.170830011,LBR,% of GDP,Liberia
+Education,2016,2.14812994,LBR,% of GDP,Liberia
+Education,2017,2.663300037,LBR,% of GDP,Liberia
+Education,2018,2.503910065,LBR,% of GDP,Liberia
+Education,2019,2.270390034,LBR,% of GDP,Liberia
+Education,2020,2.309289932,LBR,% of GDP,Liberia
+Education,2021,2.692179918,LBR,% of GDP,Liberia
+Education,2001,5.707330227,LCA,% of GDP,St. Lucia
+Education,2003,3.534490108,LCA,% of GDP,St. Lucia
+Education,2004,3.436460018,LCA,% of GDP,St. Lucia
+Education,2005,4.238959789,LCA,% of GDP,St. Lucia
+Education,2006,4.696690083,LCA,% of GDP,St. Lucia
+Education,2008,4.483530045,LCA,% of GDP,St. Lucia
+Education,2009,3.067660093,LCA,% of GDP,St. Lucia
+Education,2010,3.482899904,LCA,% of GDP,St. Lucia
+Education,2011,3.588239908,LCA,% of GDP,St. Lucia
+Education,2012,3.272989988,LCA,% of GDP,St. Lucia
+Education,2013,3.85984993,LCA,% of GDP,St. Lucia
+Education,2014,3.880690098,LCA,% of GDP,St. Lucia
+Education,2015,3.867729902,LCA,% of GDP,St. Lucia
+Education,2016,5.208280087,LCA,% of GDP,St. Lucia
+Education,2017,3.633480072,LCA,% of GDP,St. Lucia
+Education,2018,3.335669994,LCA,% of GDP,St. Lucia
+Education,2019,3.266060114,LCA,% of GDP,St. Lucia
+Education,2020,3.575210094,LCA,% of GDP,St. Lucia
+Education,2005,2.25999999,LKA,% of GDP,Sri Lanka
+Education,2006,2.329999924,LKA,% of GDP,Sri Lanka
+Education,2007,2.25999999,LKA,% of GDP,Sri Lanka
+Education,2008,1.980000019,LKA,% of GDP,Sri Lanka
+Education,2009,2.055900097,LKA,% of GDP,Sri Lanka
+Education,2010,1.717740059,LKA,% of GDP,Sri Lanka
+Education,2011,1.808609962,LKA,% of GDP,Sri Lanka
+Education,2012,1.496170044,LKA,% of GDP,Sri Lanka
+Education,2013,1.621070027,LKA,% of GDP,Sri Lanka
+Education,2014,1.932880044,LKA,% of GDP,Sri Lanka
+Education,2015,2.22874999,LKA,% of GDP,Sri Lanka
+Education,2016,3.449199915,LKA,% of GDP,Sri Lanka
+Education,2017,2.799249887,LKA,% of GDP,Sri Lanka
+Education,2018,2.135390043,LKA,% of GDP,Sri Lanka
+Education,2019,1.929999948,LKA,% of GDP,Sri Lanka
+Education,2000,10.09154987,LSO,% of GDP,Lesotho
+Education,2001,9.365050316,LSO,% of GDP,Lesotho
+Education,2002,10.10044956,LSO,% of GDP,Lesotho
+Education,2003,13.21957016,LSO,% of GDP,Lesotho
+Education,2004,11.10900974,LSO,% of GDP,Lesotho
+Education,2005,12.07966042,LSO,% of GDP,Lesotho
+Education,2006,11.27128029,LSO,% of GDP,Lesotho
+Education,2008,12.32952023,LSO,% of GDP,Lesotho
+Education,2011,8.165100098,LSO,% of GDP,Lesotho
+Education,2012,7.666059971,LSO,% of GDP,Lesotho
+Education,2013,7.29226017,LSO,% of GDP,Lesotho
+Education,2014,7.198599815,LSO,% of GDP,Lesotho
+Education,2015,9,LSO,% of GDP,Lesotho
+Education,2016,7.760749817,LSO,% of GDP,Lesotho
+Education,2017,8.156889915,LSO,% of GDP,Lesotho
+Education,2018,7.285359859,LSO,% of GDP,Lesotho
+Education,2019,7.991710186,LSO,% of GDP,Lesotho
+Education,2020,7.669360161,LSO,% of GDP,Lesotho
+Education,2021,8.70263958,LSO,% of GDP,Lesotho
+Education,2001,5.84758997,LTU,% of GDP,Lithuania
+Education,2002,5.800079823,LTU,% of GDP,Lithuania
+Education,2003,5.114180088,LTU,% of GDP,Lithuania
+Education,2004,5.174280167,LTU,% of GDP,Lithuania
+Education,2005,4.878399849,LTU,% of GDP,Lithuania
+Education,2006,4.825729847,LTU,% of GDP,Lithuania
+Education,2007,4.595210075,LTU,% of GDP,Lithuania
+Education,2008,4.839900017,LTU,% of GDP,Lithuania
+Education,2009,5.585239887,LTU,% of GDP,Lithuania
+Education,2010,5.297860146,LTU,% of GDP,Lithuania
+Education,2011,5.113430023,LTU,% of GDP,Lithuania
+Education,2012,4.758029938,LTU,% of GDP,Lithuania
+Education,2013,4.602330208,LTU,% of GDP,Lithuania
+Education,2014,4.486579895,LTU,% of GDP,Lithuania
+Education,2015,4.227190018,LTU,% of GDP,Lithuania
+Education,2016,4.004310131,LTU,% of GDP,Lithuania
+Education,2017,3.812200069,LTU,% of GDP,Lithuania
+Education,2018,3.892930031,LTU,% of GDP,Lithuania
+Education,2019,3.972150087,LTU,% of GDP,Lithuania
+Education,2001,3.539730072,LUX,% of GDP,Luxembourg
+Education,2010,5.289154707,LUX,% of GDP,Luxembourg
+Education,2011,5.123529466,LUX,% of GDP,Luxembourg
+Education,2012,3.87816,LUX,% of GDP,Luxembourg
+Education,2013,3.905838013,LUX,% of GDP,Luxembourg
+Education,2014,3.855690002,LUX,% of GDP,Luxembourg
+Education,2015,3.767920017,LUX,% of GDP,Luxembourg
+Education,2016,3.485594988,LUX,% of GDP,Luxembourg
+Education,2017,3.48645997,LUX,% of GDP,Luxembourg
+Education,2018,3.647490025,LUX,% of GDP,Luxembourg
+Education,2019,3.719820023,LUX,% of GDP,Luxembourg
+Education,2020,4.97,LUX,% of GDP,Luxembourg
+Education,2000,5.274270058,LVA,% of GDP,Latvia
+Education,2001,5.446959972,LVA,% of GDP,Latvia
+Education,2002,5.602540016,LVA,% of GDP,Latvia
+Education,2003,5.057149887,LVA,% of GDP,Latvia
+Education,2004,4.834060192,LVA,% of GDP,Latvia
+Education,2006,4.684669971,LVA,% of GDP,Latvia
+Education,2007,4.633289814,LVA,% of GDP,Latvia
+Education,2008,5.366449833,LVA,% of GDP,Latvia
+Education,2009,5.522659779,LVA,% of GDP,Latvia
+Education,2010,5.03881979,LVA,% of GDP,Latvia
+Education,2011,5.071619987,LVA,% of GDP,Latvia
+Education,2012,6.582709789,LVA,% of GDP,Latvia
+Education,2013,6.996970177,LVA,% of GDP,Latvia
+Education,2014,5.281229973,LVA,% of GDP,Latvia
+Education,2015,5.282519817,LVA,% of GDP,Latvia
+Education,2016,4.65749979,LVA,% of GDP,Latvia
+Education,2017,4.366710186,LVA,% of GDP,Latvia
+Education,2018,4.243569851,LVA,% of GDP,Latvia
+Education,2019,4.425079823,LVA,% of GDP,Latvia
+Education,2020,5.97,LVA,% of GDP,Latvia
+Education,2000,3.314389944,MAC,% of GDP,Macau
+Education,2001,2.71446991,MAC,% of GDP,Macau
+Education,2002,2.842959881,MAC,% of GDP,Macau
+Education,2003,2.780169964,MAC,% of GDP,Macau
+Education,2004,2.23348999,MAC,% of GDP,Macau
+Education,2005,2.277879953,MAC,% of GDP,Macau
+Education,2006,2.193860054,MAC,% of GDP,Macau
+Education,2007,2.043450117,MAC,% of GDP,Macau
+Education,2008,2.196409941,MAC,% of GDP,Macau
+Education,2009,2.533230066,MAC,% of GDP,Macau
+Education,2010,2.618489981,MAC,% of GDP,Macau
+Education,2011,2.675280094,MAC,% of GDP,Macau
+Education,2012,3.325160027,MAC,% of GDP,Macau
+Education,2013,2.050489902,MAC,% of GDP,Macau
+Education,2014,2.048530102,MAC,% of GDP,Macau
+Education,2015,3.002470016,MAC,% of GDP,Macau
+Education,2016,3.099529982,MAC,% of GDP,Macau
+Education,2017,2.706429958,MAC,% of GDP,Macau
+Education,2018,2.728780031,MAC,% of GDP,Macau
+Education,2019,3.05862999,MAC,% of GDP,Macau
+Education,2020,6.300000191,MAC,% of GDP,Macau
+Education,2008,5.342150211,MAR,% of GDP,Morocco
+Education,2009,5.260640144,MAR,% of GDP,Morocco
+Education,2012,6.042975842,MAR,% of GDP,Morocco
+Education,2014,5.933514917,MAR,% of GDP,Morocco
+Education,2015,4.645979881,MAR,% of GDP,Morocco
+Education,2016,5.491933808,MAR,% of GDP,Morocco
+Education,2017,5.118319988,MAR,% of GDP,Morocco
+Education,2018,5.348849773,MAR,% of GDP,Morocco
+Education,2019,5.931359768,MAR,% of GDP,Morocco
+Education,2020,6.754300117,MAR,% of GDP,Morocco
+Education,2000,4.486390114,MDA,% of GDP,Moldova
+Education,2001,4.846849918,MDA,% of GDP,Moldova
+Education,2002,5.497910023,MDA,% of GDP,Moldova
+Education,2003,5.424890041,MDA,% of GDP,Moldova
+Education,2004,6.771039963,MDA,% of GDP,Moldova
+Education,2005,7.162700176,MDA,% of GDP,Moldova
+Education,2006,7.498990059,MDA,% of GDP,Moldova
+Education,2007,8.293370247,MDA,% of GDP,Moldova
+Education,2008,8.237270355,MDA,% of GDP,Moldova
+Education,2009,9.509759903,MDA,% of GDP,Moldova
+Education,2010,7.592299938,MDA,% of GDP,Moldova
+Education,2011,7.136380196,MDA,% of GDP,Moldova
+Education,2012,6.983389854,MDA,% of GDP,Moldova
+Education,2013,5.909759998,MDA,% of GDP,Moldova
+Education,2014,6.266019821,MDA,% of GDP,Moldova
+Education,2015,5.805689812,MDA,% of GDP,Moldova
+Education,2016,5.608449936,MDA,% of GDP,Moldova
+Education,2017,5.618440151,MDA,% of GDP,Moldova
+Education,2018,5.439730167,MDA,% of GDP,Moldova
+Education,2019,6.103789806,MDA,% of GDP,Moldova
+Education,2020,6.388720036,MDA,% of GDP,Moldova
+Education,2000,2.438689947,MDG,% of GDP,Madagascar
+Education,2001,2.70720005,MDG,% of GDP,Madagascar
+Education,2002,2.231790066,MDG,% of GDP,Madagascar
+Education,2003,2.610949993,MDG,% of GDP,Madagascar
+Education,2004,2.812619925,MDG,% of GDP,Madagascar
+Education,2005,3.309639931,MDG,% of GDP,Madagascar
+Education,2006,2.830970049,MDG,% of GDP,Madagascar
+Education,2007,2.902740002,MDG,% of GDP,Madagascar
+Education,2008,2.554339886,MDG,% of GDP,Madagascar
+Education,2009,2.825129986,MDG,% of GDP,Madagascar
+Education,2010,2.75,MDG,% of GDP,Madagascar
+Education,2011,2.381680012,MDG,% of GDP,Madagascar
+Education,2012,2.340670109,MDG,% of GDP,Madagascar
+Education,2013,1.776939988,MDG,% of GDP,Madagascar
+Education,2014,2.381230116,MDG,% of GDP,Madagascar
+Education,2015,2.210119963,MDG,% of GDP,Madagascar
+Education,2016,2.687190056,MDG,% of GDP,Madagascar
+Education,2017,2.701370001,MDG,% of GDP,Madagascar
+Education,2018,2.844099998,MDG,% of GDP,Madagascar
+Education,2019,2.994859934,MDG,% of GDP,Madagascar
+Education,2020,3.095710039,MDG,% of GDP,Madagascar
+Education,2002,5.791860104,MDV,% of GDP,Maldives
+Education,2003,5.324069977,MDV,% of GDP,Maldives
+Education,2004,4.661600113,MDV,% of GDP,Maldives
+Education,2005,5.016839981,MDV,% of GDP,Maldives
+Education,2006,4.64523983,MDV,% of GDP,Maldives
+Education,2007,4.417880058,MDV,% of GDP,Maldives
+Education,2008,4.470290184,MDV,% of GDP,Maldives
+Education,2009,5.081689835,MDV,% of GDP,Maldives
+Education,2010,3.633280039,MDV,% of GDP,Maldives
+Education,2011,3.080729961,MDV,% of GDP,Maldives
+Education,2012,3.34085989,MDV,% of GDP,Maldives
+Education,2013,3.388299942,MDV,% of GDP,Maldives
+Education,2014,3.088589907,MDV,% of GDP,Maldives
+Education,2015,3.887510061,MDV,% of GDP,Maldives
+Education,2016,3.686990023,MDV,% of GDP,Maldives
+Education,2017,3.887470007,MDV,% of GDP,Maldives
+Education,2018,3.912489891,MDV,% of GDP,Maldives
+Education,2019,4.121590137,MDV,% of GDP,Maldives
+Education,2020,5.800466994,MDV,% of GDP,Maldives
+Education,2000,3.992439985,MEX,% of GDP,Mexico
+Education,2001,4.24104023,MEX,% of GDP,Mexico
+Education,2002,4.454959869,MEX,% of GDP,Mexico
+Education,2003,5.072579861,MEX,% of GDP,Mexico
+Education,2004,4.726709843,MEX,% of GDP,Mexico
+Education,2005,4.845689774,MEX,% of GDP,Mexico
+Education,2006,4.699920177,MEX,% of GDP,Mexico
+Education,2007,4.690509796,MEX,% of GDP,Mexico
+Education,2008,4.82006979,MEX,% of GDP,Mexico
+Education,2009,5.187940121,MEX,% of GDP,Mexico
+Education,2010,5.159220219,MEX,% of GDP,Mexico
+Education,2011,5.105649948,MEX,% of GDP,Mexico
+Education,2012,5.103099823,MEX,% of GDP,Mexico
+Education,2013,4.696050167,MEX,% of GDP,Mexico
+Education,2014,5.257470131,MEX,% of GDP,Mexico
+Education,2015,5.229420185,MEX,% of GDP,Mexico
+Education,2016,4.90681982,MEX,% of GDP,Mexico
+Education,2017,4.518219948,MEX,% of GDP,Mexico
+Education,2018,4.254220009,MEX,% of GDP,Mexico
+Education,2002,8.208979607,MHL,% of GDP,Marshall Islands
+Education,2003,11.81980038,MHL,% of GDP,Marshall Islands
+Education,2008,17.55999947,MHL,% of GDP,Marshall Islands
+Education,2009,23.27000046,MHL,% of GDP,Marshall Islands
+Education,2010,20.59000015,MHL,% of GDP,Marshall Islands
+Education,2011,19.70999908,MHL,% of GDP,Marshall Islands
+Education,2012,15.59000015,MHL,% of GDP,Marshall Islands
+Education,2013,15.98999977,MHL,% of GDP,Marshall Islands
+Education,2014,15.67000008,MHL,% of GDP,Marshall Islands
+Education,2015,17.62999916,MHL,% of GDP,Marshall Islands
+Education,2016,15.27999973,MHL,% of GDP,Marshall Islands
+Education,2017,15.22000027,MHL,% of GDP,Marshall Islands
+Education,2018,15.19999981,MHL,% of GDP,Marshall Islands
+Education,2019,15.75,MHL,% of GDP,Marshall Islands
+Education,2020,13.62500368,MHL,% of GDP,Marshall Islands
+Education,2002,3.300149918,MKD,% of GDP,North Macedonia
+Education,2000,2.971560001,MLI,% of GDP,Mali
+Education,2001,2.658449888,MLI,% of GDP,Mali
+Education,2002,2.896229982,MLI,% of GDP,Mali
+Education,2003,3.805599928,MLI,% of GDP,Mali
+Education,2004,3.859220028,MLI,% of GDP,Mali
+Education,2005,3.52218008,MLI,% of GDP,Mali
+Education,2008,3.403559923,MLI,% of GDP,Mali
+Education,2009,3.869040012,MLI,% of GDP,Mali
+Education,2010,3.343889952,MLI,% of GDP,Mali
+Education,2011,3.754230022,MLI,% of GDP,Mali
+Education,2012,3.479490042,MLI,% of GDP,Mali
+Education,2013,3.284650087,MLI,% of GDP,Mali
+Education,2014,3.648190022,MLI,% of GDP,Mali
+Education,2015,3.801520109,MLI,% of GDP,Mali
+Education,2016,3.094779968,MLI,% of GDP,Mali
+Education,2017,3.789769888,MLI,% of GDP,Mali
+Education,2018,3.90557003,MLI,% of GDP,Mali
+Education,2019,3.484100103,MLI,% of GDP,Mali
+Education,2020,3.763430119,MLI,% of GDP,Mali
+Education,2021,4.401480198,MLI,% of GDP,Mali
+Education,2002,4.143050194,MLT,% of GDP,Malta
+Education,2004,4.434929848,MLT,% of GDP,Malta
+Education,2007,5.947500229,MLT,% of GDP,Malta
+Education,2008,5.501210213,MLT,% of GDP,Malta
+Education,2009,5.070390224,MLT,% of GDP,Malta
+Education,2010,6.250040054,MLT,% of GDP,Malta
+Education,2011,7.696129799,MLT,% of GDP,Malta
+Education,2012,6.345459938,MLT,% of GDP,Malta
+Education,2013,7.579239845,MLT,% of GDP,Malta
+Education,2014,7.004209995,MLT,% of GDP,Malta
+Education,2015,5.023980141,MLT,% of GDP,Malta
+Education,2016,5.084459782,MLT,% of GDP,Malta
+Education,2017,4.651629925,MLT,% of GDP,Malta
+Education,2018,5.136470998,MLT,% of GDP,Malta
+Education,2019,4.988059998,MLT,% of GDP,Malta
+Education,2020,5.87,MLT,% of GDP,Malta
+Education,2010,0.899999976,MMR,% of GDP,Myanmar
+Education,2011,0.850319982,MMR,% of GDP,Myanmar
+Education,2012,1.600000024,MMR,% of GDP,Myanmar
+Education,2013,2.099999905,MMR,% of GDP,Myanmar
+Education,2014,1.899999976,MMR,% of GDP,Myanmar
+Education,2015,2.099999905,MMR,% of GDP,Myanmar
+Education,2016,1.899999976,MMR,% of GDP,Myanmar
+Education,2017,2.32633996,MMR,% of GDP,Myanmar
+Education,2018,2.157480001,MMR,% of GDP,Myanmar
+Education,2019,2.139869928,MMR,% of GDP,Myanmar
+Education,2000,5.550370216,MNG,% of GDP,Mongolia
+Education,2002,7.210780144,MNG,% of GDP,Mongolia
+Education,2004,4.325729847,MNG,% of GDP,Mongolia
+Education,2007,4.690130234,MNG,% of GDP,Mongolia
+Education,2009,5.144849777,MNG,% of GDP,Mongolia
+Education,2010,4.645100117,MNG,% of GDP,Mongolia
+Education,2011,4.60902977,MNG,% of GDP,Mongolia
+Education,2012,5.961984909,MNG,% of GDP,Mongolia
+Education,2013,5.241040356,MNG,% of GDP,Mongolia
+Education,2014,5.428255846,MNG,% of GDP,Mongolia
+Education,2015,4.387156511,MNG,% of GDP,Mongolia
+Education,2016,5.200432869,MNG,% of GDP,Mongolia
+Education,2017,4.3182238,MNG,% of GDP,Mongolia
+Education,2018,9.859838151,MNG,% of GDP,Mongolia
+Education,2019,11.78094092,MNG,% of GDP,Mongolia
+Education,2020,4.65991199,MNG,% of GDP,Mongolia
+Education,2004,3.326699972,MOZ,% of GDP,Mozambique
+Education,2005,4.00578022,MOZ,% of GDP,Mozambique
+Education,2006,3.871469975,MOZ,% of GDP,Mozambique
+Education,2010,5.952929974,MOZ,% of GDP,Mozambique
+Education,2011,6.260409832,MOZ,% of GDP,Mozambique
+Education,2012,5.672160149,MOZ,% of GDP,Mozambique
+Education,2013,6.115330219,MOZ,% of GDP,Mozambique
+Education,2014,6.876329899,MOZ,% of GDP,Mozambique
+Education,2015,6.010829926,MOZ,% of GDP,Mozambique
+Education,2016,5.865039825,MOZ,% of GDP,Mozambique
+Education,2017,5.505559921,MOZ,% of GDP,Mozambique
+Education,2018,5.452189922,MOZ,% of GDP,Mozambique
+Education,2019,6.084420204,MOZ,% of GDP,Mozambique
+Education,2020,6.260590076,MOZ,% of GDP,Mozambique
+Education,2001,2.106839895,MRT,% of GDP,Mauritania
+Education,2002,2.277149916,MRT,% of GDP,Mauritania
+Education,2003,2.365010023,MRT,% of GDP,Mauritania
+Education,2004,1.950799942,MRT,% of GDP,Mauritania
+Education,2006,1.958510041,MRT,% of GDP,Mauritania
+Education,2011,2.331020117,MRT,% of GDP,Mauritania
+Education,2012,2.158210039,MRT,% of GDP,Mauritania
+Education,2013,2.293540001,MRT,% of GDP,Mauritania
+Education,2014,2.557964235,MRT,% of GDP,Mauritania
+Education,2015,2.829565989,MRT,% of GDP,Mauritania
+Education,2016,1.944059968,MRT,% of GDP,Mauritania
+Education,2019,1.824370027,MRT,% of GDP,Mauritania
+Education,2020,1.881160021,MRT,% of GDP,Mauritania
+Education,2000,3.769109964,MUS,% of GDP,Mauritius
+Education,2001,3.114860058,MUS,% of GDP,Mauritius
+Education,2002,3.060899973,MUS,% of GDP,Mauritius
+Education,2003,4.415830135,MUS,% of GDP,Mauritius
+Education,2004,4.31306982,MUS,% of GDP,Mauritius
+Education,2005,4.078199863,MUS,% of GDP,Mauritius
+Education,2006,3.697510004,MUS,% of GDP,Mauritius
+Education,2007,3.185400009,MUS,% of GDP,Mauritius
+Education,2008,3.063070059,MUS,% of GDP,Mauritius
+Education,2009,3.047310114,MUS,% of GDP,Mauritius
+Education,2010,3.551470041,MUS,% of GDP,Mauritius
+Education,2011,3.332070112,MUS,% of GDP,Mauritius
+Education,2012,3.418200016,MUS,% of GDP,Mauritius
+Education,2013,3.61578989,MUS,% of GDP,Mauritius
+Education,2014,4.916950226,MUS,% of GDP,Mauritius
+Education,2015,4.886670113,MUS,% of GDP,Mauritius
+Education,2016,5.013599873,MUS,% of GDP,Mauritius
+Education,2017,5.02312994,MUS,% of GDP,Mauritius
+Education,2018,4.834589958,MUS,% of GDP,Mauritius
+Education,2019,4.719299793,MUS,% of GDP,Mauritius
+Education,2020,4.608170033,MUS,% of GDP,Mauritius
+Education,2021,4.877280235,MUS,% of GDP,Mauritius
+Education,2000,5.247970104,MWI,% of GDP,Malawi
+Education,2001,4.508979797,MWI,% of GDP,Malawi
+Education,2003,3.215660095,MWI,% of GDP,Malawi
+Education,2010,3.539799929,MWI,% of GDP,Malawi
+Education,2011,4.152619839,MWI,% of GDP,Malawi
+Education,2012,3.679863777,MWI,% of GDP,Malawi
+Education,2013,5.41617012,MWI,% of GDP,Malawi
+Education,2014,4.839839935,MWI,% of GDP,Malawi
+Education,2015,5.608660221,MWI,% of GDP,Malawi
+Education,2016,4.748569965,MWI,% of GDP,Malawi
+Education,2017,4.031330109,MWI,% of GDP,Malawi
+Education,2018,3.3229599,MWI,% of GDP,Malawi
+Education,2019,3.711319923,MWI,% of GDP,Malawi
+Education,2020,2.907619953,MWI,% of GDP,Malawi
+Education,2000,5.971610069,MYS,% of GDP,Malaysia
+Education,2001,7.484469891,MYS,% of GDP,Malaysia
+Education,2002,7.657929897,MYS,% of GDP,Malaysia
+Education,2003,7.502880096,MYS,% of GDP,Malaysia
+Education,2004,5.923890114,MYS,% of GDP,Malaysia
+Education,2006,4.485760212,MYS,% of GDP,Malaysia
+Education,2007,4.372539997,MYS,% of GDP,Malaysia
+Education,2008,3.958519936,MYS,% of GDP,Malaysia
+Education,2009,5.974180222,MYS,% of GDP,Malaysia
+Education,2010,4.966450214,MYS,% of GDP,Malaysia
+Education,2011,5.76293993,MYS,% of GDP,Malaysia
+Education,2012,5.739029884,MYS,% of GDP,Malaysia
+Education,2013,5.481200218,MYS,% of GDP,Malaysia
+Education,2014,5.212639809,MYS,% of GDP,Malaysia
+Education,2015,4.894869804,MYS,% of GDP,Malaysia
+Education,2016,4.751920223,MYS,% of GDP,Malaysia
+Education,2017,4.675310135,MYS,% of GDP,Malaysia
+Education,2018,4.478650093,MYS,% of GDP,Malaysia
+Education,2019,4.156610012,MYS,% of GDP,Malaysia
+Education,2020,3.916970015,MYS,% of GDP,Malaysia
+Education,2000,6.901780128,NAM,% of GDP,Namibia
+Education,2001,6.888869762,NAM,% of GDP,Namibia
+Education,2002,6.742330074,NAM,% of GDP,Namibia
+Education,2003,6.137139797,NAM,% of GDP,Namibia
+Education,2006,6.031710148,NAM,% of GDP,Namibia
+Education,2008,6.403429985,NAM,% of GDP,Namibia
+Education,2010,8.243300438,NAM,% of GDP,Namibia
+Education,2011,7.397809982,NAM,% of GDP,Namibia
+Education,2012,7.793399811,NAM,% of GDP,Namibia
+Education,2013,8.609330177,NAM,% of GDP,Namibia
+Education,2014,9.577850342,NAM,% of GDP,Namibia
+Education,2015,9.850769997,NAM,% of GDP,Namibia
+Education,2016,10.63879967,NAM,% of GDP,Namibia
+Education,2017,9.708669662,NAM,% of GDP,Namibia
+Education,2018,8.881119728,NAM,% of GDP,Namibia
+Education,2019,8.92702961,NAM,% of GDP,Namibia
+Education,2020,9.446900368,NAM,% of GDP,Namibia
+Education,2021,9.640489578,NAM,% of GDP,Namibia
+Education,2000,2.565020084,NER,% of GDP,Niger
+Education,2001,2.279819965,NER,% of GDP,Niger
+Education,2002,2.401340008,NER,% of GDP,Niger
+Education,2003,1.937059999,NER,% of GDP,Niger
+Education,2006,2.558520079,NER,% of GDP,Niger
+Education,2007,3.014620066,NER,% of GDP,Niger
+Education,2008,2.723119974,NER,% of GDP,Niger
+Education,2009,3.335880041,NER,% of GDP,Niger
+Education,2010,2.721950054,NER,% of GDP,Niger
+Education,2011,3.077620029,NER,% of GDP,Niger
+Education,2012,3.18682003,NER,% of GDP,Niger
+Education,2013,3.689529896,NER,% of GDP,Niger
+Education,2014,5.103680134,NER,% of GDP,Niger
+Education,2015,4.486690044,NER,% of GDP,Niger
+Education,2016,2.958430052,NER,% of GDP,Niger
+Education,2017,2.578180075,NER,% of GDP,Niger
+Education,2018,3.457279921,NER,% of GDP,Niger
+Education,2019,3.527529955,NER,% of GDP,Niger
+Education,2020,3.837610006,NER,% of GDP,Niger
+Education,2010,0.466383682,NGA,% of GDP,Nigeria
+Education,2011,0.582609356,NGA,% of GDP,Nigeria
+Education,2012,0.545457318,NGA,% of GDP,Nigeria
+Education,2013,0.525614347,NGA,% of GDP,Nigeria
+Education,2000,3.001600027,NIC,% of GDP,Nicaragua
+Education,2002,2.391010046,NIC,% of GDP,Nicaragua
+Education,2003,2.422009945,NIC,% of GDP,Nicaragua
+Education,2010,4.484240055,NIC,% of GDP,Nicaragua
+Education,2014,4.0832901,NIC,% of GDP,Nicaragua
+Education,2015,4.078430176,NIC,% of GDP,Nicaragua
+Education,2016,4.081140041,NIC,% of GDP,Nicaragua
+Education,2017,4.357699871,NIC,% of GDP,Nicaragua
+Education,2018,4.46999979,NIC,% of GDP,Nicaragua
+Education,2019,4.599999905,NIC,% of GDP,Nicaragua
+Education,2020,4.630000114,NIC,% of GDP,Nicaragua
+Education,2000,4.585120201,NLD,% of GDP,Netherlands
+Education,2001,4.699649811,NLD,% of GDP,Netherlands
+Education,2002,4.805900097,NLD,% of GDP,Netherlands
+Education,2003,5.040420055,NLD,% of GDP,Netherlands
+Education,2004,5.062970161,NLD,% of GDP,Netherlands
+Education,2005,5.109399796,NLD,% of GDP,Netherlands
+Education,2006,5.044020176,NLD,% of GDP,Netherlands
+Education,2007,4.886829853,NLD,% of GDP,Netherlands
+Education,2008,5.029049873,NLD,% of GDP,Netherlands
+Education,2009,5.43156004,NLD,% of GDP,Netherlands
+Education,2010,5.489089966,NLD,% of GDP,Netherlands
+Education,2011,5.463039875,NLD,% of GDP,Netherlands
+Education,2012,5.410220146,NLD,% of GDP,Netherlands
+Education,2013,5.52655983,NLD,% of GDP,Netherlands
+Education,2014,5.458899975,NLD,% of GDP,Netherlands
+Education,2015,5.34815979,NLD,% of GDP,Netherlands
+Education,2016,5.479599953,NLD,% of GDP,Netherlands
+Education,2017,5.17509985,NLD,% of GDP,Netherlands
+Education,2018,5.357649803,NLD,% of GDP,Netherlands
+Education,2019,5.159860134,NLD,% of GDP,Netherlands
+Education,2020,5.3,NLD,% of GDP,Netherlands
+Education,2000,6.467269897,NOR,% of GDP,Norway
+Education,2001,6.830629826,NOR,% of GDP,Norway
+Education,2002,7.437290192,NOR,% of GDP,Norway
+Education,2003,7.416359901,NOR,% of GDP,Norway
+Education,2004,7.298270226,NOR,% of GDP,Norway
+Education,2005,6.865069866,NOR,% of GDP,Norway
+Education,2006,6.382760048,NOR,% of GDP,Norway
+Education,2007,6.534399986,NOR,% of GDP,Norway
+Education,2008,6.285220146,NOR,% of GDP,Norway
+Education,2009,7.10337019,NOR,% of GDP,Norway
+Education,2010,6.746339798,NOR,% of GDP,Norway
+Education,2011,6.454520226,NOR,% of GDP,Norway
+Education,2012,7.374700069,NOR,% of GDP,Norway
+Education,2013,7.485350132,NOR,% of GDP,Norway
+Education,2014,7.695040226,NOR,% of GDP,Norway
+Education,2015,7.569330215,NOR,% of GDP,Norway
+Education,2016,8.030550003,NOR,% of GDP,Norway
+Education,2017,7.911980152,NOR,% of GDP,Norway
+Education,2018,7.644110203,NOR,% of GDP,Norway
+Education,2019,7.938389778,NOR,% of GDP,Norway
+Education,2020,5.9,NOR,% of GDP,Norway
+Education,2000,2.975150108,NPL,% of GDP,Nepal
+Education,2001,3.708379984,NPL,% of GDP,Nepal
+Education,2002,3.152839899,NPL,% of GDP,Nepal
+Education,2003,3.11435008,NPL,% of GDP,Nepal
+Education,2004,3.171940088,NPL,% of GDP,Nepal
+Education,2005,3.364639997,NPL,% of GDP,Nepal
+Education,2006,3.605360031,NPL,% of GDP,Nepal
+Education,2007,3.517210007,NPL,% of GDP,Nepal
+Education,2008,3.805170059,NPL,% of GDP,Nepal
+Education,2009,4.663760185,NPL,% of GDP,Nepal
+Education,2010,3.631720066,NPL,% of GDP,Nepal
+Education,2011,3.842619896,NPL,% of GDP,Nepal
+Education,2012,3.528988558,NPL,% of GDP,Nepal
+Education,2013,3.202686398,NPL,% of GDP,Nepal
+Education,2014,3.485994115,NPL,% of GDP,Nepal
+Education,2015,3.294253684,NPL,% of GDP,Nepal
+Education,2016,3.477112228,NPL,% of GDP,Nepal
+Education,2017,3.528923819,NPL,% of GDP,Nepal
+Education,2018,3.66440562,NPL,% of GDP,Nepal
+Education,2019,3.485680901,NPL,% of GDP,Nepal
+Education,2020,4.183101012,NPL,% of GDP,Nepal
+Education,2001,6.560490131,NZL,% of GDP,New Zealand
+Education,2002,6.406990051,NZL,% of GDP,New Zealand
+Education,2003,6.437530041,NZL,% of GDP,New Zealand
+Education,2004,6.512030125,NZL,% of GDP,New Zealand
+Education,2005,6.278960228,NZL,% of GDP,New Zealand
+Education,2006,5.95276022,NZL,% of GDP,New Zealand
+Education,2007,5.919650078,NZL,% of GDP,New Zealand
+Education,2008,5.511449814,NZL,% of GDP,New Zealand
+Education,2009,6.288169861,NZL,% of GDP,New Zealand
+Education,2010,7.000390053,NZL,% of GDP,New Zealand
+Education,2011,6.939690113,NZL,% of GDP,New Zealand
+Education,2012,7.159930229,NZL,% of GDP,New Zealand
+Education,2013,6.701550007,NZL,% of GDP,New Zealand
+Education,2014,6.342430115,NZL,% of GDP,New Zealand
+Education,2015,6.325059891,NZL,% of GDP,New Zealand
+Education,2016,6.411789894,NZL,% of GDP,New Zealand
+Education,2017,6.259739876,NZL,% of GDP,New Zealand
+Education,2018,6.048500061,NZL,% of GDP,New Zealand
+Education,2019,5.163720131,NZL,% of GDP,New Zealand
+Education,2020,5.98,NZL,% of GDP,New Zealand
+Education,2000,3.200239897,OMN,% of GDP,Oman
+Education,2001,4.020319939,OMN,% of GDP,Oman
+Education,2002,4.325069904,OMN,% of GDP,Oman
+Education,2003,3.896990061,OMN,% of GDP,Oman
+Education,2004,4.02835989,OMN,% of GDP,Oman
+Education,2005,3.517210007,OMN,% of GDP,Oman
+Education,2006,3.859339952,OMN,% of GDP,Oman
+Education,2009,4.187739849,OMN,% of GDP,Oman
+Education,2010,4.796302837,OMN,% of GDP,Oman
+Education,2011,4.459726108,OMN,% of GDP,Oman
+Education,2012,4.797989805,OMN,% of GDP,Oman
+Education,2013,4.98458004,OMN,% of GDP,Oman
+Education,2017,5.840189934,OMN,% of GDP,Oman
+Education,2018,5.207230091,OMN,% of GDP,Oman
+Education,2019,5.413209915,OMN,% of GDP,Oman
+Education,2000,1.837820053,PAK,% of GDP,Pakistan
+Education,2004,1.767590046,PAK,% of GDP,Pakistan
+Education,2005,2.049720049,PAK,% of GDP,Pakistan
+Education,2006,2.395509958,PAK,% of GDP,Pakistan
+Education,2007,2.635270119,PAK,% of GDP,Pakistan
+Education,2008,2.746229887,PAK,% of GDP,Pakistan
+Education,2009,2.59078002,PAK,% of GDP,Pakistan
+Education,2010,2.286870003,PAK,% of GDP,Pakistan
+Education,2011,2.221750021,PAK,% of GDP,Pakistan
+Education,2012,2.13628006,PAK,% of GDP,Pakistan
+Education,2013,2.493439913,PAK,% of GDP,Pakistan
+Education,2014,2.465929985,PAK,% of GDP,Pakistan
+Education,2015,2.650019884,PAK,% of GDP,Pakistan
+Education,2016,3.002919912,PAK,% of GDP,Pakistan
+Education,2017,2.89951992,PAK,% of GDP,Pakistan
+Education,2018,2.597406589,PAK,% of GDP,Pakistan
+Education,2019,2.507550001,PAK,% of GDP,Pakistan
+Education,2020,2.365718404,PAK,% of GDP,Pakistan
+Education,2021,2.377573032,PAK,% of GDP,Pakistan
+Education,2000,3.228029966,PER,% of GDP,Peru
+Education,2001,3.037120104,PER,% of GDP,Peru
+Education,2002,2.820569992,PER,% of GDP,Peru
+Education,2003,2.937799931,PER,% of GDP,Peru
+Education,2004,2.957870007,PER,% of GDP,Peru
+Education,2005,2.839030027,PER,% of GDP,Peru
+Education,2006,2.652810097,PER,% of GDP,Peru
+Education,2007,2.629400015,PER,% of GDP,Peru
+Education,2008,2.867749929,PER,% of GDP,Peru
+Education,2009,3.139940023,PER,% of GDP,Peru
+Education,2010,2.867300034,PER,% of GDP,Peru
+Education,2011,2.663500071,PER,% of GDP,Peru
+Education,2012,2.92276001,PER,% of GDP,Peru
+Education,2013,3.297290087,PER,% of GDP,Peru
+Education,2014,3.695990086,PER,% of GDP,Peru
+Education,2015,3.969330072,PER,% of GDP,Peru
+Education,2016,3.813169956,PER,% of GDP,Peru
+Education,2017,3.931309938,PER,% of GDP,Peru
+Education,2018,3.714299917,PER,% of GDP,Peru
+Education,2019,3.819960117,PER,% of GDP,Peru
+Education,2020,4.246679783,PER,% of GDP,Peru
+Education,2021,3.981780052,PER,% of GDP,Peru
+Education,2000,3.164400101,PHL,% of GDP,Philippines
+Education,2001,2.92463994,PHL,% of GDP,Philippines
+Education,2002,2.89222002,PHL,% of GDP,Philippines
+Education,2003,2.935179949,PHL,% of GDP,Philippines
+Education,2004,2.469830036,PHL,% of GDP,Philippines
+Education,2005,2.328069925,PHL,% of GDP,Philippines
+Education,2006,2.425790071,PHL,% of GDP,Philippines
+Education,2007,2.485179901,PHL,% of GDP,Philippines
+Education,2008,2.582829952,PHL,% of GDP,Philippines
+Education,2009,2.537770033,PHL,% of GDP,Philippines
+Education,2010,2.309999943,PHL,% of GDP,Philippines
+Education,2011,2.499905862,PHL,% of GDP,Philippines
+Education,2012,2.517289088,PHL,% of GDP,Philippines
+Education,2013,3.019999981,PHL,% of GDP,Philippines
+Education,2014,2.933717139,PHL,% of GDP,Philippines
+Education,2015,3.518517127,PHL,% of GDP,Philippines
+Education,2016,3.034224374,PHL,% of GDP,Philippines
+Education,2017,3.971154497,PHL,% of GDP,Philippines
+Education,2018,3.864053185,PHL,% of GDP,Philippines
+Education,2019,3.355791534,PHL,% of GDP,Philippines
+Education,2020,3.734810629,PHL,% of GDP,Philippines
+Education,2000,8.017979622,PLW,% of GDP,Palau
+Education,2001,7.70720005,PLW,% of GDP,Palau
+Education,2002,7.521989822,PLW,% of GDP,Palau
+Education,2008,6.239999771,PLW,% of GDP,Palau
+Education,2009,7.570000172,PLW,% of GDP,Palau
+Education,2010,7.760000229,PLW,% of GDP,Palau
+Education,2011,7.53000021,PLW,% of GDP,Palau
+Education,2012,7.650000095,PLW,% of GDP,Palau
+Education,2013,6.889999866,PLW,% of GDP,Palau
+Education,2014,6.550000191,PLW,% of GDP,Palau
+Education,2015,5.710000038,PLW,% of GDP,Palau
+Education,2016,5.860000134,PLW,% of GDP,Palau
+Education,2017,6.590000153,PLW,% of GDP,Palau
+Education,2018,6.53000021,PLW,% of GDP,Palau
+Education,2019,6.809999943,PLW,% of GDP,Palau
+Education,2017,1.964930058,PNG,% of GDP,Papua New Guinea
+Education,2018,1.874830008,PNG,% of GDP,Papua New Guinea
+Education,2019,1.677750016,PNG,% of GDP,Papua New Guinea
+Education,2020,1.35,PNG,% of GDP,Papua New Guinea
+Education,2000,4.983930111,POL,% of GDP,Poland
+Education,2001,5.319029808,POL,% of GDP,Poland
+Education,2002,5.387350082,POL,% of GDP,Poland
+Education,2003,5.32449007,POL,% of GDP,Poland
+Education,2004,5.355579853,POL,% of GDP,Poland
+Education,2005,5.425749779,POL,% of GDP,Poland
+Education,2006,5.207650185,POL,% of GDP,Poland
+Education,2007,4.868740082,POL,% of GDP,Poland
+Education,2008,5.042399883,POL,% of GDP,Poland
+Education,2009,4.989769936,POL,% of GDP,Poland
+Education,2010,5.063020229,POL,% of GDP,Poland
+Education,2011,4.824969769,POL,% of GDP,Poland
+Education,2012,4.829549789,POL,% of GDP,Poland
+Education,2013,4.970620155,POL,% of GDP,Poland
+Education,2014,4.935540199,POL,% of GDP,Poland
+Education,2015,4.809939861,POL,% of GDP,Poland
+Education,2016,4.633399963,POL,% of GDP,Poland
+Education,2017,4.558460236,POL,% of GDP,Poland
+Education,2018,4.615799904,POL,% of GDP,Poland
+Education,2019,4.669209957,POL,% of GDP,Poland
+Education,2020,5.19,POL,% of GDP,Poland
+Education,2000,5.163849831,PRT,% of GDP,Portugal
+Education,2001,5.33713007,PRT,% of GDP,Portugal
+Education,2002,5.258719921,PRT,% of GDP,Portugal
+Education,2003,5.281529903,PRT,% of GDP,Portugal
+Education,2004,5.046380043,PRT,% of GDP,Portugal
+Education,2005,5.073949814,PRT,% of GDP,Portugal
+Education,2006,4.907670021,PRT,% of GDP,Portugal
+Education,2007,4.921470165,PRT,% of GDP,Portugal
+Education,2008,4.696090221,PRT,% of GDP,Portugal
+Education,2009,5.563149929,PRT,% of GDP,Portugal
+Education,2010,5.412489891,PRT,% of GDP,Portugal
+Education,2011,5.123330116,PRT,% of GDP,Portugal
+Education,2012,4.949409962,PRT,% of GDP,Portugal
+Education,2013,5.270969868,PRT,% of GDP,Portugal
+Education,2014,5.124000072,PRT,% of GDP,Portugal
+Education,2015,4.885540009,PRT,% of GDP,Portugal
+Education,2016,4.770905969,PRT,% of GDP,Portugal
+Education,2017,5.015610218,PRT,% of GDP,Portugal
+Education,2018,4.675159931,PRT,% of GDP,Portugal
+Education,2019,4.630020142,PRT,% of GDP,Portugal
+Education,2020,5.01,PRT,% of GDP,Portugal
+Education,2000,4.230209827,PRY,% of GDP,Paraguay
+Education,2001,3.833570004,PRY,% of GDP,Paraguay
+Education,2002,3.407730103,PRY,% of GDP,Paraguay
+Education,2003,3.382760048,PRY,% of GDP,Paraguay
+Education,2004,2.869899988,PRY,% of GDP,Paraguay
+Education,2007,2.739510059,PRY,% of GDP,Paraguay
+Education,2010,2.770720005,PRY,% of GDP,Paraguay
+Education,2011,3.692820072,PRY,% of GDP,Paraguay
+Education,2012,3.668790102,PRY,% of GDP,Paraguay
+Education,2013,4.809329987,PRY,% of GDP,Paraguay
+Education,2014,4.789110184,PRY,% of GDP,Paraguay
+Education,2015,3.338150024,PRY,% of GDP,Paraguay
+Education,2016,3.434979916,PRY,% of GDP,Paraguay
+Education,2017,3.08968997,PRY,% of GDP,Paraguay
+Education,2018,3.283200026,PRY,% of GDP,Paraguay
+Education,2019,3.469710112,PRY,% of GDP,Paraguay
+Education,2020,3.3036201,PRY,% of GDP,Paraguay
+Education,2000,2.868629932,ROU,% of GDP,Romania
+Education,2001,3.266289949,ROU,% of GDP,Romania
+Education,2002,3.504129887,ROU,% of GDP,Romania
+Education,2003,3.543970108,ROU,% of GDP,Romania
+Education,2004,3.312730074,ROU,% of GDP,Romania
+Education,2005,3.500390053,ROU,% of GDP,Romania
+Education,2006,4.306509972,ROU,% of GDP,Romania
+Education,2007,4.149539948,ROU,% of GDP,Romania
+Education,2008,4.097199917,ROU,% of GDP,Romania
+Education,2009,4.002130032,ROU,% of GDP,Romania
+Education,2010,3.493609905,ROU,% of GDP,Romania
+Education,2011,3.061369896,ROU,% of GDP,Romania
+Education,2012,2.963799953,ROU,% of GDP,Romania
+Education,2013,3.051739931,ROU,% of GDP,Romania
+Education,2014,3.121220112,ROU,% of GDP,Romania
+Education,2015,3.109630108,ROU,% of GDP,Romania
+Education,2016,2.979890108,ROU,% of GDP,Romania
+Education,2017,3.095390081,ROU,% of GDP,Romania
+Education,2018,3.344749928,ROU,% of GDP,Romania
+Education,2019,3.583189964,ROU,% of GDP,Romania
+Education,2020,3.69,ROU,% of GDP,Romania
+Education,2000,2.93979001,RUS,% of GDP,Russia
+Education,2001,3.106019974,RUS,% of GDP,Russia
+Education,2002,3.835020065,RUS,% of GDP,Russia
+Education,2003,3.678539991,RUS,% of GDP,Russia
+Education,2004,3.547869921,RUS,% of GDP,Russia
+Education,2005,3.771929979,RUS,% of GDP,Russia
+Education,2006,3.866260052,RUS,% of GDP,Russia
+Education,2008,4.101749897,RUS,% of GDP,Russia
+Education,2010,3.880484104,RUS,% of GDP,Russia
+Education,2011,4.708928108,RUS,% of GDP,Russia
+Education,2012,3.793100119,RUS,% of GDP,Russia
+Education,2013,3.763829947,RUS,% of GDP,Russia
+Education,2014,4.013879776,RUS,% of GDP,Russia
+Education,2015,3.834029913,RUS,% of GDP,Russia
+Education,2016,3.760440111,RUS,% of GDP,Russia
+Education,2017,4.689909935,RUS,% of GDP,Russia
+Education,2018,4.678199768,RUS,% of GDP,Russia
+Education,2019,3.5172451,RUS,% of GDP,Russia
+Education,2020,3.73,RUS,% of GDP,Russia
+Education,2000,3.436359882,RWA,% of GDP,Rwanda
+Education,2001,4.827859879,RWA,% of GDP,Rwanda
+Education,2007,3.987420082,RWA,% of GDP,Rwanda
+Education,2008,3.504080057,RWA,% of GDP,Rwanda
+Education,2010,4.633840084,RWA,% of GDP,Rwanda
+Education,2011,4.385980129,RWA,% of GDP,Rwanda
+Education,2012,4.423520088,RWA,% of GDP,Rwanda
+Education,2013,4.744919777,RWA,% of GDP,Rwanda
+Education,2014,4.19878006,RWA,% of GDP,Rwanda
+Education,2015,3.649159908,RWA,% of GDP,Rwanda
+Education,2016,3.436729908,RWA,% of GDP,Rwanda
+Education,2017,3.126460075,RWA,% of GDP,Rwanda
+Education,2018,3.073750019,RWA,% of GDP,Rwanda
+Education,2019,3.237070084,RWA,% of GDP,Rwanda
+Education,2020,3.330549955,RWA,% of GDP,Rwanda
+Education,2021,3.821559906,RWA,% of GDP,Rwanda
+Education,2000,1.012179971,SDN,% of GDP,Sudan
+Education,2002,1.164250016,SDN,% of GDP,Sudan
+Education,2004,1.312549949,SDN,% of GDP,Sudan
+Education,2005,1.178429961,SDN,% of GDP,Sudan
+Education,2006,1.553539991,SDN,% of GDP,Sudan
+Education,2008,1.851500034,SDN,% of GDP,Sudan
+Education,2009,2.022130013,SDN,% of GDP,Sudan
+Education,2000,2.463350058,SEN,% of GDP,Senegal
+Education,2001,2.471509933,SEN,% of GDP,Senegal
+Education,2002,2.594419956,SEN,% of GDP,Senegal
+Education,2003,2.751250029,SEN,% of GDP,Senegal
+Education,2004,3.077780008,SEN,% of GDP,Senegal
+Education,2005,4.064430237,SEN,% of GDP,Senegal
+Education,2006,3.8213799,SEN,% of GDP,Senegal
+Education,2008,4.025680065,SEN,% of GDP,Senegal
+Education,2009,4.920730114,SEN,% of GDP,Senegal
+Education,2010,5.217740059,SEN,% of GDP,Senegal
+Education,2011,4.903029919,SEN,% of GDP,Senegal
+Education,2012,4.776989937,SEN,% of GDP,Senegal
+Education,2013,5.686560154,SEN,% of GDP,Senegal
+Education,2014,5.720210075,SEN,% of GDP,Senegal
+Education,2015,5.45637989,SEN,% of GDP,Senegal
+Education,2016,5.113090038,SEN,% of GDP,Senegal
+Education,2017,4.624969959,SEN,% of GDP,Senegal
+Education,2018,4.8582201,SEN,% of GDP,Senegal
+Education,2019,5.348879814,SEN,% of GDP,Senegal
+Education,2020,5.497859955,SEN,% of GDP,Senegal
+Education,2000,3.32130003,SGP,% of GDP,Singapore
+Education,2001,3.542490005,SGP,% of GDP,Singapore
+Education,2002,3.878530025,SGP,% of GDP,Singapore
+Education,2003,3.981940031,SGP,% of GDP,Singapore
+Education,2004,3.652760029,SGP,% of GDP,Singapore
+Education,2005,3.195960045,SGP,% of GDP,Singapore
+Education,2006,2.859119892,SGP,% of GDP,Singapore
+Education,2007,2.946749926,SGP,% of GDP,Singapore
+Education,2008,2.764600039,SGP,% of GDP,Singapore
+Education,2009,3.010129929,SGP,% of GDP,Singapore
+Education,2010,3.080440044,SGP,% of GDP,Singapore
+Education,2011,3.030770063,SGP,% of GDP,Singapore
+Education,2012,3.070859909,SGP,% of GDP,Singapore
+Education,2013,2.85435009,SGP,% of GDP,Singapore
+Education,2014,2.92437005,SGP,% of GDP,Singapore
+Education,2015,2.863090038,SGP,% of GDP,Singapore
+Education,2016,2.874830008,SGP,% of GDP,Singapore
+Education,2017,2.768260002,SGP,% of GDP,Singapore
+Education,2018,2.855979919,SGP,% of GDP,Singapore
+Education,2019,2.736210108,SGP,% of GDP,Singapore
+Education,2020,2.506659985,SGP,% of GDP,Singapore
+Education,2021,2.806462389,SGP,% of GDP,Singapore
+Education,2007,8.2208004,SLB,% of GDP,Solomon Islands
+Education,2008,7.656330109,SLB,% of GDP,Solomon Islands
+Education,2009,7.288499832,SLB,% of GDP,Solomon Islands
+Education,2010,7.931739807,SLB,% of GDP,Solomon Islands
+Education,2011,8.125189781,SLB,% of GDP,Solomon Islands
+Education,2012,8.087030411,SLB,% of GDP,Solomon Islands
+Education,2013,10.17469978,SLB,% of GDP,Solomon Islands
+Education,2014,9.812000275,SLB,% of GDP,Solomon Islands
+Education,2015,10.13490009,SLB,% of GDP,Solomon Islands
+Education,2016,12,SLB,% of GDP,Solomon Islands
+Education,2017,12.10999966,SLB,% of GDP,Solomon Islands
+Education,2018,10.81000042,SLB,% of GDP,Solomon Islands
+Education,2019,11.13000011,SLB,% of GDP,Solomon Islands
+Education,2020,12.75,SLB,% of GDP,Solomon Islands
+Education,2000,4.949369907,SLE,% of GDP,Sierra Leone
+Education,2001,3.432719946,SLE,% of GDP,Sierra Leone
+Education,2002,3.54527998,SLE,% of GDP,Sierra Leone
+Education,2003,3.260610104,SLE,% of GDP,Sierra Leone
+Education,2004,3.107130051,SLE,% of GDP,Sierra Leone
+Education,2005,2.796979904,SLE,% of GDP,Sierra Leone
+Education,2007,2.558510065,SLE,% of GDP,Sierra Leone
+Education,2008,2.413170099,SLE,% of GDP,Sierra Leone
+Education,2009,2.778140068,SLE,% of GDP,Sierra Leone
+Education,2010,2.588639975,SLE,% of GDP,Sierra Leone
+Education,2011,2.668900013,SLE,% of GDP,Sierra Leone
+Education,2012,2.872040033,SLE,% of GDP,Sierra Leone
+Education,2013,2.379810095,SLE,% of GDP,Sierra Leone
+Education,2014,2.662919998,SLE,% of GDP,Sierra Leone
+Education,2015,3.057290077,SLE,% of GDP,Sierra Leone
+Education,2016,3.060230017,SLE,% of GDP,Sierra Leone
+Education,2017,4.660960197,SLE,% of GDP,Sierra Leone
+Education,2018,6.989630222,SLE,% of GDP,Sierra Leone
+Education,2019,7.44701004,SLE,% of GDP,Sierra Leone
+Education,2020,8.809550285,SLE,% of GDP,Sierra Leone
+Education,2021,9.08673954,SLE,% of GDP,Sierra Leone
+Education,2000,2.838680029,SLV,% of GDP,El Salvador
+Education,2002,3.242840052,SLV,% of GDP,El Salvador
+Education,2003,3.134670019,SLV,% of GDP,El Salvador
+Education,2005,3.177850008,SLV,% of GDP,El Salvador
+Education,2006,3.492980003,SLV,% of GDP,El Salvador
+Education,2007,3.60984993,SLV,% of GDP,El Salvador
+Education,2008,4.458109856,SLV,% of GDP,El Salvador
+Education,2009,4.659500122,SLV,% of GDP,El Salvador
+Education,2010,4.048079967,SLV,% of GDP,El Salvador
+Education,2011,3.89854002,SLV,% of GDP,El Salvador
+Education,2012,3.712440014,SLV,% of GDP,El Salvador
+Education,2013,3.801490068,SLV,% of GDP,El Salvador
+Education,2014,3.824160099,SLV,% of GDP,El Salvador
+Education,2015,3.909879923,SLV,% of GDP,El Salvador
+Education,2016,3.825239897,SLV,% of GDP,El Salvador
+Education,2017,3.725229979,SLV,% of GDP,El Salvador
+Education,2018,3.605750084,SLV,% of GDP,El Salvador
+Education,2019,3.385159969,SLV,% of GDP,El Salvador
+Education,2020,4.070828355,SLV,% of GDP,El Salvador
+Education,2010,2.62883997,SMR,% of GDP,San Marino
+Education,2011,2.702960014,SMR,% of GDP,San Marino
+Education,2015,3.44286575,SMR,% of GDP,San Marino
+Education,2016,3.337201596,SMR,% of GDP,San Marino
+Education,2017,3.369970083,SMR,% of GDP,San Marino
+Education,2018,3.555160046,SMR,% of GDP,San Marino
+Education,2019,3.379699945,SMR,% of GDP,San Marino
+Education,2020,3.424619913,SMR,% of GDP,San Marino
+Education,2017,0.12717403,SOM,% of GDP,Somalia
+Education,2018,0.230991211,SOM,% of GDP,Somalia
+Education,2019,0.27,SOM,% of GDP,Somalia
+Education,2007,4.209839821,SRB,% of GDP,Serbia
+Education,2008,4.441999912,SRB,% of GDP,Serbia
+Education,2009,4.483980179,SRB,% of GDP,Serbia
+Education,2010,4.327809811,SRB,% of GDP,Serbia
+Education,2011,4.238359928,SRB,% of GDP,Serbia
+Education,2012,4.164209843,SRB,% of GDP,Serbia
+Education,2014,3.926980019,SRB,% of GDP,Serbia
+Education,2015,3.78640008,SRB,% of GDP,Serbia
+Education,2016,3.63470006,SRB,% of GDP,Serbia
+Education,2017,3.710160017,SRB,% of GDP,Serbia
+Education,2018,3.582319975,SRB,% of GDP,Serbia
+Education,2019,3.616470098,SRB,% of GDP,Serbia
+Education,2011,0.962890029,SSD,% of GDP,South Sudan
+Education,2012,1.24552816,SSD,% of GDP,South Sudan
+Education,2013,1.024500012,SSD,% of GDP,South Sudan
+Education,2014,1.232460022,SSD,% of GDP,South Sudan
+Education,2015,1.465559959,SSD,% of GDP,South Sudan
+Education,2016,1.543900013,SSD,% of GDP,South Sudan
+Education,2002,2.720580101,STP,% of GDP,Sao Tome and Principe
+Education,2003,3.246929884,STP,% of GDP,Sao Tome and Principe
+Education,2004,3.234709978,STP,% of GDP,Sao Tome and Principe
+Education,2005,4.856450081,STP,% of GDP,Sao Tome and Principe
+Education,2006,4.271180153,STP,% of GDP,Sao Tome and Principe
+Education,2007,6.286829948,STP,% of GDP,Sao Tome and Principe
+Education,2008,5.554490089,STP,% of GDP,Sao Tome and Principe
+Education,2009,10.67790031,STP,% of GDP,Sao Tome and Principe
+Education,2010,9.651470184,STP,% of GDP,Sao Tome and Principe
+Education,2011,8.89109993,STP,% of GDP,Sao Tome and Principe
+Education,2012,6.339509964,STP,% of GDP,Sao Tome and Principe
+Education,2013,5.939690113,STP,% of GDP,Sao Tome and Principe
+Education,2014,3.749059916,STP,% of GDP,Sao Tome and Principe
+Education,2015,3.864599943,STP,% of GDP,Sao Tome and Principe
+Education,2016,5.173039913,STP,% of GDP,Sao Tome and Principe
+Education,2017,5.036369801,STP,% of GDP,Sao Tome and Principe
+Education,2018,5.235109806,STP,% of GDP,Sao Tome and Principe
+Education,2019,5.921549797,STP,% of GDP,Sao Tome and Principe
+Education,2020,5.011380196,STP,% of GDP,Sao Tome and Principe
+Education,2000,3.864680052,SVK,% of GDP,Slovakia
+Education,2001,3.93569994,SVK,% of GDP,Slovakia
+Education,2002,4.245399952,SVK,% of GDP,Slovakia
+Education,2003,4.209569931,SVK,% of GDP,Slovakia
+Education,2004,4.101570129,SVK,% of GDP,Slovakia
+Education,2005,3.759959936,SVK,% of GDP,Slovakia
+Education,2006,3.707700014,SVK,% of GDP,Slovakia
+Education,2007,3.523210049,SVK,% of GDP,Slovakia
+Education,2008,3.521650076,SVK,% of GDP,Slovakia
+Education,2009,4.006410122,SVK,% of GDP,Slovakia
+Education,2010,4.060910225,SVK,% of GDP,Slovakia
+Education,2011,3.915199995,SVK,% of GDP,Slovakia
+Education,2012,3.874190092,SVK,% of GDP,Slovakia
+Education,2013,4.084050179,SVK,% of GDP,Slovakia
+Education,2014,4.230410099,SVK,% of GDP,Slovakia
+Education,2015,4.592060089,SVK,% of GDP,Slovakia
+Education,2016,3.91286993,SVK,% of GDP,Slovakia
+Education,2017,3.942780018,SVK,% of GDP,Slovakia
+Education,2018,3.972569942,SVK,% of GDP,Slovakia
+Education,2019,4.29046011,SVK,% of GDP,Slovakia
+Education,2020,4.61,SVK,% of GDP,Slovakia
+Education,2001,5.756830215,SVN,% of GDP,Slovenia
+Education,2002,5.672860146,SVN,% of GDP,Slovenia
+Education,2003,5.70333004,SVN,% of GDP,Slovenia
+Education,2004,5.64425993,SVN,% of GDP,Slovenia
+Education,2005,5.6040802,SVN,% of GDP,Slovenia
+Education,2006,5.590660095,SVN,% of GDP,Slovenia
+Education,2007,5.11661005,SVN,% of GDP,Slovenia
+Education,2008,5.109519958,SVN,% of GDP,Slovenia
+Education,2009,5.554969788,SVN,% of GDP,Slovenia
+Education,2010,5.545460224,SVN,% of GDP,Slovenia
+Education,2011,5.541259766,SVN,% of GDP,Slovenia
+Education,2012,5.620230198,SVN,% of GDP,Slovenia
+Education,2013,5.405729771,SVN,% of GDP,Slovenia
+Education,2014,5.291699886,SVN,% of GDP,Slovenia
+Education,2015,4.909530163,SVN,% of GDP,Slovenia
+Education,2016,4.792669773,SVN,% of GDP,Slovenia
+Education,2017,4.780539989,SVN,% of GDP,Slovenia
+Education,2018,4.935870171,SVN,% of GDP,Slovenia
+Education,2019,4.910289764,SVN,% of GDP,Slovenia
+Education,2020,5.76,SVN,% of GDP,Slovenia
+Education,2000,6.740149975,SWE,% of GDP,Sweden
+Education,2001,6.617640018,SWE,% of GDP,Sweden
+Education,2002,6.924349785,SWE,% of GDP,Sweden
+Education,2003,6.791429996,SWE,% of GDP,Sweden
+Education,2004,6.663109779,SWE,% of GDP,Sweden
+Education,2005,6.506400108,SWE,% of GDP,Sweden
+Education,2006,6.364290237,SWE,% of GDP,Sweden
+Education,2007,6.171589851,SWE,% of GDP,Sweden
+Education,2008,6.344550133,SWE,% of GDP,Sweden
+Education,2009,6.749710083,SWE,% of GDP,Sweden
+Education,2010,6.522689819,SWE,% of GDP,Sweden
+Education,2011,6.366919994,SWE,% of GDP,Sweden
+Education,2012,7.536970139,SWE,% of GDP,Sweden
+Education,2013,7.611209869,SWE,% of GDP,Sweden
+Education,2014,7.573729992,SWE,% of GDP,Sweden
+Education,2015,7.443900108,SWE,% of GDP,Sweden
+Education,2016,7.618619919,SWE,% of GDP,Sweden
+Education,2017,7.568830013,SWE,% of GDP,Sweden
+Education,2018,7.640840054,SWE,% of GDP,Sweden
+Education,2019,7.638510227,SWE,% of GDP,Sweden
+Education,2020,7.17,SWE,% of GDP,Sweden
+Education,2000,5.508480072,SWZ,% of GDP,Eswatini
+Education,2001,4.838240147,SWZ,% of GDP,Eswatini
+Education,2002,4.440869808,SWZ,% of GDP,Eswatini
+Education,2003,5.816770077,SWZ,% of GDP,Eswatini
+Education,2004,5.401609898,SWZ,% of GDP,Eswatini
+Education,2005,6.484620094,SWZ,% of GDP,Eswatini
+Education,2006,6.554759979,SWZ,% of GDP,Eswatini
+Education,2008,6.618120193,SWZ,% of GDP,Eswatini
+Education,2009,6.471350193,SWZ,% of GDP,Eswatini
+Education,2010,6.118370056,SWZ,% of GDP,Eswatini
+Education,2011,6.864329815,SWZ,% of GDP,Eswatini
+Education,2012,5.59408856,SWZ,% of GDP,Eswatini
+Education,2013,5.084610297,SWZ,% of GDP,Eswatini
+Education,2014,7.070590019,SWZ,% of GDP,Eswatini
+Education,2015,5.355750084,SWZ,% of GDP,Eswatini
+Education,2016,5.414669991,SWZ,% of GDP,Eswatini
+Education,2017,6.138090134,SWZ,% of GDP,Eswatini
+Education,2018,5.679160118,SWZ,% of GDP,Eswatini
+Education,2019,5.645549774,SWZ,% of GDP,Eswatini
+Education,2020,5.342339993,SWZ,% of GDP,Eswatini
+Education,2021,4.995299816,SWZ,% of GDP,Eswatini
+Education,2002,5.193329811,SYC,% of GDP,Seychelles
+Education,2003,5.374929905,SYC,% of GDP,Seychelles
+Education,2006,4.770120144,SYC,% of GDP,Seychelles
+Education,2010,3.548259974,SYC,% of GDP,Seychelles
+Education,2011,3.606440067,SYC,% of GDP,Seychelles
+Education,2012,2.613929987,SYC,% of GDP,Seychelles
+Education,2013,3.608129978,SYC,% of GDP,Seychelles
+Education,2014,4.083680153,SYC,% of GDP,Seychelles
+Education,2015,4.222899914,SYC,% of GDP,Seychelles
+Education,2016,4.421020031,SYC,% of GDP,Seychelles
+Education,2017,3.677289963,SYC,% of GDP,Seychelles
+Education,2018,4.498839855,SYC,% of GDP,Seychelles
+Education,2019,3.914589882,SYC,% of GDP,Seychelles
+Education,2020,5.150730133,SYC,% of GDP,Seychelles
+Education,2000,2.646709919,TCD,% of GDP,Chad
+Education,2001,2.42614007,TCD,% of GDP,Chad
+Education,2004,1.592949986,TCD,% of GDP,Chad
+Education,2005,1.694769979,TCD,% of GDP,Chad
+Education,2009,2.311739922,TCD,% of GDP,Chad
+Education,2010,1.981940031,TCD,% of GDP,Chad
+Education,2011,2.2579,TCD,% of GDP,Chad
+Education,2012,2.206150055,TCD,% of GDP,Chad
+Education,2013,2.850709915,TCD,% of GDP,Chad
+Education,2014,2.599999905,TCD,% of GDP,Chad
+Education,2015,2.400000095,TCD,% of GDP,Chad
+Education,2016,2.299999952,TCD,% of GDP,Chad
+Education,2017,2.454819918,TCD,% of GDP,Chad
+Education,2018,2.25948,TCD,% of GDP,Chad
+Education,2019,2.372459888,TCD,% of GDP,Chad
+Education,2020,2.90850997,TCD,% of GDP,Chad
+Education,2021,2.88812995,TCD,% of GDP,Chad
+Education,2000,3.920900106,TGO,% of GDP,Togo
+Education,2001,3.767040014,TGO,% of GDP,Togo
+Education,2002,3.487449884,TGO,% of GDP,Togo
+Education,2003,3.326090097,TGO,% of GDP,Togo
+Education,2004,3.109630108,TGO,% of GDP,Togo
+Education,2005,3.159780025,TGO,% of GDP,Togo
+Education,2006,3.435009956,TGO,% of GDP,Togo
+Education,2007,3.510629892,TGO,% of GDP,Togo
+Education,2008,3.285300016,TGO,% of GDP,Togo
+Education,2009,3.867880106,TGO,% of GDP,Togo
+Education,2010,4.096350193,TGO,% of GDP,Togo
+Education,2011,4.309299946,TGO,% of GDP,Togo
+Education,2012,4.719200134,TGO,% of GDP,Togo
+Education,2013,4.423649788,TGO,% of GDP,Togo
+Education,2014,4.78455019,TGO,% of GDP,Togo
+Education,2015,5.10860014,TGO,% of GDP,Togo
+Education,2016,3.686490059,TGO,% of GDP,Togo
+Education,2017,3.760529995,TGO,% of GDP,Togo
+Education,2018,4.043940067,TGO,% of GDP,Togo
+Education,2019,4.069139957,TGO,% of GDP,Togo
+Education,2020,3.991250038,TGO,% of GDP,Togo
+Education,2000,5.25345993,THA,% of GDP,Thailand
+Education,2001,4.81787014,THA,% of GDP,Thailand
+Education,2002,3.864919901,THA,% of GDP,Thailand
+Education,2003,3.725610018,THA,% of GDP,Thailand
+Education,2004,4.030889988,THA,% of GDP,Thailand
+Education,2005,3.93859005,THA,% of GDP,Thailand
+Education,2006,4.05038023,THA,% of GDP,Thailand
+Education,2007,3.603149891,THA,% of GDP,Thailand
+Education,2008,3.508500099,THA,% of GDP,Thailand
+Education,2009,3.861939907,THA,% of GDP,Thailand
+Education,2010,3.508440018,THA,% of GDP,Thailand
+Education,2011,4.805550098,THA,% of GDP,Thailand
+Education,2012,3.596918334,THA,% of GDP,Thailand
+Education,2013,3.824398432,THA,% of GDP,Thailand
+Education,2014,3.919177519,THA,% of GDP,Thailand
+Education,2015,3.863976227,THA,% of GDP,Thailand
+Education,2016,3.767617568,THA,% of GDP,Thailand
+Education,2017,3.465321476,THA,% of GDP,Thailand
+Education,2018,3.198600011,THA,% of GDP,Thailand
+Education,2019,3.020620205,THA,% of GDP,Thailand
+Education,2020,3.145710939,THA,% of GDP,Thailand
+Education,2000,2.328710079,TJK,% of GDP,Tajikistan
+Education,2001,2.376590014,TJK,% of GDP,Tajikistan
+Education,2002,2.775789976,TJK,% of GDP,Tajikistan
+Education,2003,2.420789957,TJK,% of GDP,Tajikistan
+Education,2004,2.772030115,TJK,% of GDP,Tajikistan
+Education,2005,3.512130022,TJK,% of GDP,Tajikistan
+Education,2006,3.40350008,TJK,% of GDP,Tajikistan
+Education,2007,3.413269997,TJK,% of GDP,Tajikistan
+Education,2008,3.459830046,TJK,% of GDP,Tajikistan
+Education,2009,4.098309994,TJK,% of GDP,Tajikistan
+Education,2010,4.006750107,TJK,% of GDP,Tajikistan
+Education,2011,3.935110092,TJK,% of GDP,Tajikistan
+Education,2012,4.018030167,TJK,% of GDP,Tajikistan
+Education,2015,4.967740059,TJK,% of GDP,Tajikistan
+Education,2016,5.763679981,TJK,% of GDP,Tajikistan
+Education,2017,5.83796978,TJK,% of GDP,Tajikistan
+Education,2018,5.5583601,TJK,% of GDP,Tajikistan
+Education,2019,5.712900162,TJK,% of GDP,Tajikistan
+Education,2020,5.917162849,TJK,% of GDP,Tajikistan
+Education,2008,8.670570374,TLS,% of GDP,Timor-Leste
+Education,2009,12.90345955,TLS,% of GDP,Timor-Leste
+Education,2010,11.10760975,TLS,% of GDP,Timor-Leste
+Education,2011,10.1947298,TLS,% of GDP,Timor-Leste
+Education,2012,7.166745364,TLS,% of GDP,Timor-Leste
+Education,2013,5.681403086,TLS,% of GDP,Timor-Leste
+Education,2014,7.660111782,TLS,% of GDP,Timor-Leste
+Education,2015,6.29563263,TLS,% of GDP,Timor-Leste
+Education,2016,6.019240132,TLS,% of GDP,Timor-Leste
+Education,2017,5.144508885,TLS,% of GDP,Timor-Leste
+Education,2018,4.819879057,TLS,% of GDP,Timor-Leste
+Education,2019,4.137038355,TLS,% of GDP,Timor-Leste
+Education,2020,4.15306172,TLS,% of GDP,Timor-Leste
+Education,2000,4.878079891,TON,% of GDP,Tonga
+Education,2001,4.477560043,TON,% of GDP,Tonga
+Education,2002,3.795000076,TON,% of GDP,Tonga
+Education,2003,4.159510136,TON,% of GDP,Tonga
+Education,2004,3.91376996,TON,% of GDP,Tonga
+Education,2018,6.372910023,TON,% of GDP,Tonga
+Education,2019,7.959630013,TON,% of GDP,Tonga
+Education,2020,6.520573182,TON,% of GDP,Tonga
+Education,2021,6.606177343,TON,% of GDP,Tonga
+Education,2000,6.201960087,TUN,% of GDP,Tunisia
+Education,2001,6.201849937,TUN,% of GDP,Tunisia
+Education,2002,5.790060043,TUN,% of GDP,Tunisia
+Education,2003,6.81675005,TUN,% of GDP,Tunisia
+Education,2004,6.720789909,TUN,% of GDP,Tunisia
+Education,2005,6.451570034,TUN,% of GDP,Tunisia
+Education,2006,6.438799858,TUN,% of GDP,Tunisia
+Education,2007,6.464519978,TUN,% of GDP,Tunisia
+Education,2008,6.271570206,TUN,% of GDP,Tunisia
+Education,2009,6.528480053,TUN,% of GDP,Tunisia
+Education,2010,5.963039875,TUN,% of GDP,Tunisia
+Education,2011,7.554369926,TUN,% of GDP,Tunisia
+Education,2012,5.950860023,TUN,% of GDP,Tunisia
+Education,2013,6.967450142,TUN,% of GDP,Tunisia
+Education,2014,6.881869793,TUN,% of GDP,Tunisia
+Education,2015,6.220449924,TUN,% of GDP,Tunisia
+Education,2016,7.32434988,TUN,% of GDP,Tunisia
+Education,2000,2.516880035,TUR,% of GDP,Türkiye
+Education,2001,2.634619951,TUR,% of GDP,Türkiye
+Education,2002,2.728060007,TUR,% of GDP,Türkiye
+Education,2003,2.851310015,TUR,% of GDP,Türkiye
+Education,2004,2.989989996,TUR,% of GDP,Türkiye
+Education,2006,2.728060007,TUR,% of GDP,Türkiye
+Education,2010,3.787013491,TUR,% of GDP,Türkiye
+Education,2011,4.221519947,TUR,% of GDP,Türkiye
+Education,2012,4.387219906,TUR,% of GDP,Türkiye
+Education,2013,4.344810009,TUR,% of GDP,Türkiye
+Education,2014,4.412580013,TUR,% of GDP,Türkiye
+Education,2015,4.322199821,TUR,% of GDP,Türkiye
+Education,2016,4.627739906,TUR,% of GDP,Türkiye
+Education,2017,4.323689938,TUR,% of GDP,Türkiye
+Education,2018,4.294069767,TUR,% of GDP,Türkiye
+Education,2019,4.447780132,TUR,% of GDP,Türkiye
+Education,2020,3.36,TUR,% of GDP,Türkiye
+Education,2004,3.561229944,TZA,% of GDP,Tanzania
+Education,2005,3.546250105,TZA,% of GDP,Tanzania
+Education,2006,3.009919882,TZA,% of GDP,Tanzania
+Education,2007,4.033420086,TZA,% of GDP,Tanzania
+Education,2008,4.185910225,TZA,% of GDP,Tanzania
+Education,2009,3.960760117,TZA,% of GDP,Tanzania
+Education,2010,4.541699886,TZA,% of GDP,Tanzania
+Education,2011,3.558290005,TZA,% of GDP,Tanzania
+Education,2012,3.470930099,TZA,% of GDP,Tanzania
+Education,2013,3.357959986,TZA,% of GDP,Tanzania
+Education,2014,3.384880066,TZA,% of GDP,Tanzania
+Education,2015,4.194869995,TZA,% of GDP,Tanzania
+Education,2016,4.101970196,TZA,% of GDP,Tanzania
+Education,2017,4.430510044,TZA,% of GDP,Tanzania
+Education,2018,3.696439981,TZA,% of GDP,Tanzania
+Education,2019,3.596839905,TZA,% of GDP,Tanzania
+Education,2020,3.225150108,TZA,% of GDP,Tanzania
+Education,2021,3.297790051,TZA,% of GDP,Tanzania
+Education,2000,2.461669922,UGA,% of GDP,Uganda
+Education,2004,4.952370167,UGA,% of GDP,Uganda
+Education,2005,2.900000095,UGA,% of GDP,Uganda
+Education,2006,2.50999999,UGA,% of GDP,Uganda
+Education,2007,2.339999914,UGA,% of GDP,Uganda
+Education,2008,1.960000038,UGA,% of GDP,Uganda
+Education,2009,1.649999976,UGA,% of GDP,Uganda
+Education,2010,1.727399945,UGA,% of GDP,Uganda
+Education,2011,2.298909903,UGA,% of GDP,Uganda
+Education,2012,1.797469974,UGA,% of GDP,Uganda
+Education,2013,1.871140003,UGA,% of GDP,Uganda
+Education,2014,1.914720058,UGA,% of GDP,Uganda
+Education,2015,2.32152009,UGA,% of GDP,Uganda
+Education,2016,2.1378901,UGA,% of GDP,Uganda
+Education,2017,2.253639936,UGA,% of GDP,Uganda
+Education,2018,2.130520105,UGA,% of GDP,Uganda
+Education,2019,1.529999971,UGA,% of GDP,Uganda
+Education,2020,2.586280107,UGA,% of GDP,Uganda
+Education,2021,2.66505003,UGA,% of GDP,Uganda
+Education,2000,4.022930145,UKR,% of GDP,Ukraine
+Education,2001,4.525680065,UKR,% of GDP,Ukraine
+Education,2002,5.240069866,UKR,% of GDP,Ukraine
+Education,2003,5.400189877,UKR,% of GDP,Ukraine
+Education,2004,5.123760223,UKR,% of GDP,Ukraine
+Education,2005,5.848199844,UKR,% of GDP,Ukraine
+Education,2006,5.979459763,UKR,% of GDP,Ukraine
+Education,2007,5.902440071,UKR,% of GDP,Ukraine
+Education,2008,6.152420044,UKR,% of GDP,Ukraine
+Education,2009,7.050749779,UKR,% of GDP,Ukraine
+Education,2010,7.397079945,UKR,% of GDP,Ukraine
+Education,2011,5.937709808,UKR,% of GDP,Ukraine
+Education,2012,6.442699909,UKR,% of GDP,Ukraine
+Education,2013,6.41989994,UKR,% of GDP,Ukraine
+Education,2014,5.874939919,UKR,% of GDP,Ukraine
+Education,2015,5.74255991,UKR,% of GDP,Ukraine
+Education,2016,5.00977993,UKR,% of GDP,Ukraine
+Education,2017,5.417079926,UKR,% of GDP,Ukraine
+Education,2018,5.319920063,UKR,% of GDP,Ukraine
+Education,2019,5.441299915,UKR,% of GDP,Ukraine
+Education,2020,5.382319927,UKR,% of GDP,Ukraine
+Education,2000,2.422549963,URY,% of GDP,Uruguay
+Education,2001,2.800960064,URY,% of GDP,Uruguay
+Education,2002,2.32220006,URY,% of GDP,Uruguay
+Education,2003,2.068209887,URY,% of GDP,Uruguay
+Education,2004,2.499540091,URY,% of GDP,Uruguay
+Education,2005,2.714750051,URY,% of GDP,Uruguay
+Education,2006,2.880259991,URY,% of GDP,Uruguay
+Education,2011,4.355269909,URY,% of GDP,Uruguay
+Education,2012,4.330517129,URY,% of GDP,Uruguay
+Education,2013,4.519380093,URY,% of GDP,Uruguay
+Education,2014,4.584980011,URY,% of GDP,Uruguay
+Education,2015,4.554249763,URY,% of GDP,Uruguay
+Education,2016,4.382810116,URY,% of GDP,Uruguay
+Education,2017,4.470970154,URY,% of GDP,Uruguay
+Education,2018,4.662799835,URY,% of GDP,Uruguay
+Education,2019,4.703259945,URY,% of GDP,Uruguay
+Education,2020,4.552070141,URY,% of GDP,Uruguay
+Education,2010,6.719972919,USA,% of GDP,United States
+Education,2011,6.521565246,USA,% of GDP,United States
+Education,2012,6.275856406,USA,% of GDP,United States
+Education,2013,6.250931904,USA,% of GDP,United States
+Education,2014,6.137388426,USA,% of GDP,United States
+Education,2015,4.953410149,USA,% of GDP,United States
+Education,2016,4.798150063,USA,% of GDP,United States
+Education,2017,5.109220028,USA,% of GDP,United States
+Education,2018,4.912330151,USA,% of GDP,United States
+Education,2019,4.988709927,USA,% of GDP,United States
+Education,2020,6.05,USA,% of GDP,United States
+Education,2011,6.195859909,UZB,% of GDP,Uzbekistan
+Education,2012,6.395229816,UZB,% of GDP,Uzbekistan
+Education,2013,5.741909981,UZB,% of GDP,Uzbekistan
+Education,2014,5.713230133,UZB,% of GDP,Uzbekistan
+Education,2015,5.494440079,UZB,% of GDP,Uzbekistan
+Education,2016,5.380899906,UZB,% of GDP,Uzbekistan
+Education,2017,5.032820225,UZB,% of GDP,Uzbekistan
+Education,2018,5.900000095,UZB,% of GDP,Uzbekistan
+Education,2019,7.001860142,UZB,% of GDP,Uzbekistan
+Education,2020,4.922790051,UZB,% of GDP,Uzbekistan
+Education,2000,7.913780212,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2002,7.801959991,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2003,8.637809753,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2005,6.350800037,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2007,5.671040058,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2009,5.689780235,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2010,5.085229874,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2015,5.160556585,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2016,5.733399868,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2017,5.73195982,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2018,5.693779945,VCT,% of GDP,St. Vincent and the Grenadines
+Education,2006,3.669059992,VEN,% of GDP,Venezuela
+Education,2007,3.627320051,VEN,% of GDP,Venezuela
+Education,2009,6.874680042,VEN,% of GDP,Venezuela
+Education,2015,1.930179954,VEN,% of GDP,Venezuela
+Education,2016,1.190230012,VEN,% of GDP,Venezuela
+Education,2017,1.344079971,VEN,% of GDP,Venezuela
+Education,2008,4.886740208,VNM,% of GDP,Vietnam
+Education,2009,4.816500187,VNM,% of GDP,Vietnam
+Education,2010,5.137219906,VNM,% of GDP,Vietnam
+Education,2011,4.813720226,VNM,% of GDP,Vietnam
+Education,2012,5.533289909,VNM,% of GDP,Vietnam
+Education,2013,5.65199995,VNM,% of GDP,Vietnam
+Education,2014,4.438379666,VNM,% of GDP,Vietnam
+Education,2015,4.465760231,VNM,% of GDP,Vietnam
+Education,2016,4.344810009,VNM,% of GDP,Vietnam
+Education,2017,4.085539818,VNM,% of GDP,Vietnam
+Education,2018,4.167449951,VNM,% of GDP,Vietnam
+Education,2019,4.061970234,VNM,% of GDP,Vietnam
+Education,2020,4.111616688,VNM,% of GDP,Vietnam
+Education,2000,7.003630161,VUT,% of GDP,Vanuatu
+Education,2001,8.95114994,VUT,% of GDP,Vanuatu
+Education,2002,8.131979942,VUT,% of GDP,Vanuatu
+Education,2003,8.441510201,VUT,% of GDP,Vanuatu
+Education,2008,5.951509953,VUT,% of GDP,Vanuatu
+Education,2009,5.160510063,VUT,% of GDP,Vanuatu
+Education,2014,5.181950092,VUT,% of GDP,Vanuatu
+Education,2015,5.603380203,VUT,% of GDP,Vanuatu
+Education,2017,4.533530235,VUT,% of GDP,Vanuatu
+Education,2019,1.777879953,VUT,% of GDP,Vanuatu
+Education,2020,2.242320061,VUT,% of GDP,Vanuatu
+Education,2000,3.582930088,WSM,% of GDP,Samoa
+Education,2001,3.826289892,WSM,% of GDP,Samoa
+Education,2002,3.841389894,WSM,% of GDP,Samoa
+Education,2008,5.144209862,WSM,% of GDP,Samoa
+Education,2010,5.849999905,WSM,% of GDP,Samoa
+Education,2011,6.610000134,WSM,% of GDP,Samoa
+Education,2012,5.159999847,WSM,% of GDP,Samoa
+Education,2013,4.670000076,WSM,% of GDP,Samoa
+Education,2014,5.409999847,WSM,% of GDP,Samoa
+Education,2015,4.857729912,WSM,% of GDP,Samoa
+Education,2016,4.164060116,WSM,% of GDP,Samoa
+Education,2017,4.183159828,WSM,% of GDP,Samoa
+Education,2018,4.532149792,WSM,% of GDP,Samoa
+Education,2019,4.706250191,WSM,% of GDP,Samoa
+Education,2020,4.809160233,WSM,% of GDP,Samoa
+Education,2000,4.908810139,ZAF,% of GDP,South Africa
+Education,2001,4.636179924,ZAF,% of GDP,South Africa
+Education,2002,4.54569006,ZAF,% of GDP,South Africa
+Education,2003,4.352099895,ZAF,% of GDP,South Africa
+Education,2004,4.508979797,ZAF,% of GDP,South Africa
+Education,2005,4.524499893,ZAF,% of GDP,South Africa
+Education,2006,4.526519775,ZAF,% of GDP,South Africa
+Education,2007,4.446670055,ZAF,% of GDP,South Africa
+Education,2008,4.374249935,ZAF,% of GDP,South Africa
+Education,2009,4.761189938,ZAF,% of GDP,South Africa
+Education,2010,5.134970188,ZAF,% of GDP,South Africa
+Education,2011,5.288980007,ZAF,% of GDP,South Africa
+Education,2012,5.523230076,ZAF,% of GDP,South Africa
+Education,2013,5.350719929,ZAF,% of GDP,South Africa
+Education,2014,5.489779949,ZAF,% of GDP,South Africa
+Education,2015,5.482850075,ZAF,% of GDP,South Africa
+Education,2016,5.444240093,ZAF,% of GDP,South Africa
+Education,2017,5.598670006,ZAF,% of GDP,South Africa
+Education,2018,5.644010067,ZAF,% of GDP,South Africa
+Education,2019,5.917709827,ZAF,% of GDP,South Africa
+Education,2020,6.192880154,ZAF,% of GDP,South Africa
+Education,2021,6.604660034,ZAF,% of GDP,South Africa
+Education,2000,1.788190007,ZMB,% of GDP,Zambia
+Education,2004,2.463429928,ZMB,% of GDP,Zambia
+Education,2005,1.735530019,ZMB,% of GDP,Zambia
+Education,2007,1.240759969,ZMB,% of GDP,Zambia
+Education,2008,1.099720001,ZMB,% of GDP,Zambia
+Education,2009,2.940000057,ZMB,% of GDP,Zambia
+Education,2010,3.700000048,ZMB,% of GDP,Zambia
+Education,2011,3.799999952,ZMB,% of GDP,Zambia
+Education,2012,4.199999809,ZMB,% of GDP,Zambia
+Education,2013,4.300000191,ZMB,% of GDP,Zambia
+Education,2014,5.199999809,ZMB,% of GDP,Zambia
+Education,2015,4.624330044,ZMB,% of GDP,Zambia
+Education,2016,3.747920036,ZMB,% of GDP,Zambia
+Education,2017,3.729640007,ZMB,% of GDP,Zambia
+Education,2018,4.739749908,ZMB,% of GDP,Zambia
+Education,2019,4.46517992,ZMB,% of GDP,Zambia
+Education,2020,3.702399969,ZMB,% of GDP,Zambia
+Education,2010,1.544059992,ZWE,% of GDP,Zimbabwe
+Education,2012,6.07020998,ZWE,% of GDP,Zimbabwe
+Education,2013,5.995979786,ZWE,% of GDP,Zimbabwe
+Education,2014,6.13835001,ZWE,% of GDP,Zimbabwe
+Education,2015,5.812789917,ZWE,% of GDP,Zimbabwe
+Education,2016,5.47262001,ZWE,% of GDP,Zimbabwe
+Education,2017,5.818779945,ZWE,% of GDP,Zimbabwe
+Education,2018,3.866110086,ZWE,% of GDP,Zimbabwe
