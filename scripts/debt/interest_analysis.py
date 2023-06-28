@@ -373,5 +373,4 @@ def charts_data(start_year: int, end_year: int) -> None:
 
 
 if __name__ == "__main__":
-
     scatter_rate_interest_africa_other(start_year=2000, end_year=2021)
