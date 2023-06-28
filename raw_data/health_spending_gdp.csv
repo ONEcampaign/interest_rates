@@ -1,0 +1,3949 @@
+﻿indicator,year,value,iso_code,units,name
+Health,2000,1.96156323,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2001,2.08654332,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2002,2.12148499,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2003,2.134570955,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2004,2.17043507,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2005,2.13226247,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2006,2.313442945,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2007,2.31880057,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2008,2.440665725,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2009,2.18886399,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2010,2.242724775,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2011,2.34680295,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2012,2.43509388,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2013,2.50694358,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2014,2.597257255,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2015,2.578832985,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2016,2.680828215,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2017,2.618876935,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2018,2.597943425,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2019,2.639858365,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2020,3.04879713,East Asia & Pacific,% of GDP,East Asia & Pacific
+Health,2000,4.30573463,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2001,4.55789852,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2002,4.73120594,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2003,4.95398092,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2004,5.01567888,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2005,4.95043325,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2006,5.00461149,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2007,4.93226337,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2008,5.12718487,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2009,5.69372702,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2010,5.35588455,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2011,4.985485315,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2012,5.05420375,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2013,4.84293175,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2014,4.72048664,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2015,4.841576335,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2016,4.8005209,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2017,4.596568105,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2018,4.74815273,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2019,4.826350685,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2020,5.47836471,Europe & Central Asia,% of GDP,Europe & Central Asia
+Health,2000,2.51822186,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2001,2.45915222,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2002,2.52271342,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2003,2.4137032,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2004,2.46824932,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2005,2.46497631,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2006,2.49547577,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2007,2.58420277,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2008,2.61492229,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2009,2.67258692,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2010,2.8809936,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2011,3.06546926,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2012,3.00721955,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2013,3.12253189,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2014,3.16169024,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2015,3.16422224,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2016,3.33051729,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2017,3.53215384,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2018,3.23065448,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2019,3.30796671,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2020,4.28144789,Latin America & Caribbean,% of GDP,Latin America & Caribbean
+Health,2000,2.371573685,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2001,2.507011415,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2002,2.635824085,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2003,2.628596665,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2004,2.371246695,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2005,2.04223812,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2006,2.007582065,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2007,1.962258875,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2008,1.88050288,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2009,2.73249948,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2010,2.423805,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2011,2.507316355,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2012,2.52345729,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2013,2.58594084,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2014,3.19986582,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2015,3.37170172,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2016,3.531643395,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2017,3.590941905,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2018,3.32150793,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2019,2.94442177,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2020,3.45929488,Middle East & North Africa,% of GDP,Middle East & North Africa
+Health,2000,5.775963065,North America,% of GDP,North America
+Health,2001,6.123675345,North America,% of GDP,North America
+Health,2002,6.37091136,North America,% of GDP,North America
+Health,2003,6.5569458,North America,% of GDP,North America
+Health,2004,6.61623788,North America,% of GDP,North America
+Health,2005,6.61366987,North America,% of GDP,North America
+Health,2006,6.647638555,North America,% of GDP,North America
+Health,2007,6.74292612,North America,% of GDP,North America
+Health,2008,6.96276951,North America,% of GDP,North America
+Health,2009,7.69135189,North America,% of GDP,North America
+Health,2010,7.698609355,North America,% of GDP,North America
+Health,2011,7.6045897,North America,% of GDP,North America
+Health,2012,7.640640735,North America,% of GDP,North America
+Health,2013,7.642477515,North America,% of GDP,North America
+Health,2014,7.734621525,North America,% of GDP,North America
+Health,2015,8.02895856,North America,% of GDP,North America
+Health,2016,8.13777447,North America,% of GDP,North America
+Health,2017,8.068182945,North America,% of GDP,North America
+Health,2018,8.05690646,North America,% of GDP,North America
+Health,2019,8.118434665,North America,% of GDP,North America
+Health,2020,10.19111729,North America,% of GDP,North America
+Health,2000,0.96825689,South Asia,% of GDP,South Asia
+Health,2001,0.91270649,South Asia,% of GDP,South Asia
+Health,2002,0.902917265,South Asia,% of GDP,South Asia
+Health,2003,0.70450923,South Asia,% of GDP,South Asia
+Health,2004,0.678563,South Asia,% of GDP,South Asia
+Health,2005,0.757299305,South Asia,% of GDP,South Asia
+Health,2006,0.79528406,South Asia,% of GDP,South Asia
+Health,2007,0.70594832,South Asia,% of GDP,South Asia
+Health,2008,0.752458185,South Asia,% of GDP,South Asia
+Health,2009,0.8436856,South Asia,% of GDP,South Asia
+Health,2010,0.82319605,South Asia,% of GDP,South Asia
+Health,2011,0.86608553,South Asia,% of GDP,South Asia
+Health,2012,0.859307975,South Asia,% of GDP,South Asia
+Health,2013,0.810909,South Asia,% of GDP,South Asia
+Health,2014,0.865091115,South Asia,% of GDP,South Asia
+Health,2015,0.91560465,South Asia,% of GDP,South Asia
+Health,2016,0.9741081,South Asia,% of GDP,South Asia
+Health,2017,1.0163866,South Asia,% of GDP,South Asia
+Health,2018,1.023730335,South Asia,% of GDP,South Asia
+Health,2019,1.044122485,South Asia,% of GDP,South Asia
+Health,2020,1.37050265,South Asia,% of GDP,South Asia
+Health,2000,1.1387012,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2001,1.26300132,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2002,1.2326442,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2003,1.4352864,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2004,1.55933774,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2005,1.42997086,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2006,1.2173816,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2007,1.23346996,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2008,1.24205959,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2009,1.2360847,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2010,1.216939865,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2011,1.274255455,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2012,1.19097853,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2013,1.17797053,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2014,1.29764301,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2015,1.33805013,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2016,1.29512936,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2017,1.23122656,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2018,1.34083962,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2019,1.24437451,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2020,1.4803977,Sub-Saharan Africa,% of GDP,Sub-Saharan Africa
+Health,2000,4.605868335,High income,% of GDP,High income
+Health,2001,4.632867575,High income,% of GDP,High income
+Health,2002,4.85026288,High income,% of GDP,High income
+Health,2003,5.047168255,High income,% of GDP,High income
+Health,2004,4.880387065,High income,% of GDP,High income
+Health,2005,5.080335855,High income,% of GDP,High income
+Health,2006,4.930506945,High income,% of GDP,High income
+Health,2007,4.973948475,High income,% of GDP,High income
+Health,2008,4.946261645,High income,% of GDP,High income
+Health,2009,5.219183205,High income,% of GDP,High income
+Health,2010,5.24550581,High income,% of GDP,High income
+Health,2011,5.15234494,High income,% of GDP,High income
+Health,2012,5.28091693,High income,% of GDP,High income
+Health,2013,5.28726411,High income,% of GDP,High income
+Health,2014,5.110540865,High income,% of GDP,High income
+Health,2015,5.106220245,High income,% of GDP,High income
+Health,2016,5.200885055,High income,% of GDP,High income
+Health,2017,5.03189802,High income,% of GDP,High income
+Health,2018,5.022908685,High income,% of GDP,High income
+Health,2019,5.07566547,High income,% of GDP,High income
+Health,2020,5.97475481,High income,% of GDP,High income
+Health,2000,1.26929665,Low income,% of GDP,Low income
+Health,2001,1.35074425,Low income,% of GDP,Low income
+Health,2002,1.22000599,Low income,% of GDP,Low income
+Health,2003,1.3837502,Low income,% of GDP,Low income
+Health,2004,1.516863945,Low income,% of GDP,Low income
+Health,2005,1.41358906,Low income,% of GDP,Low income
+Health,2006,1.15200913,Low income,% of GDP,Low income
+Health,2007,1.14323485,Low income,% of GDP,Low income
+Health,2008,1.09268886,Low income,% of GDP,Low income
+Health,2009,0.94896108,Low income,% of GDP,Low income
+Health,2010,1.06793684,Low income,% of GDP,Low income
+Health,2011,1.057507875,Low income,% of GDP,Low income
+Health,2012,0.99818224,Low income,% of GDP,Low income
+Health,2013,1.03798634,Low income,% of GDP,Low income
+Health,2014,1.06312251,Low income,% of GDP,Low income
+Health,2015,0.981850505,Low income,% of GDP,Low income
+Health,2016,1.20876825,Low income,% of GDP,Low income
+Health,2017,1.03967959,Low income,% of GDP,Low income
+Health,2018,1.029424965,Low income,% of GDP,Low income
+Health,2019,1.11186934,Low income,% of GDP,Low income
+Health,2020,1.30212462,Low income,% of GDP,Low income
+Health,2000,1.38368505,Lower middle income,% of GDP,Lower middle income
+Health,2001,1.54166287,Lower middle income,% of GDP,Lower middle income
+Health,2002,1.370298685,Lower middle income,% of GDP,Lower middle income
+Health,2003,1.49158525,Lower middle income,% of GDP,Lower middle income
+Health,2004,1.67137599,Lower middle income,% of GDP,Lower middle income
+Health,2005,1.59510636,Lower middle income,% of GDP,Lower middle income
+Health,2006,1.74427283,Lower middle income,% of GDP,Lower middle income
+Health,2007,1.66388476,Lower middle income,% of GDP,Lower middle income
+Health,2008,1.74936557,Lower middle income,% of GDP,Lower middle income
+Health,2009,1.70255017,Lower middle income,% of GDP,Lower middle income
+Health,2010,1.85971582,Lower middle income,% of GDP,Lower middle income
+Health,2011,1.909478365,Lower middle income,% of GDP,Lower middle income
+Health,2012,1.931049885,Lower middle income,% of GDP,Lower middle income
+Health,2013,1.942433955,Lower middle income,% of GDP,Lower middle income
+Health,2014,1.88654971,Lower middle income,% of GDP,Lower middle income
+Health,2015,1.701461255,Lower middle income,% of GDP,Lower middle income
+Health,2016,1.672140895,Lower middle income,% of GDP,Lower middle income
+Health,2017,1.696522595,Lower middle income,% of GDP,Lower middle income
+Health,2018,1.77732742,Lower middle income,% of GDP,Lower middle income
+Health,2019,1.7947669,Lower middle income,% of GDP,Lower middle income
+Health,2020,2.09480214,Lower middle income,% of GDP,Lower middle income
+Health,2000,2.63133216,Upper middle income,% of GDP,Upper middle income
+Health,2001,2.40290713,Upper middle income,% of GDP,Upper middle income
+Health,2002,2.54975939,Upper middle income,% of GDP,Upper middle income
+Health,2003,2.4137032,Upper middle income,% of GDP,Upper middle income
+Health,2004,2.46824932,Upper middle income,% of GDP,Upper middle income
+Health,2005,2.53249097,Upper middle income,% of GDP,Upper middle income
+Health,2006,2.55931067,Upper middle income,% of GDP,Upper middle income
+Health,2007,2.52675939,Upper middle income,% of GDP,Upper middle income
+Health,2008,2.61492229,Upper middle income,% of GDP,Upper middle income
+Health,2009,2.86067653,Upper middle income,% of GDP,Upper middle income
+Health,2010,2.85781646,Upper middle income,% of GDP,Upper middle income
+Health,2011,3.034755825,Upper middle income,% of GDP,Upper middle income
+Health,2012,3.03290367,Upper middle income,% of GDP,Upper middle income
+Health,2013,3.12253189,Upper middle income,% of GDP,Upper middle income
+Health,2014,3.16169024,Upper middle income,% of GDP,Upper middle income
+Health,2015,3.16422224,Upper middle income,% of GDP,Upper middle income
+Health,2016,3.33051729,Upper middle income,% of GDP,Upper middle income
+Health,2017,3.09932327,Upper middle income,% of GDP,Upper middle income
+Health,2018,3.20244789,Upper middle income,% of GDP,Upper middle income
+Health,2019,3.38674355,Upper middle income,% of GDP,Upper middle income
+Health,2020,4.11691141,Upper middle income,% of GDP,Upper middle income
+Health,2000,1.70150447,Blend,% of GDP,Blend
+Health,2001,1.78606796,Blend,% of GDP,Blend
+Health,2002,1.82824528,Blend,% of GDP,Blend
+Health,2003,1.533360005,Blend,% of GDP,Blend
+Health,2004,1.6857177,Blend,% of GDP,Blend
+Health,2005,1.71415418,Blend,% of GDP,Blend
+Health,2006,1.77840012,Blend,% of GDP,Blend
+Health,2007,1.593136785,Blend,% of GDP,Blend
+Health,2008,1.754472315,Blend,% of GDP,Blend
+Health,2009,1.90570015,Blend,% of GDP,Blend
+Health,2010,2.05670786,Blend,% of GDP,Blend
+Health,2011,1.88993454,Blend,% of GDP,Blend
+Health,2012,1.99866605,Blend,% of GDP,Blend
+Health,2013,2.01785898,Blend,% of GDP,Blend
+Health,2014,2.0661068,Blend,% of GDP,Blend
+Health,2015,1.93493712,Blend,% of GDP,Blend
+Health,2016,1.9628458,Blend,% of GDP,Blend
+Health,2017,1.88796365,Blend,% of GDP,Blend
+Health,2018,1.86524379,Blend,% of GDP,Blend
+Health,2019,2.04134059,Blend,% of GDP,Blend
+Health,2020,2.28805852,Blend,% of GDP,Blend
+Health,2000,2.51132536,IBRD,% of GDP,IBRD
+Health,2001,2.47586274,IBRD,% of GDP,IBRD
+Health,2002,2.60214591,IBRD,% of GDP,IBRD
+Health,2003,2.71631217,IBRD,% of GDP,IBRD
+Health,2004,2.58744621,IBRD,% of GDP,IBRD
+Health,2005,2.56580162,IBRD,% of GDP,IBRD
+Health,2006,2.55931067,IBRD,% of GDP,IBRD
+Health,2007,2.66687727,IBRD,% of GDP,IBRD
+Health,2008,2.70188808,IBRD,% of GDP,IBRD
+Health,2009,2.94776607,IBRD,% of GDP,IBRD
+Health,2010,2.99847841,IBRD,% of GDP,IBRD
+Health,2011,3.072057125,IBRD,% of GDP,IBRD
+Health,2012,3.04558134,IBRD,% of GDP,IBRD
+Health,2013,3.16959071,IBRD,% of GDP,IBRD
+Health,2014,3.19986582,IBRD,% of GDP,IBRD
+Health,2015,3.21666884,IBRD,% of GDP,IBRD
+Health,2016,3.43584943,IBRD,% of GDP,IBRD
+Health,2017,3.50868487,IBRD,% of GDP,IBRD
+Health,2018,3.49113274,IBRD,% of GDP,IBRD
+Health,2019,3.42137909,IBRD,% of GDP,IBRD
+Health,2020,3.75391006,IBRD,% of GDP,IBRD
+Health,2000,1.2928862,IDA,% of GDP,
+Health,2001,1.361856345,IDA,% of GDP,
+Health,2002,1.33993745,IDA,% of GDP,
+Health,2003,1.49158525,IDA,% of GDP,
+Health,2004,1.57302713,IDA,% of GDP,
+Health,2005,1.48059738,IDA,% of GDP,
+Health,2006,1.22703397,IDA,% of GDP,
+Health,2007,1.31880546,IDA,% of GDP,
+Health,2008,1.36923027,IDA,% of GDP,
+Health,2009,1.2360847,IDA,% of GDP,
+Health,2010,1.18032789,IDA,% of GDP,
+Health,2011,1.27621472,IDA,% of GDP,
+Health,2012,1.20870054,IDA,% of GDP,
+Health,2013,1.18517053,IDA,% of GDP,
+Health,2014,1.25234473,IDA,% of GDP,
+Health,2015,1.41883922,IDA,% of GDP,
+Health,2016,1.3251307,IDA,% of GDP,
+Health,2017,1.23122656,IDA,% of GDP,
+Health,2018,1.34660971,IDA,% of GDP,
+Health,2019,1.31228375,IDA,% of GDP,
+Health,2020,1.58623326,IDA,% of GDP,
+Health,2000,4.7191391,Not classified_lending,% of GDP,Not classified_lending
+Health,2001,5.014184,Not classified_lending,% of GDP,Not classified_lending
+Health,2002,5.27079201,Not classified_lending,% of GDP,Not classified_lending
+Health,2003,5.51941919,Not classified_lending,% of GDP,Not classified_lending
+Health,2004,5.56338072,Not classified_lending,% of GDP,Not classified_lending
+Health,2005,5.60050154,Not classified_lending,% of GDP,Not classified_lending
+Health,2006,5.56112909,Not classified_lending,% of GDP,Not classified_lending
+Health,2007,5.27593756,Not classified_lending,% of GDP,Not classified_lending
+Health,2008,5.46154928,Not classified_lending,% of GDP,Not classified_lending
+Health,2009,6.02683735,Not classified_lending,% of GDP,Not classified_lending
+Health,2010,5.72467899,Not classified_lending,% of GDP,Not classified_lending
+Health,2011,6.040277,Not classified_lending,% of GDP,Not classified_lending
+Health,2012,5.83021832,Not classified_lending,% of GDP,Not classified_lending
+Health,2013,5.85821295,Not classified_lending,% of GDP,Not classified_lending
+Health,2014,5.76832533,Not classified_lending,% of GDP,Not classified_lending
+Health,2015,5.41260624,Not classified_lending,% of GDP,Not classified_lending
+Health,2016,5.68801165,Not classified_lending,% of GDP,Not classified_lending
+Health,2017,5.48946762,Not classified_lending,% of GDP,Not classified_lending
+Health,2018,5.43748474,Not classified_lending,% of GDP,Not classified_lending
+Health,2019,5.778734445,Not classified_lending,% of GDP,Not classified_lending
+Health,2020,6.829809665,Not classified_lending,% of GDP,Not classified_lending
+Health,2000,1.25274444,Africa,% of GDP,Africa
+Health,2001,1.35074425,Africa,% of GDP,Africa
+Health,2002,1.30862689,Africa,% of GDP,Africa
+Health,2003,1.47392678,Africa,% of GDP,Africa
+Health,2004,1.57302713,Africa,% of GDP,Africa
+Health,2005,1.4651835,Africa,% of GDP,Africa
+Health,2006,1.43097806,Africa,% of GDP,Africa
+Health,2007,1.33306754,Africa,% of GDP,Africa
+Health,2008,1.36923027,Africa,% of GDP,Africa
+Health,2009,1.4598949,Africa,% of GDP,Africa
+Health,2010,1.30912352,Africa,% of GDP,Africa
+Health,2011,1.297717335,Africa,% of GDP,Africa
+Health,2012,1.21922684,Africa,% of GDP,Africa
+Health,2013,1.30987322,Africa,% of GDP,Africa
+Health,2014,1.40883136,Africa,% of GDP,Africa
+Health,2015,1.55090201,Africa,% of GDP,Africa
+Health,2016,1.39315951,Africa,% of GDP,Africa
+Health,2017,1.3402037,Africa,% of GDP,Africa
+Health,2018,1.384070815,Africa,% of GDP,Africa
+Health,2019,1.306502755,Africa,% of GDP,Africa
+Health,2020,1.53331548,Africa,% of GDP,Africa
+Health,2000,2.56718183,America,% of GDP,America
+Health,2001,2.47586274,America,% of GDP,America
+Health,2002,2.54012251,America,% of GDP,America
+Health,2003,2.55710077,America,% of GDP,America
+Health,2004,2.47339988,America,% of GDP,America
+Health,2005,2.5080986,America,% of GDP,America
+Health,2006,2.59320211,America,% of GDP,America
+Health,2007,2.60964298,America,% of GDP,America
+Health,2008,2.61655521,America,% of GDP,America
+Health,2009,2.86067653,America,% of GDP,America
+Health,2010,2.95949578,America,% of GDP,America
+Health,2011,3.07864499,America,% of GDP,America
+Health,2012,3.03290367,America,% of GDP,America
+Health,2013,3.26242685,America,% of GDP,America
+Health,2014,3.19305706,America,% of GDP,America
+Health,2015,3.2003293,America,% of GDP,America
+Health,2016,3.42629886,America,% of GDP,America
+Health,2017,3.64280844,America,% of GDP,America
+Health,2018,3.88880324,America,% of GDP,America
+Health,2019,3.32046843,America,% of GDP,America
+Health,2020,4.37696552,America,% of GDP,America
+Health,2000,1.71153057,Asia,% of GDP,Asia
+Health,2001,1.96616614,Asia,% of GDP,Asia
+Health,2002,1.88012278,Asia,% of GDP,Asia
+Health,2003,1.95293641,Asia,% of GDP,Asia
+Health,2004,1.80486059,Asia,% of GDP,Asia
+Health,2005,1.81541967,Asia,% of GDP,Asia
+Health,2006,1.67488027,Asia,% of GDP,Asia
+Health,2007,1.61389112,Asia,% of GDP,Asia
+Health,2008,1.68886876,Asia,% of GDP,Asia
+Health,2009,2.14862132,Asia,% of GDP,Asia
+Health,2010,2.03573728,Asia,% of GDP,Asia
+Health,2011,1.84243858,Asia,% of GDP,Asia
+Health,2012,2.06988883,Asia,% of GDP,Asia
+Health,2013,2.08904266,Asia,% of GDP,Asia
+Health,2014,2.18159628,Asia,% of GDP,Asia
+Health,2015,2.4089644,Asia,% of GDP,Asia
+Health,2016,2.498600725,Asia,% of GDP,Asia
+Health,2017,2.286400555,Asia,% of GDP,Asia
+Health,2018,2.252848385,Asia,% of GDP,Asia
+Health,2019,2.28311157,Asia,% of GDP,Asia
+Health,2020,2.77793884,Asia,% of GDP,Asia
+Health,2000,4.71220732,Europe,% of GDP,Europe
+Health,2001,4.87444878,Europe,% of GDP,Europe
+Health,2002,4.97795296,Europe,% of GDP,Europe
+Health,2003,5.51436043,Europe,% of GDP,Europe
+Health,2004,5.46425915,Europe,% of GDP,Europe
+Health,2005,5.5326066,Europe,% of GDP,Europe
+Health,2006,5.47047567,Europe,% of GDP,Europe
+Health,2007,5.31898928,Europe,% of GDP,Europe
+Health,2008,5.46154928,Europe,% of GDP,Europe
+Health,2009,6.02683735,Europe,% of GDP,Europe
+Health,2010,5.81205034,Europe,% of GDP,Europe
+Health,2011,5.919238565,Europe,% of GDP,Europe
+Health,2012,5.812290435,Europe,% of GDP,Europe
+Health,2013,5.65716124,Europe,% of GDP,Europe
+Health,2014,5.580922125,Europe,% of GDP,Europe
+Health,2015,5.404114245,Europe,% of GDP,Europe
+Health,2016,5.616917385,Europe,% of GDP,Europe
+Health,2017,5.42246151,Europe,% of GDP,Europe
+Health,2018,5.372262715,Europe,% of GDP,Europe
+Health,2019,5.51494503,Europe,% of GDP,Europe
+Health,2020,6.57835579,Europe,% of GDP,Europe
+Health,2000,3.67396593,Oceania,% of GDP,Oceania
+Health,2001,3.19824743,Oceania,% of GDP,Oceania
+Health,2002,3.50715756,Oceania,% of GDP,Oceania
+Health,2003,2.8892045,Oceania,% of GDP,Oceania
+Health,2004,3.09871244,Oceania,% of GDP,Oceania
+Health,2005,3.26160979,Oceania,% of GDP,Oceania
+Health,2006,3.53131747,Oceania,% of GDP,Oceania
+Health,2007,3.36175871,Oceania,% of GDP,Oceania
+Health,2008,3.1186974,Oceania,% of GDP,Oceania
+Health,2009,3.10495329,Oceania,% of GDP,Oceania
+Health,2010,2.94911718,Oceania,% of GDP,Oceania
+Health,2011,3.035074,Oceania,% of GDP,Oceania
+Health,2012,2.93307853,Oceania,% of GDP,Oceania
+Health,2013,2.7824738,Oceania,% of GDP,Oceania
+Health,2014,3.33988428,Oceania,% of GDP,Oceania
+Health,2015,3.21473765,Oceania,% of GDP,Oceania
+Health,2016,3.48056126,Oceania,% of GDP,Oceania
+Health,2017,3.15361023,Oceania,% of GDP,Oceania
+Health,2018,3.20244789,Oceania,% of GDP,Oceania
+Health,2019,3.36097002,Oceania,% of GDP,Oceania
+Health,2020,3.60097384,Oceania,% of GDP,Oceania
+Health,2000,2.51082778,DZA,% of GDP,Algeria
+Health,2001,2.9254992,DZA,% of GDP,Algeria
+Health,2002,2.8079257,DZA,% of GDP,Algeria
+Health,2003,2.7617898,DZA,% of GDP,Algeria
+Health,2004,2.52882004,DZA,% of GDP,Algeria
+Health,2005,2.24167132,DZA,% of GDP,Algeria
+Health,2006,2.29699397,DZA,% of GDP,Algeria
+Health,2007,2.66687727,DZA,% of GDP,Algeria
+Health,2008,3.02516317,DZA,% of GDP,Algeria
+Health,2009,3.79895926,DZA,% of GDP,Algeria
+Health,2010,3.55552173,DZA,% of GDP,Algeria
+Health,2011,3.71975923,DZA,% of GDP,Algeria
+Health,2012,4.37614059,DZA,% of GDP,Algeria
+Health,2013,4.28830338,DZA,% of GDP,Algeria
+Health,2014,4.71454287,DZA,% of GDP,Algeria
+Health,2015,4.9170022,DZA,% of GDP,Algeria
+Health,2016,4.47245169,DZA,% of GDP,Algeria
+Health,2017,4.14140797,DZA,% of GDP,Algeria
+Health,2018,4.05819464,DZA,% of GDP,Algeria
+Health,2019,4.06651545,DZA,% of GDP,Algeria
+Health,2020,3.95616674,DZA,% of GDP,Algeria
+Health,2000,1.11098742,AGO,% of GDP,Angola
+Health,2001,2.04631472,AGO,% of GDP,Angola
+Health,2002,1.30862689,AGO,% of GDP,Angola
+Health,2003,1.46559668,AGO,% of GDP,Angola
+Health,2004,1.68663394,AGO,% of GDP,Angola
+Health,2005,1.27875817,AGO,% of GDP,Angola
+Health,2006,1.44411969,AGO,% of GDP,Angola
+Health,2007,1.72198772,AGO,% of GDP,Angola
+Health,2008,2.1384356,AGO,% of GDP,Angola
+Health,2009,2.60045791,AGO,% of GDP,Angola
+Health,2010,1.67409563,AGO,% of GDP,Angola
+Health,2011,1.71321774,AGO,% of GDP,Angola
+Health,2012,1.56333566,AGO,% of GDP,Angola
+Health,2013,1.69516695,AGO,% of GDP,Angola
+Health,2014,1.31816018,AGO,% of GDP,Angola
+Health,2015,1.23424065,AGO,% of GDP,Angola
+Health,2016,1.19753695,AGO,% of GDP,Angola
+Health,2017,1.29295039,AGO,% of GDP,Angola
+Health,2018,1.10391033,AGO,% of GDP,Angola
+Health,2019,1.09448123,AGO,% of GDP,Angola
+Health,2020,1.22474134,AGO,% of GDP,Angola
+Health,2000,3.2540555,BWA,% of GDP,Botswana
+Health,2001,3.50531387,BWA,% of GDP,Botswana
+Health,2002,3.76324773,BWA,% of GDP,Botswana
+Health,2003,3.60058308,BWA,% of GDP,Botswana
+Health,2004,3.4343946,BWA,% of GDP,Botswana
+Health,2005,2.86616707,BWA,% of GDP,Botswana
+Health,2006,2.79110265,BWA,% of GDP,Botswana
+Health,2007,3.12948751,BWA,% of GDP,Botswana
+Health,2008,3.66806316,BWA,% of GDP,Botswana
+Health,2009,3.41018438,BWA,% of GDP,Botswana
+Health,2010,3.60705996,BWA,% of GDP,Botswana
+Health,2011,3.60456705,BWA,% of GDP,Botswana
+Health,2012,4.09601831,BWA,% of GDP,Botswana
+Health,2013,4.15482092,BWA,% of GDP,Botswana
+Health,2014,3.99039125,BWA,% of GDP,Botswana
+Health,2015,4.13518047,BWA,% of GDP,Botswana
+Health,2016,3.83726597,BWA,% of GDP,Botswana
+Health,2017,5.01613283,BWA,% of GDP,Botswana
+Health,2018,4.14253378,BWA,% of GDP,Botswana
+Health,2019,4.37294102,BWA,% of GDP,Botswana
+Health,2020,4.6217618,BWA,% of GDP,Botswana
+Health,2000,0.96129316,BFA,% of GDP,Burkina Faso
+Health,2001,0.97162038,BFA,% of GDP,Burkina Faso
+Health,2002,1.05799043,BFA,% of GDP,Burkina Faso
+Health,2003,0.9801873,BFA,% of GDP,Burkina Faso
+Health,2004,1.69977903,BFA,% of GDP,Burkina Faso
+Health,2005,1.22285259,BFA,% of GDP,Burkina Faso
+Health,2006,1.43097806,BFA,% of GDP,Burkina Faso
+Health,2007,1.43212855,BFA,% of GDP,Burkina Faso
+Health,2008,1.36111355,BFA,% of GDP,Burkina Faso
+Health,2009,1.64177847,BFA,% of GDP,Burkina Faso
+Health,2010,1.30630887,BFA,% of GDP,Burkina Faso
+Health,2011,1.34620178,BFA,% of GDP,Burkina Faso
+Health,2012,1.06450117,BFA,% of GDP,Burkina Faso
+Health,2013,1.61236513,BFA,% of GDP,Burkina Faso
+Health,2014,1.62685239,BFA,% of GDP,Burkina Faso
+Health,2015,1.45618761,BFA,% of GDP,Burkina Faso
+Health,2016,2.38683128,BFA,% of GDP,Burkina Faso
+Health,2017,2.62249136,BFA,% of GDP,Burkina Faso
+Health,2018,2.10519767,BFA,% of GDP,Burkina Faso
+Health,2019,2.2500782,BFA,% of GDP,Burkina Faso
+Health,2020,2.92014813,BFA,% of GDP,Burkina Faso
+Health,2000,1.46507239,BDI,% of GDP,Burundi
+Health,2001,1.69244206,BDI,% of GDP,Burundi
+Health,2002,1.5355022,BDI,% of GDP,Burundi
+Health,2003,1.35508084,BDI,% of GDP,Burundi
+Health,2004,2.3681941,BDI,% of GDP,Burundi
+Health,2005,2.06248069,BDI,% of GDP,Burundi
+Health,2006,2.36401582,BDI,% of GDP,Burundi
+Health,2007,2.46383238,BDI,% of GDP,Burundi
+Health,2008,1.55913818,BDI,% of GDP,Burundi
+Health,2009,2.0807972,BDI,% of GDP,Burundi
+Health,2010,1.9852922,BDI,% of GDP,Burundi
+Health,2011,3.47107577,BDI,% of GDP,Burundi
+Health,2012,2.66949105,BDI,% of GDP,Burundi
+Health,2013,1.54086971,BDI,% of GDP,Burundi
+Health,2014,2.78679872,BDI,% of GDP,Burundi
+Health,2015,2.4195447,BDI,% of GDP,Burundi
+Health,2016,2.34577584,BDI,% of GDP,Burundi
+Health,2017,2.1146853,BDI,% of GDP,Burundi
+Health,2018,2.16288042,BDI,% of GDP,Burundi
+Health,2019,2.39167857,BDI,% of GDP,Burundi
+Health,2020,2.40413046,BDI,% of GDP,Burundi
+Health,2000,0.80706602,BEN,% of GDP,Benin
+Health,2001,0.92711985,BEN,% of GDP,Benin
+Health,2002,0.72565293,BEN,% of GDP,Benin
+Health,2003,0.66474718,BEN,% of GDP,Benin
+Health,2004,0.7316609,BEN,% of GDP,Benin
+Health,2005,0.68285859,BEN,% of GDP,Benin
+Health,2006,0.71946442,BEN,% of GDP,Benin
+Health,2007,0.59594429,BEN,% of GDP,Benin
+Health,2008,0.56289971,BEN,% of GDP,Benin
+Health,2009,0.74733609,BEN,% of GDP,Benin
+Health,2010,0.7244271,BEN,% of GDP,Benin
+Health,2011,0.79594523,BEN,% of GDP,Benin
+Health,2012,0.7467218,BEN,% of GDP,Benin
+Health,2013,0.76462752,BEN,% of GDP,Benin
+Health,2014,0.57532829,BEN,% of GDP,Benin
+Health,2015,0.58544809,BEN,% of GDP,Benin
+Health,2016,0.57491308,BEN,% of GDP,Benin
+Health,2017,0.8144033,BEN,% of GDP,Benin
+Health,2018,0.49088362,BEN,% of GDP,Benin
+Health,2019,0.54099989,BEN,% of GDP,Benin
+Health,2020,0.86860555,BEN,% of GDP,Benin
+Health,2000,3.16139579,CPV,% of GDP,Cabo Verde
+Health,2001,3.46985078,CPV,% of GDP,Cabo Verde
+Health,2002,3.46189737,CPV,% of GDP,Cabo Verde
+Health,2003,3.30085516,CPV,% of GDP,Cabo Verde
+Health,2004,3.12336445,CPV,% of GDP,Cabo Verde
+Health,2005,2.95317626,CPV,% of GDP,Cabo Verde
+Health,2006,2.97463489,CPV,% of GDP,Cabo Verde
+Health,2007,2.97691154,CPV,% of GDP,Cabo Verde
+Health,2008,2.45241618,CPV,% of GDP,Cabo Verde
+Health,2009,2.77685046,CPV,% of GDP,Cabo Verde
+Health,2010,2.8310132,CPV,% of GDP,Cabo Verde
+Health,2011,2.86501956,CPV,% of GDP,Cabo Verde
+Health,2012,3.07491827,CPV,% of GDP,Cabo Verde
+Health,2013,3.05590343,CPV,% of GDP,Cabo Verde
+Health,2014,3.04348063,CPV,% of GDP,Cabo Verde
+Health,2015,3.17430472,CPV,% of GDP,Cabo Verde
+Health,2016,3.08039069,CPV,% of GDP,Cabo Verde
+Health,2017,3.28108525,CPV,% of GDP,Cabo Verde
+Health,2018,3.20918393,CPV,% of GDP,Cabo Verde
+Health,2019,3.24621511,CPV,% of GDP,Cabo Verde
+Health,2020,3.70396852,CPV,% of GDP,Cabo Verde
+Health,2000,0.64510846,CMR,% of GDP,Cameroon
+Health,2001,0.7802825,CMR,% of GDP,Cameroon
+Health,2002,0.89175522,CMR,% of GDP,Cameroon
+Health,2003,0.8576715,CMR,% of GDP,Cameroon
+Health,2004,0.70553547,CMR,% of GDP,Cameroon
+Health,2005,0.65208685,CMR,% of GDP,Cameroon
+Health,2006,0.64810383,CMR,% of GDP,Cameroon
+Health,2007,0.56892991,CMR,% of GDP,Cameroon
+Health,2008,0.55071974,CMR,% of GDP,Cameroon
+Health,2009,0.44800827,CMR,% of GDP,Cameroon
+Health,2010,0.40635523,CMR,% of GDP,Cameroon
+Health,2011,0.5729565,CMR,% of GDP,Cameroon
+Health,2012,0.64008772,CMR,% of GDP,Cameroon
+Health,2013,0.4803811,CMR,% of GDP,Cameroon
+Health,2014,0.58977377,CMR,% of GDP,Cameroon
+Health,2015,0.36383638,CMR,% of GDP,Cameroon
+Health,2016,0.36593071,CMR,% of GDP,Cameroon
+Health,2017,0.14120807,CMR,% of GDP,Cameroon
+Health,2018,0.35133773,CMR,% of GDP,Cameroon
+Health,2019,0.40687224,CMR,% of GDP,Cameroon
+Health,2020,0.61334801,CMR,% of GDP,Cameroon
+Health,2000,1.72009099,CAF,% of GDP,Central African Republic
+Health,2001,1.51679349,CAF,% of GDP,Central African Republic
+Health,2002,1.43429065,CAF,% of GDP,Central African Republic
+Health,2003,1.54273319,CAF,% of GDP,Central African Republic
+Health,2004,1.47439015,CAF,% of GDP,Central African Republic
+Health,2005,1.0352819,CAF,% of GDP,Central African Republic
+Health,2006,1.22703397,CAF,% of GDP,Central African Republic
+Health,2007,1.27104914,CAF,% of GDP,Central African Republic
+Health,2008,0.84664065,CAF,% of GDP,Central African Republic
+Health,2009,0.73179758,CAF,% of GDP,Central African Republic
+Health,2010,0.57491964,CAF,% of GDP,Central African Republic
+Health,2011,0.41448623,CAF,% of GDP,Central African Republic
+Health,2012,0.62262195,CAF,% of GDP,Central African Republic
+Health,2013,0.982925,CAF,% of GDP,Central African Republic
+Health,2014,0.71106249,CAF,% of GDP,Central African Republic
+Health,2015,0.45585203,CAF,% of GDP,Central African Republic
+Health,2016,0.59953427,CAF,% of GDP,Central African Republic
+Health,2017,0.72881997,CAF,% of GDP,Central African Republic
+Health,2018,0.68866509,CAF,% of GDP,Central African Republic
+Health,2019,0.81912857,CAF,% of GDP,Central African Republic
+Health,2020,1.21621466,CAF,% of GDP,Central African Republic
+Health,2000,2.07553267,TCD,% of GDP,Chad
+Health,2001,1.84560215,TCD,% of GDP,Chad
+Health,2002,2.09621739,TCD,% of GDP,Chad
+Health,2003,1.73732471,TCD,% of GDP,Chad
+Health,2004,1.91800916,TCD,% of GDP,Chad
+Health,2005,1.42997086,TCD,% of GDP,Chad
+Health,2006,0.99538934,TCD,% of GDP,Chad
+Health,2007,1.02279246,TCD,% of GDP,Chad
+Health,2008,0.795304,TCD,% of GDP,Chad
+Health,2009,0.92613524,TCD,% of GDP,Chad
+Health,2010,0.8519026,TCD,% of GDP,Chad
+Health,2011,0.82494748,TCD,% of GDP,Chad
+Health,2012,0.94672126,TCD,% of GDP,Chad
+Health,2013,1.14863968,TCD,% of GDP,Chad
+Health,2014,1.21946907,TCD,% of GDP,Chad
+Health,2015,0.96198386,TCD,% of GDP,Chad
+Health,2016,0.82245749,TCD,% of GDP,Chad
+Health,2017,0.69614905,TCD,% of GDP,Chad
+Health,2018,0.65007859,TCD,% of GDP,Chad
+Health,2019,0.69896412,TCD,% of GDP,Chad
+Health,2020,0.93004119,TCD,% of GDP,Chad
+Health,2000,0.89241081,COM,% of GDP,Comoros
+Health,2001,0.53475738,COM,% of GDP,Comoros
+Health,2002,0.9572469,COM,% of GDP,Comoros
+Health,2003,0.85303503,COM,% of GDP,Comoros
+Health,2004,0.7913512,COM,% of GDP,Comoros
+Health,2005,0.69355196,COM,% of GDP,Comoros
+Health,2006,0.64541161,COM,% of GDP,Comoros
+Health,2007,0.5660063,COM,% of GDP,Comoros
+Health,2008,0.43337327,COM,% of GDP,Comoros
+Health,2009,0.37907231,COM,% of GDP,Comoros
+Health,2010,0.37748638,COM,% of GDP,Comoros
+Health,2011,0.9567222,COM,% of GDP,Comoros
+Health,2012,0.79534382,COM,% of GDP,Comoros
+Health,2013,0.65978307,COM,% of GDP,Comoros
+Health,2014,0.55491424,COM,% of GDP,Comoros
+Health,2015,0.46612623,COM,% of GDP,Comoros
+Health,2016,0.57399994,COM,% of GDP,Comoros
+Health,2017,0.67584765,COM,% of GDP,Comoros
+Health,2018,0.76553828,COM,% of GDP,Comoros
+Health,2019,0.83244753,COM,% of GDP,Comoros
+Health,2020,0.77381098,COM,% of GDP,Comoros
+Health,2000,0.51469523,COG,% of GDP,Congo Republic
+Health,2001,0.96511757,COG,% of GDP,Congo Republic
+Health,2002,0.43198308,COG,% of GDP,Congo Republic
+Health,2003,0.50115985,COG,% of GDP,Congo Republic
+Health,2004,0.43517572,COG,% of GDP,Congo Republic
+Health,2005,0.43213499,COG,% of GDP,Congo Republic
+Health,2006,0.55492193,COG,% of GDP,Congo Republic
+Health,2007,0.58651859,COG,% of GDP,Congo Republic
+Health,2008,1.09928632,COG,% of GDP,Congo Republic
+Health,2009,0.61770952,COG,% of GDP,Congo Republic
+Health,2010,0.8283878,COG,% of GDP,Congo Republic
+Health,2011,0.65133953,COG,% of GDP,Congo Republic
+Health,2012,0.81893653,COG,% of GDP,Congo Republic
+Health,2013,0.93664998,COG,% of GDP,Congo Republic
+Health,2014,0.94694966,COG,% of GDP,Congo Republic
+Health,2015,1.11883152,COG,% of GDP,Congo Republic
+Health,2016,1.20435822,COG,% of GDP,Congo Republic
+Health,2017,0.96620226,COG,% of GDP,Congo Republic
+Health,2018,0.67168069,COG,% of GDP,Congo Republic
+Health,2019,1.12474525,COG,% of GDP,Congo Republic
+Health,2020,1.92865789,COG,% of GDP,Congo Republic
+Health,2000,0.58690333,CIV,% of GDP,Cote d'Ivoire
+Health,2001,0.50978744,CIV,% of GDP,Cote d'Ivoire
+Health,2002,0.5432992,CIV,% of GDP,Cote d'Ivoire
+Health,2003,0.51549661,CIV,% of GDP,Cote d'Ivoire
+Health,2004,0.55993617,CIV,% of GDP,Cote d'Ivoire
+Health,2005,0.52909446,CIV,% of GDP,Cote d'Ivoire
+Health,2006,0.55780327,CIV,% of GDP,Cote d'Ivoire
+Health,2007,0.58830017,CIV,% of GDP,Cote d'Ivoire
+Health,2008,0.60338157,CIV,% of GDP,Cote d'Ivoire
+Health,2009,0.6682319,CIV,% of GDP,Cote d'Ivoire
+Health,2010,0.5876016,CIV,% of GDP,Cote d'Ivoire
+Health,2011,0.57984018,CIV,% of GDP,Cote d'Ivoire
+Health,2012,0.74607903,CIV,% of GDP,Cote d'Ivoire
+Health,2013,0.72783405,CIV,% of GDP,Cote d'Ivoire
+Health,2014,0.77760935,CIV,% of GDP,Cote d'Ivoire
+Health,2015,0.80445981,CIV,% of GDP,Cote d'Ivoire
+Health,2016,0.86090869,CIV,% of GDP,Cote d'Ivoire
+Health,2017,0.94937867,CIV,% of GDP,Cote d'Ivoire
+Health,2018,0.90654171,CIV,% of GDP,Cote d'Ivoire
+Health,2019,0.99362508,CIV,% of GDP,Cote d'Ivoire
+Health,2020,1.36828649,CIV,% of GDP,Cote d'Ivoire
+Health,2000,0.06221094,COD,% of GDP,DR Congo
+Health,2001,0.1064139,COD,% of GDP,DR Congo
+Health,2002,0.1042934,COD,% of GDP,DR Congo
+Health,2003,0.22955486,COD,% of GDP,DR Congo
+Health,2004,0.18619408,COD,% of GDP,DR Congo
+Health,2005,0.21806876,COD,% of GDP,DR Congo
+Health,2006,0.22633339,COD,% of GDP,DR Congo
+Health,2007,0.24325021,COD,% of GDP,DR Congo
+Health,2008,0.29166108,COD,% of GDP,DR Congo
+Health,2009,0.31161404,COD,% of GDP,DR Congo
+Health,2010,0.39785832,COD,% of GDP,DR Congo
+Health,2011,0.35409075,COD,% of GDP,DR Congo
+Health,2012,0.53260952,COD,% of GDP,DR Congo
+Health,2013,0.4984341,COD,% of GDP,DR Congo
+Health,2014,0.55080944,COD,% of GDP,DR Congo
+Health,2015,0.66200727,COD,% of GDP,DR Congo
+Health,2016,0.55122471,COD,% of GDP,DR Congo
+Health,2017,0.41352713,COD,% of GDP,DR Congo
+Health,2018,0.4979623,COD,% of GDP,DR Congo
+Health,2019,0.5603224,COD,% of GDP,DR Congo
+Health,2020,0.65065557,COD,% of GDP,DR Congo
+Health,2000,0.31905925,GNQ,% of GDP,Equatorial Guinea
+Health,2001,0.18987545,GNQ,% of GDP,Equatorial Guinea
+Health,2002,0.15856972,GNQ,% of GDP,Equatorial Guinea
+Health,2003,0.19967213,GNQ,% of GDP,Equatorial Guinea
+Health,2004,0.16040228,GNQ,% of GDP,Equatorial Guinea
+Health,2005,0.20671792,GNQ,% of GDP,Equatorial Guinea
+Health,2006,0.2612609,GNQ,% of GDP,Equatorial Guinea
+Health,2007,0.28975433,GNQ,% of GDP,Equatorial Guinea
+Health,2008,0.29780021,GNQ,% of GDP,Equatorial Guinea
+Health,2009,0.58800763,GNQ,% of GDP,Equatorial Guinea
+Health,2010,0.45372498,GNQ,% of GDP,Equatorial Guinea
+Health,2011,0.40495598,GNQ,% of GDP,Equatorial Guinea
+Health,2012,0.5242334,GNQ,% of GDP,Equatorial Guinea
+Health,2013,0.42721468,GNQ,% of GDP,Equatorial Guinea
+Health,2014,0.47094294,GNQ,% of GDP,Equatorial Guinea
+Health,2015,0.55440164,GNQ,% of GDP,Equatorial Guinea
+Health,2016,0.69449306,GNQ,% of GDP,Equatorial Guinea
+Health,2017,0.59081864,GNQ,% of GDP,Equatorial Guinea
+Health,2018,0.62434703,GNQ,% of GDP,Equatorial Guinea
+Health,2019,0.64342248,GNQ,% of GDP,Equatorial Guinea
+Health,2020,0.84460056,GNQ,% of GDP,Equatorial Guinea
+Health,2000,2.05245161,ERI,% of GDP,Eritrea
+Health,2001,1.79195142,ERI,% of GDP,Eritrea
+Health,2002,2.11955547,ERI,% of GDP,Eritrea
+Health,2003,1.66898465,ERI,% of GDP,Eritrea
+Health,2004,1.55933774,ERI,% of GDP,Eritrea
+Health,2005,0.85298669,ERI,% of GDP,Eritrea
+Health,2006,0.81826532,ERI,% of GDP,Eritrea
+Health,2007,1.21488249,ERI,% of GDP,Eritrea
+Health,2008,1.48372126,ERI,% of GDP,Eritrea
+Health,2009,1.03169298,ERI,% of GDP,Eritrea
+Health,2010,1.02692962,ERI,% of GDP,Eritrea
+Health,2011,0.77091086,ERI,% of GDP,Eritrea
+Health,2012,0.79316747,ERI,% of GDP,Eritrea
+Health,2013,0.77988005,ERI,% of GDP,Eritrea
+Health,2014,0.51415247,ERI,% of GDP,Eritrea
+Health,2015,0.74046409,ERI,% of GDP,Eritrea
+Health,2016,0.73348004,ERI,% of GDP,Eritrea
+Health,2017,1.00735629,ERI,% of GDP,Eritrea
+Health,2018,0.6442942,ERI,% of GDP,Eritrea
+Health,2019,0.78535897,ERI,% of GDP,Eritrea
+Health,2020,0.84649795,ERI,% of GDP,Eritrea
+Health,2000,2.41081047,SWZ,% of GDP,Eswatini
+Health,2001,2.38431859,SWZ,% of GDP,Eswatini
+Health,2002,2.4225831,SWZ,% of GDP,Eswatini
+Health,2003,2.91704059,SWZ,% of GDP,Eswatini
+Health,2004,3.02394485,SWZ,% of GDP,Eswatini
+Health,2005,3.64060426,SWZ,% of GDP,Eswatini
+Health,2006,3.45948696,SWZ,% of GDP,Eswatini
+Health,2007,3.7541039,SWZ,% of GDP,Eswatini
+Health,2008,4.45391893,SWZ,% of GDP,Eswatini
+Health,2009,4.46149063,SWZ,% of GDP,Eswatini
+Health,2010,4.22809029,SWZ,% of GDP,Eswatini
+Health,2011,3.61155891,SWZ,% of GDP,Eswatini
+Health,2012,3.41336322,SWZ,% of GDP,Eswatini
+Health,2013,3.32492328,SWZ,% of GDP,Eswatini
+Health,2014,2.73972297,SWZ,% of GDP,Eswatini
+Health,2015,2.94745016,SWZ,% of GDP,Eswatini
+Health,2016,2.84598303,SWZ,% of GDP,Eswatini
+Health,2017,3.54254961,SWZ,% of GDP,Eswatini
+Health,2018,3.49409103,SWZ,% of GDP,Eswatini
+Health,2019,3.42137909,SWZ,% of GDP,Eswatini
+Health,2020,3.44377804,SWZ,% of GDP,Eswatini
+Health,2000,1.79954576,ETH,% of GDP,Ethiopia
+Health,2001,2.01542306,ETH,% of GDP,Ethiopia
+Health,2002,2.08121538,ETH,% of GDP,Ethiopia
+Health,2003,2.27634931,ETH,% of GDP,Ethiopia
+Health,2004,1.32566774,ETH,% of GDP,Ethiopia
+Health,2005,1.72821617,ETH,% of GDP,Ethiopia
+Health,2006,1.12012768,ETH,% of GDP,Ethiopia
+Health,2007,1.33306754,ETH,% of GDP,Ethiopia
+Health,2008,0.51424921,ETH,% of GDP,Ethiopia
+Health,2009,0.9070071,ETH,% of GDP,Ethiopia
+Health,2010,0.94396311,ETH,% of GDP,Ethiopia
+Health,2011,0.38117546,ETH,% of GDP,Ethiopia
+Health,2012,1.06663179,ETH,% of GDP,Ethiopia
+Health,2013,1.09967208,ETH,% of GDP,Ethiopia
+Health,2014,0.71479559,ETH,% of GDP,Ethiopia
+Health,2015,0.96540898,ETH,% of GDP,Ethiopia
+Health,2016,0.90002954,ETH,% of GDP,Ethiopia
+Health,2017,0.8612687,ETH,% of GDP,Ethiopia
+Health,2018,0.76642609,ETH,% of GDP,Ethiopia
+Health,2019,0.73088509,ETH,% of GDP,Ethiopia
+Health,2020,0.98278511,ETH,% of GDP,Ethiopia
+Health,2000,1.06383789,GAB,% of GDP,Gabon
+Health,2001,1.26300132,GAB,% of GDP,Gabon
+Health,2002,1.19960451,GAB,% of GDP,Gabon
+Health,2003,1.4352864,GAB,% of GDP,Gabon
+Health,2004,1.35957062,GAB,% of GDP,Gabon
+Health,2005,1.05433249,GAB,% of GDP,Gabon
+Health,2006,1.2173816,GAB,% of GDP,Gabon
+Health,2007,1.23346996,GAB,% of GDP,Gabon
+Health,2008,1.06247222,GAB,% of GDP,Gabon
+Health,2009,1.54066849,GAB,% of GDP,Gabon
+Health,2010,1.57325745,GAB,% of GDP,Gabon
+Health,2011,1.58558345,GAB,% of GDP,Gabon
+Health,2012,1.48285842,GAB,% of GDP,Gabon
+Health,2013,1.82302928,GAB,% of GDP,Gabon
+Health,2014,1.51668847,GAB,% of GDP,Gabon
+Health,2015,1.56549394,GAB,% of GDP,Gabon
+Health,2016,2.01055074,GAB,% of GDP,Gabon
+Health,2017,1.75976336,GAB,% of GDP,Gabon
+Health,2018,1.60853541,GAB,% of GDP,Gabon
+Health,2019,1.66962576,GAB,% of GDP,Gabon
+Health,2020,1.89980304,GAB,% of GDP,Gabon
+Health,2000,0.6015296,GMB,% of GDP,Gambia
+Health,2001,0.61059773,GMB,% of GDP,Gambia
+Health,2002,0.54214686,GMB,% of GDP,Gambia
+Health,2003,0.5868997,GMB,% of GDP,Gambia
+Health,2004,0.78081375,GMB,% of GDP,Gambia
+Health,2005,0.81679177,GMB,% of GDP,Gambia
+Health,2006,0.88458723,GMB,% of GDP,Gambia
+Health,2007,0.70619458,GMB,% of GDP,Gambia
+Health,2008,0.7288478,GMB,% of GDP,Gambia
+Health,2009,0.9055742,GMB,% of GDP,Gambia
+Health,2010,0.91823167,GMB,% of GDP,Gambia
+Health,2011,1.04374862,GMB,% of GDP,Gambia
+Health,2012,1.20622373,GMB,% of GDP,Gambia
+Health,2013,1.08376527,GMB,% of GDP,Gambia
+Health,2014,1.09228694,GMB,% of GDP,Gambia
+Health,2015,0.99829203,GMB,% of GDP,Gambia
+Health,2016,1.2897681,GMB,% of GDP,Gambia
+Health,2017,1.06097889,GMB,% of GDP,Gambia
+Health,2018,1.06939662,GMB,% of GDP,Gambia
+Health,2019,1.30072176,GMB,% of GDP,Gambia
+Health,2020,1.36467004,GMB,% of GDP,Gambia
+Health,2000,0.77568001,GHA,% of GDP,Ghana
+Health,2001,1.0631063,GHA,% of GDP,Ghana
+Health,2002,0.69710666,GHA,% of GDP,Ghana
+Health,2003,0.82314873,GHA,% of GDP,Ghana
+Health,2004,0.72261524,GHA,% of GDP,Ghana
+Health,2005,1.4651835,GHA,% of GDP,Ghana
+Health,2006,1.47005928,GHA,% of GDP,Ghana
+Health,2007,1.64301646,GHA,% of GDP,Ghana
+Health,2008,1.74936557,GHA,% of GDP,Ghana
+Health,2009,2.16013789,GHA,% of GDP,Ghana
+Health,2010,2.36885071,GHA,% of GDP,Ghana
+Health,2011,2.35752439,GHA,% of GDP,Ghana
+Health,2012,1.97193396,GHA,% of GDP,Ghana
+Health,2013,1.85814357,GHA,% of GDP,Ghana
+Health,2014,1.40883136,GHA,% of GDP,Ghana
+Health,2015,1.5937742,GHA,% of GDP,Ghana
+Health,2016,1.3003906,GHA,% of GDP,Ghana
+Health,2017,1.06188178,GHA,% of GDP,Ghana
+Health,2018,1.34083962,GHA,% of GDP,Ghana
+Health,2019,1.38440955,GHA,% of GDP,Ghana
+Health,2020,1.98434043,GHA,% of GDP,Ghana
+Health,2000,0.30125162,GIN,% of GDP,Guinea
+Health,2001,0.37107071,GIN,% of GDP,Guinea
+Health,2002,0.64011806,GIN,% of GDP,Guinea
+Health,2003,0.42212996,GIN,% of GDP,Guinea
+Health,2004,0.24164158,GIN,% of GDP,Guinea
+Health,2005,0.26129073,GIN,% of GDP,Guinea
+Health,2006,0.24835719,GIN,% of GDP,Guinea
+Health,2007,0.24066733,GIN,% of GDP,Guinea
+Health,2008,0.26959306,GIN,% of GDP,Guinea
+Health,2009,0.26025116,GIN,% of GDP,Guinea
+Health,2010,0.36297843,GIN,% of GDP,Guinea
+Health,2011,0.51036745,GIN,% of GDP,Guinea
+Health,2012,0.51431388,GIN,% of GDP,Guinea
+Health,2013,0.48858824,GIN,% of GDP,Guinea
+Health,2014,0.61152339,GIN,% of GDP,Guinea
+Health,2015,0.42931107,GIN,% of GDP,Guinea
+Health,2016,0.66374409,GIN,% of GDP,Guinea
+Health,2017,0.60066229,GIN,% of GDP,Guinea
+Health,2018,0.61740124,GIN,% of GDP,Guinea
+Health,2019,0.91611725,GIN,% of GDP,Guinea
+Health,2020,0.9703269,GIN,% of GDP,Guinea
+Health,2000,3.14870167,GNB,% of GDP,Guinea-Bissau
+Health,2001,2.88784122,GNB,% of GDP,Guinea-Bissau
+Health,2002,1.7342999,GNB,% of GDP,Guinea-Bissau
+Health,2003,2.24631,GNB,% of GDP,Guinea-Bissau
+Health,2004,3.22254682,GNB,% of GDP,Guinea-Bissau
+Health,2005,2.6890204,GNB,% of GDP,Guinea-Bissau
+Health,2006,2.48776817,GNB,% of GDP,Guinea-Bissau
+Health,2007,2.52953625,GNB,% of GDP,Guinea-Bissau
+Health,2008,2.21401811,GNB,% of GDP,Guinea-Bissau
+Health,2009,2.66725183,GNB,% of GDP,Guinea-Bissau
+Health,2010,1.03795934,GNB,% of GDP,Guinea-Bissau
+Health,2011,0.43690556,GNB,% of GDP,Guinea-Bissau
+Health,2012,0.50444686,GNB,% of GDP,Guinea-Bissau
+Health,2013,0.55160207,GNB,% of GDP,Guinea-Bissau
+Health,2014,0.59649962,GNB,% of GDP,Guinea-Bissau
+Health,2015,0.53779858,GNB,% of GDP,Guinea-Bissau
+Health,2016,0.48464295,GNB,% of GDP,Guinea-Bissau
+Health,2017,0.49838862,GNB,% of GDP,Guinea-Bissau
+Health,2018,0.55349982,GNB,% of GDP,Guinea-Bissau
+Health,2019,0.53418714,GNB,% of GDP,Guinea-Bissau
+Health,2020,0.71145356,GNB,% of GDP,Guinea-Bissau
+Health,2000,0.68693274,KEN,% of GDP,Kenya
+Health,2001,0.75107551,KEN,% of GDP,Kenya
+Health,2002,0.7558437,KEN,% of GDP,Kenya
+Health,2003,0.78810853,KEN,% of GDP,Kenya
+Health,2004,0.79468918,KEN,% of GDP,Kenya
+Health,2005,0.82510209,KEN,% of GDP,Kenya
+Health,2006,0.8378908,KEN,% of GDP,Kenya
+Health,2007,0.92616576,KEN,% of GDP,Kenya
+Health,2008,1.15410376,KEN,% of GDP,Kenya
+Health,2009,1.4598949,KEN,% of GDP,Kenya
+Health,2010,1.56062746,KEN,% of GDP,Kenya
+Health,2011,1.60566163,KEN,% of GDP,Kenya
+Health,2012,1.62624443,KEN,% of GDP,Kenya
+Health,2013,1.66091359,KEN,% of GDP,Kenya
+Health,2014,1.83768213,KEN,% of GDP,Kenya
+Health,2015,1.92388499,KEN,% of GDP,Kenya
+Health,2016,2.03529072,KEN,% of GDP,Kenya
+Health,2017,1.71156442,KEN,% of GDP,Kenya
+Health,2018,1.7670722,KEN,% of GDP,Kenya
+Health,2019,2.00519562,KEN,% of GDP,Kenya
+Health,2020,2.03427505,KEN,% of GDP,Kenya
+Health,2000,3.16541862,LSO,% of GDP,Lesotho
+Health,2001,3.98203588,LSO,% of GDP,Lesotho
+Health,2002,3.55323148,LSO,% of GDP,Lesotho
+Health,2003,3.55934095,LSO,% of GDP,Lesotho
+Health,2004,3.45442104,LSO,% of GDP,Lesotho
+Health,2005,2.62968826,LSO,% of GDP,Lesotho
+Health,2006,3.45184112,LSO,% of GDP,Lesotho
+Health,2007,4.63943148,LSO,% of GDP,Lesotho
+Health,2008,4.36957884,LSO,% of GDP,Lesotho
+Health,2009,4.8653245,LSO,% of GDP,Lesotho
+Health,2010,4.71744442,LSO,% of GDP,Lesotho
+Health,2011,5.37134027,LSO,% of GDP,Lesotho
+Health,2012,4.82419586,LSO,% of GDP,Lesotho
+Health,2013,4.65022707,LSO,% of GDP,Lesotho
+Health,2014,4.95433474,LSO,% of GDP,Lesotho
+Health,2015,5.3127594,LSO,% of GDP,Lesotho
+Health,2016,5.07786608,LSO,% of GDP,Lesotho
+Health,2017,5.562922,LSO,% of GDP,Lesotho
+Health,2018,5.26642847,LSO,% of GDP,Lesotho
+Health,2019,5.01617813,LSO,% of GDP,Lesotho
+Health,2020,6.09236574,LSO,% of GDP,Lesotho
+Health,2000,0.75365371,LBR,% of GDP,Liberia
+Health,2001,0.79743177,LBR,% of GDP,Liberia
+Health,2002,0.489272,LBR,% of GDP,Liberia
+Health,2003,0.53112721,LBR,% of GDP,Liberia
+Health,2004,0.69138062,LBR,% of GDP,Liberia
+Health,2005,0.5750863,LBR,% of GDP,Liberia
+Health,2006,0.70209312,LBR,% of GDP,Liberia
+Health,2007,0.82278156,LBR,% of GDP,Liberia
+Health,2008,1.36923027,LBR,% of GDP,Liberia
+Health,2009,0.96483052,LBR,% of GDP,Liberia
+Health,2010,0.79877245,LBR,% of GDP,Liberia
+Health,2011,1.51829386,LBR,% of GDP,Liberia
+Health,2012,0.87157464,LBR,% of GDP,Liberia
+Health,2013,0.34247521,LBR,% of GDP,Liberia
+Health,2014,0.82515347,LBR,% of GDP,Liberia
+Health,2015,1.20535016,LBR,% of GDP,Liberia
+Health,2016,1.39315951,LBR,% of GDP,Liberia
+Health,2017,1.38745701,LBR,% of GDP,Liberia
+Health,2018,1.68725502,LBR,% of GDP,Liberia
+Health,2019,1.35628378,LBR,% of GDP,Liberia
+Health,2020,1.58623326,LBR,% of GDP,Liberia
+Health,2000,1.76788867,MDG,% of GDP,Madagascar
+Health,2001,1.87928021,MDG,% of GDP,Madagascar
+Health,2002,1.78953421,MDG,% of GDP,Madagascar
+Health,2003,2.13789701,MDG,% of GDP,Madagascar
+Health,2004,2.19151831,MDG,% of GDP,Madagascar
+Health,2005,1.93915892,MDG,% of GDP,Madagascar
+Health,2006,1.88154292,MDG,% of GDP,Madagascar
+Health,2007,1.88316464,MDG,% of GDP,Madagascar
+Health,2008,1.39414191,MDG,% of GDP,Madagascar
+Health,2009,1.2360847,MDG,% of GDP,Madagascar
+Health,2010,1.86783457,MDG,% of GDP,Madagascar
+Health,2011,1.67813444,MDG,% of GDP,Madagascar
+Health,2012,1.48979211,MDG,% of GDP,Madagascar
+Health,2013,1.30425918,MDG,% of GDP,Madagascar
+Health,2014,1.74814212,MDG,% of GDP,Madagascar
+Health,2015,1.99010992,MDG,% of GDP,Madagascar
+Health,2016,2.37194586,MDG,% of GDP,Madagascar
+Health,2017,2.24615121,MDG,% of GDP,Madagascar
+Health,2018,1.50361967,MDG,% of GDP,Madagascar
+Health,2019,1.22160137,MDG,% of GDP,Madagascar
+Health,2020,1.4370451,MDG,% of GDP,Madagascar
+Health,2000,1.01542294,MWI,% of GDP,Malawi
+Health,2001,0.83659285,MWI,% of GDP,Malawi
+Health,2002,0.97493625,MWI,% of GDP,Malawi
+Health,2003,1.17513871,MWI,% of GDP,Malawi
+Health,2004,0.85772187,MWI,% of GDP,Malawi
+Health,2005,1.05274868,MWI,% of GDP,Malawi
+Health,2006,0.9437108,MWI,% of GDP,Malawi
+Health,2007,0.73458099,MWI,% of GDP,Malawi
+Health,2008,1.3674773,MWI,% of GDP,Malawi
+Health,2009,1.0557555,MWI,% of GDP,Malawi
+Health,2010,1.13196635,MWI,% of GDP,Malawi
+Health,2011,1.15239477,MWI,% of GDP,Malawi
+Health,2012,0.95642853,MWI,% of GDP,Malawi
+Health,2013,1.48205006,MWI,% of GDP,Malawi
+Health,2014,1.56810546,MWI,% of GDP,Malawi
+Health,2015,1.89914215,MWI,% of GDP,Malawi
+Health,2016,1.91101837,MWI,% of GDP,Malawi
+Health,2017,1.71919668,MWI,% of GDP,Malawi
+Health,2018,1.67992616,MWI,% of GDP,Malawi
+Health,2019,1.67412877,MWI,% of GDP,Malawi
+Health,2020,1.97010148,MWI,% of GDP,Malawi
+Health,2000,1.293167,MLI,% of GDP,Mali
+Health,2001,1.05400586,MLI,% of GDP,Mali
+Health,2002,1.10979891,MLI,% of GDP,Mali
+Health,2003,1.41241956,MLI,% of GDP,Mali
+Health,2004,1.58849609,MLI,% of GDP,Mali
+Health,2005,1.39720726,MLI,% of GDP,Mali
+Health,2006,1.22405636,MLI,% of GDP,Mali
+Health,2007,0.99671519,MLI,% of GDP,Mali
+Health,2008,0.71615696,MLI,% of GDP,Mali
+Health,2009,0.66754013,MLI,% of GDP,Mali
+Health,2010,0.6689294,MLI,% of GDP,Mali
+Health,2011,0.60476297,MLI,% of GDP,Mali
+Health,2012,0.41352269,MLI,% of GDP,Mali
+Health,2013,0.81583834,MLI,% of GDP,Mali
+Health,2014,0.89173758,MLI,% of GDP,Mali
+Health,2015,0.91927379,MLI,% of GDP,Mali
+Health,2016,1.20876825,MLI,% of GDP,Mali
+Health,2017,1.17751467,MLI,% of GDP,Mali
+Health,2018,1.15118277,MLI,% of GDP,Mali
+Health,2019,1.31228375,MLI,% of GDP,Mali
+Health,2020,1.4803977,MLI,% of GDP,Mali
+Health,2000,0.46969447,MRT,% of GDP,Mauritania
+Health,2001,0.54510015,MRT,% of GDP,Mauritania
+Health,2002,0.87326568,MRT,% of GDP,Mauritania
+Health,2003,0.7719968,MRT,% of GDP,Mauritania
+Health,2004,0.70654863,MRT,% of GDP,Mauritania
+Health,2005,0.81955862,MRT,% of GDP,Mauritania
+Health,2006,0.67619681,MRT,% of GDP,Mauritania
+Health,2007,0.76387841,MRT,% of GDP,Mauritania
+Health,2008,0.8877672,MRT,% of GDP,Mauritania
+Health,2009,0.87885523,MRT,% of GDP,Mauritania
+Health,2010,0.73150158,MRT,% of GDP,Mauritania
+Health,2011,0.74974972,MRT,% of GDP,Mauritania
+Health,2012,0.89773965,MRT,% of GDP,Mauritania
+Health,2013,1.08287692,MRT,% of GDP,Mauritania
+Health,2014,1.25234473,MRT,% of GDP,Mauritania
+Health,2015,1.41883922,MRT,% of GDP,Mauritania
+Health,2016,1.19934916,MRT,% of GDP,Mauritania
+Health,2017,1.23122656,MRT,% of GDP,Mauritania
+Health,2018,1.34660971,MRT,% of GDP,Mauritania
+Health,2019,1.24437451,MRT,% of GDP,Mauritania
+Health,2020,1.34919083,MRT,% of GDP,Mauritania
+Health,2000,1.55006421,MUS,% of GDP,Mauritius
+Health,2001,1.59244609,MUS,% of GDP,Mauritius
+Health,2002,1.70967305,MUS,% of GDP,Mauritius
+Health,2003,1.69130635,MUS,% of GDP,Mauritius
+Health,2004,1.82723427,MUS,% of GDP,Mauritius
+Health,2005,1.7179749,MUS,% of GDP,Mauritius
+Health,2006,1.64005268,MUS,% of GDP,Mauritius
+Health,2007,1.49295294,MUS,% of GDP,Mauritius
+Health,2008,1.40839171,MUS,% of GDP,Mauritius
+Health,2009,1.60115862,MUS,% of GDP,Mauritius
+Health,2010,2.02170277,MUS,% of GDP,Mauritius
+Health,2011,1.77170992,MUS,% of GDP,Mauritius
+Health,2012,1.90073168,MUS,% of GDP,Mauritius
+Health,2013,1.95769048,MUS,% of GDP,Mauritius
+Health,2014,2.47630405,MUS,% of GDP,Mauritius
+Health,2015,2.37549067,MUS,% of GDP,Mauritius
+Health,2016,2.5174036,MUS,% of GDP,Mauritius
+Health,2017,2.55904102,MUS,% of GDP,Mauritius
+Health,2018,2.57791424,MUS,% of GDP,Mauritius
+Health,2019,2.91687322,MUS,% of GDP,Mauritius
+Health,2020,3.4760139,MUS,% of GDP,Mauritius
+Health,2000,1.1387012,MOZ,% of GDP,Mozambique
+Health,2001,1.37296844,MOZ,% of GDP,Mozambique
+Health,2002,1.2326442,MOZ,% of GDP,Mozambique
+Health,2003,1.22760653,MOZ,% of GDP,Mozambique
+Health,2004,1.16731966,MOZ,% of GDP,Mozambique
+Health,2005,1.48059738,MOZ,% of GDP,Mozambique
+Health,2006,1.18389058,MOZ,% of GDP,Mozambique
+Health,2007,1.21262467,MOZ,% of GDP,Mozambique
+Health,2008,1.24205959,MOZ,% of GDP,Mozambique
+Health,2009,1.31300271,MOZ,% of GDP,Mozambique
+Health,2010,1.2781167,MOZ,% of GDP,Mozambique
+Health,2011,1.27621472,MOZ,% of GDP,Mozambique
+Health,2012,1.26101863,MOZ,% of GDP,Mozambique
+Health,2013,1.51853013,MOZ,% of GDP,Mozambique
+Health,2014,1.74078834,MOZ,% of GDP,Mozambique
+Health,2015,1.81552148,MOZ,% of GDP,Mozambique
+Health,2016,1.74219394,MOZ,% of GDP,Mozambique
+Health,2017,1.74276435,MOZ,% of GDP,Mozambique
+Health,2018,1.80703926,MOZ,% of GDP,Mozambique
+Health,2019,1.84061074,MOZ,% of GDP,Mozambique
+Health,2020,2.41862082,MOZ,% of GDP,Mozambique
+Health,2000,4.85066414,NAM,% of GDP,Namibia
+Health,2001,4.9487524,NAM,% of GDP,Namibia
+Health,2002,5.16812181,NAM,% of GDP,Namibia
+Health,2003,5.27504635,NAM,% of GDP,Namibia
+Health,2004,4.97990847,NAM,% of GDP,Namibia
+Health,2005,4.54677343,NAM,% of GDP,Namibia
+Health,2006,4.16533232,NAM,% of GDP,Namibia
+Health,2007,4.68895483,NAM,% of GDP,Namibia
+Health,2008,4.13121605,NAM,% of GDP,Namibia
+Health,2009,3.45770502,NAM,% of GDP,Namibia
+Health,2010,3.98765874,NAM,% of GDP,Namibia
+Health,2011,4.09209919,NAM,% of GDP,Namibia
+Health,2012,3.87052751,NAM,% of GDP,Namibia
+Health,2013,4.18122244,NAM,% of GDP,Namibia
+Health,2014,3.883605,NAM,% of GDP,Namibia
+Health,2015,4.21268463,NAM,% of GDP,Namibia
+Health,2016,4.37176323,NAM,% of GDP,Namibia
+Health,2017,4.05778646,NAM,% of GDP,Namibia
+Health,2018,3.86995769,NAM,% of GDP,Namibia
+Health,2019,3.99995971,NAM,% of GDP,Namibia
+Health,2020,4.40352678,NAM,% of GDP,Namibia
+Health,2000,1.12999868,NER,% of GDP,Niger
+Health,2001,1.14577425,NER,% of GDP,Niger
+Health,2002,1.20736778,NER,% of GDP,Niger
+Health,2003,1.07094669,NER,% of GDP,Niger
+Health,2004,1.18101633,NER,% of GDP,Niger
+Health,2005,1.92018211,NER,% of GDP,Niger
+Health,2006,2.05841017,NER,% of GDP,Niger
+Health,2007,1.50168717,NER,% of GDP,Niger
+Health,2008,1.55048525,NER,% of GDP,Niger
+Health,2009,1.5377779,NER,% of GDP,Niger
+Health,2010,1.31193817,NER,% of GDP,Niger
+Health,2011,1.27229619,NER,% of GDP,Niger
+Health,2012,1.03993595,NER,% of GDP,Niger
+Health,2013,1.34044802,NER,% of GDP,Niger
+Health,2014,1.27712584,NER,% of GDP,Niger
+Health,2015,1.11163116,NER,% of GDP,Niger
+Health,2016,1.10086405,NER,% of GDP,Niger
+Health,2017,1.88447368,NER,% of GDP,Niger
+Health,2018,1.76169217,NER,% of GDP,Niger
+Health,2019,2.02315283,NER,% of GDP,Niger
+Health,2020,2.34244084,NER,% of GDP,Niger
+Health,2000,0.58559412,NGA,% of GDP,Nigeria
+Health,2001,0.8576929,NGA,% of GDP,Nigeria
+Health,2002,0.53133184,NGA,% of GDP,Nigeria
+Health,2003,0.92982918,NGA,% of GDP,Nigeria
+Health,2004,1.202034,NGA,% of GDP,Nigeria
+Health,2005,1.14133215,NGA,% of GDP,Nigeria
+Health,2006,0.90186709,NGA,% of GDP,Nigeria
+Health,2007,0.7786122,NGA,% of GDP,Nigeria
+Health,2008,0.66059941,NGA,% of GDP,Nigeria
+Health,2009,0.57001245,NGA,% of GDP,Nigeria
+Health,2010,0.44847032,NGA,% of GDP,Nigeria
+Health,2011,0.47937736,NGA,% of GDP,Nigeria
+Health,2012,0.54436672,NGA,% of GDP,Nigeria
+Health,2013,0.48927844,NGA,% of GDP,Nigeria
+Health,2014,0.44593188,NGA,% of GDP,Nigeria
+Health,2015,0.58907843,NGA,% of GDP,Nigeria
+Health,2016,0.47496933,NGA,% of GDP,Nigeria
+Health,2017,0.53266305,NGA,% of GDP,Nigeria
+Health,2018,0.49754828,NGA,% of GDP,Nigeria
+Health,2019,0.46980387,NGA,% of GDP,Nigeria
+Health,2020,0.50597858,NGA,% of GDP,Nigeria
+Health,2000,0.64626944,RWA,% of GDP,Rwanda
+Health,2001,0.698044,RWA,% of GDP,Rwanda
+Health,2002,0.75874555,RWA,% of GDP,Rwanda
+Health,2003,2.30581403,RWA,% of GDP,Rwanda
+Health,2004,1.92855704,RWA,% of GDP,Rwanda
+Health,2005,1.61526906,RWA,% of GDP,Rwanda
+Health,2006,1.48286724,RWA,% of GDP,Rwanda
+Health,2007,1.74706471,RWA,% of GDP,Rwanda
+Health,2008,1.81512129,RWA,% of GDP,Rwanda
+Health,2009,1.88223851,RWA,% of GDP,Rwanda
+Health,2010,2.0403583,RWA,% of GDP,Rwanda
+Health,2011,2.19846153,RWA,% of GDP,Rwanda
+Health,2012,2.05578661,RWA,% of GDP,Rwanda
+Health,2013,2.17317319,RWA,% of GDP,Rwanda
+Health,2014,2.19475436,RWA,% of GDP,Rwanda
+Health,2015,2.10574889,RWA,% of GDP,Rwanda
+Health,2016,2.23370934,RWA,% of GDP,Rwanda
+Health,2017,2.2288599,RWA,% of GDP,Rwanda
+Health,2018,2.34202266,RWA,% of GDP,Rwanda
+Health,2019,2.50311065,RWA,% of GDP,Rwanda
+Health,2020,2.92674851,RWA,% of GDP,Rwanda
+Health,2000,3.44105196,STP,% of GDP,Sao Tome and Principe
+Health,2001,3.63409472,STP,% of GDP,Sao Tome and Principe
+Health,2002,3.74999523,STP,% of GDP,Sao Tome and Principe
+Health,2003,6.04743004,STP,% of GDP,Sao Tome and Principe
+Health,2004,5.18750954,STP,% of GDP,Sao Tome and Principe
+Health,2005,5.03072548,STP,% of GDP,Sao Tome and Principe
+Health,2006,0.54853714,STP,% of GDP,Sao Tome and Principe
+Health,2007,1.66388476,STP,% of GDP,Sao Tome and Principe
+Health,2008,1.22298861,STP,% of GDP,Sao Tome and Principe
+Health,2009,1.69961298,STP,% of GDP,Sao Tome and Principe
+Health,2010,2.0473361,STP,% of GDP,Sao Tome and Principe
+Health,2011,2.24904656,STP,% of GDP,Sao Tome and Principe
+Health,2012,2.10990143,STP,% of GDP,Sao Tome and Principe
+Health,2013,2.66235065,STP,% of GDP,Sao Tome and Principe
+Health,2014,2.36508298,STP,% of GDP,Sao Tome and Principe
+Health,2015,1.68867922,STP,% of GDP,Sao Tome and Principe
+Health,2016,2.59254098,STP,% of GDP,Sao Tome and Principe
+Health,2017,2.97378111,STP,% of GDP,Sao Tome and Principe
+Health,2018,2.80085683,STP,% of GDP,Sao Tome and Principe
+Health,2019,2.37431169,STP,% of GDP,Sao Tome and Principe
+Health,2020,2.4861083,STP,% of GDP,Sao Tome and Principe
+Health,2000,1.25274444,SEN,% of GDP,Senegal
+Health,2001,1.415766,SEN,% of GDP,Senegal
+Health,2002,1.33993745,SEN,% of GDP,Senegal
+Health,2003,1.54446912,SEN,% of GDP,Senegal
+Health,2004,1.62704813,SEN,% of GDP,Senegal
+Health,2005,1.59510636,SEN,% of GDP,Senegal
+Health,2006,1.7594533,SEN,% of GDP,Senegal
+Health,2007,1.31880546,SEN,% of GDP,Senegal
+Health,2008,1.3871423,SEN,% of GDP,Senegal
+Health,2009,1.40655613,SEN,% of GDP,Senegal
+Health,2010,1.16160047,SEN,% of GDP,Senegal
+Health,2011,1.30861843,SEN,% of GDP,Senegal
+Health,2012,1.21922684,SEN,% of GDP,Senegal
+Health,2013,1.17077053,SEN,% of GDP,Senegal
+Health,2014,1.080037,SEN,% of GDP,Senegal
+Health,2015,1.07820702,SEN,% of GDP,Senegal
+Health,2016,1.06801915,SEN,% of GDP,Senegal
+Health,2017,1.01061249,SEN,% of GDP,Senegal
+Health,2018,1.11893904,SEN,% of GDP,Senegal
+Health,2019,1.05768847,SEN,% of GDP,Senegal
+Health,2020,1.72161877,SEN,% of GDP,Senegal
+Health,2000,3.78593802,SYC,% of GDP,Seychelles
+Health,2001,3.75857329,SYC,% of GDP,Seychelles
+Health,2002,3.63683939,SYC,% of GDP,Seychelles
+Health,2003,4.14589357,SYC,% of GDP,Seychelles
+Health,2004,3.81282496,SYC,% of GDP,Seychelles
+Health,2005,3.62017798,SYC,% of GDP,Seychelles
+Health,2006,3.44340944,SYC,% of GDP,Seychelles
+Health,2007,3.04300809,SYC,% of GDP,Seychelles
+Health,2008,2.40282655,SYC,% of GDP,Seychelles
+Health,2009,2.3870523,SYC,% of GDP,Seychelles
+Health,2010,3.1060183,SYC,% of GDP,Seychelles
+Health,2011,3.01365519,SYC,% of GDP,Seychelles
+Health,2012,4.02018118,SYC,% of GDP,Seychelles
+Health,2013,3.20524502,SYC,% of GDP,Seychelles
+Health,2014,3.18385339,SYC,% of GDP,Seychelles
+Health,2015,3.15717173,SYC,% of GDP,Seychelles
+Health,2016,3.43058586,SYC,% of GDP,Seychelles
+Health,2017,3.48172712,SYC,% of GDP,Seychelles
+Health,2018,3.68128753,SYC,% of GDP,Seychelles
+Health,2019,3.54460716,SYC,% of GDP,Seychelles
+Health,2020,5.39845753,SYC,% of GDP,Seychelles
+Health,2000,2.07760668,SLE,% of GDP,Sierra Leone
+Health,2001,2.51133323,SLE,% of GDP,Sierra Leone
+Health,2002,2.80493665,SLE,% of GDP,Sierra Leone
+Health,2003,2.20022655,SLE,% of GDP,Sierra Leone
+Health,2004,2.09712052,SLE,% of GDP,Sierra Leone
+Health,2005,1.72106278,SLE,% of GDP,Sierra Leone
+Health,2006,1.08422744,SLE,% of GDP,Sierra Leone
+Health,2007,1.07384503,SLE,% of GDP,Sierra Leone
+Health,2008,0.63286829,SLE,% of GDP,Sierra Leone
+Health,2009,0.93309164,SLE,% of GDP,Sierra Leone
+Health,2010,1.27227926,SLE,% of GDP,Sierra Leone
+Health,2011,0.88903201,SLE,% of GDP,Sierra Leone
+Health,2012,0.95205772,SLE,% of GDP,Sierra Leone
+Health,2013,0.80621618,SLE,% of GDP,Sierra Leone
+Health,2014,1.33745706,SLE,% of GDP,Sierra Leone
+Health,2015,1.64069057,SLE,% of GDP,Sierra Leone
+Health,2016,1.84639025,SLE,% of GDP,Sierra Leone
+Health,2017,0.85096204,SLE,% of GDP,Sierra Leone
+Health,2018,0.76867914,SLE,% of GDP,Sierra Leone
+Health,2019,1.23889363,SLE,% of GDP,Sierra Leone
+Health,2020,1.36035788,SLE,% of GDP,Sierra Leone
+Health,2000,2.68480206,ZAF,% of GDP,South Africa
+Health,2001,2.40290713,ZAF,% of GDP,South Africa
+Health,2002,2.30570102,ZAF,% of GDP,South Africa
+Health,2003,2.79076648,ZAF,% of GDP,South Africa
+Health,2004,2.73156238,ZAF,% of GDP,South Africa
+Health,2005,2.74503064,ZAF,% of GDP,South Africa
+Health,2006,3.23011708,ZAF,% of GDP,South Africa
+Health,2007,3.30013156,ZAF,% of GDP,South Africa
+Health,2008,3.38493657,ZAF,% of GDP,South Africa
+Health,2009,3.80475187,ZAF,% of GDP,South Africa
+Health,2010,4.00033045,ZAF,% of GDP,South Africa
+Health,2011,4.12050819,ZAF,% of GDP,South Africa
+Health,2012,4.1403532,ZAF,% of GDP,South Africa
+Health,2013,4.14510202,ZAF,% of GDP,South Africa
+Health,2014,4.3735652,ZAF,% of GDP,South Africa
+Health,2015,4.59632444,ZAF,% of GDP,South Africa
+Health,2016,4.57297277,ZAF,% of GDP,South Africa
+Health,2017,4.56554031,ZAF,% of GDP,South Africa
+Health,2018,4.61501074,ZAF,% of GDP,South Africa
+Health,2019,4.81728697,ZAF,% of GDP,South Africa
+Health,2020,5.33053446,ZAF,% of GDP,South Africa
+Health,2017,0.69536835,SSD,% of GDP,South Sudan
+Health,2018,0.68500352,SSD,% of GDP,South Sudan
+Health,2019,0.76648843,SSD,% of GDP,South Sudan
+Health,2020,0.4163678,SSD,% of GDP,South Sudan
+Health,2000,0.29096901,TGO,% of GDP,Togo
+Health,2001,0.32503283,TGO,% of GDP,Togo
+Health,2002,0.34117612,TGO,% of GDP,Togo
+Health,2003,0.37685171,TGO,% of GDP,Togo
+Health,2004,0.44411397,TGO,% of GDP,Togo
+Health,2005,0.50362611,TGO,% of GDP,Togo
+Health,2006,0.56445849,TGO,% of GDP,Togo
+Health,2007,0.62282085,TGO,% of GDP,Togo
+Health,2008,0.61289465,TGO,% of GDP,Togo
+Health,2009,0.7069785,TGO,% of GDP,Togo
+Health,2010,1.1526072,TGO,% of GDP,Togo
+Health,2011,1.07126713,TGO,% of GDP,Togo
+Health,2012,1.20870054,TGO,% of GDP,Togo
+Health,2013,0.99220741,TGO,% of GDP,Togo
+Health,2014,1.03395808,TGO,% of GDP,Togo
+Health,2015,0.9431653,TGO,% of GDP,Togo
+Health,2016,0.98174191,TGO,% of GDP,Togo
+Health,2017,1.04826784,TGO,% of GDP,Togo
+Health,2018,1.01966834,TGO,% of GDP,Togo
+Health,2019,0.86334223,TGO,% of GDP,Togo
+Health,2020,1.24389136,TGO,% of GDP,Togo
+Health,2000,1.26929665,UGA,% of GDP,Uganda
+Health,2001,1.35074425,UGA,% of GDP,Uganda
+Health,2002,1.46698916,UGA,% of GDP,Uganda
+Health,2003,1.47392678,UGA,% of GDP,Uganda
+Health,2004,1.3679626,UGA,% of GDP,Uganda
+Health,2005,1.03288162,UGA,% of GDP,Uganda
+Health,2006,0.98189151,UGA,% of GDP,Uganda
+Health,2007,1.0345825,UGA,% of GDP,Uganda
+Health,2008,0.94331813,UGA,% of GDP,Uganda
+Health,2009,0.82782149,UGA,% of GDP,Uganda
+Health,2010,1.09791434,UGA,% of GDP,Uganda
+Health,2011,0.90863341,UGA,% of GDP,Uganda
+Health,2012,0.9248504,UGA,% of GDP,Uganda
+Health,2013,0.97432142,UGA,% of GDP,Uganda
+Health,2014,0.95077145,UGA,% of GDP,Uganda
+Health,2015,0.7692818,UGA,% of GDP,Uganda
+Health,2016,0.77783573,UGA,% of GDP,Uganda
+Health,2017,0.63861901,UGA,% of GDP,Uganda
+Health,2018,0.67408383,UGA,% of GDP,Uganda
+Health,2019,0.57414162,UGA,% of GDP,Uganda
+Health,2020,0.67256367,UGA,% of GDP,Uganda
+Health,2000,0.74586421,TZA,% of GDP,Tanzania
+Health,2001,1.08908296,TZA,% of GDP,Tanzania
+Health,2002,1.33213437,TZA,% of GDP,Tanzania
+Health,2003,1.49158525,TZA,% of GDP,Tanzania
+Health,2004,1.96674848,TZA,% of GDP,Tanzania
+Health,2005,2.31116962,TZA,% of GDP,Tanzania
+Health,2006,2.37998843,TZA,% of GDP,Tanzania
+Health,2007,1.94105673,TZA,% of GDP,Tanzania
+Health,2008,2.25783944,TZA,% of GDP,Tanzania
+Health,2009,1.48484647,TZA,% of GDP,Tanzania
+Health,2010,1.4499774,TZA,% of GDP,Tanzania
+Health,2011,1.28681624,TZA,% of GDP,Tanzania
+Health,2012,1.17573333,TZA,% of GDP,Tanzania
+Health,2013,1.18517053,TZA,% of GDP,Tanzania
+Health,2014,1.19945395,TZA,% of GDP,Tanzania
+Health,2015,1.25726104,TZA,% of GDP,Tanzania
+Health,2016,1.61013722,TZA,% of GDP,Tanzania
+Health,2017,1.57794666,TZA,% of GDP,Tanzania
+Health,2018,1.56340349,TZA,% of GDP,Tanzania
+Health,2019,1.56885314,TZA,% of GDP,Tanzania
+Health,2020,1.60523546,TZA,% of GDP,Tanzania
+Health,2000,3.18158031,ZMB,% of GDP,Zambia
+Health,2001,3.10559344,ZMB,% of GDP,Zambia
+Health,2002,2.9581449,ZMB,% of GDP,Zambia
+Health,2003,2.44050002,ZMB,% of GDP,Zambia
+Health,2004,2.41501522,ZMB,% of GDP,Zambia
+Health,2005,1.83118665,ZMB,% of GDP,Zambia
+Health,2006,1.72526324,ZMB,% of GDP,Zambia
+Health,2007,0.97808874,ZMB,% of GDP,Zambia
+Health,2008,0.57981902,ZMB,% of GDP,Zambia
+Health,2009,0.43821603,ZMB,% of GDP,Zambia
+Health,2010,0.84136683,ZMB,% of GDP,Zambia
+Health,2011,1.20388007,ZMB,% of GDP,Zambia
+Health,2012,1.29786623,ZMB,% of GDP,Zambia
+Health,2013,1.30987322,ZMB,% of GDP,Zambia
+Health,2014,1.89382219,ZMB,% of GDP,Zambia
+Health,2015,2.0905416,ZMB,% of GDP,Zambia
+Health,2016,1.71430743,ZMB,% of GDP,Zambia
+Health,2017,1.78925121,ZMB,% of GDP,Zambia
+Health,2018,1.98691666,ZMB,% of GDP,Zambia
+Health,2019,2.13650107,ZMB,% of GDP,Zambia
+Health,2020,2.44180179,ZMB,% of GDP,Zambia
+Health,2010,2.75335717,ZWE,% of GDP,Zimbabwe
+Health,2011,2.11995435,ZWE,% of GDP,Zimbabwe
+Health,2012,1.99866605,ZWE,% of GDP,Zimbabwe
+Health,2013,2.01785898,ZWE,% of GDP,Zimbabwe
+Health,2014,2.73114586,ZWE,% of GDP,Zimbabwe
+Health,2015,1.55090201,ZWE,% of GDP,Zimbabwe
+Health,2016,1.58191299,ZWE,% of GDP,Zimbabwe
+Health,2017,1.59848082,ZWE,% of GDP,Zimbabwe
+Health,2018,1.59427941,ZWE,% of GDP,Zimbabwe
+Health,2019,0.52207655,ZWE,% of GDP,Zimbabwe
+Health,2020,0.75678271,ZWE,% of GDP,Zimbabwe
+Health,2000,2.72769094,ATG,% of GDP,Antigua and Barbuda
+Health,2001,3.21292543,ATG,% of GDP,Antigua and Barbuda
+Health,2002,3.09016109,ATG,% of GDP,Antigua and Barbuda
+Health,2003,3.34376001,ATG,% of GDP,Antigua and Barbuda
+Health,2004,2.96937299,ATG,% of GDP,Antigua and Barbuda
+Health,2005,2.77609158,ATG,% of GDP,Antigua and Barbuda
+Health,2006,2.45206785,ATG,% of GDP,Antigua and Barbuda
+Health,2007,2.2822845,ATG,% of GDP,Antigua and Barbuda
+Health,2008,2.13222933,ATG,% of GDP,Antigua and Barbuda
+Health,2009,2.29312468,ATG,% of GDP,Antigua and Barbuda
+Health,2010,3.13688278,ATG,% of GDP,Antigua and Barbuda
+Health,2011,3.09945083,ATG,% of GDP,Antigua and Barbuda
+Health,2012,3.08453822,ATG,% of GDP,Antigua and Barbuda
+Health,2013,3.08960581,ATG,% of GDP,Antigua and Barbuda
+Health,2014,3.47427654,ATG,% of GDP,Antigua and Barbuda
+Health,2015,3.15658259,ATG,% of GDP,Antigua and Barbuda
+Health,2016,2.86057758,ATG,% of GDP,Antigua and Barbuda
+Health,2017,2.73786783,ATG,% of GDP,Antigua and Barbuda
+Health,2018,2.91282296,ATG,% of GDP,Antigua and Barbuda
+Health,2019,2.55713224,ATG,% of GDP,Antigua and Barbuda
+Health,2020,3.38136292,ATG,% of GDP,Antigua and Barbuda
+Health,2000,4.49895144,ARG,% of GDP,Argentina
+Health,2001,4.59210253,ARG,% of GDP,Argentina
+Health,2002,4.03350496,ARG,% of GDP,Argentina
+Health,2003,3.77215648,ARG,% of GDP,Argentina
+Health,2004,3.74438357,ARG,% of GDP,Argentina
+Health,2005,3.91339946,ARG,% of GDP,Argentina
+Health,2006,4.01898909,ARG,% of GDP,Argentina
+Health,2007,4.25491619,ARG,% of GDP,Argentina
+Health,2008,4.50854683,ARG,% of GDP,Argentina
+Health,2009,5.66982841,ARG,% of GDP,Argentina
+Health,2010,5.56834269,ARG,% of GDP,Argentina
+Health,2011,5.68117285,ARG,% of GDP,Argentina
+Health,2012,6.13485479,ARG,% of GDP,Argentina
+Health,2013,6.22042274,ARG,% of GDP,Argentina
+Health,2014,6.3273077,ARG,% of GDP,Argentina
+Health,2015,6.82437325,ARG,% of GDP,Argentina
+Health,2016,5.59118652,ARG,% of GDP,Argentina
+Health,2017,6.59935713,ARG,% of GDP,Argentina
+Health,2018,5.96251631,ARG,% of GDP,Argentina
+Health,2019,6.05942106,ARG,% of GDP,Argentina
+Health,2020,6.6165266,ARG,% of GDP,Argentina
+Health,2000,1.50591624,BHS,% of GDP,Bahamas
+Health,2001,1.56618142,BHS,% of GDP,Bahamas
+Health,2002,1.50943291,BHS,% of GDP,Bahamas
+Health,2003,1.62846565,BHS,% of GDP,Bahamas
+Health,2004,1.611678,BHS,% of GDP,Bahamas
+Health,2005,1.58765554,BHS,% of GDP,Bahamas
+Health,2006,1.65727472,BHS,% of GDP,Bahamas
+Health,2007,1.80025303,BHS,% of GDP,Bahamas
+Health,2008,2.08452892,BHS,% of GDP,Bahamas
+Health,2009,2.34723687,BHS,% of GDP,Bahamas
+Health,2010,2.36928177,BHS,% of GDP,Bahamas
+Health,2011,2.37497997,BHS,% of GDP,Bahamas
+Health,2012,2.31367421,BHS,% of GDP,Bahamas
+Health,2013,2.56913257,BHS,% of GDP,Bahamas
+Health,2014,2.49743128,BHS,% of GDP,Bahamas
+Health,2015,2.28325391,BHS,% of GDP,Bahamas
+Health,2016,2.72011185,BHS,% of GDP,Bahamas
+Health,2017,3.69670224,BHS,% of GDP,Bahamas
+Health,2018,3.00421906,BHS,% of GDP,Bahamas
+Health,2019,3.08020306,BHS,% of GDP,Bahamas
+Health,2020,4.59830189,BHS,% of GDP,Bahamas
+Health,2000,2.76476121,BRB,% of GDP,Barbados
+Health,2001,2.94435692,BRB,% of GDP,Barbados
+Health,2002,3.13669062,BRB,% of GDP,Barbados
+Health,2003,3.75885224,BRB,% of GDP,Barbados
+Health,2004,4.34377909,BRB,% of GDP,Barbados
+Health,2005,3.8717072,BRB,% of GDP,Barbados
+Health,2006,3.70412207,BRB,% of GDP,Barbados
+Health,2007,3.29791284,BRB,% of GDP,Barbados
+Health,2008,3.58303881,BRB,% of GDP,Barbados
+Health,2009,3.90286708,BRB,% of GDP,Barbados
+Health,2010,3.62075615,BRB,% of GDP,Barbados
+Health,2011,3.34585857,BRB,% of GDP,Barbados
+Health,2012,4.30390453,BRB,% of GDP,Barbados
+Health,2013,3.80649638,BRB,% of GDP,Barbados
+Health,2014,3.28546762,BRB,% of GDP,Barbados
+Health,2015,3.2003293,BRB,% of GDP,Barbados
+Health,2016,3.15078282,BRB,% of GDP,Barbados
+Health,2017,3.0033567,BRB,% of GDP,Barbados
+Health,2018,2.93843102,BRB,% of GDP,Barbados
+Health,2019,2.77706695,BRB,% of GDP,Barbados
+Health,2020,3.74926305,BRB,% of GDP,Barbados
+Health,2000,1.85196733,BLZ,% of GDP,Belize
+Health,2001,2.37360358,BLZ,% of GDP,Belize
+Health,2002,2.44172215,BLZ,% of GDP,Belize
+Health,2003,2.31612515,BLZ,% of GDP,Belize
+Health,2004,2.26582146,BLZ,% of GDP,Belize
+Health,2005,2.36509275,BLZ,% of GDP,Belize
+Health,2006,2.59320211,BLZ,% of GDP,Belize
+Health,2007,3.1599319,BLZ,% of GDP,Belize
+Health,2008,3.74554896,BLZ,% of GDP,Belize
+Health,2009,3.70086288,BLZ,% of GDP,Belize
+Health,2010,3.74732089,BLZ,% of GDP,Belize
+Health,2011,3.72145414,BLZ,% of GDP,Belize
+Health,2012,3.57302713,BLZ,% of GDP,Belize
+Health,2013,3.75876546,BLZ,% of GDP,Belize
+Health,2014,3.87131286,BLZ,% of GDP,Belize
+Health,2015,4.00970364,BLZ,% of GDP,Belize
+Health,2016,4.17639303,BLZ,% of GDP,Belize
+Health,2017,3.95059657,BLZ,% of GDP,Belize
+Health,2018,3.98154259,BLZ,% of GDP,Belize
+Health,2019,4.08774805,BLZ,% of GDP,Belize
+Health,2020,4.97494507,BLZ,% of GDP,Belize
+Health,2000,2.43201661,BOL,% of GDP,Bolivia
+Health,2001,2.61401916,BOL,% of GDP,Bolivia
+Health,2002,2.60214591,BOL,% of GDP,Bolivia
+Health,2003,2.75486469,BOL,% of GDP,Bolivia
+Health,2004,2.53551769,BOL,% of GDP,Bolivia
+Health,2005,2.7536962,BOL,% of GDP,Bolivia
+Health,2006,2.61106277,BOL,% of GDP,Bolivia
+Health,2007,2.7755425,BOL,% of GDP,Bolivia
+Health,2008,2.70188808,BOL,% of GDP,Bolivia
+Health,2009,3.15830708,BOL,% of GDP,Bolivia
+Health,2010,3.05729318,BOL,% of GDP,Bolivia
+Health,2011,3.02061009,BOL,% of GDP,Bolivia
+Health,2012,2.9963541,BOL,% of GDP,Bolivia
+Health,2013,3.26242685,BOL,% of GDP,Bolivia
+Health,2014,3.69240737,BOL,% of GDP,Bolivia
+Health,2015,4.30645275,BOL,% of GDP,Bolivia
+Health,2016,4.4294467,BOL,% of GDP,Bolivia
+Health,2017,4.44758177,BOL,% of GDP,Bolivia
+Health,2018,4.79799795,BOL,% of GDP,Bolivia
+Health,2019,4.89661789,BOL,% of GDP,Bolivia
+Health,2020,5.64873314,BOL,% of GDP,Bolivia
+Health,2000,3.47014546,BRA,% of GDP,Brazil
+Health,2001,3.51298475,BRA,% of GDP,Brazil
+Health,2002,3.6863513,BRA,% of GDP,Brazil
+Health,2003,3.50954437,BRA,% of GDP,Brazil
+Health,2004,3.46692538,BRA,% of GDP,Brazil
+Health,2005,3.34525228,BRA,% of GDP,Brazil
+Health,2006,3.54130626,BRA,% of GDP,Brazil
+Health,2007,3.48462701,BRA,% of GDP,Brazil
+Health,2008,3.50441861,BRA,% of GDP,Brazil
+Health,2009,3.70742011,BRA,% of GDP,Brazil
+Health,2010,3.57701325,BRA,% of GDP,Brazil
+Health,2011,3.46567941,BRA,% of GDP,Brazil
+Health,2012,3.35463238,BRA,% of GDP,Brazil
+Health,2013,3.55113959,BRA,% of GDP,Brazil
+Health,2014,3.69886398,BRA,% of GDP,Brazil
+Health,2015,3.85384917,BRA,% of GDP,Brazil
+Health,2016,3.94843698,BRA,% of GDP,Brazil
+Health,2017,3.9531467,BRA,% of GDP,Brazil
+Health,2018,3.88923764,BRA,% of GDP,Brazil
+Health,2019,3.91701889,BRA,% of GDP,Brazil
+Health,2020,4.6151557,BRA,% of GDP,Brazil
+Health,2000,6.00890827,CAN,% of GDP,Canada
+Health,2001,6.27900839,CAN,% of GDP,Canada
+Health,2002,6.41561842,CAN,% of GDP,Canada
+Health,2003,6.59055662,CAN,% of GDP,Canada
+Health,2004,6.62400055,CAN,% of GDP,Canada
+Health,2005,6.59905815,CAN,% of GDP,Canada
+Health,2006,6.4866991,CAN,% of GDP,Canada
+Health,2007,6.57310772,CAN,% of GDP,Canada
+Health,2008,6.70162201,CAN,% of GDP,Canada
+Health,2009,7.52310753,CAN,% of GDP,Canada
+Health,2010,7.48269749,CAN,% of GDP,Canada
+Health,2011,7.31006718,CAN,% of GDP,Canada
+Health,2012,7.40953112,CAN,% of GDP,Canada
+Health,2013,7.36776829,CAN,% of GDP,Canada
+Health,2014,7.24133968,CAN,% of GDP,Canada
+Health,2015,7.59109926,CAN,% of GDP,Canada
+Health,2016,7.68809605,CAN,% of GDP,Canada
+Health,2017,7.57427883,CAN,% of GDP,Canada
+Health,2018,7.57710123,CAN,% of GDP,Canada
+Health,2019,7.6410737,CAN,% of GDP,Canada
+Health,2020,9.70065022,CAN,% of GDP,Canada
+Health,2021,8.7053566,CAN,% of GDP,Canada
+Health,2000,2.51822186,CHL,% of GDP,Chile
+Health,2001,2.60041094,CHL,% of GDP,Chile
+Health,2002,2.72779942,CHL,% of GDP,Chile
+Health,2003,2.80481911,CHL,% of GDP,Chile
+Health,2004,2.7236371,CHL,% of GDP,Chile
+Health,2005,2.59216499,CHL,% of GDP,Chile
+Health,2006,2.49547577,CHL,% of GDP,Chile
+Health,2007,2.60964298,CHL,% of GDP,Chile
+Health,2008,2.93380761,CHL,% of GDP,Chile
+Health,2009,3.37831378,CHL,% of GDP,Chile
+Health,2010,3.19127989,CHL,% of GDP,Chile
+Health,2011,3.19340086,CHL,% of GDP,Chile
+Health,2012,3.36552095,CHL,% of GDP,Chile
+Health,2013,3.5473907,CHL,% of GDP,Chile
+Health,2014,3.72688317,CHL,% of GDP,Chile
+Health,2015,3.98668075,CHL,% of GDP,Chile
+Health,2016,4.22976255,CHL,% of GDP,Chile
+Health,2017,4.57049799,CHL,% of GDP,Chile
+Health,2018,4.65451145,CHL,% of GDP,Chile
+Health,2019,4.7519598,CHL,% of GDP,Chile
+Health,2020,5.50038815,CHL,% of GDP,Chile
+Health,2021,5.17123127,CHL,% of GDP,Chile
+Health,2000,4.26218653,CRI,% of GDP,Costa Rica
+Health,2001,4.24420071,CRI,% of GDP,Costa Rica
+Health,2002,4.5927887,CRI,% of GDP,Costa Rica
+Health,2003,4.62578392,CRI,% of GDP,Costa Rica
+Health,2004,4.37697315,CRI,% of GDP,Costa Rica
+Health,2005,4.26226091,CRI,% of GDP,Costa Rica
+Health,2006,4.58488178,CRI,% of GDP,Costa Rica
+Health,2007,4.63239908,CRI,% of GDP,Costa Rica
+Health,2008,5.06513548,CRI,% of GDP,Costa Rica
+Health,2009,5.57623196,CRI,% of GDP,Costa Rica
+Health,2010,5.80644417,CRI,% of GDP,Costa Rica
+Health,2011,5.70106649,CRI,% of GDP,Costa Rica
+Health,2012,5.503479,CRI,% of GDP,Costa Rica
+Health,2013,5.45445585,CRI,% of GDP,Costa Rica
+Health,2014,5.44291878,CRI,% of GDP,Costa Rica
+Health,2015,5.51982594,CRI,% of GDP,Costa Rica
+Health,2016,5.36528826,CRI,% of GDP,Costa Rica
+Health,2017,5.1788969,CRI,% of GDP,Costa Rica
+Health,2018,5.27453423,CRI,% of GDP,Costa Rica
+Health,2019,5.23799706,CRI,% of GDP,Costa Rica
+Health,2020,5.64065933,CRI,% of GDP,Costa Rica
+Health,2000,3.36023808,DMA,% of GDP,Dominica
+Health,2001,2.57100463,DMA,% of GDP,Dominica
+Health,2002,2.43640971,DMA,% of GDP,Dominica
+Health,2003,2.70172191,DMA,% of GDP,Dominica
+Health,2004,2.57288575,DMA,% of GDP,Dominica
+Health,2005,2.79434156,DMA,% of GDP,Dominica
+Health,2006,2.69501734,DMA,% of GDP,Dominica
+Health,2007,2.52050734,DMA,% of GDP,Dominica
+Health,2008,2.61492229,DMA,% of GDP,Dominica
+Health,2009,2.67258692,DMA,% of GDP,Dominica
+Health,2010,2.95949578,DMA,% of GDP,Dominica
+Health,2011,3.15106702,DMA,% of GDP,Dominica
+Health,2012,3.48056149,DMA,% of GDP,Dominica
+Health,2013,3.28141499,DMA,% of GDP,Dominica
+Health,2014,3.21116447,DMA,% of GDP,Dominica
+Health,2015,3.25268769,DMA,% of GDP,Dominica
+Health,2016,3.33051729,DMA,% of GDP,Dominica
+Health,2017,3.64280844,DMA,% of GDP,Dominica
+Health,2018,4.036623,DMA,% of GDP,Dominica
+Health,2019,3.30796671,DMA,% of GDP,Dominica
+Health,2020,3.51634693,DMA,% of GDP,Dominica
+Health,2000,1.71051323,DOM,% of GDP,Dominican Republic
+Health,2001,1.70341122,DOM,% of GDP,Dominican Republic
+Health,2002,1.67955506,DOM,% of GDP,Dominican Republic
+Health,2003,1.15990651,DOM,% of GDP,Dominican Republic
+Health,2004,1.14767253,DOM,% of GDP,Dominican Republic
+Health,2005,1.39308929,DOM,% of GDP,Dominican Republic
+Health,2006,1.40171933,DOM,% of GDP,Dominican Republic
+Health,2007,1.68479145,DOM,% of GDP,Dominican Republic
+Health,2008,2.12083244,DOM,% of GDP,Dominican Republic
+Health,2009,2.3301568,DOM,% of GDP,Dominican Republic
+Health,2010,2.51638484,DOM,% of GDP,Dominican Republic
+Health,2011,2.72521138,DOM,% of GDP,Dominican Republic
+Health,2012,2.76371336,DOM,% of GDP,Dominican Republic
+Health,2013,2.77817011,DOM,% of GDP,Dominican Republic
+Health,2014,2.46088839,DOM,% of GDP,Dominican Republic
+Health,2015,2.36797523,DOM,% of GDP,Dominican Republic
+Health,2016,2.66466618,DOM,% of GDP,Dominican Republic
+Health,2017,2.68220282,DOM,% of GDP,Dominican Republic
+Health,2018,2.52541804,DOM,% of GDP,Dominican Republic
+Health,2019,2.59220481,DOM,% of GDP,Dominican Republic
+Health,2020,3.24332738,DOM,% of GDP,Dominican Republic
+Health,2000,0.96102405,ECU,% of GDP,Ecuador
+Health,2001,1.25510871,ECU,% of GDP,Ecuador
+Health,2002,1.41283405,ECU,% of GDP,Ecuador
+Health,2003,1.6680541,ECU,% of GDP,Ecuador
+Health,2004,1.73261917,ECU,% of GDP,Ecuador
+Health,2005,1.68276179,ECU,% of GDP,Ecuador
+Health,2006,1.81756639,ECU,% of GDP,Ecuador
+Health,2007,2.04557705,ECU,% of GDP,Ecuador
+Health,2008,2.09913063,ECU,% of GDP,Ecuador
+Health,2009,2.38107014,ECU,% of GDP,Ecuador
+Health,2010,2.83477545,ECU,% of GDP,Ecuador
+Health,2011,3.06546926,ECU,% of GDP,Ecuador
+Health,2012,3.43776512,ECU,% of GDP,Ecuador
+Health,2013,3.82528639,ECU,% of GDP,Ecuador
+Health,2014,4.11469746,ECU,% of GDP,Ecuador
+Health,2015,4.31252193,ECU,% of GDP,Ecuador
+Health,2016,4.41607189,ECU,% of GDP,Ecuador
+Health,2017,4.54476023,ECU,% of GDP,Ecuador
+Health,2018,4.92990112,ECU,% of GDP,Ecuador
+Health,2019,4.82940865,ECU,% of GDP,Ecuador
+Health,2020,4.9700942,ECU,% of GDP,Ecuador
+Health,2000,3.94314837,SLV,% of GDP,El Salvador
+Health,2001,3.83341885,SLV,% of GDP,El Salvador
+Health,2002,4.00326157,SLV,% of GDP,El Salvador
+Health,2003,3.88919258,SLV,% of GDP,El Salvador
+Health,2004,4.01650906,SLV,% of GDP,El Salvador
+Health,2005,4.2482481,SLV,% of GDP,El Salvador
+Health,2006,4.52057076,SLV,% of GDP,El Salvador
+Health,2007,4.1049161,SLV,% of GDP,El Salvador
+Health,2008,4.0889926,SLV,% of GDP,El Salvador
+Health,2009,4.10507488,SLV,% of GDP,El Salvador
+Health,2010,4.37232924,SLV,% of GDP,El Salvador
+Health,2011,4.79892349,SLV,% of GDP,El Salvador
+Health,2012,4.45448637,SLV,% of GDP,El Salvador
+Health,2013,4.76325369,SLV,% of GDP,El Salvador
+Health,2014,4.68769121,SLV,% of GDP,El Salvador
+Health,2015,4.80888462,SLV,% of GDP,El Salvador
+Health,2016,4.84736443,SLV,% of GDP,El Salvador
+Health,2017,4.58291912,SLV,% of GDP,El Salvador
+Health,2018,4.54641724,SLV,% of GDP,El Salvador
+Health,2019,4.71206713,SLV,% of GDP,El Salvador
+Health,2020,5.83388329,SLV,% of GDP,El Salvador
+Health,2000,1.86039817,GRD,% of GDP,Grenada
+Health,2001,2.14943409,GRD,% of GDP,Grenada
+Health,2002,2.71163964,GRD,% of GDP,Grenada
+Health,2003,2.16133189,GRD,% of GDP,Grenada
+Health,2004,2.59474087,GRD,% of GDP,Grenada
+Health,2005,2.42088819,GRD,% of GDP,Grenada
+Health,2006,2.04412723,GRD,% of GDP,Grenada
+Health,2007,2.00870275,GRD,% of GDP,Grenada
+Health,2008,1.96291316,GRD,% of GDP,Grenada
+Health,2009,2.17009425,GRD,% of GDP,Grenada
+Health,2010,2.05670786,GRD,% of GDP,Grenada
+Health,2011,2.41611266,GRD,% of GDP,Grenada
+Health,2012,2.38694572,GRD,% of GDP,Grenada
+Health,2013,2.27822328,GRD,% of GDP,Grenada
+Health,2014,2.09314442,GRD,% of GDP,Grenada
+Health,2015,1.93493712,GRD,% of GDP,Grenada
+Health,2016,1.76571214,GRD,% of GDP,Grenada
+Health,2017,1.88796365,GRD,% of GDP,Grenada
+Health,2018,1.86524379,GRD,% of GDP,Grenada
+Health,2019,2.04134059,GRD,% of GDP,Grenada
+Health,2020,2.28805852,GRD,% of GDP,Grenada
+Health,2000,1.91270578,GTM,% of GDP,Guatemala
+Health,2001,1.98154283,GTM,% of GDP,Guatemala
+Health,2002,1.9446981,GTM,% of GDP,Guatemala
+Health,2003,2.04141212,GTM,% of GDP,Guatemala
+Health,2004,2.02383399,GTM,% of GDP,Guatemala
+Health,2005,1.88113928,GTM,% of GDP,Guatemala
+Health,2006,2.06657243,GTM,% of GDP,Guatemala
+Health,2007,1.97883451,GTM,% of GDP,Guatemala
+Health,2008,2.05419135,GTM,% of GDP,Guatemala
+Health,2009,2.25974083,GTM,% of GDP,Guatemala
+Health,2010,2.06138587,GTM,% of GDP,Guatemala
+Health,2011,1.99347126,GTM,% of GDP,Guatemala
+Health,2012,2.02626443,GTM,% of GDP,Guatemala
+Health,2013,2.21485376,GTM,% of GDP,Guatemala
+Health,2014,2.23796296,GTM,% of GDP,Guatemala
+Health,2015,2.27820134,GTM,% of GDP,Guatemala
+Health,2016,2.28762269,GTM,% of GDP,Guatemala
+Health,2017,2.1993053,GTM,% of GDP,Guatemala
+Health,2018,2.20251107,GTM,% of GDP,Guatemala
+Health,2019,2.3772223,GTM,% of GDP,Guatemala
+Health,2020,2.47590232,GTM,% of GDP,Guatemala
+Health,2000,1.78830874,GUY,% of GDP,Guyana
+Health,2001,1.63222313,GUY,% of GDP,Guyana
+Health,2002,1.73537362,GUY,% of GDP,Guyana
+Health,2003,1.72908437,GUY,% of GDP,Guyana
+Health,2004,1.73980319,GUY,% of GDP,Guyana
+Health,2005,1.78057218,GUY,% of GDP,Guyana
+Health,2006,1.65196764,GUY,% of GDP,Guyana
+Health,2007,1.6837045,GUY,% of GDP,Guyana
+Health,2008,1.69491982,GUY,% of GDP,Guyana
+Health,2009,1.88041246,GUY,% of GDP,Guyana
+Health,2010,1.81934333,GUY,% of GDP,Guyana
+Health,2011,2.02701139,GUY,% of GDP,Guyana
+Health,2012,1.79707813,GUY,% of GDP,Guyana
+Health,2013,1.88811839,GUY,% of GDP,Guyana
+Health,2014,2.17510056,GUY,% of GDP,Guyana
+Health,2015,2.35677791,GUY,% of GDP,Guyana
+Health,2016,2.5319159,GUY,% of GDP,Guyana
+Health,2017,2.79179382,GUY,% of GDP,Guyana
+Health,2018,2.95149112,GUY,% of GDP,Guyana
+Health,2019,2.93102026,GUY,% of GDP,Guyana
+Health,2020,4.01893854,GUY,% of GDP,Guyana
+Health,2000,0.87098479,HTI,% of GDP,Haiti
+Health,2001,0.72717297,HTI,% of GDP,Haiti
+Health,2002,0.48891512,HTI,% of GDP,Haiti
+Health,2003,0.51697874,HTI,% of GDP,Haiti
+Health,2004,0.58639508,HTI,% of GDP,Haiti
+Health,2005,0.58343035,HTI,% of GDP,Haiti
+Health,2006,0.28958338,HTI,% of GDP,Haiti
+Health,2007,0.79249322,HTI,% of GDP,Haiti
+Health,2008,0.83237052,HTI,% of GDP,Haiti
+Health,2009,0.78221947,HTI,% of GDP,Haiti
+Health,2010,0.81272614,HTI,% of GDP,Haiti
+Health,2011,0.42167202,HTI,% of GDP,Haiti
+Health,2012,0.45754522,HTI,% of GDP,Haiti
+Health,2013,0.47550055,HTI,% of GDP,Haiti
+Health,2014,0.4683435,HTI,% of GDP,Haiti
+Health,2015,0.56089777,HTI,% of GDP,Haiti
+Health,2016,0.52977306,HTI,% of GDP,Haiti
+Health,2017,0.46510882,HTI,% of GDP,Haiti
+Health,2018,0.52653241,HTI,% of GDP,Haiti
+Health,2019,0.40745706,HTI,% of GDP,Haiti
+Health,2020,0.40528839,HTI,% of GDP,Haiti
+Health,2000,3.02285886,HND,% of GDP,Honduras
+Health,2001,2.49121737,HND,% of GDP,Honduras
+Health,2002,2.54012251,HND,% of GDP,Honduras
+Health,2003,2.61311603,HND,% of GDP,Honduras
+Health,2004,2.45127177,HND,% of GDP,Honduras
+Health,2005,2.91977549,HND,% of GDP,Honduras
+Health,2006,3.27406335,HND,% of GDP,Honduras
+Health,2007,3.33394694,HND,% of GDP,Honduras
+Health,2008,3.31875777,HND,% of GDP,Honduras
+Health,2009,3.96730256,HND,% of GDP,Honduras
+Health,2010,3.69605827,HND,% of GDP,Honduras
+Health,2011,3.89370441,HND,% of GDP,Honduras
+Health,2012,3.3830452,HND,% of GDP,Honduras
+Health,2013,3.4937377,HND,% of GDP,Honduras
+Health,2014,3.19305706,HND,% of GDP,Honduras
+Health,2015,2.94796515,HND,% of GDP,Honduras
+Health,2016,3.09310865,HND,% of GDP,Honduras
+Health,2017,2.85400987,HND,% of GDP,Honduras
+Health,2018,2.84892344,HND,% of GDP,Honduras
+Health,2019,2.87275672,HND,% of GDP,Honduras
+Health,2020,3.43717003,HND,% of GDP,Honduras
+Health,2021,3.41568422,HND,% of GDP,Honduras
+Health,2000,3.18738079,JAM,% of GDP,Jamaica
+Health,2001,2.40047431,JAM,% of GDP,Jamaica
+Health,2002,2.76125169,JAM,% of GDP,Jamaica
+Health,2003,2.04667425,JAM,% of GDP,Jamaica
+Health,2004,2.47339988,JAM,% of GDP,Jamaica
+Health,2005,2.23363185,JAM,% of GDP,Jamaica
+Health,2006,2.00050378,JAM,% of GDP,Jamaica
+Health,2007,2.66426182,JAM,% of GDP,Jamaica
+Health,2008,2.95135403,JAM,% of GDP,Jamaica
+Health,2009,2.94776607,JAM,% of GDP,Jamaica
+Health,2010,3.04630113,JAM,% of GDP,Jamaica
+Health,2011,3.09656906,JAM,% of GDP,Jamaica
+Health,2012,2.78247046,JAM,% of GDP,Jamaica
+Health,2013,2.97220016,JAM,% of GDP,Jamaica
+Health,2014,3.06121469,JAM,% of GDP,Jamaica
+Health,2015,3.55884409,JAM,% of GDP,Jamaica
+Health,2016,3.62554812,JAM,% of GDP,Jamaica
+Health,2017,4.06524467,JAM,% of GDP,Jamaica
+Health,2018,3.88880324,JAM,% of GDP,Jamaica
+Health,2019,3.97861576,JAM,% of GDP,Jamaica
+Health,2020,4.49590921,JAM,% of GDP,Jamaica
+Health,2000,2.01177883,MEX,% of GDP,Mexico
+Health,2001,2.10927391,MEX,% of GDP,Mexico
+Health,2002,2.16505718,MEX,% of GDP,Mexico
+Health,2003,2.4137032,MEX,% of GDP,Mexico
+Health,2004,2.58744621,MEX,% of GDP,Mexico
+Health,2005,2.46497631,MEX,% of GDP,Mexico
+Health,2006,2.4219811,MEX,% of GDP,Mexico
+Health,2007,2.52675939,MEX,% of GDP,Mexico
+Health,2008,2.61655521,MEX,% of GDP,Mexico
+Health,2009,2.86067653,MEX,% of GDP,Mexico
+Health,2010,2.8809936,MEX,% of GDP,Mexico
+Health,2011,2.91415977,MEX,% of GDP,Mexico
+Health,2012,3.00721955,MEX,% of GDP,Mexico
+Health,2013,3.12253189,MEX,% of GDP,Mexico
+Health,2014,2.89231014,MEX,% of GDP,Mexico
+Health,2015,2.98734331,MEX,% of GDP,Mexico
+Health,2016,2.84779787,MEX,% of GDP,Mexico
+Health,2017,2.75801349,MEX,% of GDP,Mexico
+Health,2018,2.67172027,MEX,% of GDP,Mexico
+Health,2019,2.67778802,MEX,% of GDP,Mexico
+Health,2020,3.30063844,MEX,% of GDP,Mexico
+Health,2000,2.56718183,NIC,% of GDP,Nicaragua
+Health,2001,2.45915222,NIC,% of GDP,Nicaragua
+Health,2002,2.46180677,NIC,% of GDP,Nicaragua
+Health,2003,2.55710077,NIC,% of GDP,Nicaragua
+Health,2004,2.27378821,NIC,% of GDP,Nicaragua
+Health,2005,2.5080986,NIC,% of GDP,Nicaragua
+Health,2006,2.86238265,NIC,% of GDP,Nicaragua
+Health,2007,3.15306878,NIC,% of GDP,Nicaragua
+Health,2008,3.19054222,NIC,% of GDP,Nicaragua
+Health,2009,3.81332731,NIC,% of GDP,Nicaragua
+Health,2010,3.55465937,NIC,% of GDP,Nicaragua
+Health,2011,3.53044653,NIC,% of GDP,Nicaragua
+Health,2012,3.74920559,NIC,% of GDP,Nicaragua
+Health,2013,3.86888838,NIC,% of GDP,Nicaragua
+Health,2014,4.15811014,NIC,% of GDP,Nicaragua
+Health,2015,4.46586037,NIC,% of GDP,Nicaragua
+Health,2016,4.65122414,NIC,% of GDP,Nicaragua
+Health,2017,4.85718918,NIC,% of GDP,Nicaragua
+Health,2018,5.17776585,NIC,% of GDP,Nicaragua
+Health,2019,5.26998711,NIC,% of GDP,Nicaragua
+Health,2020,5.33572912,NIC,% of GDP,Nicaragua
+Health,2000,2.32489133,PRY,% of GDP,Paraguay
+Health,2001,1.94766605,PRY,% of GDP,Paraguay
+Health,2002,1.46725607,PRY,% of GDP,Paraguay
+Health,2003,1.63003397,PRY,% of GDP,Paraguay
+Health,2004,1.59777284,PRY,% of GDP,Paraguay
+Health,2005,1.58578682,PRY,% of GDP,Paraguay
+Health,2006,1.76220965,PRY,% of GDP,Paraguay
+Health,2007,1.73575354,PRY,% of GDP,Paraguay
+Health,2008,1.62055254,PRY,% of GDP,Paraguay
+Health,2009,2.12176824,PRY,% of GDP,Paraguay
+Health,2010,2.1311543,PRY,% of GDP,Paraguay
+Health,2011,2.46140838,PRY,% of GDP,Paraguay
+Health,2012,3.03290367,PRY,% of GDP,Paraguay
+Health,2013,2.6527679,PRY,% of GDP,Paraguay
+Health,2014,3.16169024,PRY,% of GDP,Paraguay
+Health,2015,3.1565783,PRY,% of GDP,Paraguay
+Health,2016,3.14797997,PRY,% of GDP,Paraguay
+Health,2017,3.02672791,PRY,% of GDP,Paraguay
+Health,2018,3.02979112,PRY,% of GDP,Paraguay
+Health,2019,3.32046843,PRY,% of GDP,Paraguay
+Health,2020,4.11691141,PRY,% of GDP,Paraguay
+Health,2000,2.34087849,PER,% of GDP,Peru
+Health,2001,2.47586274,PER,% of GDP,Peru
+Health,2002,2.52271342,PER,% of GDP,Peru
+Health,2003,2.33570814,PER,% of GDP,Peru
+Health,2004,2.3036108,PER,% of GDP,Peru
+Health,2005,2.56580162,PER,% of GDP,Peru
+Health,2006,2.21611428,PER,% of GDP,Peru
+Health,2007,2.15426159,PER,% of GDP,Peru
+Health,2008,2.17142892,PER,% of GDP,Peru
+Health,2009,2.50536823,PER,% of GDP,Peru
+Health,2010,2.44917679,PER,% of GDP,Peru
+Health,2011,2.31512833,PER,% of GDP,Peru
+Health,2012,2.48863387,PER,% of GDP,Peru
+Health,2013,2.6585629,PER,% of GDP,Peru
+Health,2014,2.96500993,PER,% of GDP,Peru
+Health,2015,3.03265738,PER,% of GDP,Peru
+Health,2016,3.07695246,PER,% of GDP,Peru
+Health,2017,3.05640173,PER,% of GDP,Peru
+Health,2018,3.19314337,PER,% of GDP,Peru
+Health,2019,3.27750611,PER,% of GDP,Peru
+Health,2020,4.28144789,PER,% of GDP,Peru
+Health,2000,2.01197886,KNA,% of GDP,St. Kitts and Nevis
+Health,2001,1.91941488,KNA,% of GDP,St. Kitts and Nevis
+Health,2002,1.92994869,KNA,% of GDP,St. Kitts and Nevis
+Health,2003,2.09647655,KNA,% of GDP,St. Kitts and Nevis
+Health,2004,2.16082859,KNA,% of GDP,St. Kitts and Nevis
+Health,2005,2.22139931,KNA,% of GDP,St. Kitts and Nevis
+Health,2006,2.23068857,KNA,% of GDP,St. Kitts and Nevis
+Health,2007,2.08316684,KNA,% of GDP,St. Kitts and Nevis
+Health,2008,1.79803109,KNA,% of GDP,St. Kitts and Nevis
+Health,2009,1.9731133,KNA,% of GDP,St. Kitts and Nevis
+Health,2010,1.95976007,KNA,% of GDP,St. Kitts and Nevis
+Health,2011,1.90999293,KNA,% of GDP,St. Kitts and Nevis
+Health,2012,1.96238184,KNA,% of GDP,St. Kitts and Nevis
+Health,2013,1.91925764,KNA,% of GDP,St. Kitts and Nevis
+Health,2014,1.94226372,KNA,% of GDP,St. Kitts and Nevis
+Health,2015,1.93635416,KNA,% of GDP,St. Kitts and Nevis
+Health,2016,2.17601013,KNA,% of GDP,St. Kitts and Nevis
+Health,2017,2.186759,KNA,% of GDP,St. Kitts and Nevis
+Health,2018,2.24515104,KNA,% of GDP,St. Kitts and Nevis
+Health,2019,2.42979836,KNA,% of GDP,St. Kitts and Nevis
+Health,2020,2.74555492,KNA,% of GDP,St. Kitts and Nevis
+Health,2000,1.67297924,LCA,% of GDP,St. Lucia
+Health,2001,1.78606796,LCA,% of GDP,St. Lucia
+Health,2002,1.82824528,LCA,% of GDP,St. Lucia
+Health,2003,1.64152479,LCA,% of GDP,St. Lucia
+Health,2004,1.56839085,LCA,% of GDP,St. Lucia
+Health,2005,1.60206175,LCA,% of GDP,St. Lucia
+Health,2006,1.55923831,LCA,% of GDP,St. Lucia
+Health,2007,1.55186641,LCA,% of GDP,St. Lucia
+Health,2008,1.59290409,LCA,% of GDP,St. Lucia
+Health,2009,1.8142674,LCA,% of GDP,St. Lucia
+Health,2010,1.81050265,LCA,% of GDP,St. Lucia
+Health,2011,1.80622673,LCA,% of GDP,St. Lucia
+Health,2012,2.02928877,LCA,% of GDP,St. Lucia
+Health,2013,2.06810927,LCA,% of GDP,St. Lucia
+Health,2014,1.90737212,LCA,% of GDP,St. Lucia
+Health,2015,1.98947001,LCA,% of GDP,St. Lucia
+Health,2016,1.9628458,LCA,% of GDP,St. Lucia
+Health,2017,2.03936791,LCA,% of GDP,St. Lucia
+Health,2018,1.97775233,LCA,% of GDP,St. Lucia
+Health,2019,2.05673742,LCA,% of GDP,St. Lucia
+Health,2020,2.84342837,LCA,% of GDP,St. Lucia
+Health,2000,2.78107834,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2001,2.73731613,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2002,2.79668641,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2003,2.62799144,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2004,2.46824932,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2005,2.40467215,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2006,2.1732583,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2007,2.13313866,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2008,2.3085506,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2009,2.5003233,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2010,2.54869199,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2011,2.39666867,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2012,2.76023078,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2013,2.67553115,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2014,2.53281069,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2015,2.52539754,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2016,2.58590031,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2017,2.67966342,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2018,2.79988337,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2019,2.87146282,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2020,3.26209617,VCT,% of GDP,St. Vincent and the Grenadines
+Health,2000,5.54301786,USA,% of GDP,United States
+Health,2001,5.9683423,USA,% of GDP,United States
+Health,2002,6.3262043,USA,% of GDP,United States
+Health,2003,6.52333498,USA,% of GDP,United States
+Health,2004,6.60847521,USA,% of GDP,United States
+Health,2005,6.62828159,USA,% of GDP,United States
+Health,2006,6.80857801,USA,% of GDP,United States
+Health,2007,6.91274452,USA,% of GDP,United States
+Health,2008,7.22391701,USA,% of GDP,United States
+Health,2009,7.85959625,USA,% of GDP,United States
+Health,2010,7.91452122,USA,% of GDP,United States
+Health,2011,7.89911222,USA,% of GDP,United States
+Health,2012,7.87175035,USA,% of GDP,United States
+Health,2013,7.91718674,USA,% of GDP,United States
+Health,2014,8.22790337,USA,% of GDP,United States
+Health,2015,8.46681786,USA,% of GDP,United States
+Health,2016,8.58745289,USA,% of GDP,United States
+Health,2017,8.56208706,USA,% of GDP,United States
+Health,2018,8.53671169,USA,% of GDP,United States
+Health,2019,8.59579563,USA,% of GDP,United States
+Health,2020,10.68158436,USA,% of GDP,United States
+Health,2000,3.82681274,URY,% of GDP,Uruguay
+Health,2001,4.39997387,URY,% of GDP,Uruguay
+Health,2002,4.64072323,URY,% of GDP,Uruguay
+Health,2003,5.03634214,URY,% of GDP,Uruguay
+Health,2004,4.34252119,URY,% of GDP,Uruguay
+Health,2005,3.50426316,URY,% of GDP,Uruguay
+Health,2006,3.69235897,URY,% of GDP,Uruguay
+Health,2007,3.63677883,URY,% of GDP,Uruguay
+Health,2008,4.57575798,URY,% of GDP,Uruguay
+Health,2009,4.71686649,URY,% of GDP,Uruguay
+Health,2010,4.74686909,URY,% of GDP,Uruguay
+Health,2011,4.8879509,URY,% of GDP,Uruguay
+Health,2012,5.18105078,URY,% of GDP,Uruguay
+Health,2013,5.39425087,URY,% of GDP,Uruguay
+Health,2014,5.49947214,URY,% of GDP,Uruguay
+Health,2015,5.6722436,URY,% of GDP,Uruguay
+Health,2016,6.03166533,URY,% of GDP,Uruguay
+Health,2017,6.11313868,URY,% of GDP,Uruguay
+Health,2018,6.2308383,URY,% of GDP,Uruguay
+Health,2019,6.25397635,URY,% of GDP,Uruguay
+Health,2020,6.56739044,URY,% of GDP,Uruguay
+Health,2000,3.36394501,VEN,% of GDP,Venezuela
+Health,2001,3.52853656,VEN,% of GDP,Venezuela
+Health,2002,3.55378437,VEN,% of GDP,Venezuela
+Health,2003,3.78109121,VEN,% of GDP,Venezuela
+Health,2004,3.67353392,VEN,% of GDP,Venezuela
+Health,2005,2.81432152,VEN,% of GDP,Venezuela
+Health,2006,4.60071993,VEN,% of GDP,Venezuela
+Health,2007,4.02176666,VEN,% of GDP,Venezuela
+Health,2008,2.55314636,VEN,% of GDP,Venezuela
+Health,2009,2.59487224,VEN,% of GDP,Venezuela
+Health,2010,2.58675599,VEN,% of GDP,Venezuela
+Health,2011,3.07864499,VEN,% of GDP,Venezuela
+Health,2012,2.85448384,VEN,% of GDP,Venezuela
+Health,2013,2.15607715,VEN,% of GDP,Venezuela
+Health,2014,1.99139607,VEN,% of GDP,Venezuela
+Health,2015,1.96749449,VEN,% of GDP,Venezuela
+Health,2016,1.85235131,VEN,% of GDP,Venezuela
+Health,2017,2.79056835,VEN,% of GDP,Venezuela
+Health,2018,1.24563146,VEN,% of GDP,Venezuela
+Health,2019,0.81175309,VEN,% of GDP,Venezuela
+Health,2020,1.67663467,VEN,% of GDP,Venezuela
+Health,2002,0.08418062,AFG,% of GDP,Afghanistan
+Health,2003,0.65096337,AFG,% of GDP,Afghanistan
+Health,2004,0.54292566,AFG,% of GDP,Afghanistan
+Health,2005,0.5291841,AFG,% of GDP,Afghanistan
+Health,2006,0.49784002,AFG,% of GDP,Afghanistan
+Health,2007,0.55994755,AFG,% of GDP,Afghanistan
+Health,2008,0.62779975,AFG,% of GDP,Afghanistan
+Health,2009,0.53190351,AFG,% of GDP,Afghanistan
+Health,2010,0.46915731,AFG,% of GDP,Afghanistan
+Health,2011,0.47999981,AFG,% of GDP,Afghanistan
+Health,2012,0.34288675,AFG,% of GDP,Afghanistan
+Health,2013,0.44335932,AFG,% of GDP,Afghanistan
+Health,2014,0.47265697,AFG,% of GDP,Afghanistan
+Health,2015,0.52267277,AFG,% of GDP,Afghanistan
+Health,2016,0.60012972,AFG,% of GDP,Afghanistan
+Health,2017,0.64313394,AFG,% of GDP,Afghanistan
+Health,2018,0.55239552,AFG,% of GDP,Afghanistan
+Health,2019,0.49705607,AFG,% of GDP,Afghanistan
+Health,2020,1.18621242,AFG,% of GDP,Afghanistan
+Health,2021,0.55571794,AFG,% of GDP,Afghanistan
+Health,2000,2.3711853,BHR,% of GDP,Bahrain
+Health,2001,2.49878359,BHR,% of GDP,Bahrain
+Health,2002,2.62110639,BHR,% of GDP,Bahrain
+Health,2003,2.56393409,BHR,% of GDP,Bahrain
+Health,2004,2.3555398,BHR,% of GDP,Bahrain
+Health,2005,2.27699614,BHR,% of GDP,Bahrain
+Health,2006,2.15710616,BHR,% of GDP,Bahrain
+Health,2007,2.11737251,BHR,% of GDP,Bahrain
+Health,2008,2.08907962,BHR,% of GDP,Bahrain
+Health,2009,2.86230993,BHR,% of GDP,Bahrain
+Health,2010,2.6662631,BHR,% of GDP,Bahrain
+Health,2011,2.52518535,BHR,% of GDP,Bahrain
+Health,2012,2.68348098,BHR,% of GDP,Bahrain
+Health,2013,2.80836272,BHR,% of GDP,Bahrain
+Health,2014,2.86725354,BHR,% of GDP,Bahrain
+Health,2015,3.23580289,BHR,% of GDP,Bahrain
+Health,2016,2.98268986,BHR,% of GDP,Bahrain
+Health,2017,2.5667879,BHR,% of GDP,Bahrain
+Health,2018,2.42827972,BHR,% of GDP,Bahrain
+Health,2019,2.3075155,BHR,% of GDP,Bahrain
+Health,2020,2.96118394,BHR,% of GDP,Bahrain
+Health,2000,1.4109472,DJI,% of GDP,Djibouti
+Health,2001,1.25185072,DJI,% of GDP,Djibouti
+Health,2002,1.28663254,DJI,% of GDP,Djibouti
+Health,2003,1.50417197,DJI,% of GDP,Djibouti
+Health,2004,1.43899679,DJI,% of GDP,Djibouti
+Health,2005,1.39764392,DJI,% of GDP,Djibouti
+Health,2006,1.7263062,DJI,% of GDP,Djibouti
+Health,2007,1.73555219,DJI,% of GDP,Djibouti
+Health,2008,1.8316139,DJI,% of GDP,Djibouti
+Health,2009,1.90513945,DJI,% of GDP,Djibouti
+Health,2010,1.85769463,DJI,% of GDP,Djibouti
+Health,2011,2.14388585,DJI,% of GDP,Djibouti
+Health,2012,1.89016581,DJI,% of GDP,Djibouti
+Health,2013,1.80735004,DJI,% of GDP,Djibouti
+Health,2014,1.76380634,DJI,% of GDP,Djibouti
+Health,2015,1.69297981,DJI,% of GDP,Djibouti
+Health,2016,1.32228565,DJI,% of GDP,Djibouti
+Health,2017,1.14448977,DJI,% of GDP,Djibouti
+Health,2018,1.11786377,DJI,% of GDP,Djibouti
+Health,2019,0.97343284,DJI,% of GDP,Djibouti
+Health,2020,1.00633943,DJI,% of GDP,Djibouti
+Health,2000,1.73206902,EGY,% of GDP,Egypt
+Health,2001,1.84800243,EGY,% of GDP,Egypt
+Health,2002,1.8990773,EGY,% of GDP,Egypt
+Health,2003,1.66768789,EGY,% of GDP,Egypt
+Health,2004,1.57912993,EGY,% of GDP,Egypt
+Health,2005,1.5893116,EGY,% of GDP,Egypt
+Health,2006,1.74427283,EGY,% of GDP,Egypt
+Health,2007,1.56855941,EGY,% of GDP,Egypt
+Health,2008,1.53611362,EGY,% of GDP,Egypt
+Health,2009,1.53461063,EGY,% of GDP,Egypt
+Health,2010,1.36768734,EGY,% of GDP,Egypt
+Health,2011,1.47460115,EGY,% of GDP,Egypt
+Health,2012,1.35230196,EGY,% of GDP,Egypt
+Health,2013,1.43904531,EGY,% of GDP,Egypt
+Health,2014,1.48455393,EGY,% of GDP,Egypt
+Health,2015,1.66732967,EGY,% of GDP,Egypt
+Health,2016,1.65568376,EGY,% of GDP,Egypt
+Health,2017,1.7446686,EGY,% of GDP,Egypt
+Health,2018,1.42153192,EGY,% of GDP,Egypt
+Health,2019,1.36398911,EGY,% of GDP,Egypt
+Health,2020,1.39357793,EGY,% of GDP,Egypt
+Health,2000,1.78084624,IRN,% of GDP,Iran
+Health,2001,1.97451782,IRN,% of GDP,Iran
+Health,2002,1.82648432,IRN,% of GDP,Iran
+Health,2003,1.95293641,IRN,% of GDP,Iran
+Health,2004,1.86830163,IRN,% of GDP,Iran
+Health,2005,1.95412374,IRN,% of GDP,Iran
+Health,2006,2.15050554,IRN,% of GDP,Iran
+Health,2007,1.95624924,IRN,% of GDP,Iran
+Health,2008,1.86868119,IRN,% of GDP,Iran
+Health,2009,2.24125862,IRN,% of GDP,Iran
+Health,2010,2.03573728,IRN,% of GDP,Iran
+Health,2011,2.03408742,IRN,% of GDP,Iran
+Health,2012,2.10056233,IRN,% of GDP,Iran
+Health,2013,2.13520288,IRN,% of GDP,Iran
+Health,2014,3.19986582,IRN,% of GDP,Iran
+Health,2015,3.68885517,IRN,% of GDP,Iran
+Health,2016,3.59073091,IRN,% of GDP,Iran
+Health,2017,3.60761547,IRN,% of GDP,Iran
+Health,2018,3.45654869,IRN,% of GDP,Iran
+Health,2019,2.94442177,IRN,% of GDP,Iran
+Health,2020,2.87576437,IRN,% of GDP,Iran
+Health,2000,4.20303917,JOR,% of GDP,Jordan
+Health,2001,4.37366676,JOR,% of GDP,Jordan
+Health,2002,4.4390521,JOR,% of GDP,Jordan
+Health,2003,4.11859417,JOR,% of GDP,Jordan
+Health,2004,3.44000959,JOR,% of GDP,Jordan
+Health,2005,4.44372034,JOR,% of GDP,Jordan
+Health,2006,4.0058136,JOR,% of GDP,Jordan
+Health,2007,4.5643487,JOR,% of GDP,Jordan
+Health,2008,5.13681602,JOR,% of GDP,Jordan
+Health,2009,6.18757915,JOR,% of GDP,Jordan
+Health,2010,5.45029831,JOR,% of GDP,Jordan
+Health,2011,5.49565887,JOR,% of GDP,Jordan
+Health,2012,5.03539467,JOR,% of GDP,Jordan
+Health,2013,4.41074276,JOR,% of GDP,Jordan
+Health,2014,4.64796257,JOR,% of GDP,Jordan
+Health,2015,3.99459696,JOR,% of GDP,Jordan
+Health,2016,3.47255588,JOR,% of GDP,Jordan
+Health,2017,3.57597756,JOR,% of GDP,Jordan
+Health,2018,3.83572769,JOR,% of GDP,Jordan
+Health,2019,3.86783719,JOR,% of GDP,Jordan
+Health,2020,3.71250176,JOR,% of GDP,Jordan
+Health,2000,3.22929931,LBN,% of GDP,Lebanon
+Health,2001,3.45263052,LBN,% of GDP,Lebanon
+Health,2002,3.04984355,LBN,% of GDP,Lebanon
+Health,2003,2.93956637,LBN,% of GDP,Lebanon
+Health,2004,2.96955347,LBN,% of GDP,Lebanon
+Health,2005,2.89969206,LBN,% of GDP,Lebanon
+Health,2006,3.55163956,LBN,% of GDP,Lebanon
+Health,2007,3.51309872,LBN,% of GDP,Lebanon
+Health,2008,3.07543588,LBN,% of GDP,Lebanon
+Health,2009,2.67676353,LBN,% of GDP,Lebanon
+Health,2010,2.99847841,LBN,% of GDP,Lebanon
+Health,2011,3.57470489,LBN,% of GDP,Lebanon
+Health,2012,3.04558134,LBN,% of GDP,Lebanon
+Health,2013,3.11877799,LBN,% of GDP,Lebanon
+Health,2014,3.5689652,LBN,% of GDP,Lebanon
+Health,2015,3.31204677,LBN,% of GDP,Lebanon
+Health,2016,3.65501738,LBN,% of GDP,Lebanon
+Health,2017,3.60590625,LBN,% of GDP,Lebanon
+Health,2018,3.70927978,LBN,% of GDP,Lebanon
+Health,2019,3.54157805,LBN,% of GDP,Lebanon
+Health,2020,2.63267303,LBN,% of GDP,Lebanon
+Health,2000,1.66848433,LBY,% of GDP,Libya
+Health,2001,2.20700526,LBY,% of GDP,Libya
+Health,2002,3.27200246,LBY,% of GDP,Libya
+Health,2003,2.71631217,LBY,% of GDP,Libya
+Health,2004,2.29707551,LBY,% of GDP,Libya
+Health,2005,1.67952859,LBY,% of GDP,Libya
+Health,2006,1.64355707,LBY,% of GDP,Libya
+Health,2007,1.62192404,LBY,% of GDP,Libya
+Health,2008,1.78327763,LBY,% of GDP,Libya
+Health,2009,2.94994569,LBY,% of GDP,Libya
+Health,2010,2.5075686,LBY,% of GDP,Libya
+Health,2011,3.82936358,LBY,% of GDP,Libya
+Health,2000,1.01345837,MAR,% of GDP,Morocco
+Health,2001,1.08517265,MAR,% of GDP,Morocco
+Health,2002,1.17012322,MAR,% of GDP,Morocco
+Health,2003,1.07994711,MAR,% of GDP,Morocco
+Health,2004,1.09396338,MAR,% of GDP,Morocco
+Health,2005,1.19317436,MAR,% of GDP,Morocco
+Health,2006,1.82198536,MAR,% of GDP,Morocco
+Health,2007,1.95485222,MAR,% of GDP,Morocco
+Health,2008,2.04284,MAR,% of GDP,Morocco
+Health,2009,2.30105686,MAR,% of GDP,Morocco
+Health,2010,2.3400414,MAR,% of GDP,Morocco
+Health,2011,2.44000411,MAR,% of GDP,Morocco
+Health,2012,2.52345729,MAR,% of GDP,Morocco
+Health,2013,2.51814461,MAR,% of GDP,Morocco
+Health,2014,2.27032304,MAR,% of GDP,Morocco
+Health,2015,2.16306591,MAR,% of GDP,Morocco
+Health,2016,2.16552782,MAR,% of GDP,Morocco
+Health,2017,2.14111829,MAR,% of GDP,Morocco
+Health,2018,2.14311552,MAR,% of GDP,Morocco
+Health,2019,2.17618108,MAR,% of GDP,Morocco
+Health,2020,2.60883594,MAR,% of GDP,Morocco
+Health,2000,2.50450301,OMN,% of GDP,Oman
+Health,2001,2.52906299,OMN,% of GDP,Oman
+Health,2002,2.65471292,OMN,% of GDP,Oman
+Health,2003,2.6295166,OMN,% of GDP,Oman
+Health,2004,2.43747163,OMN,% of GDP,Oman
+Health,2005,2.1303525,OMN,% of GDP,Oman
+Health,2006,1.86465859,OMN,% of GDP,Oman
+Health,2007,1.96826851,OMN,% of GDP,Oman
+Health,2008,1.58631074,OMN,% of GDP,Oman
+Health,2009,2.30077767,OMN,% of GDP,Oman
+Health,2010,2.33311391,OMN,% of GDP,Oman
+Health,2011,2.08465815,OMN,% of GDP,Oman
+Health,2012,2.14939713,OMN,% of GDP,Oman
+Health,2013,2.50380254,OMN,% of GDP,Oman
+Health,2014,3.22622132,OMN,% of GDP,Oman
+Health,2015,4.20194578,OMN,% of GDP,Oman
+Health,2016,4.30561399,OMN,% of GDP,Oman
+Health,2017,4.03960419,OMN,% of GDP,Oman
+Health,2018,3.18646717,OMN,% of GDP,Oman
+Health,2019,3.84462762,OMN,% of GDP,Oman
+Health,2020,4.80646753,OMN,% of GDP,Oman
+Health,2000,0.96825689,PAK,% of GDP,Pakistan
+Health,2001,0.91270649,PAK,% of GDP,Pakistan
+Health,2002,1.01486242,PAK,% of GDP,Pakistan
+Health,2003,0.57917517,PAK,% of GDP,Pakistan
+Health,2004,0.61747396,PAK,% of GDP,Pakistan
+Health,2005,0.57205623,PAK,% of GDP,Pakistan
+Health,2006,0.48642762,PAK,% of GDP,Pakistan
+Health,2007,0.48821454,PAK,% of GDP,Pakistan
+Health,2008,0.42355876,PAK,% of GDP,Pakistan
+Health,2009,0.50744211,PAK,% of GDP,Pakistan
+Health,2010,0.52213751,PAK,% of GDP,Pakistan
+Health,2011,0.43720981,PAK,% of GDP,Pakistan
+Health,2012,0.61004923,PAK,% of GDP,Pakistan
+Health,2013,0.62996411,PAK,% of GDP,Pakistan
+Health,2014,0.59680567,PAK,% of GDP,Pakistan
+Health,2015,0.67638048,PAK,% of GDP,Pakistan
+Health,2016,0.70145196,PAK,% of GDP,Pakistan
+Health,2017,0.91277039,PAK,% of GDP,Pakistan
+Health,2018,0.93591465,PAK,% of GDP,Pakistan
+Health,2019,0.94301245,PAK,% of GDP,Pakistan
+Health,2020,1.03996059,PAK,% of GDP,Pakistan
+Health,2000,1.21998167,SDN,% of GDP,Sudan
+Health,2001,1.1215229,SDN,% of GDP,Sudan
+Health,2002,1.128654,SDN,% of GDP,Sudan
+Health,2003,1.26332223,SDN,% of GDP,Sudan
+Health,2004,1.57302713,SDN,% of GDP,Sudan
+Health,2005,1.59963596,SDN,% of GDP,Sudan
+Health,2006,1.77735722,SDN,% of GDP,Sudan
+Health,2007,2.0494504,SDN,% of GDP,Sudan
+Health,2008,1.73194993,SDN,% of GDP,Sudan
+Health,2009,2.6293633,SDN,% of GDP,Sudan
+Health,2010,1.64626622,SDN,% of GDP,Sudan
+Health,2011,1.28281784,SDN,% of GDP,Sudan
+Health,2012,1.49337018,SDN,% of GDP,Sudan
+Health,2013,1.15195048,SDN,% of GDP,Sudan
+Health,2014,1.43453598,SDN,% of GDP,Sudan
+Health,2015,2.26325226,SDN,% of GDP,Sudan
+Health,2016,1.28986812,SDN,% of GDP,Sudan
+Health,2017,1.03109134,SDN,% of GDP,Sudan
+Health,2018,1.03918159,SDN,% of GDP,Sudan
+Health,2019,1.00213731,SDN,% of GDP,Sudan
+Health,2020,1.03126121,SDN,% of GDP,Sudan
+Health,2000,2.53482223,TUN,% of GDP,Tunisia
+Health,2001,2.53689337,TUN,% of GDP,Tunisia
+Health,2002,2.65054178,TUN,% of GDP,Tunisia
+Health,2003,2.67794108,TUN,% of GDP,Tunisia
+Health,2004,2.65803766,TUN,% of GDP,Tunisia
+Health,2005,2.61502051,TUN,% of GDP,Tunisia
+Health,2006,2.68162847,TUN,% of GDP,Tunisia
+Health,2007,2.76273274,TUN,% of GDP,Tunisia
+Health,2008,2.80299711,TUN,% of GDP,Tunisia
+Health,2009,2.97510505,TUN,% of GDP,Tunisia
+Health,2010,3.12751889,TUN,% of GDP,Tunisia
+Health,2011,3.45419288,TUN,% of GDP,Tunisia
+Health,2012,3.58298373,TUN,% of GDP,Tunisia
+Health,2013,3.8491714,TUN,% of GDP,Tunisia
+Health,2014,3.7496531,TUN,% of GDP,Tunisia
+Health,2015,3.37170172,TUN,% of GDP,Tunisia
+Health,2016,3.43584943,TUN,% of GDP,Tunisia
+Health,2017,3.35005927,TUN,% of GDP,Tunisia
+Health,2018,3.12026548,TUN,% of GDP,Tunisia
+Health,2019,2.81961799,TUN,% of GDP,Tunisia
+Health,2020,3.72313976,TUN,% of GDP,Tunisia
+Health,2000,2.76583457,ALB,% of GDP,Albania
+Health,2001,2.75328398,ALB,% of GDP,Albania
+Health,2002,2.58867884,ALB,% of GDP,Albania
+Health,2003,2.67035341,ALB,% of GDP,Albania
+Health,2004,2.82082701,ALB,% of GDP,Albania
+Health,2005,2.66531777,ALB,% of GDP,Albania
+Health,2006,2.55931067,ALB,% of GDP,Albania
+Health,2007,2.43571401,ALB,% of GDP,Albania
+Health,2008,2.2712636,ALB,% of GDP,Albania
+Health,2009,2.33806777,ALB,% of GDP,Albania
+Health,2010,2.37874556,ALB,% of GDP,Albania
+Health,2011,2.36555696,ALB,% of GDP,Albania
+Health,2012,2.45518684,ALB,% of GDP,Albania
+Health,2013,2.57775068,ALB,% of GDP,Albania
+Health,2014,2.5936265,ALB,% of GDP,Albania
+Health,2015,2.731354,ALB,% of GDP,Albania
+Health,2016,2.80370712,ALB,% of GDP,Albania
+Health,2017,2.6750803,ALB,% of GDP,Albania
+Health,2018,2.82325125,ALB,% of GDP,Albania
+Health,2019,2.86730385,ALB,% of GDP,Albania
+Health,2020,2.93465567,ALB,% of GDP,Albania
+Health,2000,0.95468217,ARM,% of GDP,Armenia
+Health,2001,1.33908558,ARM,% of GDP,Armenia
+Health,2002,1.17184055,ARM,% of GDP,Armenia
+Health,2003,1.20635736,ARM,% of GDP,Armenia
+Health,2004,1.29411483,ARM,% of GDP,Armenia
+Health,2005,1.47841108,ARM,% of GDP,Armenia
+Health,2006,1.58640754,ARM,% of GDP,Armenia
+Health,2007,1.61389112,ARM,% of GDP,Armenia
+Health,2008,1.48813355,ARM,% of GDP,Armenia
+Health,2009,1.81169069,ARM,% of GDP,Armenia
+Health,2010,1.68628836,ARM,% of GDP,Armenia
+Health,2011,1.6728667,ARM,% of GDP,Armenia
+Health,2012,1.57816982,ARM,% of GDP,Armenia
+Health,2013,1.37565804,ARM,% of GDP,Armenia
+Health,2014,1.50548005,ARM,% of GDP,Armenia
+Health,2015,1.61020839,ARM,% of GDP,Armenia
+Health,2016,1.63734329,ARM,% of GDP,Armenia
+Health,2017,1.37250602,ARM,% of GDP,Armenia
+Health,2018,1.23468125,ARM,% of GDP,Armenia
+Health,2019,1.41167367,ARM,% of GDP,Armenia
+Health,2020,2.35682821,ARM,% of GDP,Armenia
+Health,2000,6.82578707,AUT,% of GDP,Austria
+Health,2001,6.82649803,AUT,% of GDP,Austria
+Health,2002,6.89934063,AUT,% of GDP,Austria
+Health,2003,6.98268557,AUT,% of GDP,Austria
+Health,2004,6.99610281,AUT,% of GDP,Austria
+Health,2005,6.99419928,AUT,% of GDP,Austria
+Health,2006,6.9434433,AUT,% of GDP,Austria
+Health,2007,6.9392724,AUT,% of GDP,Austria
+Health,2008,7.17632055,AUT,% of GDP,Austria
+Health,2009,7.44917679,AUT,% of GDP,Austria
+Health,2010,7.39957857,AUT,% of GDP,Austria
+Health,2011,7.28789806,AUT,% of GDP,Austria
+Health,2012,7.43251085,AUT,% of GDP,Austria
+Health,2013,7.4231286,AUT,% of GDP,Austria
+Health,2014,7.51863861,AUT,% of GDP,Austria
+Health,2015,7.51185322,AUT,% of GDP,Austria
+Health,2016,7.49085999,AUT,% of GDP,Austria
+Health,2017,7.66504908,AUT,% of GDP,Austria
+Health,2018,7.705019,AUT,% of GDP,Austria
+Health,2019,7.84675264,AUT,% of GDP,Austria
+Health,2020,8.763134,AUT,% of GDP,Austria
+Health,2000,0.86689276,AZE,% of GDP,Azerbaijan
+Health,2001,0.79006773,AZE,% of GDP,Azerbaijan
+Health,2002,0.73446828,AZE,% of GDP,Azerbaijan
+Health,2003,0.77900064,AZE,% of GDP,Azerbaijan
+Health,2004,0.86431676,AZE,% of GDP,Azerbaijan
+Health,2005,0.91786504,AZE,% of GDP,Azerbaijan
+Health,2006,0.8660776,AZE,% of GDP,Azerbaijan
+Health,2007,0.90689105,AZE,% of GDP,Azerbaijan
+Health,2008,0.86374003,AZE,% of GDP,Azerbaijan
+Health,2009,1.13072789,AZE,% of GDP,Azerbaijan
+Health,2010,1.01077783,AZE,% of GDP,Azerbaijan
+Health,2011,0.94790989,AZE,% of GDP,Azerbaijan
+Health,2012,1.11365366,AZE,% of GDP,Azerbaijan
+Health,2013,1.06307197,AZE,% of GDP,Azerbaijan
+Health,2014,1.12798095,AZE,% of GDP,Azerbaijan
+Health,2015,1.30261827,AZE,% of GDP,Azerbaijan
+Health,2016,1.16339755,AZE,% of GDP,Azerbaijan
+Health,2017,1.00201261,AZE,% of GDP,Azerbaijan
+Health,2018,0.92868203,AZE,% of GDP,Azerbaijan
+Health,2019,1.27820647,AZE,% of GDP,Azerbaijan
+Health,2020,1.58928382,AZE,% of GDP,Azerbaijan
+Health,2000,4.15422821,BLR,% of GDP,Belarus
+Health,2001,4.25791645,BLR,% of GDP,Belarus
+Health,2002,4.07934141,BLR,% of GDP,Belarus
+Health,2003,4.38554096,BLR,% of GDP,Belarus
+Health,2004,4.39936543,BLR,% of GDP,Belarus
+Health,2005,4.52236795,BLR,% of GDP,Belarus
+Health,2006,3.9855392,BLR,% of GDP,Belarus
+Health,2007,3.99474669,BLR,% of GDP,Belarus
+Health,2008,3.48282266,BLR,% of GDP,Belarus
+Health,2009,3.48038435,BLR,% of GDP,Belarus
+Health,2010,3.84921932,BLR,% of GDP,Belarus
+Health,2011,3.08841538,BLR,% of GDP,Belarus
+Health,2012,3.44369793,BLR,% of GDP,Belarus
+Health,2013,3.56868172,BLR,% of GDP,Belarus
+Health,2014,3.37288022,BLR,% of GDP,Belarus
+Health,2015,3.68674207,BLR,% of GDP,Belarus
+Health,2016,4.19298792,BLR,% of GDP,Belarus
+Health,2017,3.98054695,BLR,% of GDP,Belarus
+Health,2018,3.9000001,BLR,% of GDP,Belarus
+Health,2019,4.12526941,BLR,% of GDP,Belarus
+Health,2020,4.54088545,BLR,% of GDP,Belarus
+Health,2000,5.96185923,BEL,% of GDP,Belgium
+Health,2001,6.13948441,BEL,% of GDP,Belgium
+Health,2002,6.13245678,BEL,% of GDP,Belgium
+Health,2003,6.79239845,BEL,% of GDP,Belgium
+Health,2004,6.99578428,BEL,% of GDP,Belgium
+Health,2005,6.89948559,BEL,% of GDP,Belgium
+Health,2006,6.80942583,BEL,% of GDP,Belgium
+Health,2007,6.77762508,BEL,% of GDP,Belgium
+Health,2008,7.26823902,BEL,% of GDP,Belgium
+Health,2009,7.87510586,BEL,% of GDP,Belgium
+Health,2010,7.77896738,BEL,% of GDP,Belgium
+Health,2011,7.89500046,BEL,% of GDP,Belgium
+Health,2012,8.02982998,BEL,% of GDP,Belgium
+Health,2013,8.03675461,BEL,% of GDP,Belgium
+Health,2014,8.0758276,BEL,% of GDP,Belgium
+Health,2015,8.26213646,BEL,% of GDP,Belgium
+Health,2016,8.30200672,BEL,% of GDP,Belgium
+Health,2017,8.30055332,BEL,% of GDP,Belgium
+Health,2018,8.33381271,BEL,% of GDP,Belgium
+Health,2019,8.10391235,BEL,% of GDP,Belgium
+Health,2020,8.75983047,BEL,% of GDP,Belgium
+Health,2000,4.08413935,BIH,% of GDP,Bosnia and Herzegovina
+Health,2001,4.33064938,BIH,% of GDP,Bosnia and Herzegovina
+Health,2002,4.43332863,BIH,% of GDP,Bosnia and Herzegovina
+Health,2003,5.49271965,BIH,% of GDP,Bosnia and Herzegovina
+Health,2004,5.16201019,BIH,% of GDP,Bosnia and Herzegovina
+Health,2005,4.94053459,BIH,% of GDP,Bosnia and Herzegovina
+Health,2006,5.00461149,BIH,% of GDP,Bosnia and Herzegovina
+Health,2007,5.27355051,BIH,% of GDP,Bosnia and Herzegovina
+Health,2008,5.39554214,BIH,% of GDP,Bosnia and Herzegovina
+Health,2009,6.1381669,BIH,% of GDP,Bosnia and Herzegovina
+Health,2010,6.13886786,BIH,% of GDP,Bosnia and Herzegovina
+Health,2011,6.21122313,BIH,% of GDP,Bosnia and Herzegovina
+Health,2012,6.51472664,BIH,% of GDP,Bosnia and Herzegovina
+Health,2013,6.58716393,BIH,% of GDP,Bosnia and Herzegovina
+Health,2014,6.67786932,BIH,% of GDP,Bosnia and Herzegovina
+Health,2015,6.47305202,BIH,% of GDP,Bosnia and Herzegovina
+Health,2016,6.55783081,BIH,% of GDP,Bosnia and Herzegovina
+Health,2017,6.26775646,BIH,% of GDP,Bosnia and Herzegovina
+Health,2018,6.21219349,BIH,% of GDP,Bosnia and Herzegovina
+Health,2019,6.21883726,BIH,% of GDP,Bosnia and Herzegovina
+Health,2020,6.8357625,BIH,% of GDP,Bosnia and Herzegovina
+Health,2000,3.4715004,BGR,% of GDP,Bulgaria
+Health,2001,3.84590173,BGR,% of GDP,Bulgaria
+Health,2002,4.20194769,BGR,% of GDP,Bulgaria
+Health,2003,4.37132454,BGR,% of GDP,Bulgaria
+Health,2004,4.09508371,BGR,% of GDP,Bulgaria
+Health,2005,4.10456991,BGR,% of GDP,Bulgaria
+Health,2006,3.63341045,BGR,% of GDP,Bulgaria
+Health,2007,3.43428993,BGR,% of GDP,Bulgaria
+Health,2008,3.48335671,BGR,% of GDP,Bulgaria
+Health,2009,3.54883742,BGR,% of GDP,Bulgaria
+Health,2010,3.91961002,BGR,% of GDP,Bulgaria
+Health,2011,3.84530854,BGR,% of GDP,Bulgaria
+Health,2012,3.82975197,BGR,% of GDP,Bulgaria
+Health,2013,4.04010868,BGR,% of GDP,Bulgaria
+Health,2014,4.47436905,BGR,% of GDP,Bulgaria
+Health,2015,4.13153267,BGR,% of GDP,Bulgaria
+Health,2016,4.11103821,BGR,% of GDP,Bulgaria
+Health,2017,4.11570501,BGR,% of GDP,Bulgaria
+Health,2018,4.22399569,BGR,% of GDP,Bulgaria
+Health,2019,4.19368887,BGR,% of GDP,Bulgaria
+Health,2020,5.09874439,BGR,% of GDP,Bulgaria
+Health,2000,6.49740553,HRV,% of GDP,Croatia
+Health,2001,5.89122486,HRV,% of GDP,Croatia
+Health,2002,4.85556412,HRV,% of GDP,Croatia
+Health,2003,5.12591457,HRV,% of GDP,Croatia
+Health,2004,5.19807148,HRV,% of GDP,Croatia
+Health,2005,5.81916523,HRV,% of GDP,Croatia
+Health,2006,5.85759497,HRV,% of GDP,Croatia
+Health,2007,6.41076326,HRV,% of GDP,Croatia
+Health,2008,6.43173838,HRV,% of GDP,Croatia
+Health,2009,6.72011185,HRV,% of GDP,Croatia
+Health,2010,6.69001961,HRV,% of GDP,Croatia
+Health,2011,6.30423164,HRV,% of GDP,Croatia
+Health,2012,6.3646965,HRV,% of GDP,Croatia
+Health,2013,5.47827482,HRV,% of GDP,Croatia
+Health,2014,5.56410217,HRV,% of GDP,Croatia
+Health,2015,5.56926459,HRV,% of GDP,Croatia
+Health,2016,5.58271697,HRV,% of GDP,Croatia
+Health,2017,5.52650334,HRV,% of GDP,Croatia
+Health,2018,5.57184922,HRV,% of GDP,Croatia
+Health,2019,5.55397558,HRV,% of GDP,Croatia
+Health,2020,6.35798836,HRV,% of GDP,Croatia
+Health,2000,2.18027377,CYP,% of GDP,Cyprus
+Health,2001,2.233531,CYP,% of GDP,Cyprus
+Health,2002,2.49221182,CYP,% of GDP,Cyprus
+Health,2003,2.47707176,CYP,% of GDP,Cyprus
+Health,2004,2.23180842,CYP,% of GDP,Cyprus
+Health,2005,2.25430155,CYP,% of GDP,Cyprus
+Health,2006,2.34010673,CYP,% of GDP,Cyprus
+Health,2007,2.31242609,CYP,% of GDP,Cyprus
+Health,2008,2.50266337,CYP,% of GDP,Cyprus
+Health,2009,2.74965072,CYP,% of GDP,Cyprus
+Health,2010,2.98153758,CYP,% of GDP,Cyprus
+Health,2011,3.05716181,CYP,% of GDP,Cyprus
+Health,2012,3.00964808,CYP,% of GDP,Cyprus
+Health,2013,3.16395736,CYP,% of GDP,Cyprus
+Health,2014,2.95597911,CYP,% of GDP,Cyprus
+Health,2015,2.86666012,CYP,% of GDP,Cyprus
+Health,2016,2.80833411,CYP,% of GDP,Cyprus
+Health,2017,2.75550628,CYP,% of GDP,Cyprus
+Health,2018,2.87702394,CYP,% of GDP,Cyprus
+Health,2019,3.83588576,CYP,% of GDP,Cyprus
+Health,2020,6.33430815,CYP,% of GDP,Cyprus
+Health,2000,5.05704689,CZE,% of GDP,Czech Republic
+Health,2001,5.12704372,CZE,% of GDP,Czech Republic
+Health,2002,5.44065952,CZE,% of GDP,Czech Republic
+Health,2003,5.70741272,CZE,% of GDP,Czech Republic
+Health,2004,5.56338072,CZE,% of GDP,Czech Republic
+Health,2005,5.40408373,CZE,% of GDP,Czech Republic
+Health,2006,5.2702322,CZE,% of GDP,Czech Republic
+Health,2007,5.01563358,CZE,% of GDP,Czech Republic
+Health,2008,5.12718487,CZE,% of GDP,Czech Republic
+Health,2009,6.00805569,CZE,% of GDP,Czech Republic
+Health,2010,5.71528721,CZE,% of GDP,Czech Republic
+Health,2011,5.79820013,CZE,% of GDP,Czech Republic
+Health,2012,5.83021832,CZE,% of GDP,Czech Republic
+Health,2013,6.4410243,CZE,% of GDP,Czech Republic
+Health,2014,6.2726655,CZE,% of GDP,Czech Republic
+Health,2015,5.91782522,CZE,% of GDP,Czech Republic
+Health,2016,5.81872368,CZE,% of GDP,Czech Republic
+Health,2017,6.20310163,CZE,% of GDP,Czech Republic
+Health,2018,6.31673288,CZE,% of GDP,Czech Republic
+Health,2019,6.43899822,CZE,% of GDP,Czech Republic
+Health,2020,8.07736492,CZE,% of GDP,Czech Republic
+Health,2000,6.73534012,DNK,% of GDP,Denmark
+Health,2001,7.04638386,DNK,% of GDP,Denmark
+Health,2002,7.29320812,DNK,% of GDP,Denmark
+Health,2003,7.47102213,DNK,% of GDP,Denmark
+Health,2004,7.52562666,DNK,% of GDP,Denmark
+Health,2005,7.61281252,DNK,% of GDP,Denmark
+Health,2006,7.68989229,DNK,% of GDP,Denmark
+Health,2007,7.80592728,DNK,% of GDP,Denmark
+Health,2008,7.99141836,DNK,% of GDP,Denmark
+Health,2009,9.01539803,DNK,% of GDP,Denmark
+Health,2010,8.93877125,DNK,% of GDP,Denmark
+Health,2011,8.7352457,DNK,% of GDP,Denmark
+Health,2012,8.87701893,DNK,% of GDP,Denmark
+Health,2013,8.72416973,DNK,% of GDP,Denmark
+Health,2014,8.70544338,DNK,% of GDP,Denmark
+Health,2015,8.7154789,DNK,% of GDP,Denmark
+Health,2016,8.6299839,DNK,% of GDP,Denmark
+Health,2017,8.47816181,DNK,% of GDP,Denmark
+Health,2018,8.45675373,DNK,% of GDP,Denmark
+Health,2019,8.4725647,DNK,% of GDP,Denmark
+Health,2020,8.93393898,DNK,% of GDP,Denmark
+Health,2021,9.26435947,DNK,% of GDP,Denmark
+Health,2000,3.92763996,EST,% of GDP,Estonia
+Health,2001,3.74119687,EST,% of GDP,Estonia
+Health,2002,3.58449507,EST,% of GDP,Estonia
+Health,2003,3.69835591,EST,% of GDP,Estonia
+Health,2004,3.78625989,EST,% of GDP,Estonia
+Health,2005,3.74142551,EST,% of GDP,Estonia
+Health,2006,3.56107664,EST,% of GDP,Estonia
+Health,2007,3.74054933,EST,% of GDP,Estonia
+Health,2008,4.35971355,EST,% of GDP,Estonia
+Health,2009,5.05453777,EST,% of GDP,Estonia
+Health,2010,4.69232178,EST,% of GDP,Estonia
+Health,2011,4.3640275,EST,% of GDP,Estonia
+Health,2012,4.44167042,EST,% of GDP,Estonia
+Health,2013,4.54079533,EST,% of GDP,Estonia
+Health,2014,4.74082613,EST,% of GDP,Estonia
+Health,2015,4.94316053,EST,% of GDP,Estonia
+Health,2016,4.98726511,EST,% of GDP,Estonia
+Health,2017,4.84846592,EST,% of GDP,Estonia
+Health,2018,4.94593143,EST,% of GDP,Estonia
+Health,2019,5.07566547,EST,% of GDP,Estonia
+Health,2020,5.97475481,EST,% of GDP,Estonia
+Health,2000,5.37109375,FIN,% of GDP,Finland
+Health,2001,5.52642822,FIN,% of GDP,Finland
+Health,2002,5.85965395,FIN,% of GDP,Finland
+Health,2003,6.13726616,FIN,% of GDP,Finland
+Health,2004,6.27308273,FIN,% of GDP,Finland
+Health,2005,6.44868755,FIN,% of GDP,Finland
+Health,2006,6.52324486,FIN,% of GDP,Finland
+Health,2007,6.35544634,FIN,% of GDP,Finland
+Health,2008,6.57666588,FIN,% of GDP,Finland
+Health,2009,7.23975039,FIN,% of GDP,Finland
+Health,2010,7.18045282,FIN,% of GDP,Finland
+Health,2011,7.30151653,FIN,% of GDP,Finland
+Health,2012,7.64987421,FIN,% of GDP,Finland
+Health,2013,7.79147577,FIN,% of GDP,Finland
+Health,2014,7.78149414,FIN,% of GDP,Finland
+Health,2015,7.577631,FIN,% of GDP,Finland
+Health,2016,7.29918003,FIN,% of GDP,Finland
+Health,2017,7.11996555,FIN,% of GDP,Finland
+Health,2018,7.10539436,FIN,% of GDP,Finland
+Health,2019,7.35499382,FIN,% of GDP,Finland
+Health,2020,7.81982374,FIN,% of GDP,Finland
+Health,2000,6.97070313,FRA,% of GDP,France
+Health,2001,7.06165648,FRA,% of GDP,France
+Health,2002,7.31639624,FRA,% of GDP,France
+Health,2003,7.32370949,FRA,% of GDP,France
+Health,2004,7.38390923,FRA,% of GDP,France
+Health,2005,7.41065979,FRA,% of GDP,France
+Health,2006,7.40223789,FRA,% of GDP,France
+Health,2007,7.33408451,FRA,% of GDP,France
+Health,2008,7.4163928,FRA,% of GDP,France
+Health,2009,7.97806454,FRA,% of GDP,France
+Health,2010,7.9076767,FRA,% of GDP,France
+Health,2011,7.85247946,FRA,% of GDP,France
+Health,2012,7.94105148,FRA,% of GDP,France
+Health,2013,8.01780128,FRA,% of GDP,France
+Health,2014,8.11223507,FRA,% of GDP,France
+Health,2015,8.26771069,FRA,% of GDP,France
+Health,2016,8.61525917,FRA,% of GDP,France
+Health,2017,8.59983444,FRA,% of GDP,France
+Health,2018,8.49712181,FRA,% of GDP,France
+Health,2019,8.34206104,FRA,% of GDP,France
+Health,2020,9.36361694,FRA,% of GDP,France
+Health,2000,0.82085949,GEO,% of GDP,Georgia
+Health,2001,1.13540304,GEO,% of GDP,Georgia
+Health,2002,1.12198305,GEO,% of GDP,Georgia
+Health,2003,1.14707553,GEO,% of GDP,Georgia
+Health,2004,1.17821777,GEO,% of GDP,Georgia
+Health,2005,1.20532346,GEO,% of GDP,Georgia
+Health,2006,1.18501794,GEO,% of GDP,Georgia
+Health,2007,1.09324026,GEO,% of GDP,Georgia
+Health,2008,1.53493118,GEO,% of GDP,Georgia
+Health,2009,2.04964566,GEO,% of GDP,Georgia
+Health,2010,1.93382823,GEO,% of GDP,Georgia
+Health,2011,1.40115392,GEO,% of GDP,Georgia
+Health,2012,1.56462336,GEO,% of GDP,Georgia
+Health,2013,1.85709786,GEO,% of GDP,Georgia
+Health,2014,2.18159628,GEO,% of GDP,Georgia
+Health,2015,2.64034176,GEO,% of GDP,Georgia
+Health,2016,2.93001461,GEO,% of GDP,Georgia
+Health,2017,2.62671113,GEO,% of GDP,Georgia
+Health,2018,2.80701351,GEO,% of GDP,Georgia
+Health,2019,2.7172761,GEO,% of GDP,Georgia
+Health,2020,2.77793884,GEO,% of GDP,Georgia
+Health,2000,7.73300314,DEU,% of GDP,Germany
+Health,2001,7.75525427,DEU,% of GDP,Germany
+Health,2002,7.92509031,DEU,% of GDP,Germany
+Health,2003,8.05197239,DEU,% of GDP,Germany
+Health,2004,7.70017481,DEU,% of GDP,Germany
+Health,2005,7.80322599,DEU,% of GDP,Germany
+Health,2006,7.65903044,DEU,% of GDP,Germany
+Health,2007,7.55503988,DEU,% of GDP,Germany
+Health,2008,7.7165823,DEU,% of GDP,Germany
+Health,2009,8.50175571,DEU,% of GDP,Germany
+Health,2010,8.39849472,DEU,% of GDP,Germany
+Health,2011,8.12835026,DEU,% of GDP,Germany
+Health,2012,8.18770885,DEU,% of GDP,Germany
+Health,2013,8.4049654,DEU,% of GDP,Germany
+Health,2014,8.48884487,DEU,% of GDP,Germany
+Health,2015,8.60692406,DEU,% of GDP,Germany
+Health,2016,8.68167686,DEU,% of GDP,Germany
+Health,2017,8.78484631,DEU,% of GDP,Germany
+Health,2018,8.85075378,DEU,% of GDP,Germany
+Health,2019,9.02511978,DEU,% of GDP,Germany
+Health,2020,10.05796528,DEU,% of GDP,Germany
+Health,2000,4.46380281,GRC,% of GDP,Greece
+Health,2001,5.04882479,GRC,% of GDP,Greece
+Health,2002,4.97795296,GRC,% of GDP,Greece
+Health,2003,5.05799437,GRC,% of GDP,Greece
+Health,2004,4.74509525,GRC,% of GDP,Greece
+Health,2005,5.21023846,GRC,% of GDP,Greece
+Health,2006,5.08809328,GRC,% of GDP,Greece
+Health,2007,5.31898928,GRC,% of GDP,Greece
+Health,2008,5.76758432,GRC,% of GDP,Greece
+Health,2009,6.42686462,GRC,% of GDP,Greece
+Health,2010,6.61249924,GRC,% of GDP,Greece
+Health,2011,6.040277,GRC,% of GDP,Greece
+Health,2012,5.67610359,GRC,% of GDP,Greece
+Health,2013,5.18027735,GRC,% of GDP,Greece
+Health,2014,4.48809004,GRC,% of GDP,Greece
+Health,2015,4.73999214,GRC,% of GDP,Greece
+Health,2016,4.34255171,GRC,% of GDP,Greece
+Health,2017,4.24350309,GRC,% of GDP,Greece
+Health,2018,4.23590899,GRC,% of GDP,Greece
+Health,2019,3.99966383,GRC,% of GDP,Greece
+Health,2020,5.13178682,GRC,% of GDP,Greece
+Health,2000,4.66643333,HUN,% of GDP,Hungary
+Health,2001,4.56684017,HUN,% of GDP,Hungary
+Health,2002,4.93060064,HUN,% of GDP,Hungary
+Health,2003,5.68199396,HUN,% of GDP,Hungary
+Health,2004,5.4004755,HUN,% of GDP,Hungary
+Health,2005,5.60050154,HUN,% of GDP,Hungary
+Health,2006,5.47047567,HUN,% of GDP,Hungary
+Health,2007,4.88202095,HUN,% of GDP,Hungary
+Health,2008,4.80067682,HUN,% of GDP,Hungary
+Health,2009,4.90810061,HUN,% of GDP,Hungary
+Health,2010,4.96056747,HUN,% of GDP,Hungary
+Health,2011,4.95188713,HUN,% of GDP,Hungary
+Health,2012,4.80347204,HUN,% of GDP,Hungary
+Health,2013,4.78818369,HUN,% of GDP,Hungary
+Health,2014,4.70014715,HUN,% of GDP,Hungary
+Health,2015,4.64467621,HUN,% of GDP,Hungary
+Health,2016,4.73053265,HUN,% of GDP,Hungary
+Health,2017,4.61160564,HUN,% of GDP,Hungary
+Health,2018,4.55037403,HUN,% of GDP,Hungary
+Health,2019,4.30161667,HUN,% of GDP,Hungary
+Health,2020,5.15515757,HUN,% of GDP,Hungary
+Health,2000,7.18854856,ISL,% of GDP,Iceland
+Health,2001,7.05830956,ISL,% of GDP,Iceland
+Health,2002,7.65274143,ISL,% of GDP,Iceland
+Health,2003,7.9075551,ISL,% of GDP,Iceland
+Health,2004,7.55137873,ISL,% of GDP,Iceland
+Health,2005,7.24719429,ISL,% of GDP,Iceland
+Health,2006,6.98110867,ISL,% of GDP,Iceland
+Health,2007,6.85141087,ISL,% of GDP,Iceland
+Health,2008,6.85962439,ISL,% of GDP,Iceland
+Health,2009,7.16391802,ISL,% of GDP,Iceland
+Health,2010,6.67772865,ISL,% of GDP,Iceland
+Health,2011,6.5628705,ISL,% of GDP,Iceland
+Health,2012,6.53846216,ISL,% of GDP,Iceland
+Health,2013,6.55948114,ISL,% of GDP,Iceland
+Health,2014,6.62376833,ISL,% of GDP,Iceland
+Health,2015,6.52118731,ISL,% of GDP,Iceland
+Health,2016,6.59988403,ISL,% of GDP,Iceland
+Health,2017,6.76293516,ISL,% of GDP,Iceland
+Health,2018,6.90136099,ISL,% of GDP,Iceland
+Health,2019,7.05892563,ISL,% of GDP,Iceland
+Health,2020,7.96202517,ISL,% of GDP,Iceland
+Health,2021,8.06042194,ISL,% of GDP,Iceland
+Health,2000,4.57260036,IRL,% of GDP,Ireland
+Health,2001,5.014184,IRL,% of GDP,Ireland
+Health,2002,5.27079201,IRL,% of GDP,Ireland
+Health,2003,5.51941919,IRL,% of GDP,Ireland
+Health,2004,5.69755459,IRL,% of GDP,Ireland
+Health,2005,6.02741861,IRL,% of GDP,Ireland
+Health,2006,5.84971762,IRL,% of GDP,Ireland
+Health,2007,6.18633509,IRL,% of GDP,Ireland
+Health,2008,7.23859835,IRL,% of GDP,Ireland
+Health,2009,8.11006927,IRL,% of GDP,Ireland
+Health,2010,8.01833725,IRL,% of GDP,Ireland
+Health,2011,7.64333248,IRL,% of GDP,Ireland
+Health,2012,7.62500095,IRL,% of GDP,Ireland
+Health,2013,7.27710915,IRL,% of GDP,Ireland
+Health,2014,6.77773857,IRL,% of GDP,Ireland
+Health,2015,5.26927996,IRL,% of GDP,Ireland
+Health,2016,5.414505,IRL,% of GDP,Ireland
+Health,2017,5.21533012,IRL,% of GDP,Ireland
+Health,2018,5.09988594,IRL,% of GDP,Ireland
+Health,2019,4.98021936,IRL,% of GDP,Ireland
+Health,2020,5.597785,IRL,% of GDP,Ireland
+Health,2021,5.27459478,IRL,% of GDP,Ireland
+Health,2000,4.28851175,ISR,% of GDP,Israel
+Health,2001,4.52758408,ISR,% of GDP,Israel
+Health,2002,4.57443237,ISR,% of GDP,Israel
+Health,2003,4.42895794,ISR,% of GDP,Israel
+Health,2004,4.33761787,ISR,% of GDP,Israel
+Health,2005,4.26557446,ISR,% of GDP,Israel
+Health,2006,4.30434084,ISR,% of GDP,Israel
+Health,2007,4.1677165,ISR,% of GDP,Israel
+Health,2008,4.25844383,ISR,% of GDP,Israel
+Health,2009,4.31569958,ISR,% of GDP,Israel
+Health,2010,4.39428091,ISR,% of GDP,Israel
+Health,2011,4.35397625,ISR,% of GDP,Israel
+Health,2012,4.43309879,ISR,% of GDP,Israel
+Health,2013,4.46624565,ISR,% of GDP,Israel
+Health,2014,4.49629736,ISR,% of GDP,Israel
+Health,2015,4.50274849,ISR,% of GDP,Israel
+Health,2016,4.53602934,ISR,% of GDP,Israel
+Health,2017,4.6225481,ISR,% of GDP,Israel
+Health,2018,4.71212816,ISR,% of GDP,Israel
+Health,2019,4.8316865,ISR,% of GDP,Israel
+Health,2020,5.89272499,ISR,% of GDP,Israel
+Health,2000,5.49627781,ITA,% of GDP,Italy
+Health,2001,5.77401066,ITA,% of GDP,Italy
+Health,2002,5.89694309,ITA,% of GDP,Italy
+Health,2003,5.90086746,ITA,% of GDP,Italy
+Health,2004,6.22569847,ITA,% of GDP,Italy
+Health,2005,6.46201944,ITA,% of GDP,Italy
+Health,2006,6.55959702,ITA,% of GDP,Italy
+Health,2007,6.30452633,ITA,% of GDP,Italy
+Health,2008,6.62789536,ITA,% of GDP,Italy
+Health,2009,7.00957918,ITA,% of GDP,Italy
+Health,2010,6.99493837,ITA,% of GDP,Italy
+Health,2011,6.7571559,ITA,% of GDP,Italy
+Health,2012,6.66466093,ITA,% of GDP,Italy
+Health,2013,6.64814234,ITA,% of GDP,Italy
+Health,2014,6.68862152,ITA,% of GDP,Italy
+Health,2015,6.59266424,ITA,% of GDP,Italy
+Health,2016,6.49173594,ITA,% of GDP,Italy
+Health,2017,6.39856386,ITA,% of GDP,Italy
+Health,2018,6.41253042,ITA,% of GDP,Italy
+Health,2019,6.38360453,ITA,% of GDP,Italy
+Health,2020,7.32908154,ITA,% of GDP,Italy
+Health,2000,2.11958146,KAZ,% of GDP,Kazakhstan
+Health,2001,1.96616614,KAZ,% of GDP,Kazakhstan
+Health,2002,1.93378139,KAZ,% of GDP,Kazakhstan
+Health,2003,2.04059863,KAZ,% of GDP,Kazakhstan
+Health,2004,2.32005072,KAZ,% of GDP,Kazakhstan
+Health,2005,2.53249097,KAZ,% of GDP,Kazakhstan
+Health,2006,2.31393433,KAZ,% of GDP,Kazakhstan
+Health,2007,1.79149234,KAZ,% of GDP,Kazakhstan
+Health,2008,2.26626062,KAZ,% of GDP,Kazakhstan
+Health,2009,2.65606952,KAZ,% of GDP,Kazakhstan
+Health,2010,1.84399521,KAZ,% of GDP,Kazakhstan
+Health,2011,1.84243858,KAZ,% of GDP,Kazakhstan
+Health,2012,2.06988883,KAZ,% of GDP,Kazakhstan
+Health,2013,1.84699547,KAZ,% of GDP,Kazakhstan
+Health,2014,2.13331342,KAZ,% of GDP,Kazakhstan
+Health,2015,1.91990709,KAZ,% of GDP,Kazakhstan
+Health,2016,2.04025173,KAZ,% of GDP,Kazakhstan
+Health,2017,1.89267051,KAZ,% of GDP,Kazakhstan
+Health,2018,1.71429658,KAZ,% of GDP,Kazakhstan
+Health,2019,1.67075241,KAZ,% of GDP,Kazakhstan
+Health,2020,2.50674272,KAZ,% of GDP,Kazakhstan
+Health,2000,2.13439822,KGZ,% of GDP,Kyrgyz Republic
+Health,2001,2.00316715,KGZ,% of GDP,Kyrgyz Republic
+Health,2002,2.21980453,KGZ,% of GDP,Kyrgyz Republic
+Health,2003,2.26654911,KGZ,% of GDP,Kyrgyz Republic
+Health,2004,2.33701825,KGZ,% of GDP,Kyrgyz Republic
+Health,2005,3.79884839,KGZ,% of GDP,Kyrgyz Republic
+Health,2006,4.21177483,KGZ,% of GDP,Kyrgyz Republic
+Health,2007,3.08531475,KGZ,% of GDP,Kyrgyz Republic
+Health,2008,2.89586782,KGZ,% of GDP,Kyrgyz Republic
+Health,2009,3.48071551,KGZ,% of GDP,Kyrgyz Republic
+Health,2010,3.41518092,KGZ,% of GDP,Kyrgyz Republic
+Health,2011,3.69314909,KGZ,% of GDP,Kyrgyz Republic
+Health,2012,4.22100592,KGZ,% of GDP,Kyrgyz Republic
+Health,2013,3.94686103,KGZ,% of GDP,Kyrgyz Republic
+Health,2014,2.74904537,KGZ,% of GDP,Kyrgyz Republic
+Health,2015,2.71162796,KGZ,% of GDP,Kyrgyz Republic
+Health,2016,2.49723411,KGZ,% of GDP,Kyrgyz Republic
+Health,2017,2.34767461,KGZ,% of GDP,Kyrgyz Republic
+Health,2018,2.42471886,KGZ,% of GDP,Kyrgyz Republic
+Health,2019,2.31117272,KGZ,% of GDP,Kyrgyz Republic
+Health,2020,2.35807395,KGZ,% of GDP,Kyrgyz Republic
+Health,2000,2.75761819,LVA,% of GDP,Latvia
+Health,2001,2.81179237,LVA,% of GDP,Latvia
+Health,2002,2.85718036,LVA,% of GDP,Latvia
+Health,2003,2.73035383,LVA,% of GDP,Latvia
+Health,2004,3.48408985,LVA,% of GDP,Latvia
+Health,2005,3.24858189,LVA,% of GDP,Latvia
+Health,2006,3.51022673,LVA,% of GDP,Latvia
+Health,2007,3.3554647,LVA,% of GDP,Latvia
+Health,2008,3.36912656,LVA,% of GDP,Latvia
+Health,2009,3.63714218,LVA,% of GDP,Latvia
+Health,2010,3.66973138,LVA,% of GDP,Latvia
+Health,2011,3.63459969,LVA,% of GDP,Latvia
+Health,2012,3.26510525,LVA,% of GDP,Latvia
+Health,2013,3.24601078,LVA,% of GDP,Latvia
+Health,2014,3.26013923,LVA,% of GDP,Latvia
+Health,2015,3.31676984,LVA,% of GDP,Latvia
+Health,2016,3.42512989,LVA,% of GDP,Latvia
+Health,2017,3.41016722,LVA,% of GDP,Latvia
+Health,2018,3.69562984,LVA,% of GDP,Latvia
+Health,2019,3.96306682,LVA,% of GDP,Latvia
+Health,2020,4.7241993,LVA,% of GDP,Latvia
+Health,2000,4.16960144,LTU,% of GDP,Lithuania
+Health,2001,4.22167063,LTU,% of GDP,Lithuania
+Health,2002,4.47399569,LTU,% of GDP,Lithuania
+Health,2003,4.59732485,LTU,% of GDP,Lithuania
+Health,2004,3.45169044,LTU,% of GDP,Lithuania
+Health,2005,3.4285953,LTU,% of GDP,Lithuania
+Health,2006,3.6484623,LTU,% of GDP,Lithuania
+Health,2007,3.79473877,LTU,% of GDP,Lithuania
+Health,2008,4.45161343,LTU,% of GDP,Lithuania
+Health,2009,5.29426765,LTU,% of GDP,Lithuania
+Health,2010,4.8445034,LTU,% of GDP,Lithuania
+Health,2011,4.56299257,LTU,% of GDP,Lithuania
+Health,2012,4.18076372,LTU,% of GDP,Lithuania
+Health,2013,4.01803207,LTU,% of GDP,Lithuania
+Health,2014,4.12314367,LTU,% of GDP,Lithuania
+Health,2015,4.28938293,LTU,% of GDP,Lithuania
+Health,2016,4.36463356,LTU,% of GDP,Lithuania
+Health,2017,4.21900225,LTU,% of GDP,Lithuania
+Health,2018,4.30956507,LTU,% of GDP,Lithuania
+Health,2019,4.55533361,LTU,% of GDP,Lithuania
+Health,2020,5.17632532,LTU,% of GDP,Lithuania
+Health,2000,4.93300676,LUX,% of GDP,Luxembourg
+Health,2001,5.36152744,LUX,% of GDP,Luxembourg
+Health,2002,5.67507315,LUX,% of GDP,Luxembourg
+Health,2003,5.83644247,LUX,% of GDP,Luxembourg
+Health,2004,6.15188742,LUX,% of GDP,Luxembourg
+Health,2005,5.99415827,LUX,% of GDP,Luxembourg
+Health,2006,5.56112909,LUX,% of GDP,Luxembourg
+Health,2007,5.25702858,LUX,% of GDP,Luxembourg
+Health,2008,5.46154928,LUX,% of GDP,Luxembourg
+Health,2009,6.02683735,LUX,% of GDP,Luxembourg
+Health,2010,5.72467899,LUX,% of GDP,Luxembourg
+Health,2011,5.0190835,LUX,% of GDP,Luxembourg
+Health,2012,4.4276371,LUX,% of GDP,Luxembourg
+Health,2013,4.39057875,LUX,% of GDP,Luxembourg
+Health,2014,4.40729094,LUX,% of GDP,Luxembourg
+Health,2015,4.29385996,LUX,% of GDP,Luxembourg
+Health,2016,4.28179646,LUX,% of GDP,Luxembourg
+Health,2017,4.35383892,LUX,% of GDP,Luxembourg
+Health,2018,4.46583462,LUX,% of GDP,Luxembourg
+Health,2019,4.67248201,LUX,% of GDP,Luxembourg
+Health,2020,5.03534985,LUX,% of GDP,Luxembourg
+Health,2021,4.67554569,LUX,% of GDP,Luxembourg
+Health,2000,4.7191391,MLT,% of GDP,Malta
+Health,2001,4.80657053,MLT,% of GDP,Malta
+Health,2002,5.42563534,MLT,% of GDP,Malta
+Health,2003,5.51436043,MLT,% of GDP,Malta
+Health,2004,5.59697676,MLT,% of GDP,Malta
+Health,2005,5.98918438,MLT,% of GDP,Malta
+Health,2006,6.03368521,MLT,% of GDP,Malta
+Health,2007,5.45740271,MLT,% of GDP,Malta
+Health,2008,5.09184647,MLT,% of GDP,Malta
+Health,2009,5.14409876,MLT,% of GDP,Malta
+Health,2010,5.13512707,MLT,% of GDP,Malta
+Health,2011,5.44435787,MLT,% of GDP,Malta
+Health,2012,5.49935484,MLT,% of GDP,Malta
+Health,2013,5.73996449,MLT,% of GDP,Malta
+Health,2014,5.59774208,MLT,% of GDP,Malta
+Health,2015,5.41260624,MLT,% of GDP,Malta
+Health,2016,5.6511178,MLT,% of GDP,Malta
+Health,2017,5.48946762,MLT,% of GDP,Malta
+Health,2018,5.43748474,MLT,% of GDP,Malta
+Health,2019,5.77544117,MLT,% of GDP,Malta
+Health,2020,7.22626591,MLT,% of GDP,Malta
+Health,2011,4.85758018,MNE,% of GDP,Montenegro
+Health,2012,5.30493546,MNE,% of GDP,Montenegro
+Health,2013,4.89767981,MNE,% of GDP,Montenegro
+Health,2014,4.85656452,MNE,% of GDP,Montenegro
+Health,2015,5.39562225,MNE,% of GDP,Montenegro
+Health,2016,5.18993425,MNE,% of GDP,Montenegro
+Health,2017,4.58153057,MNE,% of GDP,Montenegro
+Health,2018,4.96868992,MNE,% of GDP,Montenegro
+Health,2019,5.06746101,MNE,% of GDP,Montenegro
+Health,2020,7.13466835,MNE,% of GDP,Montenegro
+Health,2000,5.31053734,NLD,% of GDP,Netherlands
+Health,2001,5.60159063,NLD,% of GDP,Netherlands
+Health,2002,6.04046392,NLD,% of GDP,Netherlands
+Health,2003,6.34328508,NLD,% of GDP,Netherlands
+Health,2004,6.23783731,NLD,% of GDP,Netherlands
+Health,2005,6.21275282,NLD,% of GDP,Netherlands
+Health,2006,5.99285603,NLD,% of GDP,Netherlands
+Health,2007,5.96346712,NLD,% of GDP,Netherlands
+Health,2008,6.26794291,NLD,% of GDP,Netherlands
+Health,2009,6.8005991,NLD,% of GDP,Netherlands
+Health,2010,6.94804478,NLD,% of GDP,Netherlands
+Health,2011,6.99721241,NLD,% of GDP,Netherlands
+Health,2012,7.21522999,NLD,% of GDP,Netherlands
+Health,2013,7.30336142,NLD,% of GDP,Netherlands
+Health,2014,7.16778851,NLD,% of GDP,Netherlands
+Health,2015,6.81934118,NLD,% of GDP,Netherlands
+Health,2016,6.74071789,NLD,% of GDP,Netherlands
+Health,2017,6.50196552,NLD,% of GDP,Netherlands
+Health,2018,6.5860281,NLD,% of GDP,Netherlands
+Health,2019,6.68220472,NLD,% of GDP,Netherlands
+Health,2020,7.66171503,NLD,% of GDP,Netherlands
+Health,2000,6.29948044,NOR,% of GDP,Norway
+Health,2001,6.64224243,NOR,% of GDP,Norway
+Health,2002,7.46015739,NOR,% of GDP,Norway
+Health,2003,7.66358662,NOR,% of GDP,Norway
+Health,2004,7.32308102,NOR,% of GDP,Norway
+Health,2005,6.91682911,NOR,% of GDP,Norway
+Health,2006,6.59458923,NOR,% of GDP,Norway
+Health,2007,6.73865271,NOR,% of GDP,Norway
+Health,2008,6.69777393,NOR,% of GDP,Norway
+Health,2009,7.66199112,NOR,% of GDP,Norway
+Health,2010,7.54125357,NOR,% of GDP,Norway
+Health,2011,7.41967487,NOR,% of GDP,Norway
+Health,2012,7.43971157,NOR,% of GDP,Norway
+Health,2013,7.59215212,NOR,% of GDP,Norway
+Health,2014,7.97019482,NOR,% of GDP,Norway
+Health,2015,8.66388416,NOR,% of GDP,Norway
+Health,2016,9.04278946,NOR,% of GDP,Norway
+Health,2017,8.78095436,NOR,% of GDP,Norway
+Health,2018,8.59087181,NOR,% of GDP,Norway
+Health,2019,9.0311842,NOR,% of GDP,Norway
+Health,2020,9.78682518,NOR,% of GDP,Norway
+Health,2021,8.62964249,NOR,% of GDP,Norway
+Health,2000,3.6070292,POL,% of GDP,Poland
+Health,2001,3.98644733,POL,% of GDP,Poland
+Health,2002,4.24438095,POL,% of GDP,Poland
+Health,2003,4.0827384,POL,% of GDP,Poland
+Health,2004,3.95899224,POL,% of GDP,Poland
+Health,2005,3.97908187,POL,% of GDP,Poland
+Health,2006,4.0025959,POL,% of GDP,Poland
+Health,2007,4.09294081,POL,% of GDP,Poland
+Health,2008,4.53992796,POL,% of GDP,Poland
+Health,2009,4.72637177,POL,% of GDP,Poland
+Health,2010,4.57513046,POL,% of GDP,Poland
+Health,2011,4.43206882,POL,% of GDP,Poland
+Health,2012,4.34607458,POL,% of GDP,Poland
+Health,2013,4.50933599,POL,% of GDP,Poland
+Health,2014,4.46653366,POL,% of GDP,Poland
+Health,2015,4.43370008,POL,% of GDP,Poland
+Health,2016,4.49653816,POL,% of GDP,Poland
+Health,2017,4.51487017,POL,% of GDP,Poland
+Health,2018,4.49809456,POL,% of GDP,Poland
+Health,2019,4.60206556,POL,% of GDP,Poland
+Health,2020,4.66816568,POL,% of GDP,Poland
+Health,2000,5.99815702,PRT,% of GDP,Portugal
+Health,2001,6.05405951,PRT,% of GDP,Portugal
+Health,2002,6.32552099,PRT,% of GDP,Portugal
+Health,2003,6.44214296,PRT,% of GDP,Portugal
+Health,2004,6.72644234,PRT,% of GDP,Portugal
+Health,2005,6.84422255,PRT,% of GDP,Portugal
+Health,2006,5.93430281,PRT,% of GDP,Portugal
+Health,2007,5.80185938,PRT,% of GDP,Portugal
+Health,2008,5.98957777,PRT,% of GDP,Portugal
+Health,2009,6.46387529,PRT,% of GDP,Portugal
+Health,2010,6.67315197,PRT,% of GDP,Portugal
+Health,2011,6.27685404,PRT,% of GDP,Portugal
+Health,2012,5.91590166,PRT,% of GDP,Portugal
+Health,2013,5.85821295,PRT,% of GDP,Portugal
+Health,2014,5.76832533,PRT,% of GDP,Portugal
+Health,2015,5.74543333,PRT,% of GDP,Portugal
+Health,2016,5.78449821,PRT,% of GDP,Portugal
+Health,2017,5.68938971,PRT,% of GDP,Portugal
+Health,2018,5.75663424,PRT,% of GDP,Portugal
+Health,2019,5.78202772,PRT,% of GDP,Portugal
+Health,2020,6.79872322,PRT,% of GDP,Portugal
+Health,2000,2.90143156,MDA,% of GDP,Moldova
+Health,2001,2.86584091,MDA,% of GDP,Moldova
+Health,2002,3.54672813,MDA,% of GDP,Moldova
+Health,2003,3.2140553,MDA,% of GDP,Moldova
+Health,2004,5.30847454,MDA,% of GDP,Moldova
+Health,2005,5.03950357,MDA,% of GDP,Moldova
+Health,2006,5.19462681,MDA,% of GDP,Moldova
+Health,2007,5.62990999,MDA,% of GDP,Moldova
+Health,2008,5.27913141,MDA,% of GDP,Moldova
+Health,2009,5.83283806,MDA,% of GDP,Moldova
+Health,2010,4.64634132,MDA,% of GDP,Moldova
+Health,2011,4.24517536,MDA,% of GDP,Moldova
+Health,2012,4.43541145,MDA,% of GDP,Moldova
+Health,2013,4.05499315,MDA,% of GDP,Moldova
+Health,2014,4.25988245,MDA,% of GDP,Moldova
+Health,2015,3.89704299,MDA,% of GDP,Moldova
+Health,2016,3.67679572,MDA,% of GDP,Moldova
+Health,2017,3.54974651,MDA,% of GDP,Moldova
+Health,2018,3.72367048,MDA,% of GDP,Moldova
+Health,2019,3.8010087,MDA,% of GDP,Moldova
+Health,2020,4.39417887,MDA,% of GDP,Moldova
+Health,2000,3.33585477,ROU,% of GDP,Romania
+Health,2001,3.48990417,ROU,% of GDP,Romania
+Health,2002,3.6797502,ROU,% of GDP,Romania
+Health,2003,4.46193647,ROU,% of GDP,Romania
+Health,2004,4.04278946,ROU,% of GDP,Romania
+Health,2005,4.40981054,ROU,% of GDP,Romania
+Health,2006,4.02086115,ROU,% of GDP,Romania
+Health,2007,4.09066439,ROU,% of GDP,Romania
+Health,2008,4.07317638,ROU,% of GDP,Romania
+Health,2009,4.15208244,ROU,% of GDP,Romania
+Health,2010,4.606637,ROU,% of GDP,Romania
+Health,2011,3.52538133,ROU,% of GDP,Romania
+Health,2012,3.63839698,ROU,% of GDP,Romania
+Health,2013,4.10288525,ROU,% of GDP,Romania
+Health,2014,3.96122551,ROU,% of GDP,Romania
+Health,2015,3.85599756,ROU,% of GDP,Romania
+Health,2016,3.91185784,ROU,% of GDP,Romania
+Health,2017,4.04785347,ROU,% of GDP,Romania
+Health,2018,4.43120813,ROU,% of GDP,Romania
+Health,2019,4.60021067,ROU,% of GDP,Romania
+Health,2020,5.02272987,ROU,% of GDP,Romania
+Health,2000,2.9796474,RUS,% of GDP,Russia
+Health,2001,3.04301357,RUS,% of GDP,Russia
+Health,2002,3.21910429,RUS,% of GDP,Russia
+Health,2003,3.00005722,RUS,% of GDP,Russia
+Health,2004,2.79753399,RUS,% of GDP,Russia
+Health,2005,2.91765976,RUS,% of GDP,Russia
+Health,2006,2.94237709,RUS,% of GDP,Russia
+Health,2007,2.94628835,RUS,% of GDP,Russia
+Health,2008,3.07102203,RUS,% of GDP,Russia
+Health,2009,3.50300717,RUS,% of GDP,Russia
+Health,2010,3.0512259,RUS,% of GDP,Russia
+Health,2011,3.00404239,RUS,% of GDP,Russia
+Health,2012,3.14484,RUS,% of GDP,Russia
+Health,2013,3.16959071,RUS,% of GDP,Russia
+Health,2014,3.20183849,RUS,% of GDP,Russia
+Health,2015,3.10975885,RUS,% of GDP,Russia
+Health,2016,3.01248789,RUS,% of GDP,Russia
+Health,2017,3.05932784,RUS,% of GDP,Russia
+Health,2018,3.18402362,RUS,% of GDP,Russia
+Health,2019,3.45416045,RUS,% of GDP,Russia
+Health,2020,5.35894442,RUS,% of GDP,Russia
+Health,2000,4.30573463,SMR,% of GDP,San Marino
+Health,2001,4.26485729,SMR,% of GDP,San Marino
+Health,2002,4.03321981,SMR,% of GDP,San Marino
+Health,2003,3.63807321,SMR,% of GDP,San Marino
+Health,2004,3.74707913,SMR,% of GDP,San Marino
+Health,2005,3.81809044,SMR,% of GDP,San Marino
+Health,2006,3.87701797,SMR,% of GDP,San Marino
+Health,2007,4.07534981,SMR,% of GDP,San Marino
+Health,2008,4.34516525,SMR,% of GDP,San Marino
+Health,2009,5,SMR,% of GDP,San Marino
+Health,2010,5.35588455,SMR,% of GDP,San Marino
+Health,2011,7.28447437,SMR,% of GDP,San Marino
+Health,2012,8.10129166,SMR,% of GDP,San Marino
+Health,2013,7.46279001,SMR,% of GDP,San Marino
+Health,2014,7.42958117,SMR,% of GDP,San Marino
+Health,2015,7.40344763,SMR,% of GDP,San Marino
+Health,2016,7.53124285,SMR,% of GDP,San Marino
+Health,2017,7.40110397,SMR,% of GDP,San Marino
+Health,2018,7.51669312,SMR,% of GDP,San Marino
+Health,2019,7.38694096,SMR,% of GDP,San Marino
+Health,2020,7.76576805,SMR,% of GDP,San Marino
+Health,2000,4.25570917,SRB,% of GDP,Serbia
+Health,2001,4.58740377,SRB,% of GDP,Serbia
+Health,2002,5.82102203,SRB,% of GDP,Serbia
+Health,2003,5.68312502,SRB,% of GDP,Serbia
+Health,2004,5.59544659,SRB,% of GDP,Serbia
+Health,2005,5.422544,SRB,% of GDP,Serbia
+Health,2006,5.30835724,SRB,% of GDP,Serbia
+Health,2007,5.72144413,SRB,% of GDP,Serbia
+Health,2008,5.86755705,SRB,% of GDP,Serbia
+Health,2009,5.76196146,SRB,% of GDP,Serbia
+Health,2010,5.81205034,SRB,% of GDP,Serbia
+Health,2011,5.57045889,SRB,% of GDP,Serbia
+Health,2012,5.79436255,SRB,% of GDP,Serbia
+Health,2013,5.57435799,SRB,% of GDP,Serbia
+Health,2014,5.38649607,SRB,% of GDP,Serbia
+Health,2015,5.08387613,SRB,% of GDP,Serbia
+Health,2016,4.87050915,SRB,% of GDP,Serbia
+Health,2017,4.72497892,SRB,% of GDP,Serbia
+Health,2018,5.06508875,SRB,% of GDP,Serbia
+Health,2019,5.05642891,SRB,% of GDP,Serbia
+Health,2020,5.30452394,SRB,% of GDP,Serbia
+Health,2000,4.63913631,SVK,% of GDP,Slovakia
+Health,2001,4.69889498,SVK,% of GDP,Slovakia
+Health,2002,4.84496164,SVK,% of GDP,Slovakia
+Health,2003,4.74017286,SVK,% of GDP,Slovakia
+Health,2004,5.01567888,SVK,% of GDP,Slovakia
+Health,2005,4.95043325,SVK,% of GDP,Slovakia
+Health,2006,4.77292061,SVK,% of GDP,Slovakia
+Health,2007,4.93226337,SVK,% of GDP,Slovakia
+Health,2008,5.19804668,SVK,% of GDP,Slovakia
+Health,2009,5.69372702,SVK,% of GDP,Slovakia
+Health,2010,5.46459436,SVK,% of GDP,Slovakia
+Health,2011,5.28560638,SVK,% of GDP,Slovakia
+Health,2012,5.38078308,SVK,% of GDP,Slovakia
+Health,2013,5.51539946,SVK,% of GDP,Slovakia
+Health,2014,5.4802556,SVK,% of GDP,Slovakia
+Health,2015,5.34042168,SVK,% of GDP,Slovakia
+Health,2016,5.68801165,SVK,% of GDP,Slovakia
+Health,2017,5.3554554,SVK,% of GDP,Slovakia
+Health,2018,5.30704069,SVK,% of GDP,Slovakia
+Health,2019,5.47591448,SVK,% of GDP,Slovakia
+Health,2020,5.80533266,SVK,% of GDP,Slovakia
+Health,2000,5.57140017,SVN,% of GDP,Slovenia
+Health,2001,5.55741167,SVN,% of GDP,Slovenia
+Health,2002,5.80969334,SVN,% of GDP,Slovenia
+Health,2003,5.82858562,SVN,% of GDP,Slovenia
+Health,2004,5.71562862,SVN,% of GDP,Slovenia
+Health,2005,5.77480507,SVN,% of GDP,Slovenia
+Health,2006,5.61257124,SVN,% of GDP,Slovenia
+Health,2007,5.27593756,SVN,% of GDP,Slovenia
+Health,2008,5.6679821,SVN,% of GDP,Slovenia
+Health,2009,6.15069389,SVN,% of GDP,Slovenia
+Health,2010,6.19808054,SVN,% of GDP,Slovenia
+Health,2011,6.16889191,SVN,% of GDP,Slovenia
+Health,2012,6.1747551,SVN,% of GDP,Slovenia
+Health,2013,6.14473963,SVN,% of GDP,Slovenia
+Health,2014,5.99596119,SVN,% of GDP,Slovenia
+Health,2015,6.06387234,SVN,% of GDP,Slovenia
+Health,2016,6.11774063,SVN,% of GDP,Slovenia
+Health,2017,5.87654495,SVN,% of GDP,Slovenia
+Health,2018,5.99481487,SVN,% of GDP,Slovenia
+Health,2019,6.16823053,SVN,% of GDP,Slovenia
+Health,2020,6.86089611,SVN,% of GDP,Slovenia
+Health,2000,4.91888905,ESP,% of GDP,Spain
+Health,2001,4.87444878,ESP,% of GDP,Spain
+Health,2002,4.89794874,ESP,% of GDP,Spain
+Health,2003,5.37777996,ESP,% of GDP,Spain
+Health,2004,5.46425915,ESP,% of GDP,Spain
+Health,2005,5.5326066,ESP,% of GDP,Spain
+Health,2006,5.64472961,ESP,% of GDP,Spain
+Health,2007,5.72543097,ESP,% of GDP,Spain
+Health,2008,6.1428566,ESP,% of GDP,Spain
+Health,2009,6.83731222,ESP,% of GDP,Spain
+Health,2010,6.7885623,ESP,% of GDP,Spain
+Health,2011,6.73698664,ESP,% of GDP,Spain
+Health,2012,6.60091925,ESP,% of GDP,Spain
+Health,2013,6.43811703,ESP,% of GDP,Spain
+Health,2014,6.38631392,ESP,% of GDP,Spain
+Health,2015,6.50859737,ESP,% of GDP,Spain
+Health,2016,6.40544844,ESP,% of GDP,Spain
+Health,2017,6.31032991,ESP,% of GDP,Spain
+Health,2018,6.32118988,ESP,% of GDP,Spain
+Health,2019,6.45363188,ESP,% of GDP,Spain
+Health,2020,7.84911251,ESP,% of GDP,Spain
+Health,2000,6.18943739,SWE,% of GDP,Sweden
+Health,2001,6.49035358,SWE,% of GDP,Sweden
+Health,2002,6.77922344,SWE,% of GDP,Sweden
+Health,2003,6.91412878,SWE,% of GDP,Sweden
+Health,2004,6.72247219,SWE,% of GDP,Sweden
+Health,2005,6.70755005,SWE,% of GDP,Sweden
+Health,2006,6.63158274,SWE,% of GDP,Sweden
+Health,2007,6.598032,SWE,% of GDP,Sweden
+Health,2008,6.77191877,SWE,% of GDP,Sweden
+Health,2009,7.23678303,SWE,% of GDP,Sweden
+Health,2010,6.86272383,SWE,% of GDP,Sweden
+Health,2011,8.80000973,SWE,% of GDP,Sweden
+Health,2012,9.0407753,SWE,% of GDP,Sweden
+Health,2013,9.1623106,SWE,% of GDP,Sweden
+Health,2014,9.19936943,SWE,% of GDP,Sweden
+Health,2015,9.07129955,SWE,% of GDP,Sweden
+Health,2016,9.14448833,SWE,% of GDP,Sweden
+Health,2017,9.13570595,SWE,% of GDP,Sweden
+Health,2018,9.27633858,SWE,% of GDP,Sweden
+Health,2019,9.22085381,SWE,% of GDP,Sweden
+Health,2020,9.77640724,SWE,% of GDP,Sweden
+Health,2000,2.60352111,CHE,% of GDP,Switzerland
+Health,2001,2.82851839,CHE,% of GDP,Switzerland
+Health,2002,3.08993149,CHE,% of GDP,Switzerland
+Health,2003,3.17492461,CHE,% of GDP,Switzerland
+Health,2004,3.14565587,CHE,% of GDP,Switzerland
+Health,2005,3.10609841,CHE,% of GDP,Switzerland
+Health,2006,2.9180789,CHE,% of GDP,Switzerland
+Health,2007,2.87561703,CHE,% of GDP,Switzerland
+Health,2008,2.99652123,CHE,% of GDP,Switzerland
+Health,2009,3.23709249,CHE,% of GDP,Switzerland
+Health,2010,3.21735024,CHE,% of GDP,Switzerland
+Health,2011,3.30035782,CHE,% of GDP,Switzerland
+Health,2012,3.45818734,CHE,% of GDP,Switzerland
+Health,2013,3.43032241,CHE,% of GDP,Switzerland
+Health,2014,3.40755963,CHE,% of GDP,Switzerland
+Health,2015,3.50238061,CHE,% of GDP,Switzerland
+Health,2016,3.50250435,CHE,% of GDP,Switzerland
+Health,2017,3.62295151,CHE,% of GDP,Switzerland
+Health,2018,3.55460477,CHE,% of GDP,Switzerland
+Health,2019,3.62418461,CHE,% of GDP,Switzerland
+Health,2020,4.20692682,CHE,% of GDP,Switzerland
+Health,2000,0.88544548,TJK,% of GDP,Tajikistan
+Health,2001,0.8757962,TJK,% of GDP,Tajikistan
+Health,2002,0.80717486,TJK,% of GDP,Tajikistan
+Health,2003,0.76923078,TJK,% of GDP,Tajikistan
+Health,2004,0.89477104,TJK,% of GDP,Tajikistan
+Health,2005,0.98875159,TJK,% of GDP,Tajikistan
+Health,2006,0.93615186,TJK,% of GDP,Tajikistan
+Health,2007,1.07746482,TJK,% of GDP,Tajikistan
+Health,2008,1.36975408,TJK,% of GDP,Tajikistan
+Health,2009,1.08422637,TJK,% of GDP,Tajikistan
+Health,2010,1.18032789,TJK,% of GDP,Tajikistan
+Health,2011,1.30533111,TJK,% of GDP,Tajikistan
+Health,2012,1.60808611,TJK,% of GDP,Tajikistan
+Health,2013,1.90030849,TJK,% of GDP,Tajikistan
+Health,2014,2.07762313,TJK,% of GDP,Tajikistan
+Health,2015,2.04495692,TJK,% of GDP,Tajikistan
+Health,2016,1.98977911,TJK,% of GDP,Tajikistan
+Health,2017,1.98792565,TJK,% of GDP,Tajikistan
+Health,2018,1.89692557,TJK,% of GDP,Tajikistan
+Health,2019,1.89777529,TJK,% of GDP,Tajikistan
+Health,2020,2.1510756,TJK,% of GDP,Tajikistan
+Health,2000,4.71220732,MKD,% of GDP,North Macedonia
+Health,2001,4.55789852,MKD,% of GDP,North Macedonia
+Health,2002,4.73120594,MKD,% of GDP,North Macedonia
+Health,2003,4.95398092,MKD,% of GDP,North Macedonia
+Health,2004,4.71959162,MKD,% of GDP,North Macedonia
+Health,2005,4.3757925,MKD,% of GDP,North Macedonia
+Health,2006,4.21515989,MKD,% of GDP,North Macedonia
+Health,2007,4.04007626,MKD,% of GDP,North Macedonia
+Health,2008,4.23244715,MKD,% of GDP,North Macedonia
+Health,2009,4.0919199,MKD,% of GDP,North Macedonia
+Health,2010,4.06657267,MKD,% of GDP,North Macedonia
+Health,2011,4.05699444,MKD,% of GDP,North Macedonia
+Health,2012,4.13496399,MKD,% of GDP,North Macedonia
+Health,2013,4.41111708,MKD,% of GDP,North Macedonia
+Health,2014,4.01871777,MKD,% of GDP,North Macedonia
+Health,2015,4.11930132,MKD,% of GDP,North Macedonia
+Health,2016,4.0607338,MKD,% of GDP,North Macedonia
+Health,2017,3.75674939,MKD,% of GDP,North Macedonia
+Health,2018,3.75730491,MKD,% of GDP,North Macedonia
+Health,2019,4.25745583,MKD,% of GDP,North Macedonia
+Health,2020,4.76490688,MKD,% of GDP,North Macedonia
+Health,2000,2.83683038,TUR,% of GDP,Türkiye
+Health,2001,3.28714561,TUR,% of GDP,Türkiye
+Health,2002,3.54229712,TUR,% of GDP,Türkiye
+Health,2003,3.57052255,TUR,% of GDP,Türkiye
+Health,2004,3.52044296,TUR,% of GDP,Türkiye
+Health,2005,3.31541967,TUR,% of GDP,Türkiye
+Health,2006,3.54304099,TUR,% of GDP,Türkiye
+Health,2007,3.60262251,TUR,% of GDP,Türkiye
+Health,2008,3.79284501,TUR,% of GDP,Türkiye
+Health,2009,4.42291498,TUR,% of GDP,Türkiye
+Health,2010,3.91593647,TUR,% of GDP,Türkiye
+Health,2011,3.68182659,TUR,% of GDP,Türkiye
+Health,2012,3.51873088,TUR,% of GDP,Türkiye
+Health,2013,3.42470455,TUR,% of GDP,Türkiye
+Health,2014,3.35657501,TUR,% of GDP,Türkiye
+Health,2015,3.21666884,TUR,% of GDP,Türkiye
+Health,2016,3.36101246,TUR,% of GDP,Türkiye
+Health,2017,3.24810481,TUR,% of GDP,Türkiye
+Health,2018,3.19096494,TUR,% of GDP,Türkiye
+Health,2019,3.38674355,TUR,% of GDP,Türkiye
+Health,2020,3.6410346,TUR,% of GDP,Türkiye
+Health,2000,2.51132536,UKR,% of GDP,Ukraine
+Health,2001,2.80008173,UKR,% of GDP,Ukraine
+Health,2002,3.07087588,UKR,% of GDP,Ukraine
+Health,2003,3.64921927,UKR,% of GDP,Ukraine
+Health,2004,3.40481019,UKR,% of GDP,Ukraine
+Health,2005,3.72637868,UKR,% of GDP,Ukraine
+Health,2006,3.87742233,UKR,% of GDP,Ukraine
+Health,2007,3.56190538,UKR,% of GDP,Ukraine
+Health,2008,3.19206929,UKR,% of GDP,Ukraine
+Health,2009,3.84805894,UKR,% of GDP,Ukraine
+Health,2010,3.68650508,UKR,% of GDP,Ukraine
+Health,2011,3.42371154,UKR,% of GDP,Ukraine
+Health,2012,3.74045873,UKR,% of GDP,Ukraine
+Health,2013,3.33902359,UKR,% of GDP,Ukraine
+Health,2014,3.45070863,UKR,% of GDP,Ukraine
+Health,2015,3.68104887,UKR,% of GDP,Ukraine
+Health,2016,3.63903141,UKR,% of GDP,Ukraine
+Health,2017,3.50868487,UKR,% of GDP,Ukraine
+Health,2018,3.49113274,UKR,% of GDP,Ukraine
+Health,2019,3.17738771,UKR,% of GDP,Ukraine
+Health,2020,3.75391006,UKR,% of GDP,Ukraine
+Health,2000,5.50688028,GBR,% of GDP,United Kingdom
+Health,2001,5.76992941,GBR,% of GDP,United Kingdom
+Health,2002,6.13726902,GBR,% of GDP,United Kingdom
+Health,2003,6.35349989,GBR,% of GDP,United Kingdom
+Health,2004,6.69912815,GBR,% of GDP,United Kingdom
+Health,2005,6.82918644,GBR,% of GDP,United Kingdom
+Health,2006,7.03460789,GBR,% of GDP,United Kingdom
+Health,2007,7.03329515,GBR,% of GDP,United Kingdom
+Health,2008,7.34308386,GBR,% of GDP,United Kingdom
+Health,2009,8.13016987,GBR,% of GDP,United Kingdom
+Health,2010,8.04831886,GBR,% of GDP,United Kingdom
+Health,2011,8.01995087,GBR,% of GDP,United Kingdom
+Health,2012,8.00758743,GBR,% of GDP,United Kingdom
+Health,2013,7.91318083,GBR,% of GDP,United Kingdom
+Health,2014,7.90565538,GBR,% of GDP,United Kingdom
+Health,2015,7.84124422,GBR,% of GDP,United Kingdom
+Health,2016,7.84041071,GBR,% of GDP,United Kingdom
+Health,2017,7.70561171,GBR,% of GDP,United Kingdom
+Health,2018,7.73572683,GBR,% of GDP,United Kingdom
+Health,2019,7.9222517,GBR,% of GDP,United Kingdom
+Health,2020,10.02466106,GBR,% of GDP,United Kingdom
+Health,2000,2.00684047,UZB,% of GDP,Uzbekistan
+Health,2001,2.03427196,UZB,% of GDP,Uzbekistan
+Health,2002,1.93376124,UZB,% of GDP,Uzbekistan
+Health,2003,1.89574766,UZB,% of GDP,Uzbekistan
+Health,2004,1.80486059,UZB,% of GDP,Uzbekistan
+Health,2005,1.81541967,UZB,% of GDP,Uzbekistan
+Health,2006,1.9279021,UZB,% of GDP,Uzbekistan
+Health,2007,1.79759741,UZB,% of GDP,Uzbekistan
+Health,2008,1.91604054,UZB,% of GDP,Uzbekistan
+Health,2009,1.9971329,UZB,% of GDP,Uzbekistan
+Health,2010,2.12282252,UZB,% of GDP,Uzbekistan
+Health,2011,2.08887649,UZB,% of GDP,Uzbekistan
+Health,2012,2.33609509,UZB,% of GDP,Uzbekistan
+Health,2013,2.40117002,UZB,% of GDP,Uzbekistan
+Health,2014,2.31306577,UZB,% of GDP,Uzbekistan
+Health,2015,2.35756874,UZB,% of GDP,Uzbekistan
+Health,2016,2.05541873,UZB,% of GDP,Uzbekistan
+Health,2017,2.00763083,UZB,% of GDP,Uzbekistan
+Health,2018,1.93785501,UZB,% of GDP,Uzbekistan
+Health,2019,2.25870585,UZB,% of GDP,Uzbekistan
+Health,2020,3.11443138,UZB,% of GDP,Uzbekistan
+Health,2000,0.59449899,BGD,% of GDP,Bangladesh
+Health,2001,0.45552713,BGD,% of GDP,Bangladesh
+Health,2002,0.55840307,BGD,% of GDP,Bangladesh
+Health,2003,0.57762229,BGD,% of GDP,Bangladesh
+Health,2004,0.57157779,BGD,% of GDP,Bangladesh
+Health,2005,0.53574932,BGD,% of GDP,Bangladesh
+Health,2006,0.57358545,BGD,% of GDP,Bangladesh
+Health,2007,0.58527148,BGD,% of GDP,Bangladesh
+Health,2008,0.53094941,BGD,% of GDP,Bangladesh
+Health,2009,0.52135736,BGD,% of GDP,Bangladesh
+Health,2010,0.56377017,BGD,% of GDP,Bangladesh
+Health,2011,0.57777011,BGD,% of GDP,Bangladesh
+Health,2012,0.56263942,BGD,% of GDP,Bangladesh
+Health,2013,0.52380127,BGD,% of GDP,Bangladesh
+Health,2014,0.50557047,BGD,% of GDP,Bangladesh
+Health,2015,0.46532738,BGD,% of GDP,Bangladesh
+Health,2016,0.56968528,BGD,% of GDP,Bangladesh
+Health,2017,0.5911361,BGD,% of GDP,Bangladesh
+Health,2018,0.56958538,BGD,% of GDP,Bangladesh
+Health,2019,0.51866281,BGD,% of GDP,Bangladesh
+Health,2020,0.47426897,BGD,% of GDP,Bangladesh
+Health,2000,3.54262948,BTN,% of GDP,Bhutan
+Health,2001,3.53787732,BTN,% of GDP,Bhutan
+Health,2002,3.32763267,BTN,% of GDP,Bhutan
+Health,2003,2.85614896,BTN,% of GDP,Bhutan
+Health,2004,3.0369277,BTN,% of GDP,Bhutan
+Health,2005,2.64208412,BTN,% of GDP,Bhutan
+Health,2006,2.46236444,BTN,% of GDP,Bhutan
+Health,2007,2.66608858,BTN,% of GDP,Bhutan
+Health,2008,2.33727217,BTN,% of GDP,Bhutan
+Health,2009,2.6199491,BTN,% of GDP,Bhutan
+Health,2010,2.56418729,BTN,% of GDP,Bhutan
+Health,2011,2.45894694,BTN,% of GDP,Bhutan
+Health,2012,2.51806545,BTN,% of GDP,Bhutan
+Health,2013,2.55412817,BTN,% of GDP,Bhutan
+Health,2014,2.45531821,BTN,% of GDP,Bhutan
+Health,2015,2.78964067,BTN,% of GDP,Bhutan
+Health,2016,2.6446631,BTN,% of GDP,Bhutan
+Health,2017,2.48946476,BTN,% of GDP,Bhutan
+Health,2018,2.57960916,BTN,% of GDP,Bhutan
+Health,2019,2.65109873,BTN,% of GDP,Bhutan
+Health,2020,3.4102993,BTN,% of GDP,Bhutan
+Health,2000,0.83442992,IND,% of GDP,India
+Health,2001,0.80468142,IND,% of GDP,India
+Health,2002,0.77020204,IND,% of GDP,India
+Health,2003,0.75024337,IND,% of GDP,India
+Health,2004,0.71163452,IND,% of GDP,India
+Health,2005,0.76303691,IND,% of GDP,India
+Health,2006,0.7453534,IND,% of GDP,India
+Health,2007,0.73512709,IND,% of GDP,India
+Health,2008,0.79527897,IND,% of GDP,India
+Health,2009,0.89261258,IND,% of GDP,India
+Health,2010,0.85750186,IND,% of GDP,India
+Health,2011,0.93731916,IND,% of GDP,India
+Health,2012,0.93186861,IND,% of GDP,India
+Health,2013,0.86504197,IND,% of GDP,India
+Health,2014,0.85653549,IND,% of GDP,India
+Health,2015,0.92193186,IND,% of GDP,India
+Health,2016,0.94049966,IND,% of GDP,India
+Health,2017,0.96734685,IND,% of GDP,India
+Health,2018,0.98024821,IND,% of GDP,India
+Health,2019,0.98541063,IND,% of GDP,India
+Health,2020,1.08449912,IND,% of GDP,India
+Health,2000,0.54974371,IDN,% of GDP,Indonesia
+Health,2001,0.77221799,IDN,% of GDP,Indonesia
+Health,2002,0.67425066,IDN,% of GDP,Indonesia
+Health,2003,0.81785041,IDN,% of GDP,Indonesia
+Health,2004,0.74926209,IDN,% of GDP,Indonesia
+Health,2005,0.73213077,IDN,% of GDP,Indonesia
+Health,2006,0.83084285,IDN,% of GDP,Indonesia
+Health,2007,1.01869869,IDN,% of GDP,Indonesia
+Health,2008,0.89791238,IDN,% of GDP,Indonesia
+Health,2009,0.92164314,IDN,% of GDP,Indonesia
+Health,2010,0.66109079,IDN,% of GDP,Indonesia
+Health,2011,0.70190871,IDN,% of GDP,Indonesia
+Health,2012,0.76724905,IDN,% of GDP,Indonesia
+Health,2013,0.81686825,IDN,% of GDP,Indonesia
+Health,2014,0.99274278,IDN,% of GDP,Indonesia
+Health,2015,1.15799773,IDN,% of GDP,Indonesia
+Health,2016,1.37558317,IDN,% of GDP,Indonesia
+Health,2017,1.34984481,IDN,% of GDP,Indonesia
+Health,2018,1.395854,IDN,% of GDP,Indonesia
+Health,2019,1.42156744,IDN,% of GDP,Indonesia
+Health,2020,1.87949932,IDN,% of GDP,Indonesia
+Health,2000,2.56440163,MDV,% of GDP,Maldives
+Health,2001,2.67766237,MDV,% of GDP,Maldives
+Health,2002,2.54975939,MDV,% of GDP,Maldives
+Health,2003,2.1482141,MDV,% of GDP,Maldives
+Health,2004,2.31102347,MDV,% of GDP,Maldives
+Health,2005,2.96756434,MDV,% of GDP,Maldives
+Health,2006,2.95987701,MDV,% of GDP,Maldives
+Health,2007,3.91466451,MDV,% of GDP,Maldives
+Health,2008,6.397439,MDV,% of GDP,Maldives
+Health,2009,5.82381439,MDV,% of GDP,Maldives
+Health,2010,4.49513102,MDV,% of GDP,Maldives
+Health,2011,3.67702603,MDV,% of GDP,Maldives
+Health,2012,4.20904255,MDV,% of GDP,Maldives
+Health,2013,4.29976511,MDV,% of GDP,Maldives
+Health,2014,4.904356,MDV,% of GDP,Maldives
+Health,2015,6.2659812,MDV,% of GDP,Maldives
+Health,2016,7.42592859,MDV,% of GDP,Maldives
+Health,2017,6.60353518,MDV,% of GDP,Maldives
+Health,2018,5.74712229,MDV,% of GDP,Maldives
+Health,2019,6.00140381,MDV,% of GDP,Maldives
+Health,2020,9.07674503,MDV,% of GDP,Maldives
+Health,2000,0.26258978,MMR,% of GDP,Myanmar
+Health,2001,0.24215333,MMR,% of GDP,Myanmar
+Health,2002,0.3588208,MMR,% of GDP,Myanmar
+Health,2003,0.24302946,MMR,% of GDP,Myanmar
+Health,2004,0.25223461,MMR,% of GDP,Myanmar
+Health,2005,0.1699087,MMR,% of GDP,Myanmar
+Health,2006,0.26902616,MMR,% of GDP,Myanmar
+Health,2007,0.20322418,MMR,% of GDP,Myanmar
+Health,2008,0.17093377,MMR,% of GDP,Myanmar
+Health,2009,0.18705817,MMR,% of GDP,Myanmar
+Health,2010,0.19247183,MMR,% of GDP,Myanmar
+Health,2011,0.23041078,MMR,% of GDP,Myanmar
+Health,2012,0.41500768,MMR,% of GDP,Myanmar
+Health,2013,0.60410881,MMR,% of GDP,Myanmar
+Health,2014,1.06255651,MMR,% of GDP,Myanmar
+Health,2015,1.2047013,MMR,% of GDP,Myanmar
+Health,2016,0.71513724,MMR,% of GDP,Myanmar
+Health,2017,0.75167263,MMR,% of GDP,Myanmar
+Health,2018,0.72659922,MMR,% of GDP,Myanmar
+Health,2019,0.73722625,MMR,% of GDP,Myanmar
+Health,2020,0.73733534,MMR,% of GDP,Myanmar
+Health,2000,0.48485139,NPL,% of GDP,Nepal
+Health,2001,0.58291328,NPL,% of GDP,Nepal
+Health,2002,0.79097211,NPL,% of GDP,Nepal
+Health,2003,0.65877509,NPL,% of GDP,Nepal
+Health,2004,0.64549148,NPL,% of GDP,Nepal
+Health,2005,0.7515617,NPL,% of GDP,Nepal
+Health,2006,0.84521472,NPL,% of GDP,Nepal
+Health,2007,0.67676955,NPL,% of GDP,Nepal
+Health,2008,0.7096374,NPL,% of GDP,Nepal
+Health,2009,0.79475862,NPL,% of GDP,Nepal
+Health,2010,0.78889024,NPL,% of GDP,Nepal
+Health,2011,0.7948519,NPL,% of GDP,Nepal
+Health,2012,0.78674734,NPL,% of GDP,Nepal
+Health,2013,0.75677603,NPL,% of GDP,Nepal
+Health,2014,0.87364674,NPL,% of GDP,Nepal
+Health,2015,0.90927744,NPL,% of GDP,Nepal
+Health,2016,1.00771654,NPL,% of GDP,Nepal
+Health,2017,1.06542635,NPL,% of GDP,Nepal
+Health,2018,1.06721246,NPL,% of GDP,Nepal
+Health,2019,1.10283434,NPL,% of GDP,Nepal
+Health,2020,1.55479288,NPL,% of GDP,Nepal
+Health,2000,2.27740312,LKA,% of GDP,Sri Lanka
+Health,2001,2.20427012,LKA,% of GDP,Sri Lanka
+Health,2002,2.23059106,LKA,% of GDP,Sri Lanka
+Health,2003,2.07616782,LKA,% of GDP,Sri Lanka
+Health,2004,2.20044851,LKA,% of GDP,Sri Lanka
+Health,2005,2.11068869,LKA,% of GDP,Sri Lanka
+Health,2006,2.0282886,LKA,% of GDP,Sri Lanka
+Health,2007,1.9162128,LKA,% of GDP,Sri Lanka
+Health,2008,1.7221359,LKA,% of GDP,Sri Lanka
+Health,2009,1.70255017,LKA,% of GDP,Sri Lanka
+Health,2010,1.56387675,LKA,% of GDP,Sri Lanka
+Health,2011,1.58128619,LKA,% of GDP,Sri Lanka
+Health,2012,1.43723977,LKA,% of GDP,Sri Lanka
+Health,2013,1.73812664,LKA,% of GDP,Sri Lanka
+Health,2014,1.61314976,LKA,% of GDP,Sri Lanka
+Health,2015,1.7099427,LKA,% of GDP,Sri Lanka
+Health,2016,1.66631913,LKA,% of GDP,Sri Lanka
+Health,2017,1.47440422,LKA,% of GDP,Sri Lanka
+Health,2018,1.78758264,LKA,% of GDP,Sri Lanka
+Health,2019,1.49971151,LKA,% of GDP,Sri Lanka
+Health,2020,1.86251867,LKA,% of GDP,Sri Lanka
+Health,2000,1.71153057,THA,% of GDP,Thailand
+Health,2001,1.66487634,THA,% of GDP,Thailand
+Health,2002,2.07636881,THA,% of GDP,Thailand
+Health,2003,2.04556918,THA,% of GDP,Thailand
+Health,2004,2.01255655,THA,% of GDP,Thailand
+Health,2005,2.013062,THA,% of GDP,Thailand
+Health,2006,2.2303164,THA,% of GDP,Thailand
+Health,2007,2.41405702,THA,% of GDP,Thailand
+Health,2008,2.60726309,THA,% of GDP,Thailand
+Health,2009,2.64681911,THA,% of GDP,Thailand
+Health,2010,2.50096011,THA,% of GDP,Thailand
+Health,2011,2.72706866,THA,% of GDP,Thailand
+Health,2012,2.68024039,THA,% of GDP,Thailand
+Health,2013,2.62275028,THA,% of GDP,Thailand
+Health,2014,2.78856063,THA,% of GDP,Thailand
+Health,2015,2.74870157,THA,% of GDP,Thailand
+Health,2016,2.85139871,THA,% of GDP,Thailand
+Health,2017,2.7754643,THA,% of GDP,Thailand
+Health,2018,2.74278641,THA,% of GDP,Thailand
+Health,2019,2.78445148,THA,% of GDP,Thailand
+Health,2020,3.06738973,THA,% of GDP,Thailand
+Health,2003,1.30327332,TLS,% of GDP,Timor-Leste
+Health,2004,1.67137599,TLS,% of GDP,Timor-Leste
+Health,2005,2.12407804,TLS,% of GDP,Timor-Leste
+Health,2006,2.39656949,TLS,% of GDP,Timor-Leste
+Health,2007,0.96646351,TLS,% of GDP,Timor-Leste
+Health,2008,3.39832354,TLS,% of GDP,Timor-Leste
+Health,2009,3.24565578,TLS,% of GDP,Timor-Leste
+Health,2010,3.28824806,TLS,% of GDP,Timor-Leste
+Health,2011,3.56822348,TLS,% of GDP,Timor-Leste
+Health,2012,4.14897776,TLS,% of GDP,Timor-Leste
+Health,2013,4.44555855,TLS,% of GDP,Timor-Leste
+Health,2014,4.1271596,TLS,% of GDP,Timor-Leste
+Health,2015,4.40652466,TLS,% of GDP,Timor-Leste
+Health,2016,3.42337966,TLS,% of GDP,Timor-Leste
+Health,2017,4.40407133,TLS,% of GDP,Timor-Leste
+Health,2018,3.88305092,TLS,% of GDP,Timor-Leste
+Health,2019,3.43519258,TLS,% of GDP,Timor-Leste
+Health,2020,5.44570112,TLS,% of GDP,Timor-Leste
+Health,2000,5.45928478,AUS,% of GDP,Australia
+Health,2001,5.46306753,AUS,% of GDP,Australia
+Health,2002,5.66730642,AUS,% of GDP,Australia
+Health,2003,5.62377834,AUS,% of GDP,Australia
+Health,2004,5.79951096,AUS,% of GDP,Australia
+Health,2005,5.72834206,AUS,% of GDP,Australia
+Health,2006,5.71999836,AUS,% of GDP,Australia
+Health,2007,5.87543869,AUS,% of GDP,Australia
+Health,2008,5.96992397,AUS,% of GDP,Australia
+Health,2009,6.24410963,AUS,% of GDP,Australia
+Health,2010,6.09483814,AUS,% of GDP,Australia
+Health,2011,6.25611258,AUS,% of GDP,Australia
+Health,2012,6.17947626,AUS,% of GDP,Australia
+Health,2013,5.9267602,AUS,% of GDP,Australia
+Health,2014,6.90871811,AUS,% of GDP,Australia
+Health,2015,7.23406696,AUS,% of GDP,Australia
+Health,2016,7.17459917,AUS,% of GDP,Australia
+Health,2017,7.21655941,AUS,% of GDP,Australia
+Health,2018,7.20352697,AUS,% of GDP,Australia
+Health,2019,7.5498395,AUS,% of GDP,Australia
+Health,2020,7.99613142,AUS,% of GDP,Australia
+Health,2000,1.2926054,KHM,% of GDP,Cambodia
+Health,2001,1.1849401,KHM,% of GDP,Cambodia
+Health,2002,1.40065992,KHM,% of GDP,Cambodia
+Health,2003,1.48519886,KHM,% of GDP,Cambodia
+Health,2004,1.3727535,KHM,% of GDP,Cambodia
+Health,2005,1.22052515,KHM,% of GDP,Cambodia
+Health,2006,0.95991379,KHM,% of GDP,Cambodia
+Health,2007,0.97199386,KHM,% of GDP,Cambodia
+Health,2008,1.02431214,KHM,% of GDP,Cambodia
+Health,2009,1.21738589,KHM,% of GDP,Cambodia
+Health,2010,1.36283255,KHM,% of GDP,Cambodia
+Health,2011,1.27987134,KHM,% of GDP,Cambodia
+Health,2012,1.40670311,KHM,% of GDP,Cambodia
+Health,2013,1.41955829,KHM,% of GDP,Cambodia
+Health,2014,1.23977196,KHM,% of GDP,Cambodia
+Health,2015,1.34465146,KHM,% of GDP,Cambodia
+Health,2016,1.33381462,KHM,% of GDP,Cambodia
+Health,2017,1.51738608,KHM,% of GDP,Cambodia
+Health,2018,1.65213394,KHM,% of GDP,Cambodia
+Health,2019,1.6762718,KHM,% of GDP,Cambodia
+Health,2020,2.07794261,KHM,% of GDP,Cambodia
+Health,2000,0.99070781,CHN,% of GDP,China
+Health,2001,0.9747563,CHN,% of GDP,China
+Health,2002,1.11262381,CHN,% of GDP,China
+Health,2003,1.25344622,CHN,% of GDP,China
+Health,2004,1.29851866,CHN,% of GDP,China
+Health,2005,1.36797953,CHN,% of GDP,China
+Health,2006,1.38712025,CHN,% of GDP,China
+Health,2007,1.43417549,CHN,% of GDP,China
+Health,2008,1.7363745,CHN,% of GDP,China
+Health,2009,2.14862132,CHN,% of GDP,China
+Health,2010,2.19598818,CHN,% of GDP,China
+Health,2011,2.33301282,CHN,% of GDP,China
+Health,2012,2.54478717,CHN,% of GDP,China
+Health,2013,2.68986797,CHN,% of GDP,China
+Health,2014,2.79103708,CHN,% of GDP,China
+Health,2015,2.97190666,CHN,% of GDP,China
+Health,2016,2.89319348,CHN,% of GDP,China
+Health,2017,2.87102771,CHN,% of GDP,China
+Health,2018,2.91554713,CHN,% of GDP,China
+Health,2019,2.99503422,CHN,% of GDP,China
+Health,2020,3.06103563,CHN,% of GDP,China
+Health,2000,2.63133216,FJI,% of GDP,Fiji
+Health,2001,2.08654332,FJI,% of GDP,Fiji
+Health,2002,2.20177889,FJI,% of GDP,Fiji
+Health,2003,2.22326541,FJI,% of GDP,Fiji
+Health,2004,2.21771884,FJI,% of GDP,Fiji
+Health,2005,2.41684818,FJI,% of GDP,Fiji
+Health,2006,2.47551131,FJI,% of GDP,Fiji
+Health,2007,2.46818185,FJI,% of GDP,Fiji
+Health,2008,2.21144366,FJI,% of GDP,Fiji
+Health,2009,2.19237089,FJI,% of GDP,Fiji
+Health,2010,2.18311381,FJI,% of GDP,Fiji
+Health,2011,1.88993454,FJI,% of GDP,Fiji
+Health,2012,1.91403711,FJI,% of GDP,Fiji
+Health,2013,1.87162006,FJI,% of GDP,Fiji
+Health,2014,2.0661068,FJI,% of GDP,Fiji
+Health,2015,2.09847856,FJI,% of GDP,Fiji
+Health,2016,2.09586525,FJI,% of GDP,Fiji
+Health,2017,2.11070943,FJI,% of GDP,Fiji
+Health,2018,2.45310044,FJI,% of GDP,Fiji
+Health,2019,2.49526525,FJI,% of GDP,Fiji
+Health,2020,2.56945491,FJI,% of GDP,Fiji
+Health,2000,5.65793514,JPN,% of GDP,Japan
+Health,2001,5.86137772,JPN,% of GDP,Japan
+Health,2002,5.93724489,JPN,% of GDP,Japan
+Health,2003,5.98652935,JPN,% of GDP,Japan
+Health,2004,6.04880905,JPN,% of GDP,Japan
+Health,2005,6.2159934,JPN,% of GDP,Japan
+Health,2006,6.17422724,JPN,% of GDP,Japan
+Health,2007,6.32067204,JPN,% of GDP,Japan
+Health,2008,6.56596708,JPN,% of GDP,Japan
+Health,2009,7.282969,JPN,% of GDP,Japan
+Health,2010,7.42507124,JPN,% of GDP,Japan
+Health,2011,8.78255081,JPN,% of GDP,Japan
+Health,2012,8.9568243,JPN,% of GDP,Japan
+Health,2013,8.99433517,JPN,% of GDP,Japan
+Health,2014,9.02501678,JPN,% of GDP,Japan
+Health,2015,9.03866768,JPN,% of GDP,Japan
+Health,2016,8.95745564,JPN,% of GDP,Japan
+Health,2017,8.97414494,JPN,% of GDP,Japan
+Health,2018,9.00234032,JPN,% of GDP,Japan
+Health,2019,9.04153156,JPN,% of GDP,Japan
+Health,2020,9.18607235,JPN,% of GDP,Japan
+Health,2000,1.23305964,LAO,% of GDP,Laos
+Health,2001,1.3295666,LAO,% of GDP,Laos
+Health,2002,1.01875496,LAO,% of GDP,Laos
+Health,2003,1.09625208,LAO,% of GDP,Laos
+Health,2004,0.79425544,LAO,% of GDP,Laos
+Health,2005,0.90671808,LAO,% of GDP,Laos
+Health,2006,0.64221585,LAO,% of GDP,Laos
+Health,2007,0.57034886,LAO,% of GDP,Laos
+Health,2008,0.51332533,LAO,% of GDP,Laos
+Health,2009,1.14663947,LAO,% of GDP,Laos
+Health,2010,0.60363603,LAO,% of GDP,Laos
+Health,2011,0.36693901,LAO,% of GDP,Laos
+Health,2012,0.43670169,LAO,% of GDP,Laos
+Health,2013,0.71266264,LAO,% of GDP,Laos
+Health,2014,0.68373317,LAO,% of GDP,Laos
+Health,2015,0.86391306,LAO,% of GDP,Laos
+Health,2016,0.76494843,LAO,% of GDP,Laos
+Health,2017,0.88887793,LAO,% of GDP,Laos
+Health,2018,0.86922854,LAO,% of GDP,Laos
+Health,2019,0.96037757,LAO,% of GDP,Laos
+Health,2020,1.15479565,LAO,% of GDP,Laos
+Health,2000,1.17325473,MYS,% of GDP,Malaysia
+Health,2001,1.35141993,MYS,% of GDP,Malaysia
+Health,2002,1.36677563,MYS,% of GDP,Malaysia
+Health,2003,1.51884329,MYS,% of GDP,Malaysia
+Health,2004,1.45687652,MYS,% of GDP,Malaysia
+Health,2005,1.36280441,MYS,% of GDP,Malaysia
+Health,2006,1.67488027,MYS,% of GDP,Malaysia
+Health,2007,1.62477779,MYS,% of GDP,Malaysia
+Health,2008,1.59730816,MYS,% of GDP,Malaysia
+Health,2009,1.81166101,MYS,% of GDP,Malaysia
+Health,2010,1.67910564,MYS,% of GDP,Malaysia
+Health,2011,1.76482272,MYS,% of GDP,Malaysia
+Health,2012,1.86487269,MYS,% of GDP,Malaysia
+Health,2013,1.89357972,MYS,% of GDP,Malaysia
+Health,2014,2.03088164,MYS,% of GDP,Malaysia
+Health,2015,2.03347373,MYS,% of GDP,Malaysia
+Health,2016,1.88870478,MYS,% of GDP,Malaysia
+Health,2017,1.92218649,MYS,% of GDP,Malaysia
+Health,2018,1.92697287,MYS,% of GDP,Malaysia
+Health,2019,2.00904131,MYS,% of GDP,Malaysia
+Health,2020,2.17579722,MYS,% of GDP,Malaysia
+Health,2000,9.6590271,MHL,% of GDP,Marshall Islands
+Health,2001,7.94652939,MHL,% of GDP,Marshall Islands
+Health,2002,6.33025169,MHL,% of GDP,Marshall Islands
+Health,2003,6.00762606,MHL,% of GDP,Marshall Islands
+Health,2004,6.57158852,MHL,% of GDP,Marshall Islands
+Health,2005,5.64226294,MHL,% of GDP,Marshall Islands
+Health,2006,4.22558594,MHL,% of GDP,Marshall Islands
+Health,2007,7.22997952,MHL,% of GDP,Marshall Islands
+Health,2008,5.55293751,MHL,% of GDP,Marshall Islands
+Health,2009,5.50679922,MHL,% of GDP,Marshall Islands
+Health,2010,4.55618143,MHL,% of GDP,Marshall Islands
+Health,2011,5.87766457,MHL,% of GDP,Marshall Islands
+Health,2012,6.04399681,MHL,% of GDP,Marshall Islands
+Health,2013,6.63874435,MHL,% of GDP,Marshall Islands
+Health,2014,5.88222218,MHL,% of GDP,Marshall Islands
+Health,2015,6.47802925,MHL,% of GDP,Marshall Islands
+Health,2016,6.95125341,MHL,% of GDP,Marshall Islands
+Health,2017,6.2037673,MHL,% of GDP,Marshall Islands
+Health,2018,7.34779596,MHL,% of GDP,Marshall Islands
+Health,2019,6.81249571,MHL,% of GDP,Marshall Islands
+Health,2020,6.33655882,MHL,% of GDP,Marshall Islands
+Health,2000,4.23052979,MNG,% of GDP,Mongolia
+Health,2001,3.50031018,MNG,% of GDP,Mongolia
+Health,2002,3.56779337,MNG,% of GDP,Mongolia
+Health,2003,2.78668427,MNG,% of GDP,Mongolia
+Health,2004,2.65612745,MNG,% of GDP,Mongolia
+Health,2005,2.27265334,MNG,% of GDP,Mongolia
+Health,2006,2.49134016,MNG,% of GDP,Mongolia
+Health,2007,2.88185477,MNG,% of GDP,Mongolia
+Health,2008,3.21819425,MNG,% of GDP,Mongolia
+Health,2009,3.10174918,MNG,% of GDP,Mongolia
+Health,2010,2.44484377,MNG,% of GDP,Mongolia
+Health,2011,2.13192797,MNG,% of GDP,Mongolia
+Health,2012,2.34510446,MNG,% of GDP,Mongolia
+Health,2013,2.28476501,MNG,% of GDP,Mongolia
+Health,2014,2.40595388,MNG,% of GDP,Mongolia
+Health,2015,2.4089644,MNG,% of GDP,Mongolia
+Health,2016,2.51025772,MNG,% of GDP,Mongolia
+Health,2017,2.46228957,MNG,% of GDP,Mongolia
+Health,2018,2.21002984,MNG,% of GDP,Mongolia
+Health,2019,2.47046423,MNG,% of GDP,Mongolia
+Health,2020,3.15984797,MNG,% of GDP,Mongolia
+Health,2000,5.56446981,NZL,% of GDP,New Zealand
+Health,2001,5.54619789,NZL,% of GDP,New Zealand
+Health,2002,5.92019367,NZL,% of GDP,New Zealand
+Health,2003,5.82977486,NZL,% of GDP,New Zealand
+Health,2004,6.08666468,NZL,% of GDP,New Zealand
+Health,2005,6.36613989,NZL,% of GDP,New Zealand
+Health,2006,6.67046022,NZL,% of GDP,New Zealand
+Health,2007,6.60466003,NZL,% of GDP,New Zealand
+Health,2008,7.08283758,NZL,% of GDP,New Zealand
+Health,2009,7.4772172,NZL,% of GDP,New Zealand
+Health,2010,7.50836039,NZL,% of GDP,New Zealand
+Health,2011,7.49986553,NZL,% of GDP,New Zealand
+Health,2012,7.57742262,NZL,% of GDP,New Zealand
+Health,2013,7.2670989,NZL,% of GDP,New Zealand
+Health,2014,7.2801528,NZL,% of GDP,New Zealand
+Health,2015,6.93415546,NZL,% of GDP,New Zealand
+Health,2016,6.8915782,NZL,% of GDP,New Zealand
+Health,2017,6.76606941,NZL,% of GDP,New Zealand
+Health,2018,6.7610755,NZL,% of GDP,New Zealand
+Health,2019,7.13066435,NZL,% of GDP,New Zealand
+Health,2020,7.73777819,NZL,% of GDP,New Zealand
+Health,2000,4.61960411,PLW,% of GDP,Palau
+Health,2001,4.06348848,PLW,% of GDP,Palau
+Health,2002,3.60413265,PLW,% of GDP,Palau
+Health,2003,4.0006299,PLW,% of GDP,Palau
+Health,2004,4.19904613,PLW,% of GDP,Palau
+Health,2005,3.53051591,PLW,% of GDP,Palau
+Health,2006,3.67448831,PLW,% of GDP,Palau
+Health,2007,3.45373011,PLW,% of GDP,Palau
+Health,2008,3.1186974,PLW,% of GDP,Palau
+Health,2009,4.03982401,PLW,% of GDP,Palau
+Health,2010,4.12728405,PLW,% of GDP,Palau
+Health,2011,4.05132246,PLW,% of GDP,Palau
+Health,2012,4.31734705,PLW,% of GDP,Palau
+Health,2013,4.68362474,PLW,% of GDP,Palau
+Health,2014,4.48360968,PLW,% of GDP,Palau
+Health,2015,3.81564617,PLW,% of GDP,Palau
+Health,2016,6.31673717,PLW,% of GDP,Palau
+Health,2017,6.16122437,PLW,% of GDP,Palau
+Health,2018,6.56180429,PLW,% of GDP,Palau
+Health,2019,7.09453392,PLW,% of GDP,Palau
+Health,2020,13.51063728,PLW,% of GDP,Palau
+Health,2000,1.70150447,PNG,% of GDP,Papua New Guinea
+Health,2001,1.66755974,PNG,% of GDP,Papua New Guinea
+Health,2002,1.76445663,PNG,% of GDP,Papua New Guinea
+Health,2003,1.42519522,PNG,% of GDP,Papua New Guinea
+Health,2004,1.70005941,PNG,% of GDP,Papua New Guinea
+Health,2005,1.61288869,PNG,% of GDP,Papua New Guinea
+Health,2006,1.62889814,PNG,% of GDP,Papua New Guinea
+Health,2007,1.63440716,PNG,% of GDP,Papua New Guinea
+Health,2008,1.51408112,PNG,% of GDP,Papua New Guinea
+Health,2009,1.55684996,PNG,% of GDP,Papua New Guinea
+Health,2010,1.30032146,PNG,% of GDP,Papua New Guinea
+Health,2011,1.49705744,PNG,% of GDP,Papua New Guinea
+Health,2012,1.82221472,PNG,% of GDP,Papua New Guinea
+Health,2013,1.98455942,PNG,% of GDP,Papua New Guinea
+Health,2014,2.02066565,PNG,% of GDP,Papua New Guinea
+Health,2015,1.37782788,PNG,% of GDP,Papua New Guinea
+Health,2016,1.67796266,PNG,% of GDP,Papua New Guinea
+Health,2017,1.68148077,PNG,% of GDP,Papua New Guinea
+Health,2018,1.61519086,PNG,% of GDP,Papua New Guinea
+Health,2019,1.35623097,PNG,% of GDP,Papua New Guinea
+Health,2020,1.72049451,PNG,% of GDP,Papua New Guinea
+Health,2000,1.3564229,PHL,% of GDP,Philippines
+Health,2001,1.15623665,PHL,% of GDP,Philippines
+Health,2002,0.97705829,PHL,% of GDP,Philippines
+Health,2003,1.11422062,PHL,% of GDP,Philippines
+Health,2004,1.08843267,PHL,% of GDP,Philippines
+Health,2005,1.23873734,PHL,% of GDP,Philippines
+Health,2006,1.21229136,PHL,% of GDP,Philippines
+Health,2007,1.1753726,PHL,% of GDP,Philippines
+Health,2008,1.16428423,PHL,% of GDP,Philippines
+Health,2009,1.27640796,PHL,% of GDP,Philippines
+Health,2010,1.31791425,PHL,% of GDP,Philippines
+Health,2011,1.06190181,PHL,% of GDP,Philippines
+Health,2012,1.09802592,PHL,% of GDP,Philippines
+Health,2013,1.1204468,PHL,% of GDP,Philippines
+Health,2014,1.26327145,PHL,% of GDP,Philippines
+Health,2015,1.46860588,PHL,% of GDP,Philippines
+Health,2016,1.47373402,PHL,% of GDP,Philippines
+Health,2017,1.48271859,PHL,% of GDP,Philippines
+Health,2018,1.53632784,PHL,% of GDP,Philippines
+Health,2019,1.69175851,PHL,% of GDP,Philippines
+Health,2020,2.28181028,PHL,% of GDP,Philippines
+Health,2021,2.48967028,PHL,% of GDP,Philippines
+Health,2000,1.96156323,KOR,% of GDP,South Korea
+Health,2001,2.47662234,KOR,% of GDP,South Korea
+Health,2002,2.35344291,KOR,% of GDP,South Korea
+Health,2003,2.47796965,KOR,% of GDP,South Korea
+Health,2004,2.48939943,KOR,% of GDP,South Korea
+Health,2005,2.63443613,KOR,% of GDP,South Korea
+Health,2006,2.91707134,KOR,% of GDP,South Korea
+Health,2007,3.01493216,KOR,% of GDP,South Korea
+Health,2008,3.09052038,KOR,% of GDP,South Korea
+Health,2009,3.42186928,KOR,% of GDP,South Korea
+Health,2010,3.51182413,KOR,% of GDP,South Korea
+Health,2011,3.51881123,KOR,% of GDP,South Korea
+Health,2012,3.53646016,KOR,% of GDP,South Korea
+Health,2013,3.61362767,KOR,% of GDP,South Korea
+Health,2014,3.71141768,KOR,% of GDP,South Korea
+Health,2015,3.81570315,KOR,% of GDP,South Korea
+Health,2016,3.97724867,KOR,% of GDP,South Korea
+Health,2017,4.11588812,KOR,% of GDP,South Korea
+Health,2018,4.40991306,KOR,% of GDP,South Korea
+Health,2019,4.84622097,KOR,% of GDP,South Korea
+Health,2020,5.10320282,KOR,% of GDP,South Korea
+Health,2000,3.67396593,WSM,% of GDP,Samoa
+Health,2001,3.19824743,WSM,% of GDP,Samoa
+Health,2002,3.50715756,WSM,% of GDP,Samoa
+Health,2003,2.8892045,WSM,% of GDP,Samoa
+Health,2004,3.09871244,WSM,% of GDP,Samoa
+Health,2005,3.26160979,WSM,% of GDP,Samoa
+Health,2006,3.53131747,WSM,% of GDP,Samoa
+Health,2007,3.36175871,WSM,% of GDP,Samoa
+Health,2008,3.55778313,WSM,% of GDP,Samoa
+Health,2009,4.08571434,WSM,% of GDP,Samoa
+Health,2010,3.98514557,WSM,% of GDP,Samoa
+Health,2011,3.7005682,WSM,% of GDP,Samoa
+Health,2012,3.97828579,WSM,% of GDP,Samoa
+Health,2013,4.17282534,WSM,% of GDP,Samoa
+Health,2014,4.65756559,WSM,% of GDP,Samoa
+Health,2015,4.57855034,WSM,% of GDP,Samoa
+Health,2016,4.01764345,WSM,% of GDP,Samoa
+Health,2017,4.17152357,WSM,% of GDP,Samoa
+Health,2018,3.95124698,WSM,% of GDP,Samoa
+Health,2019,4.62225151,WSM,% of GDP,Samoa
+Health,2020,3.85650325,WSM,% of GDP,Samoa
+Health,2000,1.21474111,SGP,% of GDP,Singapore
+Health,2001,0.88201147,SGP,% of GDP,Singapore
+Health,2002,1.05214119,SGP,% of GDP,Singapore
+Health,2003,1.3372829,SGP,% of GDP,Singapore
+Health,2004,1.02267361,SGP,% of GDP,Singapore
+Health,2005,1.00069571,SGP,% of GDP,Singapore
+Health,2006,0.99547803,SGP,% of GDP,Singapore
+Health,2007,0.95031685,SGP,% of GDP,Singapore
+Health,2008,1.19189203,SGP,% of GDP,Singapore
+Health,2009,1.18541074,SGP,% of GDP,Singapore
+Health,2010,1.14910603,SGP,% of GDP,Singapore
+Health,2011,1.17214501,SGP,% of GDP,Singapore
+Health,2012,1.30787134,SGP,% of GDP,Singapore
+Health,2013,1.53696907,SGP,% of GDP,Singapore
+Health,2014,1.74364483,SGP,% of GDP,Singapore
+Health,2015,1.96816146,SGP,% of GDP,Singapore
+Health,2016,2.078861,SGP,% of GDP,Singapore
+Health,2017,2.10733008,SGP,% of GDP,Singapore
+Health,2018,2.03740263,SGP,% of GDP,Singapore
+Health,2019,2.28311157,SGP,% of GDP,Singapore
+Health,2020,3.17285585,SGP,% of GDP,Singapore
+Health,2000,4.44415522,SLB,% of GDP,Solomon Islands
+Health,2001,6.02517366,SLB,% of GDP,Solomon Islands
+Health,2002,5.73763466,SLB,% of GDP,Solomon Islands
+Health,2003,5.23841286,SLB,% of GDP,Solomon Islands
+Health,2004,4.88922024,SLB,% of GDP,Solomon Islands
+Health,2005,6.40079355,SLB,% of GDP,Solomon Islands
+Health,2006,5.25133944,SLB,% of GDP,Solomon Islands
+Health,2007,4.962358,SLB,% of GDP,Solomon Islands
+Health,2008,3.15582204,SLB,% of GDP,Solomon Islands
+Health,2009,3.10495329,SLB,% of GDP,Solomon Islands
+Health,2010,2.94911718,SLB,% of GDP,Solomon Islands
+Health,2011,2.87079024,SLB,% of GDP,Solomon Islands
+Health,2012,2.93307853,SLB,% of GDP,Solomon Islands
+Health,2013,2.77610326,SLB,% of GDP,Solomon Islands
+Health,2014,2.9565556,SLB,% of GDP,Solomon Islands
+Health,2015,3.07115769,SLB,% of GDP,Solomon Islands
+Health,2016,3.1560142,SLB,% of GDP,Solomon Islands
+Health,2017,3.06646299,SLB,% of GDP,Solomon Islands
+Health,2018,3.03983402,SLB,% of GDP,Solomon Islands
+Health,2019,3.36097002,SLB,% of GDP,Solomon Islands
+Health,2020,3.60097384,SLB,% of GDP,Solomon Islands
+Health,2000,2.30323911,TON,% of GDP,Tonga
+Health,2001,2.44649458,TON,% of GDP,Tonga
+Health,2002,2.59221506,TON,% of GDP,Tonga
+Health,2003,2.4231987,TON,% of GDP,Tonga
+Health,2004,2.45591736,TON,% of GDP,Tonga
+Health,2005,2.61161542,TON,% of GDP,Tonga
+Health,2006,2.85051656,TON,% of GDP,Tonga
+Health,2007,3.18001747,TON,% of GDP,Tonga
+Health,2008,2.89580131,TON,% of GDP,Tonga
+Health,2009,3.04270864,TON,% of GDP,Tonga
+Health,2010,2.85781646,TON,% of GDP,Tonga
+Health,2011,2.74445701,TON,% of GDP,Tonga
+Health,2012,2.5250833,TON,% of GDP,Tonga
+Health,2013,2.7824738,TON,% of GDP,Tonga
+Health,2014,2.8900826,TON,% of GDP,Tonga
+Health,2015,2.76515222,TON,% of GDP,Tonga
+Health,2016,2.98697019,TON,% of GDP,Tonga
+Health,2017,2.90658689,TON,% of GDP,Tonga
+Health,2018,3.20244789,TON,% of GDP,Tonga
+Health,2019,2.89207935,TON,% of GDP,Tonga
+Health,2020,3.03655863,TON,% of GDP,Tonga
+Health,2000,2.46942925,VUT,% of GDP,Vanuatu
+Health,2001,2.51605392,VUT,% of GDP,Vanuatu
+Health,2002,2.62352204,VUT,% of GDP,Vanuatu
+Health,2003,2.48979235,VUT,% of GDP,Vanuatu
+Health,2004,2.32455468,VUT,% of GDP,Vanuatu
+Health,2005,2.1404469,VUT,% of GDP,Vanuatu
+Health,2006,2.14605188,VUT,% of GDP,Vanuatu
+Health,2007,2.22354412,VUT,% of GDP,Vanuatu
+Health,2008,2.27406836,VUT,% of GDP,Vanuatu
+Health,2009,2.00319982,VUT,% of GDP,Vanuatu
+Health,2010,1.94035757,VUT,% of GDP,Vanuatu
+Health,2011,2.36059308,VUT,% of GDP,Vanuatu
+Health,2012,2.29996967,VUT,% of GDP,Vanuatu
+Health,2013,2.24557829,VUT,% of GDP,Vanuatu
+Health,2014,0.5876475,VUT,% of GDP,Vanuatu
+Health,2015,2.09905958,VUT,% of GDP,Vanuatu
+Health,2016,1.32797575,VUT,% of GDP,Vanuatu
+Health,2017,1.47112322,VUT,% of GDP,Vanuatu
+Health,2018,2.14044142,VUT,% of GDP,Vanuatu
+Health,2019,1.90440345,VUT,% of GDP,Vanuatu
+Health,2020,2.60831356,VUT,% of GDP,Vanuatu
+Health,2000,1.33280754,VNM,% of GDP,Vietnam
+Health,2001,1.19511783,VNM,% of GDP,Vietnam
+Health,2002,1.3129524,VNM,% of GDP,Vietnam
+Health,2003,1.20677984,VNM,% of GDP,Vietnam
+Health,2004,1.35462713,VNM,% of GDP,Vietnam
+Health,2005,1.47417939,VNM,% of GDP,Vietnam
+Health,2006,1.5299412,VNM,% of GDP,Vietnam
+Health,2007,1.51937354,VNM,% of GDP,Vietnam
+Health,2008,1.52749491,VNM,% of GDP,Vietnam
+Health,2009,1.5112251,VNM,% of GDP,Vietnam
+Health,2010,1.86173701,VNM,% of GDP,Vietnam
+Health,2011,1.78486931,VNM,% of GDP,Vietnam
+Health,2012,2.09637356,VNM,% of GDP,Vietnam
+Health,2013,2.39113688,VNM,% of GDP,Vietnam
+Health,2014,1.93541729,VNM,% of GDP,Vietnam
+Health,2015,1.90878165,VNM,% of GDP,Vietnam
+Health,2016,2.14321518,VNM,% of GDP,Vietnam
+Health,2017,2.17300439,VNM,% of GDP,Vietnam
+Health,2018,2.10208344,VNM,% of GDP,Vietnam
+Health,2019,2.04478526,VNM,% of GDP,Vietnam
+Health,2020,2.11166167,VNM,% of GDP,Vietnam
