@@ -277,7 +277,6 @@ def scatter_rate_interest_africa_other(
     end_year: int = 2021,
     filter_counterparts: bool = True,
 ) -> pd.DataFrame:
-
     # Get data
     df = get_merged_rates_commitments_payments_data(
         start_year=start_year,
