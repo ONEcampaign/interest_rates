@@ -193,6 +193,7 @@ def get_merged_rates_commitments_grace_maturities_data(
 def expected_payments_on_new_debt(
     start_year: int = 2000,
     end_year: int = 2021,
+    discount_rate: float = 0.0,
     *,
     filter_counterparts: bool = True,
     filter_countries: bool = False,
@@ -241,7 +242,11 @@ def expected_payments_on_new_debt(
         df = df.loc[lambda d: d[filter_type].isin(filter_values)].reset_index(drop=True)
 
     # Add expected payments
-    df = df.assign(expected_payments=df.apply(calculate_interest_payments, axis=1))
+    df = df.assign(
+        expected_payments=df.apply(
+            calculate_interest_payments, discount_rate=discount_rate, axis=1
+        )
+    )
 
     # if add_aggregate then calculate the aggregate
     if add_aggregate:
@@ -372,4 +377,4 @@ def charts_data(start_year: int, end_year: int) -> None:
 
 
 if __name__ == "__main__":
-    scatter_rate_interest_africa_other(start_year=2000, end_year=2021)
+    ...
