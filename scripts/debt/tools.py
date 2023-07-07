@@ -150,7 +150,7 @@ def compute_weighted_averages(
 
     # Compute weighted average and group by index
     for col in value_columns:
-        df[f"avg_{col}"] = df[col] * df.weight
+        df[f"avg_{col.split('_')[1]}"] = df[col] * df.weight
 
     # Compute weighted average and group by index
     df = df.groupby(idx, as_index=False, dropna=False, observed=True).sum(
