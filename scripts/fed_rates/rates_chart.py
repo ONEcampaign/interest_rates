@@ -1,3 +1,4 @@
+from scripts import config
 from scripts.logger import logger
 
 import pandas as pd
@@ -69,15 +70,15 @@ def filter_columns(df: pd.DataFrame) -> pd.DataFrame:
     return df.filter(["change", "months", "cycle", "date", "effective_rate"], axis=1)
 
 
-def fed_rate_hikes_chart_data() -> pd.DataFrame:
+def update_fed_rate_hikes_chart_data() -> None:
     """Pipeline to get, clean, and process the data for the Fed Rate Hikes chart."""
     df = get_fed_data()
     hikes = hike_periods()
 
     hikes_data = base_hike_start(df, hikes).pipe(reformat_data).pipe(filter_columns)
 
-    return hikes_data
+    hikes_data.to_csv(config.Paths.output / "fed_rate_hikes.csv", index=False)
 
 
 if __name__ == "__main__":
-    fed = fed_rate_hikes_chart_data()
+    update_fed_rate_hikes_chart_data()
