@@ -1,238 +1,107 @@
-year,counterpart_area,income_level,Africa,Other
-2021,World Bank-IDA,Low income,0.8,
-2020,World Bank-IDA,Low income,0.865,
-2019,World Bank-IDA,Low income,0.789,
-2018,World Bank-IDA,Low income,1.058,
-2017,World Bank-IDA,Low income,1.108,
-2016,World Bank-IDA,Low income,0.765,
-2015,World Bank-IDA,Low income,0.75,
-2014,World Bank-IDA,Low income,0.75,
-2013,World Bank-IDA,Low income,0.75,
-2012,World Bank-IDA,Low income,0.75,
-2011,World Bank-IDA,Low income,0.75,
-2010,World Bank-IDA,Low income,0.75,
-2009,World Bank-IDA,Low income,0.75,
-2008,World Bank-IDA,Low income,0.75,0.75
-2007,World Bank-IDA,Low income,0.75,0.75
-2006,World Bank-IDA,Low income,0.75,0.75
-2005,World Bank-IDA,Low income,0.75,0.75
-2004,World Bank-IDA,Low income,0.75,0.75
-2003,World Bank-IDA,Low income,0.75,0.75
-2002,World Bank-IDA,Low income,0.753,0.75
-2001,World Bank-IDA,Low income,0.75,0.75
-2000,World Bank-IDA,Low income,0.75,0.75
-2001,World Bank-IBRD,Low income,5.82,
-2021,Bondholders,Low income,5.123,
-2020,Bondholders,Low income,3.769,
-2019,Bondholders,Low income,3.832,
-2018,Bondholders,Low income,3.0,
-2017,Bondholders,Low income,3.0,
-2015,Bondholders,Low income,8.933,
-2014,Bondholders,Low income,7.511,
-2013,Bondholders,Low income,6.399,
-2012,Bondholders,Low income,5.375,
-2021,African Export-Import Bank,Low income,0.088,
-2018,African Export-Import Bank,Low income,7.0,
-2021,African Dev. Bank,Low income,1.141,
-2020,African Dev. Bank,Low income,0.855,
-2019,African Dev. Bank,Low income,1.137,
-2018,African Dev. Bank,Low income,0.558,
-2017,African Dev. Bank,Low income,0.9,
-2016,African Dev. Bank,Low income,0.839,
-2015,African Dev. Bank,Low income,0.703,
-2014,African Dev. Bank,Low income,0.725,
-2013,African Dev. Bank,Low income,0.763,
-2012,African Dev. Bank,Low income,0.701,
-2011,African Dev. Bank,Low income,0.724,
-2010,African Dev. Bank,Low income,0.75,
-2009,African Dev. Bank,Low income,0.75,
-2008,African Dev. Bank,Low income,0.75,
-2007,African Dev. Bank,Low income,0.75,
-2006,African Dev. Bank,Low income,0.75,
-2005,African Dev. Bank,Low income,0.75,
-2004,African Dev. Bank,Low income,0.769,
-2003,African Dev. Bank,Low income,0.763,
-2002,African Dev. Bank,Low income,0.766,
-2001,African Dev. Bank,Low income,0.792,
-2000,African Dev. Bank,Low income,0.75,
-2021,World Bank-IDA,Lower middle income,1.36,1.698
-2020,World Bank-IDA,Lower middle income,1.612,1.577
-2019,World Bank-IDA,Lower middle income,1.513,1.907
-2018,World Bank-IDA,Lower middle income,1.475,1.549
-2017,World Bank-IDA,Lower middle income,1.999,1.812
-2016,World Bank-IDA,Lower middle income,1.39,1.889
-2015,World Bank-IDA,Lower middle income,1.218,1.43
-2014,World Bank-IDA,Lower middle income,1.218,1.632
-2013,World Bank-IDA,Lower middle income,0.757,1.619
-2012,World Bank-IDA,Lower middle income,0.755,1.766
-2011,World Bank-IDA,Lower middle income,0.75,0.75
-2010,World Bank-IDA,Lower middle income,0.799,0.821
-2009,World Bank-IDA,Lower middle income,0.781,0.75
-2008,World Bank-IDA,Lower middle income,0.75,0.75
-2007,World Bank-IDA,Lower middle income,0.918,0.935
-2006,World Bank-IDA,Lower middle income,0.75,0.75
-2005,World Bank-IDA,Lower middle income,0.75,0.75
-2004,World Bank-IDA,Lower middle income,0.75,0.75
-2003,World Bank-IDA,Lower middle income,0.75,0.75
-2002,World Bank-IDA,Lower middle income,0.75,0.75
-2001,World Bank-IDA,Lower middle income,0.75,0.75
-2000,World Bank-IDA,Lower middle income,0.75,0.75
-2021,World Bank-IBRD,Lower middle income,1.158,1.089
-2020,World Bank-IBRD,Lower middle income,1.416,1.289
-2019,World Bank-IBRD,Lower middle income,2.623,3.181
-2018,World Bank-IBRD,Lower middle income,2.353,2.737
-2017,World Bank-IBRD,Lower middle income,1.902,2.137
-2016,World Bank-IBRD,Lower middle income,2.188,1.819
-2015,World Bank-IBRD,Lower middle income,1.325,1.189
-2014,World Bank-IBRD,Lower middle income,0.764,0.513
-2013,World Bank-IBRD,Lower middle income,0.688,0.737
-2012,World Bank-IBRD,Lower middle income,1.009,1.118
-2011,World Bank-IBRD,Lower middle income,0.844,0.89
-2010,World Bank-IBRD,Lower middle income,0.837,0.865
-2009,World Bank-IBRD,Lower middle income,1.183,1.272
-2008,World Bank-IBRD,Lower middle income,3.206,2.551
-2007,World Bank-IBRD,Lower middle income,4.779,3.954
-2006,World Bank-IBRD,Lower middle income,5.502,5.959
-2005,World Bank-IBRD,Lower middle income,3.179,4.477
-2004,World Bank-IBRD,Lower middle income,1.952,2.608
-2003,World Bank-IBRD,Lower middle income,1.825,2.373
-2002,World Bank-IBRD,Lower middle income,2.758,3.974
-2001,World Bank-IBRD,Lower middle income,3.992,4.437
-2000,World Bank-IBRD,Lower middle income,7.667,7.564
-2021,Bondholders,Lower middle income,5.788,3.997
-2020,Bondholders,Lower middle income,5.619,4.099
-2019,Bondholders,Lower middle income,6.993,5.666
-2018,Bondholders,Lower middle income,7.216,5.559
-2017,Bondholders,Lower middle income,6.738,5.362
-2016,Bondholders,Lower middle income,6.116,4.554
-2015,Bondholders,Lower middle income,7.408,5.869
-2014,Bondholders,Lower middle income,5.954,5.539
-2013,Bondholders,Lower middle income,3.106,5.452
-2012,Bondholders,Lower middle income,4.402,5.5
-2011,Bondholders,Lower middle income,8.175,5.837
-2010,Bondholders,Lower middle income,5.362,5.927
-2009,Bondholders,Lower middle income,8.75,7.755
-2008,Bondholders,Lower middle income,,7.723
-2007,Bondholders,Lower middle income,7.196,6.427
-2006,Bondholders,Lower middle income,,7.065
-2005,Bondholders,Lower middle income,4.464,6.991
-2004,Bondholders,Lower middle income,4.75,7.378
-2003,Bondholders,Lower middle income,5.072,6.068
-2002,Bondholders,Lower middle income,7.375,7.838
-2001,Bondholders,Lower middle income,7.184,8.417
-2000,Bondholders,Lower middle income,,6.131
-2021,African Export-Import Bank,Lower middle income,3.534,
-2020,African Export-Import Bank,Lower middle income,3.66,
-2018,African Export-Import Bank,Lower middle income,7.042,
-2017,African Export-Import Bank,Lower middle income,6.841,
-2016,African Export-Import Bank,Lower middle income,3.319,
-2015,African Export-Import Bank,Lower middle income,3.86,
-2010,African Export-Import Bank,Lower middle income,6.0,
-2021,African Dev. Bank,Lower middle income,1.26,
-2020,African Dev. Bank,Lower middle income,1.422,
-2019,African Dev. Bank,Lower middle income,1.092,
-2018,African Dev. Bank,Lower middle income,1.458,
-2017,African Dev. Bank,Lower middle income,0.803,
-2016,African Dev. Bank,Lower middle income,0.734,
-2015,African Dev. Bank,Lower middle income,0.511,
-2014,African Dev. Bank,Lower middle income,0.501,
-2013,African Dev. Bank,Lower middle income,0.565,
-2012,African Dev. Bank,Lower middle income,0.846,
-2011,African Dev. Bank,Lower middle income,0.814,
-2010,African Dev. Bank,Lower middle income,0.669,
-2009,African Dev. Bank,Lower middle income,1.089,
-2008,African Dev. Bank,Lower middle income,3.004,
-2007,African Dev. Bank,Lower middle income,1.579,
-2006,African Dev. Bank,Lower middle income,3.598,
-2005,African Dev. Bank,Lower middle income,2.167,
-2004,African Dev. Bank,Lower middle income,1.56,
-2003,African Dev. Bank,Lower middle income,1.502,
-2002,African Dev. Bank,Lower middle income,2.058,
-2001,African Dev. Bank,Lower middle income,2.161,
-2000,African Dev. Bank,Lower middle income,4.2,
-2021,World Bank-IDA,Upper middle income,,0.81
-2020,World Bank-IDA,Upper middle income,,0.898
-2019,World Bank-IDA,Upper middle income,,0.839
-2018,World Bank-IDA,Upper middle income,,1.083
-2017,World Bank-IDA,Upper middle income,,1.297
-2016,World Bank-IDA,Upper middle income,,1.36
-2015,World Bank-IDA,Upper middle income,,1.768
-2014,World Bank-IDA,Upper middle income,,1.674
-2013,World Bank-IDA,Upper middle income,,2.11
-2012,World Bank-IDA,Upper middle income,,1.892
-2011,World Bank-IDA,Upper middle income,,0.75
-2010,World Bank-IDA,Upper middle income,,0.75
-2009,World Bank-IDA,Upper middle income,,0.75
-2008,World Bank-IDA,Upper middle income,,0.75
-2007,World Bank-IDA,Upper middle income,,0.75
-2006,World Bank-IDA,Upper middle income,,0.822
-2005,World Bank-IDA,Upper middle income,,0.75
-2004,World Bank-IDA,Upper middle income,,0.75
-2003,World Bank-IDA,Upper middle income,,0.75
-2002,World Bank-IDA,Upper middle income,,0.75
-2001,World Bank-IDA,Upper middle income,0.75,0.75
-2000,World Bank-IDA,Upper middle income,,0.75
-2021,World Bank-IBRD,Upper middle income,0.788,1.12
-2020,World Bank-IBRD,Upper middle income,0.5,1.551
-2019,World Bank-IBRD,Upper middle income,1.05,2.844
-2018,World Bank-IBRD,Upper middle income,,3.081
-2017,World Bank-IBRD,Upper middle income,1.588,2.028
-2016,World Bank-IBRD,Upper middle income,1.099,1.693
-2015,World Bank-IBRD,Upper middle income,,1.127
-2014,World Bank-IBRD,Upper middle income,0.988,0.688
-2013,World Bank-IBRD,Upper middle income,0.925,0.871
-2012,World Bank-IBRD,Upper middle income,1.358,1.123
-2011,World Bank-IBRD,Upper middle income,,1.116
-2010,World Bank-IBRD,Upper middle income,0.778,0.917
-2009,World Bank-IBRD,Upper middle income,0.841,1.227
-2008,World Bank-IBRD,Upper middle income,2.614,3.01
-2007,World Bank-IBRD,Upper middle income,,5.601
-2006,World Bank-IBRD,Upper middle income,4.613,5.52
-2005,World Bank-IBRD,Upper middle income,,4.348
-2004,World Bank-IBRD,Upper middle income,,2.578
-2003,World Bank-IBRD,Upper middle income,,1.741
-2002,World Bank-IBRD,Upper middle income,3.605,2.476
-2001,World Bank-IBRD,Upper middle income,,4.26
-2000,World Bank-IBRD,Upper middle income,7.71,7.05
-2021,Bondholders,Upper middle income,5.923,3.801
-2020,Bondholders,Upper middle income,5.701,4.587
-2019,Bondholders,Upper middle income,5.198,5.374
-2018,Bondholders,Upper middle income,5.656,6.032
-2017,Bondholders,Upper middle income,5.018,4.469
-2016,Bondholders,Upper middle income,4.86,6.76
-2015,Bondholders,Upper middle income,5.379,4.82
-2014,Bondholders,Upper middle income,4.815,4.497
-2013,Bondholders,Upper middle income,5.787,3.414
-2012,Bondholders,Upper middle income,4.971,4.058
-2011,Bondholders,Upper middle income,5.078,4.307
-2010,Bondholders,Upper middle income,5.0,3.999
-2009,Bondholders,Upper middle income,5.0,5.288
-2008,Bondholders,Upper middle income,5.0,6.614
-2007,Bondholders,Upper middle income,6.445,6.152
-2006,Bondholders,Upper middle income,6.5,6.546
-2005,Bondholders,Upper middle income,,6.466
-2004,Bondholders,Upper middle income,6.5,6.42
-2003,Bondholders,Upper middle income,5.25,7.102
-2002,Bondholders,Upper middle income,6.872,8.496
-2001,Bondholders,Upper middle income,5.63,7.95
-2000,Bondholders,Upper middle income,5.413,9.781
-2019,African Export-Import Bank,Upper middle income,0.0,
-2018,African Export-Import Bank,Upper middle income,3.2,
-2021,African Dev. Bank,Upper middle income,1.05,
-2020,African Dev. Bank,Upper middle income,1.761,
-2019,African Dev. Bank,Upper middle income,0.8,
-2018,African Dev. Bank,Upper middle income,0.592,
-2017,African Dev. Bank,Upper middle income,0.344,
-2016,African Dev. Bank,Upper middle income,0.768,
-2014,African Dev. Bank,Upper middle income,0.381,
-2012,African Dev. Bank,Upper middle income,0.936,
-2011,African Dev. Bank,Upper middle income,0.558,
-2010,African Dev. Bank,Upper middle income,0.968,
-2009,African Dev. Bank,Upper middle income,1.042,
-2007,African Dev. Bank,Upper middle income,4.881,
-2006,African Dev. Bank,Upper middle income,4.378,
-2005,African Dev. Bank,Upper middle income,4.23,
-2004,African Dev. Bank,Upper middle income,1.986,
-2002,African Dev. Bank,Upper middle income,2.025,
-2001,African Dev. Bank,Upper middle income,3.739,
-2000,African Dev. Bank,Upper middle income,5.9,
+year,debtor,income_level,Bondholders,World Bank-IBRD
+2012,Africa,Low income,5.375,
+2013,Africa,Low income,6.399,
+2014,Africa,Low income,7.511,
+2015,Africa,Low income,8.933,
+2017,Africa,Low income,3.0,
+2018,Africa,Low income,3.0,
+2019,Africa,Low income,3.832,
+2020,Africa,Low income,3.769,
+2021,Africa,Low income,5.123,
+2012,Other,Low income,,
+2013,Other,Low income,,
+2014,Other,Low income,,
+2015,Other,Low income,,
+2017,Other,Low income,,
+2018,Other,Low income,,
+2019,Other,Low income,,
+2020,Other,Low income,,
+2021,Other,Low income,,
+2000,Africa,Lower middle income,,7.702
+2001,Africa,Lower middle income,7.184,3.979
+2002,Africa,Lower middle income,7.375,2.89
+2003,Africa,Lower middle income,5.072,2.232
+2004,Africa,Lower middle income,4.75,1.952
+2005,Africa,Lower middle income,4.464,3.179
+2006,Africa,Lower middle income,,5.502
+2007,Africa,Lower middle income,7.196,4.779
+2008,Africa,Lower middle income,,3.206
+2009,Africa,Lower middle income,8.75,1.183
+2010,Africa,Lower middle income,5.362,0.837
+2011,Africa,Lower middle income,8.175,0.834
+2012,Africa,Lower middle income,4.402,0.965
+2013,Africa,Lower middle income,3.106,0.688
+2014,Africa,Lower middle income,5.954,0.749
+2015,Africa,Lower middle income,7.408,1.325
+2016,Africa,Lower middle income,6.116,2.154
+2017,Africa,Lower middle income,6.738,1.902
+2018,Africa,Lower middle income,7.216,2.368
+2019,Africa,Lower middle income,6.993,2.621
+2020,Africa,Lower middle income,5.619,1.417
+2021,Africa,Lower middle income,5.788,1.158
+2000,Other,Lower middle income,6.131,7.525
+2001,Other,Lower middle income,8.417,4.437
+2002,Other,Lower middle income,7.838,3.545
+2003,Other,Lower middle income,6.068,2.406
+2004,Other,Lower middle income,7.378,2.429
+2005,Other,Lower middle income,6.991,4.487
+2006,Other,Lower middle income,7.065,5.959
+2007,Other,Lower middle income,6.427,3.954
+2008,Other,Lower middle income,7.723,2.551
+2009,Other,Lower middle income,7.755,1.272
+2010,Other,Lower middle income,5.927,0.865
+2011,Other,Lower middle income,5.837,0.89
+2012,Other,Lower middle income,5.5,1.118
+2013,Other,Lower middle income,5.452,0.734
+2014,Other,Lower middle income,5.539,0.513
+2015,Other,Lower middle income,5.869,1.189
+2016,Other,Lower middle income,4.554,1.819
+2017,Other,Lower middle income,5.362,2.137
+2018,Other,Lower middle income,5.559,2.737
+2019,Other,Lower middle income,5.666,3.181
+2020,Other,Lower middle income,4.099,1.292
+2021,Other,Lower middle income,3.997,1.089
+2000,Africa,Upper middle income,5.413,7.71
+2001,Africa,Upper middle income,5.63,
+2002,Africa,Upper middle income,6.872,3.605
+2003,Africa,Upper middle income,5.25,
+2004,Africa,Upper middle income,6.5,
+2005,Africa,Upper middle income,,
+2006,Africa,Upper middle income,6.5,4.613
+2007,Africa,Upper middle income,6.445,
+2008,Africa,Upper middle income,5.0,2.614
+2009,Africa,Upper middle income,5.0,0.954
+2010,Africa,Upper middle income,5.0,0.77
+2011,Africa,Upper middle income,5.078,
+2012,Africa,Upper middle income,4.971,1.358
+2013,Africa,Upper middle income,5.787,0.925
+2014,Africa,Upper middle income,4.815,0.988
+2015,Africa,Upper middle income,5.379,
+2016,Africa,Upper middle income,4.86,1.099
+2017,Africa,Upper middle income,5.018,1.427
+2018,Africa,Upper middle income,5.656,
+2019,Africa,Upper middle income,5.198,1.05
+2020,Africa,Upper middle income,5.701,0.5
+2021,Africa,Upper middle income,5.923,
+2000,Other,Upper middle income,9.781,7.05
+2001,Other,Upper middle income,7.95,4.26
+2002,Other,Upper middle income,8.496,2.476
+2003,Other,Upper middle income,7.102,1.741
+2004,Other,Upper middle income,6.42,2.578
+2005,Other,Upper middle income,6.466,4.348
+2006,Other,Upper middle income,6.546,5.52
+2007,Other,Upper middle income,6.152,5.601
+2008,Other,Upper middle income,6.614,3.01
+2009,Other,Upper middle income,5.288,1.227
+2010,Other,Upper middle income,3.999,0.917
+2011,Other,Upper middle income,4.307,1.116
+2012,Other,Upper middle income,4.058,1.123
+2013,Other,Upper middle income,3.414,0.871
+2014,Other,Upper middle income,4.497,0.686
+2015,Other,Upper middle income,4.82,1.127
+2016,Other,Upper middle income,6.76,1.692
+2017,Other,Upper middle income,4.469,2.028
+2018,Other,Upper middle income,6.032,3.081
+2019,Other,Upper middle income,5.374,2.844
+2020,Other,Upper middle income,4.587,1.557
+2021,Other,Upper middle income,3.801,1.12

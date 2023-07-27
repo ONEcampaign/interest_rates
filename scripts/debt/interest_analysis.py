@@ -40,7 +40,6 @@ def study_counterparts() -> dict:
         "World Bank-IDA": "Multilateral",
         "World Bank-IBRD": "Multilateral",
         "African Dev. Bank": "Multilateral",
-        "African Export-Import Bank": "Multilateral",
     }
 
 
@@ -328,6 +327,13 @@ def smooth_scatter_rate_interest_africa_other(
     # Flag Africa
     df = df.pipe(flag_africa)
 
+    # Keep only countries with market access
+    market_countries = df.query(
+        "counterpart_area == 'Bondholders' and value_commitments.notna()"
+    ).country.unique()
+
+    df = df.loc[lambda d: d.country.isin(market_countries)]
+
     idx = ["year", "counterpart_area", "continent", "income_level"]
 
     # Add weights
@@ -367,9 +373,29 @@ def flourish_charts_data(start_year: int, end_year: int) -> None:
         index=False,
     )
 
-    afr_others_rates_smooth_scatter = smooth_scatter_rate_interest_africa_other(
-        start_year=start_year, end_year=end_year
+    afr_others_rates_smooth_scatter = (
+        smooth_scatter_rate_interest_africa_other(
+            start_year=start_year, end_year=end_year
+        )
+        .loc[lambda d: d.counterpart_area.isin(["World Bank-IBRD", "Bondholders"])]
+        .melt(
+            id_vars=["year", "counterpart_area", "income_level"],
+            var_name="debtor",
+            value_name="avg_rate",
+        )
+        .pivot(
+            index=["year", "debtor", "income_level"],
+            columns="counterpart_area",
+            values="avg_rate",
+        )
+        .reset_index()
+        .pipe(
+            order_income,
+            ["order", "debtor", "income_level", "year"],
+            order=[True, True, True, True],
+        )
     )
+
     afr_others_rates_smooth_scatter.to_csv(
         Paths.output / f"afr_others_rates_smooth_line_{start_year}_{end_year}.csv",
         index=False,

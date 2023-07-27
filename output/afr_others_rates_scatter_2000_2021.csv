@@ -321,8 +321,6 @@ Rwanda,Bondholders,Low income,2013,6.625,400.00,Africa
 Zambia,Bondholders,Low income,2015,8.97,"1,250.00",Africa
 Zambia,Bondholders,Low income,2014,8.5,"1,000.00",Africa
 Zambia,Bondholders,Low income,2012,5.375,750.00,Africa
-Liberia,African Export-Import Bank,Low income,2018,7.0,17.92,Africa
-Uganda,African Export-Import Bank,Low income,2021,0.088,402.65,Africa
 Burkina Faso,African Dev. Bank,Low income,2021,0.75,49.86,Africa
 Burkina Faso,African Dev. Bank,Low income,2020,0.9326,94.36,Africa
 Burkina Faso,African Dev. Bank,Low income,2019,0.7872,40.48,Africa
@@ -1654,21 +1652,6 @@ Uzbekistan,Bondholders,Lower middle income,2019,5.375,"1,000.00",Other
 Vietnam,Bondholders,Lower middle income,2013,1.0,626.80,Other
 Vietnam,Bondholders,Lower middle income,2010,6.8,"1,000.00",Other
 Vietnam,Bondholders,Lower middle income,2005,6.9,750.00,Other
-Angola,African Export-Import Bank,Lower middle income,2020,5.9883,100.00,Africa
-Cameroon,African Export-Import Bank,Lower middle income,2021,5.0,75.98,Africa
-"Congo, Rep.",African Export-Import Bank,Lower middle income,2017,8.2945,350.00,Africa
-Cote d'Ivoire,African Export-Import Bank,Lower middle income,2021,5.0,295.81,Africa
-Cote d'Ivoire,African Export-Import Bank,Lower middle income,2018,6.4892,323.66,Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2021,3.1957,"1,611.67",Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2020,3.5785,"2,850.00",Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2018,7.9358,200.00,Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2017,5.823,500.00,Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2016,1.8968,700.00,Africa
-"Egypt, Arab Rep.",African Export-Import Bank,Lower middle income,2015,0.604,70.00,Africa
-Kenya,African Export-Import Bank,Lower middle income,2016,6.6939,200.00,Africa
-Senegal,African Export-Import Bank,Lower middle income,2016,5.25,166.01,Africa
-Zimbabwe,African Export-Import Bank,Lower middle income,2015,5.0,200.00,Africa
-Zimbabwe,African Export-Import Bank,Lower middle income,2010,6.0,60.52,Africa
 Algeria,African Dev. Bank,Lower middle income,2016,0.7499,983.53,Africa
 Algeria,African Dev. Bank,Lower middle income,2003,1.2593,185.80,Africa
 Algeria,African Dev. Bank,Lower middle income,2001,3.8111,114.71,Africa
@@ -3008,8 +2991,6 @@ Turkiye,Bondholders,Upper middle income,2003,10.1008,"6,016.60",Other
 Turkiye,Bondholders,Upper middle income,2002,10.4699,"2,908.31",Other
 Turkiye,Bondholders,Upper middle income,2001,10.3814,"2,388.22",Other
 Turkiye,Bondholders,Upper middle income,2000,9.2158,"7,089.88",Other
-Gabon,African Export-Import Bank,Upper middle income,2018,3.2,310.67,Africa
-South Africa,African Export-Import Bank,Upper middle income,2019,0.0,163.40,Africa
 Botswana,African Dev. Bank,Upper middle income,2020,5.3972,77.38,Africa
 Botswana,African Dev. Bank,Upper middle income,2010,0.9859,201.32,Africa
 Botswana,African Dev. Bank,Upper middle income,2009,0.7861,"1,534.94",Africa
