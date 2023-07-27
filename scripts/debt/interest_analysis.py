@@ -40,10 +40,7 @@ def study_counterparts() -> dict:
         "World Bank-IDA": "Multilateral",
         "World Bank-IBRD": "Multilateral",
         "African Dev. Bank": "Multilateral",
-        "European Investment Bank": "Multilateral",
-        "European Development Fund (EDF)": "Multilateral",
         "African Export-Import Bank": "Multilateral",
-        "European Union": "Multilateral",
     }
 
 
@@ -374,7 +371,7 @@ def flourish_charts_data(start_year: int, end_year: int) -> None:
         start_year=start_year, end_year=end_year
     )
     afr_others_rates_smooth_scatter.to_csv(
-        Paths.output / f"afr_others_rates_smooth_scatter_{start_year}_{end_year}.csv",
+        Paths.output / f"afr_others_rates_smooth_line_{start_year}_{end_year}.csv",
         index=False,
     )
 

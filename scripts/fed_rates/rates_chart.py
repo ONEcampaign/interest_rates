@@ -80,5 +80,12 @@ def update_fed_rate_hikes_chart_data() -> None:
     hikes_data.to_csv(config.Paths.output / "fed_rate_hikes.csv", index=False)
 
 
+def wide_fed_rates_chart() -> None:
+    df = pd.read_csv(config.Paths.output / "fed_rate_hikes.csv")
+    df2 = df.pivot(
+        index=["months", "date", "effective_rate"], columns="cycle", values="change"
+    )
+
+
 if __name__ == "__main__":
     update_fed_rate_hikes_chart_data()
