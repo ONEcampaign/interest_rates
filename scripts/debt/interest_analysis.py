@@ -193,6 +193,7 @@ def get_merged_rates_commitments_grace_maturities_data(
 def expected_payments_on_new_debt(
     start_year: int = 2000,
     end_year: int = 2021,
+    discount_rate: float = 0.0,
     *,
     filter_counterparts: bool = True,
     filter_countries: bool = False,
@@ -241,7 +242,11 @@ def expected_payments_on_new_debt(
         df = df.loc[lambda d: d[filter_type].isin(filter_values)].reset_index(drop=True)
 
     # Add expected payments
-    df = df.assign(expected_payments=df.apply(calculate_interest_payments, axis=1))
+    df = df.assign(
+        expected_payments=df.apply(
+            calculate_interest_payments, discount_rate=discount_rate, axis=1
+        )
+    )
 
     # if add_aggregate then calculate the aggregate
     if add_aggregate:
@@ -308,7 +313,6 @@ def scatter_rate_interest_africa_other(
         "value_rate",
         "value_commitments",
         "continent",
-        "interest_payments_l",
     ]
 
     return df.filter(output_cols, axis=1)
@@ -334,14 +338,14 @@ def smooth_scatter_rate_interest_africa_other(
     df = df.pipe(compute_weighted_averages, idx=idx, value_columns=["value_rate"])
 
     # Filter columns
-    cols = ["year", "counterpart_area", "income_level", "continent", "avg_value_rate"]
+    cols = ["year", "counterpart_area", "income_level", "continent", "avg_rate"]
     df = df.filter(cols, axis=1)
 
     # pivot continent
     df = df.pivot(
         index=["year", "counterpart_area", "income_level"],
         columns="continent",
-        values="avg_value_rate",
+        values="avg_rate",
     ).reset_index()
 
     # Order income
@@ -351,10 +355,13 @@ def smooth_scatter_rate_interest_africa_other(
         order=[True, False, True, False],
     )
 
+    df["Africa"] = df["Africa"].round(3)
+    df["Other"] = df["Other"].round(3)
+
     return df
 
 
-def charts_data(start_year: int, end_year: int) -> None:
+def flourish_charts_data(start_year: int, end_year: int) -> None:
     afr_others_rates_scatter = scatter_rate_interest_africa_other(
         start_year=start_year, end_year=end_year
     )
@@ -368,8 +375,80 @@ def charts_data(start_year: int, end_year: int) -> None:
     )
     afr_others_rates_smooth_scatter.to_csv(
         Paths.output / f"afr_others_rates_smooth_scatter_{start_year}_{end_year}.csv",
+        index=False,
+    )
+
+
+def observable_charts_data(start_year: int, end_year: int) -> None:
+    columns = [
+        "year",
+        "counterpart_area",
+        "value_commitments",
+        "avg_rate",
+        "avg_grace",
+        "avg_maturities",
+        "expected_payments",
+        "country",
+    ]
+    countries_expected_payments = (
+        expected_payments_on_new_debt(
+            start_year=start_year,
+            end_year=end_year,
+            filter_counterparts=True,
+            filter_type="continent",
+            filter_values="Africa",
+            filter_countries=True,
+            add_aggregate=True,
+            aggregate_name="Africa",
+        )
+        .filter(columns)
+        .rename(columns={"avg_maturities": "avg_maturity"})
+    )
+
+    countries_expected_payments[["value_commitments", "expected_payments"]] /= 1e6
+
+    countries_expected_payments.to_csv(
+        Paths.output / f"expected_payments_{start_year}_{end_year}.csv",
+        index=False,
+    )
+
+    # Average rates for Africa
+    africa_rates = expected_payments_on_new_debt(
+        start_year=start_year,
+        end_year=end_year,
+        filter_counterparts=True,
+        filter_type="continent",
+        filter_values="Africa",
+        filter_countries=True,
+        add_aggregate=True,
+        aggregate_name="Africa",
+        only_aggregate=True,
+    ).filter(columns)
+
+    africa_rates.to_csv(
+        Paths.output / f"africa_overview_{start_year}_{end_year}.csv",
+        index=False,
+    )
+
+    # Average rates for Africa
+    income_rates = expected_payments_on_new_debt(
+        start_year=start_year,
+        end_year=end_year,
+        filter_counterparts=True,
+        filter_type="income_level",
+        filter_values=["Lower middle income", "Upper middle income"],
+        filter_countries=True,
+        add_aggregate=True,
+        aggregate_name="Middle income",
+        only_aggregate=True,
+    ).filter(columns)
+
+    income_rates.to_csv(
+        Paths.output / f"mics_overview_{start_year}_{end_year}.csv",
+        index=False,
     )
 
 
 if __name__ == "__main__":
-    scatter_rate_interest_africa_other(start_year=2000, end_year=2021)
+    # observable_charts_data(start_year=2000, end_year=2021)
+    flourish_charts_data(start_year=2000, end_year=2021)

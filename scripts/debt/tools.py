@@ -63,8 +63,8 @@ def add_weights(
     return df
 
 
-def calculate_interest_payments(row: pd.Series):
-    """Calculate the interest payments for a given row of a DataFrame. The row must
+def calculate_interest_payments(row: pd.Series, discount_rate: float = 0.0):
+    """Calculate the NPV of the interest payments for a given row of a DataFrame. The row must
     contain the following columns:
 
     - value_commitments.
@@ -72,12 +72,12 @@ def calculate_interest_payments(row: pd.Series):
     - value_grace.
     - value_rate.
 
-    The interest payments are calculated as follows:
-    - interest payments during grace period.
-    - interest payments after grace period.
-    - total interest payments.
+    The NPV of interest payments are calculated as follows:
+    - NPV of interest payments during grace period.
+    - NPV of interest payments after grace period.
+    - total NPV of interest payments.
 
-
+    A discount rate of 0.0 is used by default. This means calculating payments in nominal terms.
     """
 
     # Calculate the number of years in which principal will be paid
@@ -95,26 +95,37 @@ def calculate_interest_payments(row: pd.Series):
     except ZeroDivisionError:
         rate = 0
 
-    # Calculate interests during grace period
-    grace_period_interest = row.value_grace * row.value_commitments * rate
+    # Calculate interests during grace period. Discount them to present value.
+    grace_period_interest = 0
+    for year in range(1, int(np.floor(row.value_grace)) + 1):
+        # calculate the payment amoung
+        payment_amount = row.value_commitments * rate
+
+        # Calculate the discount factor
+        discount_factor = (1 + discount_rate) ** year
+
+        # Calculate the (discounted) interest payment for the year
+        grace_period_interest += payment_amount / discount_factor
 
     # Calculate the period that the loan will be serviced after grace
     loan_period_after_grace = row.value_maturities - row.value_grace
 
-    # Create an empty list for the payments
-    yearly_interests = []
-
     # Calculate the interest payments for each year after grace
+    loan_interests_after_grace = 0
     for year in range(1, int(np.ceil(loan_period_after_grace))):
-        yearly_interests.append(
-            (row.value_commitments - year * principal_payment_per_year) * rate
-        )
+        # Calculate the payment amount
+        payment_amount = (
+            row.value_commitments - year * principal_payment_per_year
+        ) * rate
 
-    # Calculate the total interest payments after grace
-    loan_interest_after_grace = np.sum(yearly_interests)
+        # Calculate discount factor
+        discount_factor = (1 + discount_rate) ** (year + row.value_grace)
+
+        # Calculate the (discounted) interest payment for the year
+        loan_interests_after_grace += payment_amount / discount_factor
 
     # Put everything together
-    total_interest = grace_period_interest + loan_interest_after_grace
+    total_interest = grace_period_interest + loan_interests_after_grace
 
     return total_interest
 
@@ -139,7 +150,7 @@ def compute_weighted_averages(
 
     # Compute weighted average and group by index
     for col in value_columns:
-        df[f"avg_{col}"] = df[col] * df.weight
+        df[f"avg_{col.split('_')[1]}"] = df[col] * df.weight
 
     # Compute weighted average and group by index
     df = df.groupby(idx, as_index=False, dropna=False, observed=True).sum(
