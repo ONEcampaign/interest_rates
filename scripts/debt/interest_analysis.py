@@ -1,5 +1,5 @@
 import pandas as pd
-from bblocks import format_number, set_bblocks_data_path
+from bblocks import set_bblocks_data_path
 
 from scripts.config import Paths
 from scripts.debt.clean_data import get_clean_data
@@ -8,8 +8,6 @@ from scripts.debt.tools import (
     calculate_interest_payments,
     compute_grouping_stats,
     compute_weighted_averages,
-    flag_africa,
-    order_income,
 )
 
 set_bblocks_data_path(Paths.raw_data)
@@ -190,6 +188,8 @@ def expected_payments_on_new_debt(
     start_year: int = 2000,
     end_year: int = 2021,
     discount_rate: float = 0.0,
+    new_interest_rate: float | None = None,
+    interest_rate_difference: float | None = None,
     *,
     filter_counterparts: bool = True,
     filter_countries: bool = False,
@@ -202,8 +202,19 @@ def expected_payments_on_new_debt(
     """Compute the expected interest payments on new debt for each country/counterpart_area pair.
 
     A starting year and an end year are required. The data is filtered by default on the
-    counterparts
-    that are studied in the paper.
+    counterparts that are studied in the paper.
+
+    The discount rate is the discount rate used to compute the present value of the expected
+    interest payments. The discount rate is expressed as a percentage.
+
+    The new interest rate is an optional interest rate that is used to compute the expected
+    interest payments. If it is not provided, then the actual interest rate is used.
+    The new interest rate is expressed as a percentage.
+
+    The interest rate difference is an optional interest rate difference that is used to compute
+    the expected interest payments. It is added or subtracted from the actual interest rate.
+    If it is not provided, then the actual interest rate is used.
+    The interest rate difference is expressed as a percentage.
 
     If filter_data is True, then the debtor data is filtered on the filter_type and filter_value.
     The filter_type must be one of the following:
@@ -240,7 +251,11 @@ def expected_payments_on_new_debt(
     # Add expected payments
     df = df.assign(
         expected_payments=df.apply(
-            calculate_interest_payments, discount_rate=discount_rate, axis=1
+            calculate_interest_payments,
+            discount_rate=discount_rate,
+            new_rate=new_interest_rate,
+            rate_difference=interest_rate_difference,
+            axis=1,
         )
     )
 
@@ -273,205 +288,37 @@ def expected_payments_on_new_debt(
     return df
 
 
-def scatter_rate_interest_africa_other(
-    start_year: int = 2000,
-    end_year: int = 2021,
-    filter_counterparts: bool = True,
-) -> pd.DataFrame:
-    # Get data
-    df = get_merged_rates_commitments_payments_data(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=filter_counterparts,
-    )
-
-    # Flag Africa
-    df = df.pipe(flag_africa)
-
-    # Order income
-    df = df.pipe(order_income)
-
-    # format tooltip numbers
-    df = df.assign(
-        interest_payments_l=lambda d: format_number(
-            d.value_payments, as_millions=True, decimals=1
-        ),
-        value_commitments=lambda d: format_number(
-            d.value_commitments, as_millions=True, decimals=2
-        ),
-    )
-
-    output_cols = [
-        "country",
-        "counterpart_area",
-        "income_level",
-        "year",
-        "value_rate",
-        "value_commitments",
-        "continent",
-    ]
-
-    return df.filter(output_cols, axis=1)
-
-
-def smooth_scatter_rate_interest_africa_other(
-    start_year: int, end_year: int, filter_counterparts: bool = True
-) -> pd.DataFrame:
-    # Get data
-    df = get_merged_rates_commitments_payments_data(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=filter_counterparts,
-    )
-
-    # Flag Africa
-    df = df.pipe(flag_africa)
-
-    # Keep only countries with market access
-    market_countries = df.query(
-        "counterpart_area == 'Bondholders' and value_commitments.notna()"
-    ).country.unique()
-
-    df = df.loc[lambda d: d.country.isin(market_countries)]
-
-    idx = ["year", "counterpart_area", "continent", "income_level"]
-
-    # Add weights
-    df = add_weights(df, idx=idx, value_column="value_commitments")
-    df = df.pipe(compute_weighted_averages, idx=idx, value_columns=["value_rate"])
-
-    # Filter columns
-    cols = ["year", "counterpart_area", "income_level", "continent", "avg_rate"]
-    df = df.filter(cols, axis=1)
-
-    # pivot continent
-    df = df.pivot(
-        index=["year", "counterpart_area", "income_level"],
-        columns="continent",
-        values="avg_rate",
-    ).reset_index()
-
-    # Order income
-    df = df.pipe(
-        order_income,
-        ["order", "counterpart_area", "income_level", "year"],
-        order=[True, False, True, False],
-    )
-
-    df["Africa"] = df["Africa"].round(3)
-    df["Other"] = df["Other"].round(3)
-
-    return df
-
-
-def flourish_charts_data(start_year: int, end_year: int) -> None:
-    afr_others_rates_scatter = scatter_rate_interest_africa_other(
-        start_year=start_year, end_year=end_year
-    )
-    afr_others_rates_scatter.to_csv(
-        Paths.output / f"afr_others_rates_scatter_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-    afr_others_rates_smooth_scatter = (
-        smooth_scatter_rate_interest_africa_other(
-            start_year=start_year, end_year=end_year
-        )
-        .loc[lambda d: d.counterpart_area.isin(["World Bank-IBRD", "Bondholders"])]
-        .melt(
-            id_vars=["year", "counterpart_area", "income_level"],
-            var_name="debtor",
-            value_name="avg_rate",
-        )
-        .pivot(
-            index=["year", "debtor", "income_level"],
-            columns="counterpart_area",
-            values="avg_rate",
-        )
-        .reset_index()
-        .pipe(
-            order_income,
-            ["order", "debtor", "income_level", "year"],
-            order=[True, True, True, True],
-        )
-    )
-
-    afr_others_rates_smooth_scatter.to_csv(
-        Paths.output / f"afr_others_rates_smooth_line_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-
-def observable_charts_data(start_year: int, end_year: int) -> None:
-    columns = [
-        "year",
-        "counterpart_area",
-        "value_commitments",
-        "avg_rate",
-        "avg_grace",
-        "avg_maturities",
-        "expected_payments",
-        "country",
-    ]
-    countries_expected_payments = (
-        expected_payments_on_new_debt(
-            start_year=start_year,
-            end_year=end_year,
-            filter_counterparts=True,
-            filter_type="continent",
-            filter_values="Africa",
-            filter_countries=True,
-            add_aggregate=True,
-            aggregate_name="Africa",
-        )
-        .filter(columns)
-        .rename(columns={"avg_maturities": "avg_maturity"})
-    )
-
-    countries_expected_payments[["value_commitments", "expected_payments"]] /= 1e6
-
-    countries_expected_payments.to_csv(
-        Paths.output / f"expected_payments_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-    # Average rates for Africa
-    africa_rates = expected_payments_on_new_debt(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=True,
-        filter_type="continent",
-        filter_values="Africa",
-        filter_countries=True,
-        add_aggregate=True,
-        aggregate_name="Africa",
-        only_aggregate=True,
-    ).filter(columns)
-
-    africa_rates.to_csv(
-        Paths.output / f"africa_overview_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-    # Average rates for Africa
-    income_rates = expected_payments_on_new_debt(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=True,
-        filter_type="income_level",
-        filter_values=["Lower middle income", "Upper middle income"],
-        filter_countries=True,
-        add_aggregate=True,
-        aggregate_name="Middle income",
-        only_aggregate=True,
-    ).filter(columns)
-
-    income_rates.to_csv(
-        Paths.output / f"mics_overview_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-
 if __name__ == "__main__":
-    # observable_charts_data(start_year=2000, end_year=2021)
-    flourish_charts_data(start_year=2000, end_year=2021)
+    data = (
+        expected_payments_on_new_debt(
+            start_year=2000,
+            end_year=2021,
+            discount_rate=0.05,
+            new_interest_rate=None,
+            interest_rate_difference=None,
+            filter_counterparts=True,
+            filter_countries=True,
+            filter_type="income_level",
+            filter_values=["Upper middle income", "Lower middle income"],
+            add_aggregate=True,
+            aggregate_name="Middle income",
+            only_aggregate=True,
+        )
+        .assign(
+            expected_payments=lambda d: round(d.expected_payments / 1e9, 1),
+            new_loans=lambda d: round(d.value_commitments / 1e9, 1),
+        )
+        .query(
+            "year == 2021 and counterpart_area.isin(['World Bank-IBRD','Bondholders'])"
+        )
+        .filter(
+            [
+                "year",
+                "counterpart_area",
+                "country",
+                "expected_payments",
+                "new_loans",
+                "avg_rate",
+            ]
+        )
+    )

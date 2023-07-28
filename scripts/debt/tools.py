@@ -63,7 +63,12 @@ def add_weights(
     return df
 
 
-def calculate_interest_payments(row: pd.Series, discount_rate: float = 0.0):
+def calculate_interest_payments(
+    row: pd.Series,
+    discount_rate: float = 0.0,
+    new_rate: float = None,
+    rate_difference: float = None,
+) -> float:
     """Calculate the NPV of the interest payments for a given row of a DataFrame. The row must
     contain the following columns:
 
@@ -88,6 +93,12 @@ def calculate_interest_payments(row: pd.Series, discount_rate: float = 0.0):
         principal_payment_per_year = 0
     else:
         principal_payment_per_year = row.value_commitments / payment_years
+
+    if new_rate is not None:
+        row.value_rate = new_rate
+
+    if rate_difference is not None:
+        row.value_rate = row.value_rate + rate_difference
 
     # Since the rate is given in percentage points, we need to divide by 100
     try:
