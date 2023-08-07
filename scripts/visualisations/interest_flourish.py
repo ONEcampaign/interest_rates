@@ -57,6 +57,20 @@ def scatter_rate_interest_africa_other(
     return df.filter(output_cols, axis=1)
 
 
+def chart_data_africa_other_rates_scatter(start_year: int, end_year: int) -> None:
+    """A CSV of the data for a scatterplot of interest rates for africa and other countries.
+
+    NOTE: This chart is not used on the final, live analysis.
+    """
+    afr_others_rates_scatter = scatter_rate_interest_africa_other(
+        start_year=start_year, end_year=end_year
+    )
+    afr_others_rates_scatter.to_csv(
+        Paths.output / f"afr_others_rates_scatter_{start_year}_{end_year}.csv",
+        index=False,
+    )
+
+
 def smooth_line_rate_interest_africa_other_income(
     start_year: int, end_year: int, filter_counterparts: bool = True
 ) -> pd.DataFrame:
@@ -73,7 +87,7 @@ def smooth_line_rate_interest_africa_other_income(
     df = df.pipe(flag_africa)
 
     # Keep only countries with market access
-    df = df.pipe(keep_market_access_only)
+    # df = df.pipe(keep_market_access_only)
 
     # Add weights
     idx = ["year", "counterpart_area", "continent", "income_level"]
@@ -106,47 +120,13 @@ def smooth_line_rate_interest_africa_other_income(
     return df
 
 
-def borrowing_stats_africa_other(
-    start_year: int, end_year: int, filter_counterparts: bool = True
-) -> pd.DataFrame:
-    # Get data
-    df = get_merged_rates_commitments_payments_data(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=filter_counterparts,
-    )
+def chart_africa_other_bondholders_ibrd_line(start_year: int, end_year: int) -> None:
+    """A CSV of the data for a smooth line of interest rates for africa and other countries.
 
-    # Flag Africa
-    df = df.pipe(flag_africa)
+    NOTE: This chart IS USED in the final, live analysis.
 
-    # Keep only countries with market access
-    df = df.pipe(keep_market_access_only)
+    """
 
-    # Add weights
-    idx = ["year", "counterpart_area", "continent"]
-    df = add_weights(df, idx=idx, value_column="value_commitments")
-
-    # Compute weighted average
-    df = df.pipe(compute_weighted_averages, idx=idx, value_columns=["value_rate"])
-
-    # Filter columns
-    cols = ["year", "counterpart_area", "continent", "avg_rate"]
-    df = df.filter(cols, axis=1).assign(avg_rate=lambda d: d.avg_rate.round(2))
-
-    return df
-
-
-def africa_other_rates_scatter_flourish(start_year: int, end_year: int) -> None:
-    afr_others_rates_scatter = scatter_rate_interest_africa_other(
-        start_year=start_year, end_year=end_year
-    )
-    afr_others_rates_scatter.to_csv(
-        Paths.output / f"afr_others_rates_scatter_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-
-def africa_other_bondholders_ibrd_line(start_year: int, end_year: int) -> None:
     afr_others_rates_smooth_line = (
         smooth_line_rate_interest_africa_other_income(
             start_year=start_year, end_year=end_year
@@ -176,15 +156,12 @@ def africa_other_bondholders_ibrd_line(start_year: int, end_year: int) -> None:
     )
 
 
-def africa_other_borrowing_stats(start_year: int, end_year: int) -> pd.DataFrame:
-    borrowing_stats = borrowing_stats_africa_other(
-        start_year=start_year, end_year=end_year
-    )
-
-    return borrowing_stats
-
-
 def export_africa_geometries():
+    """Export a CSV of the geometries for African countries.
+
+    NOTE: This is used by the scrolly map showing IBRD and Bond rates for Africa.
+
+    """
     from country_converter import CountryConverter
     from bblocks.dataframe_tools.add import add_flourish_geometries
 
@@ -201,57 +178,6 @@ def export_africa_geometries():
     )
 
 
-def explorer_ibrd(start_year: int, end_year: int, filter_counterparts: bool = True):
-    df = get_merged_rates_commitments_payments_data(
-        start_year=start_year,
-        end_year=end_year,
-        filter_counterparts=filter_counterparts,
-    )
-
-    # Flag Africa
-    df = df.pipe(flag_africa)
-
-    # Add weights
-    idx = ["year", "counterpart_area", "continent", "income_level"]
-    df = add_weights(df, idx=idx, value_column="value_commitments")
-
-    df = df.assign(weighted_amount=lambda d: d.value_commitments * d.weight)
-
-    africa_ibrd = (
-        df.loc[lambda d: d.counterpart_area.isin(["World Bank-IBRD", "Bondholders"])]
-        .loc[lambda d: d.continent == "Africa"]
-        .loc[lambda d: d.year == 2021]
-        .pipe(add_iso_codes_column, id_column="country", id_type="regex")
-        .filter(
-            [
-                "iso_code",
-                "country",
-                "counterpart_area",
-                "year",
-                "value_rate",
-                "weighted_amount",
-            ]
-        )
-    )
-
-    africa_ibrd_wide_rate = (
-        africa_ibrd.drop(["weighted_amount"], axis=1)
-        .pivot(
-            index=["iso_code", "country", "year"],
-            columns="counterpart_area",
-            values="value_rate",
-        )
-        .reset_index()
-        .assign(continent="Africa")
-    )
-
-    africa_ibrd_wide_amount = africa_ibrd.drop(["value_rate"], axis=1).assign(
-        continent="Africa"
-    )
-
-    return africa_ibrd_wide_rate
-
-
 def expected_payment_single_counterpart(
     start_year: int,
     end_year: int,
@@ -265,6 +191,11 @@ def expected_payment_single_counterpart(
     aggregate_name: str,
     market_access_only: bool = True,
 ) -> pd.DataFrame:
+    """Helper function to get expected payments for a single counterpart.
+    It is a thin wrapper around `expected_payments_on_new_debt` that filters
+    the data to only include the counterpart of interest and rounds the
+    expected payments to billions."""
+
     return (
         expected_payments_on_new_debt(
             start_year=start_year,
@@ -293,7 +224,15 @@ def counterpart_difference(
     filter_values: str | list,
     aggregate_name: str,
 ):
-    bonds_actual = expected_payment_single_counterpart(
+    """Helper function to get the difference in expected payments for a single
+    counterpart at a new interest rate and the current interest rate.
+
+    The output is a long dataframe which has the selected counterpart at the
+    original interest rate and at the new interest rate.
+
+    """
+
+    actual = expected_payment_single_counterpart(
         start_year=2016,
         end_year=2021,
         counterpart=counterpart,
@@ -304,7 +243,7 @@ def counterpart_difference(
         market_access_only=False,
     )
 
-    bonds_ibrd_rate = expected_payment_single_counterpart(
+    at_new_rate = expected_payment_single_counterpart(
         start_year=2016,
         end_year=2021,
         counterpart=counterpart,
@@ -316,88 +255,8 @@ def counterpart_difference(
         market_access_only=False,
     ).assign(counterpart_area=f"{counterpart} at new rate", avg_rate=new_rate)
 
-    return pd.concat([bonds_actual, bonds_ibrd_rate], ignore_index=True)
-
-
-def african_dev_bank(start_year: int, end_year: int):
-    return expected_payment_single_counterpart(
-        start_year=start_year,
-        end_year=end_year,
-        counterpart="African Dev. Bank",
-        discount_rate=0.05,
-        filter_type="continent",
-        filter_values="Africa",
-        aggregate_name="Africa",
-        market_access_only=True,
-    )
-
-
-def observable_by_country(start_year: int, end_year: int):
-    africa_data = expected_payments_on_new_debt(
-        start_year=start_year,
-        end_year=end_year,
-        filter_countries=True,
-        filter_type="continent",
-        filter_values="Africa",
-        weights_by=["year", "counterpart_area", "continent"],
-    ).assign(group_name="Africa")
-
-    mic_data = expected_payments_on_new_debt(
-        start_year=start_year,
-        end_year=end_year,
-        filter_countries=True,
-        filter_type="income_level",
-        filter_values=["Lower middle income", "Upper middle income"],
-        weights_by=["year", "counterpart_area"],
-    ).assign(group_name="Middle income countries")
-
-    return pd.concat([africa_data, mic_data], ignore_index=True).filter(
-        [
-            "year",
-            "country",
-            "group_name",
-            "counterpart_area",
-            "value_commitments",
-            "value_rate",
-            "value_grace",
-            "value_maturities",
-            "expected_payments",
-            "avg_rate",
-            "avg_maturities",
-            "avg_grace",
-            "weight",
-        ]
-    )
+    return pd.concat([actual, at_new_rate], ignore_index=True)
 
 
 if __name__ == "__main__":
-    # observable_charts_data(start_year=2000, end_year=2021)
-    # flourish_charts_data(start_year=2000, end_year=2021)
-
-    # data = explorer_ibrd(start_year=2000, end_year=2021)
-    #
-    # bh = data.query("Bondholders.notna()")
-    # wb = data.query("`World Bank-IBRD`.notna()")
-
-    # data_afr = bondholders_difference(new_rate=1.135075)
-    # data = counterpart_difference(
-    #     counterpart="Bondholders",
-    #     new_rate=4.026659951 + 2,
-    #     filter_type="income_level",
-    #     filter_values=["Lower middle income", "Upper middle income"],
-    #     aggregate_name="MIC",
-    # )
-
-    afr_data = counterpart_difference(
-        counterpart="Bondholders",
-        new_rate=5.778012+1,
-        filter_type="continent",
-        filter_values="Africa",
-        aggregate_name="Africa",
-    ).loc[lambda d: d.year == 2021]
-
-    # data_country = observable_by_country(start_year=2017, end_year=2021)
-    #
-    # data_country.to_csv(
-    #     f"{Paths.output}/country_counterpart_with_weights_2016-21.csv", index=False
-    # )
+    ...

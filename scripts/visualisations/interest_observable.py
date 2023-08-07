@@ -1,72 +1,63 @@
+import pandas as pd
+
 from scripts.config import Paths
 from scripts.debt.interest_analysis import expected_payments_on_new_debt
 
 
-def observable_charts_data(start_year: int, end_year: int) -> None:
-    columns = [
-        "year",
-        "counterpart_area",
-        "value_commitments",
-        "avg_rate",
-        "avg_grace",
-        "avg_maturities",
-        "expected_payments",
-        "country",
-    ]
-    countries_expected_payments = (
-        expected_payments_on_new_debt(
-            start_year=start_year,
-            end_year=end_year,
-            filter_counterparts=True,
-            filter_type="continent",
-            filter_values="Africa",
-            filter_countries=True,
-            add_aggregate=True,
-            aggregate_name="Africa",
-        )
-        .filter(columns)
-        .rename(columns={"avg_maturities": "avg_maturity"})
-    )
+def base_data_loans_observable_by_country_group_year(start_year: int, end_year: int):
+    """Data for Observable. It is broken down by country for the basic loan
+    information, and includes group names (and weights by group/counterpart). This data
+    is used in the notebook to produce the interactive charts.
+    """
 
-    countries_expected_payments[["value_commitments", "expected_payments"]] /= 1e6
-
-    countries_expected_payments.to_csv(
-        Paths.output / f"expected_payments_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-    # Average rates for Africa
-    africa_rates = expected_payments_on_new_debt(
+    # Data for the "Africa" group.
+    africa_data = expected_payments_on_new_debt(
         start_year=start_year,
         end_year=end_year,
-        filter_counterparts=True,
+        filter_countries=True,
         filter_type="continent",
         filter_values="Africa",
-        filter_countries=True,
-        add_aggregate=True,
-        aggregate_name="Africa",
-        only_aggregate=True,
-    ).filter(columns)
+        weights_by=["year", "counterpart_area", "continent"],
+    ).assign(group_name="Africa")
 
-    africa_rates.to_csv(
-        Paths.output / f"africa_overview_{start_year}_{end_year}.csv",
-        index=False,
-    )
-
-    # Average rates for Africa
-    income_rates = expected_payments_on_new_debt(
+    # Data for the "Middle income countries" group"
+    mic_data = expected_payments_on_new_debt(
         start_year=start_year,
         end_year=end_year,
-        filter_counterparts=True,
+        filter_countries=True,
         filter_type="income_level",
         filter_values=["Lower middle income", "Upper middle income"],
-        filter_countries=True,
-        add_aggregate=True,
-        aggregate_name="Middle income",
-        only_aggregate=True,
-    ).filter(columns)
+        weights_by=["year", "counterpart_area"],
+    ).assign(group_name="Middle income countries")
 
-    income_rates.to_csv(
-        Paths.output / f"mics_overview_{start_year}_{end_year}.csv",
-        index=False,
+    return pd.concat([africa_data, mic_data], ignore_index=True).filter(
+        [
+            "year",
+            "country",
+            "group_name",
+            "counterpart_area",
+            "value_commitments",
+            "value_rate",
+            "value_grace",
+            "value_maturities",
+            "expected_payments",
+            "avg_rate",
+            "avg_maturities",
+            "avg_grace",
+            "weight",
+        ]
     )
+
+
+def chart_observable_interactive_interest_payments() -> None:
+    """A CSV of the data for the interactive chart of interest payments."""
+    df = base_data_loans_observable_by_country_group_year(
+        start_year=2017, end_year=2021
+    )
+    df.to_csv(
+        Paths().output / "country_counterpart_with_weights_2017-21.csv.csv", index=False
+    )
+
+
+if __name__ == "__main__":
+    chart_observable_interactive_interest_payments()
