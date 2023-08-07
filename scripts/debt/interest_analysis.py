@@ -8,6 +8,7 @@ from scripts.debt.tools import (
     calculate_interest_payments,
     compute_grouping_stats,
     compute_weighted_averages,
+    keep_market_access_only,
 )
 
 set_bblocks_data_path(Paths.raw_data)
@@ -195,9 +196,11 @@ def expected_payments_on_new_debt(
     filter_countries: bool = False,
     filter_type: str = None,
     filter_values: str | list[str] = None,
+    market_access_only: bool = False,
     add_aggregate: bool = False,
     aggregate_name: str = None,
     only_aggregate: bool = False,
+    weights_by: list[str] | None = None,
 ) -> pd.DataFrame:
     """Compute the expected interest payments on new debt for each country/counterpart_area pair.
 
@@ -235,6 +238,17 @@ def expected_payments_on_new_debt(
     if add_aggregate and aggregate_name is None:
         raise ValueError("aggregate_name must be provided if add_aggregate is True")
 
+    if weights_by is None:
+        weights_idx = [
+            "year",
+            "income_level",
+            "continent",
+            "country",
+            "counterpart_area",
+        ]
+    else:
+        weights_idx = weights_by
+
     # Create empty df for grouped data in case it is needed
     group_tot = pd.DataFrame()
 
@@ -247,7 +261,10 @@ def expected_payments_on_new_debt(
 
     if filter_countries:
         df = df.loc[lambda d: d[filter_type].isin(filter_values)].reset_index(drop=True)
+    if market_access_only:
+        df = keep_market_access_only(df)
 
+    df = df.query("year ==2017 and counterpart_area == 'Bondholders'")
     # Add expected payments
     df = df.assign(
         expected_payments=df.apply(
@@ -272,11 +289,7 @@ def expected_payments_on_new_debt(
         return group_tot
 
     # Add weights to individual countries
-    df = add_weights(
-        df,
-        idx=["year", "income_level", "continent", "country", "counterpart_area"],
-        value_column="value_commitments",
-    )
+    df = add_weights(df, idx=weights_idx, value_column="value_commitments")
 
     # Compute weighted average
     df = compute_weighted_averages(

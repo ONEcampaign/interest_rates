@@ -118,12 +118,9 @@ def calculate_interest_payments(
         # Calculate the (discounted) interest payment for the year
         grace_period_interest += payment_amount / discount_factor
 
-    # Calculate the period that the loan will be serviced after grace
-    loan_period_after_grace = row.value_maturities - row.value_grace
-
     # Calculate the interest payments for each year after grace
     loan_interests_after_grace = 0
-    for year in range(1, int(np.ceil(loan_period_after_grace))):
+    for year in range(1, int(np.ceil(payment_years))):
         # Calculate the payment amount
         payment_amount = (
             row.value_commitments - year * principal_payment_per_year
@@ -217,3 +214,15 @@ def compute_grouping_stats(
     group_data = group_data.assign(country=group_name)
 
     return group_data
+
+
+def keep_market_access_only(df: pd.DataFrame) -> pd.DataFrame:
+    """Filter out countries without market access"""
+    # Keep only countries with market access
+    market_countries = df.query(
+        "counterpart_area == 'Bondholders' and value_commitments.notna()"
+    ).country.unique()
+
+    df = df.loc[lambda d: d.country.isin(market_countries)]
+
+    return df.reset_index(drop=True)
