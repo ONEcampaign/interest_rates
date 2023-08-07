@@ -30,7 +30,14 @@ def base_data_loans_observable_by_country_group_year(start_year: int, end_year: 
         weights_by=["year", "counterpart_area"],
     ).assign(group_name="Middle income countries")
 
-    return pd.concat([africa_data, mic_data], ignore_index=True).filter(
+    return pd.concat([africa_data, mic_data], ignore_index=True)
+
+
+def chart_observable_interactive_interest_payments() -> None:
+    """A CSV of the data for the interactive chart of interest payments."""
+    df = base_data_loans_observable_by_country_group_year(
+        start_year=2017, end_year=2021
+    ).filter(
         [
             "year",
             "country",
@@ -48,14 +55,8 @@ def base_data_loans_observable_by_country_group_year(start_year: int, end_year: 
         ]
     )
 
-
-def chart_observable_interactive_interest_payments() -> None:
-    """A CSV of the data for the interactive chart of interest payments."""
-    df = base_data_loans_observable_by_country_group_year(
-        start_year=2017, end_year=2021
-    )
     df.to_csv(
-        Paths().output / "country_counterpart_with_weights_2017-21.csv.csv", index=False
+        Paths.output / "country_counterpart_with_weights_2017-21.csv.csv", index=False
     )
 
 

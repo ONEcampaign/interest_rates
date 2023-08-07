@@ -3,6 +3,7 @@ from bblocks import add_iso_codes_column, format_number
 
 from scripts.config import Paths
 from scripts.debt.interest_analysis import (
+    counterpart_difference,
     expected_payments_on_new_debt,
     get_merged_rates_commitments_payments_data,
 )
@@ -10,7 +11,6 @@ from scripts.debt.tools import (
     add_weights,
     compute_weighted_averages,
     flag_africa,
-    keep_market_access_only,
     order_income,
 )
 
@@ -178,85 +178,96 @@ def export_africa_geometries():
     )
 
 
-def expected_payment_single_counterpart(
-    start_year: int,
-    end_year: int,
-    counterpart: str,
-    discount_rate: float,
-    *,
-    new_interest_rate: float | None = None,
-    interest_rate_difference: float | None = None,
-    filter_type: str,
-    filter_values: str | list,
-    aggregate_name: str,
-    market_access_only: bool = True,
+def _helper_scrolly_chart_map_counterpart_2021_rates(
+    counterpart: str = "World Bank-IBRD",
 ) -> pd.DataFrame:
-    """Helper function to get expected payments for a single counterpart.
-    It is a thin wrapper around `expected_payments_on_new_debt` that filters
-    the data to only include the counterpart of interest and rounds the
-    expected payments to billions."""
+    """A CSV of the data for a scrolly map of IBRD rates"""
 
     return (
         expected_payments_on_new_debt(
-            start_year=start_year,
-            end_year=end_year,
-            discount_rate=discount_rate,
-            new_interest_rate=new_interest_rate,
-            interest_rate_difference=interest_rate_difference,
+            start_year=2021,
+            end_year=2021,
+            discount_rate=0.05,
+            filter_type="continent",
+            filter_values="Africa",
             filter_countries=True,
-            filter_type=filter_type,
-            filter_values=filter_values,
-            add_aggregate=True,
-            aggregate_name=aggregate_name,
-            only_aggregate=True,
-            market_access_only=market_access_only,
+            market_access_only=False,
+            add_aggregate=False,
         )
+        .loc[lambda d: d.counterpart_area == counterpart]
         .pipe(add_iso_codes_column, id_column="country", id_type="regex")
-        .loc[lambda d: d.counterpart_area.isin([counterpart])]
-        .assign(expected_payments=lambda d: round(d.expected_payments / 1e9, 2))
+        .filter(["iso_code", "country", "year", "value_rate", "continent"])
+        .rename(columns={"value_rate": "rate"})
     )
 
 
-def counterpart_difference(
-    counterpart: str,
-    new_rate: float,
-    filter_type: str,
-    filter_values: str | list,
-    aggregate_name: str,
-):
-    """Helper function to get the difference in expected payments for a single
-    counterpart at a new interest rate and the current interest rate.
+def chart_scrolly_chart_map_africa_ibrd_2021_rates() -> None:
+    data = _helper_scrolly_chart_map_counterpart_2021_rates("World Bank-IBRD")
 
-    The output is a long dataframe which has the selected counterpart at the
-    original interest rate and at the new interest rate.
-
-    """
-
-    actual = expected_payment_single_counterpart(
-        start_year=2016,
-        end_year=2021,
-        counterpart=counterpart,
-        discount_rate=0.05,
-        filter_type=filter_type,
-        filter_values=filter_values,
-        aggregate_name=aggregate_name,
-        market_access_only=False,
+    data.to_csv(
+        Paths.output / "scrolly_chart_map_ibrd_africa_2021_rates.csv", index=False
     )
 
-    at_new_rate = expected_payment_single_counterpart(
-        start_year=2016,
-        end_year=2021,
-        counterpart=counterpart,
-        discount_rate=0.05,
-        new_interest_rate=new_rate,
-        filter_type=filter_type,
-        filter_values=filter_values,
-        aggregate_name=aggregate_name,
-        market_access_only=False,
-    ).assign(counterpart_area=f"{counterpart} at new rate", avg_rate=new_rate)
 
-    return pd.concat([actual, at_new_rate], ignore_index=True)
+def chart_scrolly_chart_map_africa_bonds_2021_rates() -> None:
+    data = _helper_scrolly_chart_map_counterpart_2021_rates("Bondholders")
+
+    data.to_csv(
+        Paths.output / "scrolly_chart_map_ibrd_africa_2021_rates.csv", index=False
+    )
+
+
+def chart_scrolly_bars_africa_bonds_vs_ibrd_rates() -> None:
+    data = counterpart_difference(
+        start_year=2017,
+        end_year=2021,
+        main_counterpart="Bondholders",
+        comparison_counterpart="World Bank-IBRD",
+        filter_type="continent",
+        filter_values="Africa",
+        aggregate_name="Africa",
+    )
+
+    data.filter(
+        [
+            "year",
+            "country",
+            "counterpart_area",
+            "expected_payments",
+            "expected_payments_at_new_rate",
+        ]
+    ).to_csv(
+        Paths.output / "scrolly_bars_africa_bonds_vs_at_ibrd_rates.csv", index=False
+    )
+
+
+def chart_scrolly_bars_mics_bonds_vs_ibrd_rates() -> None:
+    data = counterpart_difference(
+        start_year=2017,
+        end_year=2021,
+        main_counterpart="Bondholders",
+        comparison_counterpart="World Bank-IBRD",
+        filter_type="income_level",
+        filter_values=["Lower middle income", "Upper middle income"],
+        aggregate_name="Middle income countries",
+    )
+
+    data.filter(
+        [
+            "year",
+            "country",
+            "counterpart_area",
+            "expected_payments",
+            "expected_payments_at_new_rate",
+        ]
+    ).to_csv(Paths.output / "scrolly_bars_mics_bonds_vs_at_ibrd_rates.csv", index=False)
 
 
 if __name__ == "__main__":
-    ...
+    export_africa_geometries()
+    chart_africa_other_bondholders_ibrd_line(start_year=2000, end_year=2021)
+    chart_data_africa_other_rates_scatter(start_year=2000, end_year=2021)
+    chart_scrolly_chart_map_africa_ibrd_2021_rates()
+    chart_scrolly_chart_map_africa_bonds_2021_rates()
+    chart_scrolly_bars_africa_bonds_vs_ibrd_rates()
+    chart_scrolly_bars_mics_bonds_vs_ibrd_rates()

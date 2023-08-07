@@ -2,6 +2,11 @@ import numpy as np
 import pandas as pd
 
 
+import logging
+
+logging.getLogger("country_converter").setLevel(logging.ERROR)
+
+
 def order_income(
     df: pd.DataFrame, idx: list = None, order: list = None
 ) -> pd.DataFrame:

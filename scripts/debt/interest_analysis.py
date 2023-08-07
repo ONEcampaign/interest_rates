@@ -1,5 +1,5 @@
 import pandas as pd
-from bblocks import set_bblocks_data_path
+from bblocks import add_iso_codes_column, set_bblocks_data_path
 
 from scripts.config import Paths
 from scripts.debt.clean_data import get_clean_data
@@ -334,3 +334,111 @@ if __name__ == "__main__":
             ]
         )
     )
+
+
+def expected_payment_single_counterpart(
+    start_year: int,
+    end_year: int,
+    counterpart: str,
+    discount_rate: float,
+    *,
+    new_interest_rate: float | None = None,
+    interest_rate_difference: float | None = None,
+    filter_type: str,
+    filter_values: str | list,
+    aggregate_name: str,
+    market_access_only: bool = False,
+) -> pd.DataFrame:
+    """Helper function to get expected payments for a single counterpart.
+    It is a thin wrapper around `expected_payments_on_new_debt` that filters
+    the data to only include the counterpart of interest and rounds the
+    expected payments to billions."""
+
+    return (
+        expected_payments_on_new_debt(
+            start_year=start_year,
+            end_year=end_year,
+            discount_rate=discount_rate,
+            new_interest_rate=new_interest_rate,
+            interest_rate_difference=interest_rate_difference,
+            filter_countries=True,
+            filter_type=filter_type,
+            filter_values=filter_values,
+            add_aggregate=True,
+            aggregate_name=aggregate_name,
+            only_aggregate=True,
+            market_access_only=market_access_only,
+        )
+        .pipe(add_iso_codes_column, id_column="country", id_type="regex")
+        .loc[lambda d: d.counterpart_area.isin([counterpart])]
+        .assign(expected_payments=lambda d: round(d.expected_payments / 1e9, 2))
+    )
+
+
+def counterpart_difference(
+    start_year: int,
+    end_year: int,
+    main_counterpart: str,
+    comparison_counterpart: str,
+    filter_type: str,
+    filter_values: str | list,
+    aggregate_name: str,
+):
+    """Helper function to get the difference in expected payments for a single
+    counterpart at a new interest rate and the current interest rate.
+
+    The output is a long dataframe which has the selected counterpart at the
+    original interest rate and at the new interest rate.
+
+    """
+
+    # Get the actual expected payments
+    actual = expected_payment_single_counterpart(
+        start_year=start_year,
+        end_year=end_year,
+        counterpart=main_counterpart,
+        discount_rate=0.05,
+        filter_type=filter_type,
+        filter_values=filter_values,
+        aggregate_name=aggregate_name,
+        market_access_only=False,
+    )
+
+    # Get the rates for the comparison counterpart for the same years
+    comparison = expected_payment_single_counterpart(
+        start_year=start_year,
+        end_year=end_year,
+        counterpart=comparison_counterpart,
+        discount_rate=0.05,
+        filter_type=filter_type,
+        filter_values=filter_values,
+        aggregate_name=aggregate_name,
+        market_access_only=False,
+    ).filter(["year", "avg_rate"])
+
+    # Merge the two dataframes
+    actual = actual.merge(
+        comparison, on="year", how="left", suffixes=("", "_comparison")
+    )
+
+    # Calculate the expected payments at the new rate
+    with_new_expected = actual.assign(
+        expected_payments_at_new_rate=lambda d: d.apply(
+            lambda r: expected_payment_single_counterpart(
+                start_year=start_year,
+                end_year=end_year,
+                counterpart=main_counterpart,
+                new_interest_rate=r.avg_rate_comparison,
+                discount_rate=0.05,
+                filter_type=filter_type,
+                filter_values=filter_values,
+                aggregate_name=aggregate_name,
+                market_access_only=False,
+            )
+            .loc[lambda result: result.year == r.year, "expected_payments"]
+            .values[0],
+            axis=1,
+        )
+    )
+
+    return with_new_expected
