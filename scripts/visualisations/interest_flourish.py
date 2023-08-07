@@ -301,7 +301,7 @@ def counterpart_difference(
         filter_type=filter_type,
         filter_values=filter_values,
         aggregate_name=aggregate_name,
-        market_access_only=True,
+        market_access_only=False,
     )
 
     bonds_ibrd_rate = expected_payment_single_counterpart(
@@ -313,7 +313,7 @@ def counterpart_difference(
         filter_type=filter_type,
         filter_values=filter_values,
         aggregate_name=aggregate_name,
-        market_access_only=True,
+        market_access_only=False,
     ).assign(counterpart_area=f"{counterpart} at new rate", avg_rate=new_rate)
 
     return pd.concat([bonds_actual, bonds_ibrd_rate], ignore_index=True)
@@ -379,22 +379,22 @@ if __name__ == "__main__":
     # bh = data.query("Bondholders.notna()")
     # wb = data.query("`World Bank-IBRD`.notna()")
 
-    # # data_afr = bondholders_difference(new_rate=1.135075)
+    # data_afr = bondholders_difference(new_rate=1.135075)
     # data = counterpart_difference(
     #     counterpart="Bondholders",
-    #     new_rate=1.101698,
+    #     new_rate=4.026659951 + 2,
     #     filter_type="income_level",
     #     filter_values=["Lower middle income", "Upper middle income"],
     #     aggregate_name="MIC",
     # )
 
     afr_data = counterpart_difference(
-        counterpart="World Bank-IBRD",
-        new_rate=1.135075,
+        counterpart="Bondholders",
+        new_rate=5.778012+1,
         filter_type="continent",
         filter_values="Africa",
         aggregate_name="Africa",
-    )
+    ).loc[lambda d: d.year == 2021]
 
     # data_country = observable_by_country(start_year=2017, end_year=2021)
     #
