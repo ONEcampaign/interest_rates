@@ -387,17 +387,17 @@ if __name__ == "__main__":
     #     filter_values=["Lower middle income", "Upper middle income"],
     #     aggregate_name="MIC",
     # )
-    #
-    # afr_data = counterpart_difference(
-    #     counterpart="Bondholders",
-    #     new_rate=1.135075,
-    #     filter_type="continent",
-    #     filter_values="Africa",
-    #     aggregate_name="Africa",
-    # )
 
-    data_country = observable_by_country(start_year=2017, end_year=2021)
-
-    data_country.to_csv(
-        f"{Paths.output}/country_counterpart_with_weights_2016-21.csv", index=False
+    afr_data = counterpart_difference(
+        counterpart="World Bank-IBRD",
+        new_rate=1.135075,
+        filter_type="continent",
+        filter_values="Africa",
+        aggregate_name="Africa",
     )
+
+    # data_country = observable_by_country(start_year=2017, end_year=2021)
+    #
+    # data_country.to_csv(
+    #     f"{Paths.output}/country_counterpart_with_weights_2016-21.csv", index=False
+    # )

@@ -6,13 +6,15 @@ from bblocks import add_iso_codes_column, set_bblocks_data_path, DebtIDS
 set_bblocks_data_path(Paths.raw_data)
 
 
-def update_debt_service() -> None:
+def update_debt_service(star_year: int, end_year: int) -> None:
     """Update the debt service data"""
     ids = DebtIDS()
 
     service_indicators = ids.debt_service_indicators()
 
-    ids.load_data(indicators=list(service_indicators), start_year=2020, end_year=2023)
+    ids.load_data(
+        indicators=list(service_indicators), start_year=star_year, end_year=end_year
+    )
 
     df = ids.get_data()
 
@@ -49,12 +51,11 @@ def _keep_valid_iso(df: pd.DataFrame) -> pd.DataFrame:
     return df.query("iso_code.str.len() == 3").reset_index(drop=True)
 
 
-def service_data(year: int = 2020) -> pd.DataFrame:
+def service_data() -> pd.DataFrame:
     return (
         read_debt_service()
         .pipe(_filter_world_counterpart)
         .pipe(_create_service_total)
-        .pipe(_filter_year, year=year)
         .pipe(add_iso_codes_column, id_column="country", id_type="regex")
         .pipe(_keep_valid_iso)
     )

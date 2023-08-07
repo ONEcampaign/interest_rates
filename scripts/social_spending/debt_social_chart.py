@@ -1,5 +1,5 @@
 import pandas as pd
-from bblocks import add_short_names_column
+from bblocks import add_income_level_column, add_short_names_column
 
 from scripts import config
 from scripts.debt.debt_service import service_data
@@ -7,7 +7,7 @@ from scripts.government.revenue import get_gdp_usd, get_government_expenditure_g
 
 
 def debt_gdp() -> pd.DataFrame:
-    debt = service_data()
+    debt = service_data().assign(year=lambda d: d.year.dt.year)
     gdp = get_gdp_usd()
     return (
         pd.merge(debt, gdp, on=["iso_code", "year"], suffixes=("_debt", "_gdp"))
@@ -54,14 +54,9 @@ def education_spending() -> pd.DataFrame:
 def debt_education_health_comparison_chart() -> pd.DataFrame:
     debt = debt_exp()
     health = health_spending()
-    education = education_spending()
 
     df = (
         pd.merge(debt, health, on=["iso_code", "year"], suffixes=("_debt", "_health"))
-        .merge(
-            education.rename(columns={"value": "value_education"}),
-            on=["iso_code", "year"],
-        )
         .pipe(
             add_short_names_column,
             id_column="iso_code",
@@ -79,3 +74,39 @@ def debt_education_health_comparison_chart() -> pd.DataFrame:
             ]
         )
     )
+
+    df = add_income_level_column(df, id_column="iso_code", id_type="ISO3")
+
+    # Define labels
+    labels = ["very low", "low", "moderate", "high", "very high"]
+
+    order = {
+        "very low": 0,
+        "low": 1,
+        "moderate": 2,
+        "high": 3,
+        "very high": 4,
+    }
+
+    # Compute the quantile thresholds based on the entire dataset's distribution
+    quantiles = df["value_debt"].quantile([0, 0.2, 0.4, 0.6, 0.8, 1]).values
+
+    # For each country, compute the median value over the years
+    medians = df.groupby("name")["value_debt"].median()
+
+    # Use the computed quantile thresholds to assign a label to each country's median value
+    country_labels = pd.cut(medians, bins=quantiles, labels=labels, include_lowest=True)
+
+    # Map the country labels to the original DataFrame
+    df["category"] = df["name"].map(country_labels)
+    df = (
+        df.assign(order=lambda d: d.category.map(order))
+        .sort_values(["year", "order"])
+        .drop("order", axis=1)
+        .loc[lambda d: d.year < 2021]
+    )
+    return df
+
+
+if __name__ == "__main__":
+    data = debt_education_health_comparison_chart()

@@ -264,7 +264,6 @@ def expected_payments_on_new_debt(
     if market_access_only:
         df = keep_market_access_only(df)
 
-    df = df.query("year ==2017 and counterpart_area == 'Bondholders'")
     # Add expected payments
     df = df.assign(
         expected_payments=df.apply(
