@@ -6,9 +6,9 @@ from scripts.debt.debt_service import service_data
 from scripts.government.revenue import get_gdp_usd, get_government_expenditure_gdp
 
 
-def debt_gdp() -> pd.DataFrame:
+def debt_gdp(update_data: bool = False) -> pd.DataFrame:
     debt = service_data().assign(year=lambda d: d.year.dt.year)
-    gdp = get_gdp_usd()
+    gdp = get_gdp_usd(update_data=update_data)
     return (
         pd.merge(debt, gdp, on=["iso_code", "year"], suffixes=("_debt", "_gdp"))
         .assign(
@@ -33,8 +33,8 @@ def _gdp2exp(indicator_df: pd.DataFrame, indicator_name: str) -> pd.DataFrame:
     )
 
 
-def debt_exp() -> pd.DataFrame:
-    debt = debt_gdp()
+def debt_exp(update_data: bool = False) -> pd.DataFrame:
+    debt = debt_gdp(update_data=update_data)
 
     return _gdp2exp(debt, "Debt (% Expenditure)")
 
@@ -51,8 +51,8 @@ def education_spending() -> pd.DataFrame:
     return _gdp2exp(education, "Education (% Expenditure)")
 
 
-def debt_education_health_comparison_chart() -> pd.DataFrame:
-    debt = debt_exp()
+def debt_health_comparison_chart(update_data: bool = False) -> None:
+    debt = debt_exp(update_data=update_data)
     health = health_spending()
 
     df = (
@@ -105,8 +105,7 @@ def debt_education_health_comparison_chart() -> pd.DataFrame:
         .drop("order", axis=1)
         .loc[lambda d: d.year < 2021]
     )
-    return df
-
-
-if __name__ == "__main__":
-    data = debt_education_health_comparison_chart()
+    df.to_csv(
+        config.Paths.output / "debt_health_2020.csv",
+        index=False,
+    )

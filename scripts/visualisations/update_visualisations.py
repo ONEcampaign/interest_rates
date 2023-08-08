@@ -1,7 +1,7 @@
 import json
 import os
 
-from bblocks import WFPData
+from bblocks import WFPData, WorldEconomicOutlook
 
 from scripts import config
 from scripts.fed_rates.rates_chart import (
@@ -9,6 +9,7 @@ from scripts.fed_rates.rates_chart import (
     wide_fed_rates_chart,
 )
 from scripts.inflation.inflation_charts import inflation_key_numbers
+from scripts.social_spending.debt_social_chart import debt_health_comparison_chart
 from scripts.visualisations.interest_flourish import (
     chart_africa_other_bondholders_ibrd_line,
     chart_data_africa_other_rates_scatter,
@@ -46,7 +47,7 @@ def update_fed_charts() -> None:
     wide_fed_rates_chart()
 
 
-# ---------------------- Inflation ---------------------- #
+# ---------------------- INFLATION ---------------------- #
 def update_inflation_data() -> None:
     # Update the raw data
     wfp = WFPData()
@@ -69,3 +70,13 @@ def update_interest_data_and_charts() -> None:
     chart_data_africa_other_rates_scatter(start_year=2000, end_year=2021)
     chart_scrolly_chart_map_africa_ibrd_2021_rates()
     chart_scrolly_chart_map_africa_bonds_2021_rates()
+
+
+# ---------------------- HEALTH DEBT DATA  ---------------------- #
+
+def update_debt_health_chart_data() -> None:
+    indicator = "NGDPD"
+    weo = WorldEconomicOutlook()
+    weo.load_data(indicator=indicator)
+    weo.update_data(reload_data=True, year=None, release=None)
+    debt_health_comparison_chart()
