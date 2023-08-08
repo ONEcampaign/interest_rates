@@ -6,6 +6,11 @@ import requests
 
 
 def get_fed_data(vintage: str | None = None) -> pd.DataFrame:
+    """Download the effective federal funds rate from FRED.
+
+    The vintage date is the date at which the data is downloaded, unless specified.
+
+    """
     if vintage is None:
         vintage = pd.Timestamp.today().strftime("%Y-%m-%d")
 
@@ -36,7 +41,7 @@ def hike_periods() -> dict[str, tuple[str, str]]:
         "'99-'00": ("1999-01-01", "2000-07-01"),
         "'04-'06": ("2004-05-01", "2006-08-01"),
         "'15-'18": ("2015-11-01", "2019-01-01"),
-        "'22-?": ("2022-01-01", pd.Timestamp.today().strftime("%Y-%m-%d")),
+        "'22-present": ("2022-01-01", pd.Timestamp.today().strftime("%Y-%m-%d")),
     }
 
 
@@ -82,10 +87,12 @@ def update_fed_rate_hikes_chart_data() -> None:
 
 def wide_fed_rates_chart() -> None:
     df = pd.read_csv(config.Paths.output / "fed_rate_hikes.csv")
-    df2 = df.pivot(
+    df = df.pivot(
         index=["months", "date", "effective_rate"], columns="cycle", values="change"
     )
+    df.to_csv(config.Paths.output / "fed_rate_hikes_wide_flourish_chart.csv")
 
 
 if __name__ == "__main__":
     update_fed_rate_hikes_chart_data()
+    wide_fed_rates_chart()

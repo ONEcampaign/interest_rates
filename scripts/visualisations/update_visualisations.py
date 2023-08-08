@@ -1,0 +1,71 @@
+import json
+import os
+
+from bblocks import WFPData
+
+from scripts import config
+from scripts.fed_rates.rates_chart import (
+    update_fed_rate_hikes_chart_data,
+    wide_fed_rates_chart,
+)
+from scripts.inflation.inflation_charts import inflation_key_numbers
+from scripts.visualisations.interest_flourish import (
+    chart_africa_other_bondholders_ibrd_line,
+    chart_data_africa_other_rates_scatter,
+    chart_scrolly_bars_africa_bonds_vs_ibrd_rates,
+    chart_scrolly_bars_mics_bonds_vs_ibrd_rates,
+    chart_scrolly_chart_map_africa_bonds_2021_rates,
+    chart_scrolly_chart_map_africa_ibrd_2021_rates,
+    export_africa_geometries,
+)
+
+
+def update_key_number(path: str, new_dict: dict) -> None:
+    """Update a key number json by updating it with a new dictionary"""
+
+    # Check if the file exists, if not create
+    if not os.path.exists(path):
+        with open(path, "w") as f:
+            json.dump({}, f)
+
+    with open(path, "r") as f:
+        data = json.load(f)
+
+    for k in new_dict.keys():
+        data[k] = new_dict[k]
+
+    with open(path, "w") as f:
+        json.dump(data, f, indent=4)
+
+
+# ---------------------- FED RATES CHART ---------------------- #
+
+
+def update_fed_charts() -> None:
+    update_fed_rate_hikes_chart_data()
+    wide_fed_rates_chart()
+
+
+# ---------------------- Inflation ---------------------- #
+def update_inflation_data() -> None:
+    # Update the raw data
+    wfp = WFPData()
+    wfp.load_data("inflation")
+    wfp.update_data(True)
+
+    # Update key numbers
+    data = inflation_key_numbers()
+    update_key_number(config.Paths.output / "inflation_key_numbers.json", data)
+
+
+# ---------------------- INTEREST RATES CHART ---------------------- #
+
+
+def update_interest_data_and_charts() -> None:
+    export_africa_geometries()
+    chart_scrolly_bars_africa_bonds_vs_ibrd_rates(update_data=True)
+    chart_scrolly_bars_mics_bonds_vs_ibrd_rates()
+    chart_africa_other_bondholders_ibrd_line(start_year=2000, end_year=2021)
+    chart_data_africa_other_rates_scatter(start_year=2000, end_year=2021)
+    chart_scrolly_chart_map_africa_ibrd_2021_rates()
+    chart_scrolly_chart_map_africa_bonds_2021_rates()

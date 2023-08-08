@@ -76,6 +76,7 @@ def get_clean_data(
     indicators: list | dict | str,
     filter_counterparts: bool = False,
     counterparts: list | dict = None,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get indicator data for each country/counterpart_area pair."""
 
@@ -89,6 +90,9 @@ def get_clean_data(
 
     # Load data
     ids.load_data(indicators=indicators, start_year=start_year, end_year=end_year)
+
+    if update_data:
+        ids.update_data(reload_data=True)
 
     # Get data and clean it
     df = ids.get_data().pipe(

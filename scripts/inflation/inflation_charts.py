@@ -136,7 +136,7 @@ def _get_max(df: pd.DataFrame) -> pd.DataFrame:
     ]
 
 
-def inflation_key_numbers():
+def inflation_key_numbers() -> dict:
     wfp = WFPData()
     wfp.load_data("inflation")
 
@@ -174,6 +174,3 @@ def inflation_key_numbers():
         "africa_latest_value": africa_latest["value"].max(),
     }
 
-
-if __name__ == "__main__":
-    data = inflation_key_numbers()

@@ -20,7 +20,7 @@ def scatter_rate_interest_africa_other(
     end_year: int = 2021,
     filter_counterparts: bool = True,
 ) -> pd.DataFrame:
-    """Data for a scatterplot of interest rates for africa and other countries"""
+    """Data for a scatterplot of interest rates for africa and other countries."""
     # Get data
     df = get_merged_rates_commitments_payments_data(
         start_year=start_year,
@@ -179,7 +179,7 @@ def export_africa_geometries():
 
 
 def _helper_scrolly_chart_map_counterpart_2021_rates(
-    counterpart: str = "World Bank-IBRD",
+    counterpart: str = "World Bank-IBRD", update_data: bool = False
 ) -> pd.DataFrame:
     """A CSV of the data for a scrolly map of IBRD rates"""
 
@@ -193,6 +193,7 @@ def _helper_scrolly_chart_map_counterpart_2021_rates(
             filter_countries=True,
             market_access_only=False,
             add_aggregate=False,
+            update_data=update_data,
         )
         .loc[lambda d: d.counterpart_area == counterpart]
         .pipe(add_iso_codes_column, id_column="country", id_type="regex")
@@ -201,23 +202,27 @@ def _helper_scrolly_chart_map_counterpart_2021_rates(
     )
 
 
-def chart_scrolly_chart_map_africa_ibrd_2021_rates() -> None:
-    data = _helper_scrolly_chart_map_counterpart_2021_rates("World Bank-IBRD")
+def chart_scrolly_chart_map_africa_ibrd_2021_rates(update_data: bool = False) -> None:
+    data = _helper_scrolly_chart_map_counterpart_2021_rates(
+        counterpart="World Bank-IBRD", update_data=update_data
+    )
 
     data.to_csv(
         Paths.output / "scrolly_chart_map_ibrd_africa_2021_rates.csv", index=False
     )
 
 
-def chart_scrolly_chart_map_africa_bonds_2021_rates() -> None:
-    data = _helper_scrolly_chart_map_counterpart_2021_rates("Bondholders")
+def chart_scrolly_chart_map_africa_bonds_2021_rates(update_data: bool = False) -> None:
+    data = _helper_scrolly_chart_map_counterpart_2021_rates(
+        counterpart="Bondholders", update_data=update_data
+    )
 
     data.to_csv(
         Paths.output / "scrolly_chart_map_ibrd_africa_2021_rates.csv", index=False
     )
 
 
-def chart_scrolly_bars_africa_bonds_vs_ibrd_rates() -> None:
+def chart_scrolly_bars_africa_bonds_vs_ibrd_rates(update_data: bool = False) -> None:
     data = counterpart_difference(
         start_year=2017,
         end_year=2021,
@@ -226,6 +231,7 @@ def chart_scrolly_bars_africa_bonds_vs_ibrd_rates() -> None:
         filter_type="continent",
         filter_values="Africa",
         aggregate_name="Africa",
+        update_data=update_data,
     )
 
     data.filter(
@@ -241,7 +247,7 @@ def chart_scrolly_bars_africa_bonds_vs_ibrd_rates() -> None:
     )
 
 
-def chart_scrolly_bars_mics_bonds_vs_ibrd_rates() -> None:
+def chart_scrolly_bars_mics_bonds_vs_ibrd_rates(update_data: bool = False) -> None:
     data = counterpart_difference(
         start_year=2017,
         end_year=2021,
@@ -250,6 +256,7 @@ def chart_scrolly_bars_mics_bonds_vs_ibrd_rates() -> None:
         filter_type="income_level",
         filter_values=["Lower middle income", "Upper middle income"],
         aggregate_name="Middle income countries",
+        update_data=update_data,
     )
 
     data.filter(
@@ -261,13 +268,3 @@ def chart_scrolly_bars_mics_bonds_vs_ibrd_rates() -> None:
             "expected_payments_at_new_rate",
         ]
     ).to_csv(Paths.output / "scrolly_bars_mics_bonds_vs_at_ibrd_rates.csv", index=False)
-
-
-if __name__ == "__main__":
-    export_africa_geometries()
-    chart_africa_other_bondholders_ibrd_line(start_year=2000, end_year=2021)
-    chart_data_africa_other_rates_scatter(start_year=2000, end_year=2021)
-    chart_scrolly_chart_map_africa_ibrd_2021_rates()
-    chart_scrolly_chart_map_africa_bonds_2021_rates()
-    chart_scrolly_bars_africa_bonds_vs_ibrd_rates()
-    chart_scrolly_bars_mics_bonds_vs_ibrd_rates()

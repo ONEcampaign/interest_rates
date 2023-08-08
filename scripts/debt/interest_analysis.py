@@ -43,7 +43,10 @@ def study_counterparts() -> dict:
 
 
 def get_average_interest(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get data with the weighted average interest rate for each country/counterpart_area pair."""
     return get_clean_data(
@@ -52,11 +55,15 @@ def get_average_interest(
         indicators=INTEREST_RATE_INDICATOR,
         filter_counterparts=filter_counterparts,
         counterparts=study_counterparts(),
+        update_data=update_data,
     )
 
 
 def get_interest_payments(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get data with the interest payments for each country/counterpart_area pair."""
     return get_clean_data(
@@ -65,11 +72,15 @@ def get_interest_payments(
         indicators=INTEREST_PAYMENTS_INDICATORS,
         filter_counterparts=filter_counterparts,
         counterparts=study_counterparts(),
+        update_data=update_data,
     )
 
 
 def get_commitments(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get data with the commitments for each country/counterpart_area pair."""
     data = get_clean_data(
@@ -78,13 +89,17 @@ def get_commitments(
         indicators=COMMITMENTS_INDICATORS,
         filter_counterparts=filter_counterparts,
         counterparts=study_counterparts(),
+        update_data=update_data,
     )
 
     return data
 
 
 def get_maturities(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get data with the maturities for each country/counterpart_area pair."""
     return get_clean_data(
@@ -93,11 +108,15 @@ def get_maturities(
         indicators=MATURITY_INDICATOR,
         filter_counterparts=filter_counterparts,
         counterparts=study_counterparts(),
+        update_data=update_data,
     )
 
 
 def get_grace(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get data with the grace period for each country/counterpart_area pair."""
     return get_clean_data(
@@ -106,6 +125,7 @@ def get_grace(
         indicators=GRACE_PERIOD_INDICATOR,
         filter_counterparts=filter_counterparts,
         counterparts=study_counterparts(),
+        update_data=update_data,
     )
 
 
@@ -147,7 +167,10 @@ def get_merged_rates_commitments_payments_data(
 
 
 def get_merged_rates_commitments_grace_maturities_data(
-    start_year: int, end_year: int, filter_counterparts: bool = True
+    start_year: int,
+    end_year: int,
+    filter_counterparts: bool = True,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Get the data with the interest rate, the commitments, the grace period and the maturities.
 
@@ -166,10 +189,12 @@ def get_merged_rates_commitments_grace_maturities_data(
 
     """
 
-    rate = get_average_interest(start_year, end_year, filter_counterparts)
-    commitments = get_commitments(start_year, end_year, filter_counterparts)
-    grace = get_grace(start_year, end_year, filter_counterparts)
-    maturities = get_maturities(start_year, end_year, filter_counterparts)
+    rate = get_average_interest(start_year, end_year, filter_counterparts, update_data)
+    commitments = get_commitments(
+        start_year, end_year, filter_counterparts, update_data
+    )
+    grace = get_grace(start_year, end_year, filter_counterparts, update_data)
+    maturities = get_maturities(start_year, end_year, filter_counterparts, update_data)
 
     idx = ["year", "country", "counterpart_area", "continent", "income_level"]
 
@@ -201,6 +226,7 @@ def expected_payments_on_new_debt(
     aggregate_name: str = None,
     only_aggregate: bool = False,
     weights_by: list[str] | None = None,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Compute the expected interest payments on new debt for each country/counterpart_area pair.
 
@@ -257,6 +283,7 @@ def expected_payments_on_new_debt(
         start_year=start_year,
         end_year=end_year,
         filter_counterparts=filter_counterparts,
+        update_data=update_data,
     )
 
     if filter_countries:
@@ -300,42 +327,6 @@ def expected_payments_on_new_debt(
     return df
 
 
-if __name__ == "__main__":
-    data = (
-        expected_payments_on_new_debt(
-            start_year=2000,
-            end_year=2021,
-            discount_rate=0.05,
-            new_interest_rate=None,
-            interest_rate_difference=None,
-            filter_counterparts=True,
-            filter_countries=True,
-            filter_type="income_level",
-            filter_values=["Upper middle income", "Lower middle income"],
-            add_aggregate=True,
-            aggregate_name="Middle income",
-            only_aggregate=True,
-        )
-        .assign(
-            expected_payments=lambda d: round(d.expected_payments / 1e9, 1),
-            new_loans=lambda d: round(d.value_commitments / 1e9, 1),
-        )
-        .query(
-            "year == 2021 and counterpart_area.isin(['World Bank-IBRD','Bondholders'])"
-        )
-        .filter(
-            [
-                "year",
-                "counterpart_area",
-                "country",
-                "expected_payments",
-                "new_loans",
-                "avg_rate",
-            ]
-        )
-    )
-
-
 def expected_payment_single_counterpart(
     start_year: int,
     end_year: int,
@@ -348,6 +339,7 @@ def expected_payment_single_counterpart(
     filter_values: str | list,
     aggregate_name: str,
     market_access_only: bool = False,
+    update_data: bool = False,
 ) -> pd.DataFrame:
     """Helper function to get expected payments for a single counterpart.
     It is a thin wrapper around `expected_payments_on_new_debt` that filters
@@ -368,6 +360,7 @@ def expected_payment_single_counterpart(
             aggregate_name=aggregate_name,
             only_aggregate=True,
             market_access_only=market_access_only,
+            update_data=update_data,
         )
         .pipe(add_iso_codes_column, id_column="country", id_type="regex")
         .loc[lambda d: d.counterpart_area.isin([counterpart])]
@@ -383,6 +376,7 @@ def counterpart_difference(
     filter_type: str,
     filter_values: str | list,
     aggregate_name: str,
+    update_data: bool = False,
 ):
     """Helper function to get the difference in expected payments for a single
     counterpart at a new interest rate and the current interest rate.
@@ -402,6 +396,7 @@ def counterpart_difference(
         filter_values=filter_values,
         aggregate_name=aggregate_name,
         market_access_only=False,
+        update_data=update_data,
     )
 
     # Get the rates for the comparison counterpart for the same years
