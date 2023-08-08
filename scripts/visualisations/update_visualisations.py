@@ -74,6 +74,7 @@ def update_interest_data_and_charts() -> None:
 
 # ---------------------- HEALTH DEBT DATA  ---------------------- #
 
+
 def update_debt_health_chart_data() -> None:
     indicator = "NGDPD"
     weo = WorldEconomicOutlook()
