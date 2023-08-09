@@ -1,4 +1,4 @@
-# Project title
+# The hidden impacts of rising interest rates
 
 This repository contains the data and scripts powering
 [The hidden impacts of rising interest rates]() page.
