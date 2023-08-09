@@ -4,7 +4,7 @@ import os
 from bblocks import WFPData, WorldEconomicOutlook
 
 from scripts import config
-from script.logger import logger
+from scripts.logger import logger
 from scripts.fed_rates.rates_chart import (
     update_fed_rate_hikes_chart_data,
     wide_fed_rates_chart,
