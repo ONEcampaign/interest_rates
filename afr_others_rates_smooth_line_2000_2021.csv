@@ -1,0 +1,109 @@
+year,debtor,income_level,Bondholders,World Bank-IBRD
+2001,Africa,Low income,,5.82
+2012,Africa,Low income,5.375,
+2013,Africa,Low income,6.399,
+2014,Africa,Low income,7.511,
+2015,Africa,Low income,8.933,
+2017,Africa,Low income,3.0,
+2018,Africa,Low income,3.0,
+2019,Africa,Low income,3.832,
+2020,Africa,Low income,3.769,
+2021,Africa,Low income,5.123,
+2001,Other,Low income,,
+2012,Other,Low income,,
+2013,Other,Low income,,
+2014,Other,Low income,,
+2015,Other,Low income,,
+2017,Other,Low income,,
+2018,Other,Low income,,
+2019,Other,Low income,,
+2020,Other,Low income,,
+2021,Other,Low income,,
+2000,Africa,Lower middle income,,7.667
+2001,Africa,Lower middle income,7.184,3.992
+2002,Africa,Lower middle income,7.375,2.758
+2003,Africa,Lower middle income,5.072,1.825
+2004,Africa,Lower middle income,4.75,1.952
+2005,Africa,Lower middle income,4.464,3.179
+2006,Africa,Lower middle income,,5.502
+2007,Africa,Lower middle income,7.196,4.779
+2008,Africa,Lower middle income,,3.206
+2009,Africa,Lower middle income,8.75,1.183
+2010,Africa,Lower middle income,5.362,0.837
+2011,Africa,Lower middle income,8.175,0.844
+2012,Africa,Lower middle income,4.402,1.009
+2013,Africa,Lower middle income,3.106,0.688
+2014,Africa,Lower middle income,5.954,0.764
+2015,Africa,Lower middle income,7.408,1.325
+2016,Africa,Lower middle income,6.116,2.188
+2017,Africa,Lower middle income,6.738,1.902
+2018,Africa,Lower middle income,7.216,2.353
+2019,Africa,Lower middle income,6.993,2.623
+2020,Africa,Lower middle income,5.619,1.416
+2021,Africa,Lower middle income,5.788,1.158
+2000,Other,Lower middle income,6.131,7.564
+2001,Other,Lower middle income,8.417,4.437
+2002,Other,Lower middle income,7.838,3.974
+2003,Other,Lower middle income,6.068,2.373
+2004,Other,Lower middle income,7.378,2.608
+2005,Other,Lower middle income,6.991,4.477
+2006,Other,Lower middle income,7.065,5.959
+2007,Other,Lower middle income,6.427,3.954
+2008,Other,Lower middle income,7.723,2.551
+2009,Other,Lower middle income,7.755,1.272
+2010,Other,Lower middle income,5.927,0.865
+2011,Other,Lower middle income,5.837,0.89
+2012,Other,Lower middle income,5.5,1.118
+2013,Other,Lower middle income,5.452,0.737
+2014,Other,Lower middle income,5.539,0.513
+2015,Other,Lower middle income,5.869,1.189
+2016,Other,Lower middle income,4.554,1.819
+2017,Other,Lower middle income,5.362,2.137
+2018,Other,Lower middle income,5.559,2.737
+2019,Other,Lower middle income,5.666,3.181
+2020,Other,Lower middle income,4.099,1.289
+2021,Other,Lower middle income,3.997,1.089
+2000,Africa,Upper middle income,5.413,7.71
+2001,Africa,Upper middle income,5.63,
+2002,Africa,Upper middle income,6.872,3.605
+2003,Africa,Upper middle income,5.25,
+2004,Africa,Upper middle income,6.5,
+2005,Africa,Upper middle income,,
+2006,Africa,Upper middle income,6.5,4.613
+2007,Africa,Upper middle income,6.445,
+2008,Africa,Upper middle income,5.0,2.614
+2009,Africa,Upper middle income,5.0,0.841
+2010,Africa,Upper middle income,5.0,0.778
+2011,Africa,Upper middle income,5.078,
+2012,Africa,Upper middle income,4.971,1.358
+2013,Africa,Upper middle income,5.787,0.925
+2014,Africa,Upper middle income,4.815,0.988
+2015,Africa,Upper middle income,5.379,
+2016,Africa,Upper middle income,4.86,1.099
+2017,Africa,Upper middle income,5.018,1.588
+2018,Africa,Upper middle income,5.656,
+2019,Africa,Upper middle income,5.198,1.05
+2020,Africa,Upper middle income,5.701,0.5
+2021,Africa,Upper middle income,5.923,0.788
+2000,Other,Upper middle income,9.781,7.05
+2001,Other,Upper middle income,7.95,4.26
+2002,Other,Upper middle income,8.496,2.476
+2003,Other,Upper middle income,7.102,1.741
+2004,Other,Upper middle income,6.42,2.578
+2005,Other,Upper middle income,6.466,4.348
+2006,Other,Upper middle income,6.546,5.52
+2007,Other,Upper middle income,6.152,5.601
+2008,Other,Upper middle income,6.614,3.01
+2009,Other,Upper middle income,5.288,1.227
+2010,Other,Upper middle income,3.999,0.917
+2011,Other,Upper middle income,4.307,1.116
+2012,Other,Upper middle income,4.058,1.123
+2013,Other,Upper middle income,3.414,0.871
+2014,Other,Upper middle income,4.497,0.688
+2015,Other,Upper middle income,4.82,1.127
+2016,Other,Upper middle income,6.76,1.693
+2017,Other,Upper middle income,4.469,2.028
+2018,Other,Upper middle income,6.032,3.081
+2019,Other,Upper middle income,5.374,2.844
+2020,Other,Upper middle income,4.587,1.551
+2021,Other,Upper middle income,3.801,1.12
