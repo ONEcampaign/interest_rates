@@ -22,7 +22,7 @@ jobs:
           
       - name: Update Visualizations
         run: |
-          python scripts/update_visualizations.py
+          python scripts/visualizations/update_visualizations.py
 
       - name: commit changes
         run: |
