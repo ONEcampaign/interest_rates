@@ -22,6 +22,7 @@ jobs:
           
       - name: Update Visualizations
         run: |
+          export PYTHONPATH=$PYTHONPATH:$PWD
           python scripts/visualisations/update_visualisations.py
 
       - name: commit changes
