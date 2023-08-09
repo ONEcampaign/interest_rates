@@ -4,6 +4,7 @@ import os
 from bblocks import WFPData, WorldEconomicOutlook
 
 from scripts import config
+from script.logger import logger
 from scripts.fed_rates.rates_chart import (
     update_fed_rate_hikes_chart_data,
     wide_fed_rates_chart,
@@ -81,3 +82,28 @@ def update_debt_health_chart_data() -> None:
     weo.load_data(indicator=indicator)
     weo.update_data(reload_data=True, year=None, release=None)
     debt_health_comparison_chart()
+
+
+def update_visualisations() -> None:
+    """Pipeline to update all visualisations"""
+
+    update_fed_charts()
+    logger.info("Updated FED charts")
+
+    update_inflation_data()
+    logger.info("Updated inflation data")
+
+    update_interest_data_and_charts()
+    logger.info("Updated interest data and charts")
+
+    update_debt_health_chart_data()
+    logger.info("Updated debt health chart data")
+
+    logger.info("Successfully updated all visualisations")
+
+
+if __name__ == "__main__":
+    update_visualisations()
+
+
+
