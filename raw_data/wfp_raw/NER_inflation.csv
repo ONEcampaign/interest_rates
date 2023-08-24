@@ -136,6 +136,8 @@ Food Inflation,2023-02-28,-0.6,NER
 Food Inflation,2023-03-31,-0.1,NER
 Food Inflation,2023-04-30,-0.4,NER
 Food Inflation,2023-05-31,-1.9,NER
+Food Inflation,2023-06-30,0.0,NER
+Food Inflation,2023-07-31,3.1,NER
 Inflation Rate,2003-01-31,0.1,NER
 Inflation Rate,2003-02-28,0.4,NER
 Inflation Rate,2003-03-31,0.0,NER
@@ -366,9 +368,9 @@ Inflation Rate,2022-08-31,3.408,NER
 Inflation Rate,2022-09-30,3.165,NER
 Inflation Rate,2022-10-31,3.022,NER
 Inflation Rate,2022-11-30,3.486,NER
-Inflation Rate,2022-12-31,3.1,NER
-Inflation Rate,2023-01-31,2.1,NER
-Inflation Rate,2023-02-28,1.1,NER
+Inflation Rate,2022-12-31,3.108,NER
+Inflation Rate,2023-01-31,2.072,NER
+Inflation Rate,2023-02-28,1.074,NER
 Inflation Rate,2023-03-31,1.342,NER
 Inflation Rate,2023-04-30,0.977,NER
 Inflation Rate,2023-05-31,0.265,NER
