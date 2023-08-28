@@ -318,9 +318,7 @@ def expected_payments_on_new_debt(
     df = add_weights(df, idx=weights_idx, value_column="value_commitments")
 
     # Compute weighted average
-    df = compute_weighted_averages(
-        df, idx=["year", "income_level", "continent", "country", "counterpart_area"]
-    )
+    df = compute_weighted_averages(df, idx=weights_idx)
 
     df = pd.concat([group_tot, df], ignore_index=True)
 
@@ -364,7 +362,7 @@ def expected_payment_single_counterpart(
         )
         .pipe(add_iso_codes_column, id_column="country", id_type="regex")
         .loc[lambda d: d.counterpart_area.isin([counterpart])]
-        .assign(expected_payments=lambda d: round(d.expected_payments / 1e9, 2))
+        .assign(expected_payments=lambda d: round(d.expected_payments / 1e9, 3))
     )
 
 

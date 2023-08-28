@@ -195,7 +195,7 @@ def compute_grouping_stats(
     The value_columns parameter is the list of columns to compute the weighted averages on.
     """
 
-    if filter_type not in ["continent", "income_level"]:
+    if filter_type not in ["continent", "income_level", "country"]:
         raise ValueError("groupby_type must be either 'continent' or 'income_level'")
 
     if idx is None:

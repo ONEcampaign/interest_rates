@@ -1,9 +1,9 @@
 # The hidden impacts of rising interest rates
 
 This repository contains the data and scripts powering
-[The hidden impacts of rising interest rates]() page.
+[The hidden impacts of rising interest rates](https://data.one.org/data-dives/data-dive-the-hidden-impacts-of-rising-interest-rates/) page.
 
-Methodology can be found here: [Methodology]().
+Methodology can be found here: [Methodology](https://observablehq.com/@one-campaign/hidden-impacts-of-rising-interest-rates).
 
 To reproduce the analysis, `Python >= 3.10` is required.
 Package requirements can be found in `requirements.txt`.
