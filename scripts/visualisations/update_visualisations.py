@@ -1,15 +1,16 @@
+import datetime
 import json
 import os
 
 from bblocks import WFPData, WorldEconomicOutlook
 
 from scripts import config
-from scripts.logger import logger
 from scripts.fed_rates.rates_chart import (
     update_fed_rate_hikes_chart_data,
     wide_fed_rates_chart,
 )
 from scripts.inflation.inflation_charts import inflation_key_numbers
+from scripts.logger import logger
 from scripts.social_spending.debt_social_chart import debt_health_comparison_chart
 from scripts.visualisations.interest_flourish import (
     chart_africa_other_bondholders_ibrd_line,
@@ -93,17 +94,17 @@ def update_visualisations() -> None:
     update_inflation_data()
     logger.info("Updated inflation data")
 
+
+def update_other_visualisations() -> None:
+    """Pipeline to update visualisations with data that is infrequently updated"""
     update_interest_data_and_charts()
     logger.info("Updated interest data and charts")
 
     update_debt_health_chart_data()
     logger.info("Updated debt health chart data")
 
-    logger.info("Successfully updated all visualisations")
-
 
 if __name__ == "__main__":
     update_visualisations()
-
-
-
+    if datetime.datetime.weekday(datetime.datetime.now()) == 0:
+        update_other_visualisations()
