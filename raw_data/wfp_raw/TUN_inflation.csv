@@ -140,8 +140,8 @@ Food Inflation,2018-06-30,8.6,TUN
 Food Inflation,2018-07-31,8.3,TUN
 Food Inflation,2018-08-31,7.0,TUN
 Food Inflation,2018-09-30,5.8,TUN
-Food Inflation,2018-10-31,6.3,TUN
-Food Inflation,2018-11-30,6.0,TUN
+Food Inflation,2018-10-31,6.5,TUN
+Food Inflation,2018-11-30,5.8,TUN
 Food Inflation,2018-12-31,6.0,TUN
 Food Inflation,2019-01-31,7.1,TUN
 Food Inflation,2019-02-28,8.2,TUN
@@ -157,6 +157,7 @@ Food Inflation,2019-11-30,6.3,TUN
 Food Inflation,2019-12-31,5.8,TUN
 Food Inflation,2020-01-31,4.4,TUN
 Food Inflation,2020-02-28,3.7,TUN
+Food Inflation,2020-02-29,3.7,TUN
 Food Inflation,2020-03-31,5.1,TUN
 Food Inflation,2020-04-30,6.2,TUN
 Food Inflation,2020-05-31,4.7,TUN
@@ -926,3 +927,5 @@ Inflation Rate,2023-04-30,10.1,TUN
 Inflation Rate,2023-05-31,9.6,TUN
 Inflation Rate,2023-06-30,9.4,TUN
 Inflation Rate,2023-07-31,9.1,TUN
+Inflation Rate,2023-08-31,9.2,TUN
+Inflation Rate,2023-09-30,9.0,TUN
