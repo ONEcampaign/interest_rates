@@ -15,22 +15,21 @@ VUT,Vanuatu,2000,2.2129,9.7046,Lower middle income,very low
 AZE,Azerbaijan,2000,4.8251,4.7527,Upper middle income,low
 BEN,Benin,2000,10.9149,5.1599,Lower middle income,low
 BIH,Bosnia and Herzegovina,2000,8.2758,7.2535,Upper middle income,low
-BRA,Brazil,2000,7.6046,9.6767,Upper middle income,low
 BGR,Bulgaria,2000,14.6141,9.3496,Upper middle income,low
-BFA,Burkina Faso,2000,6.4886,4.8484,Low income,low
+BFA,Burkina Faso,2000,6.5083,4.8484,Low income,low
 COM,Comoros,2000,6.0782,9.1548,Lower middle income,low
-ERI,Eritrea,2000,0.5672,2.1419,Low income,low
+ERI,Eritrea,2000,0.6413,2.4218,Low income,low
 SWZ,Eswatini,2000,7.0994,10.043,Lower middle income,low
 FJI,Fiji,2000,5.7664,10.8854,Upper middle income,low
 GNB,Guinea-Bissau,2000,4.539,13.3908,Low income,low
 HTI,Haiti,2000,8.0198,13.9424,Lower middle income,low
 IND,India,2000,7.8074,3.2549,Lower middle income,low
 KGZ,Kyrgyz Republic,2000,9.582,7.064,Lower middle income,low
-LSO,Lesotho,2000,16.871,8.0617,Lower middle income,low
+LSO,Lesotho,2000,15.4988,8.0617,Lower middle income,low
 MLI,Mali,2000,11.7476,6.6686,Low income,low
 MDA,Moldova,2000,15.5927,8.5274,Upper middle income,low
 MOZ,Mozambique,2000,5.352,6.3166,Low income,low
-MMR,Myanmar,2000,1.2224,1.3578,Lower middle income,low
+MMR,Myanmar,2000,1.2222,1.2745,Lower middle income,low
 NER,Niger,2000,6.6674,8.3685,Low income,low
 RWA,Rwanda,2000,5.7742,3.5435,Low income,low
 SLE,Sierra Leone,2000,12.0285,12.6978,Low income,low
@@ -40,14 +39,14 @@ TGO,Togo,2000,6.0818,2.4449,Low income,low
 UZB,Uzbekistan,2000,11.1756,6.1087,Lower middle income,low
 ALB,Albania,2000,1.4011,8.1738,Upper middle income,moderate
 ARG,Argentina,2000,17.5522,17.8197,Upper middle income,moderate
-BGD,Bangladesh,2000,10.8682,6.0937,Lower middle income,moderate
+BGD,Bangladesh,2000,10.5494,6.0937,Lower middle income,moderate
 BOL,Bolivia,2000,11.0053,8.2964,Lower middle income,moderate
 CPV,Cabo Verde,2000,6.2834,7.5016,Lower middle income,moderate
 CMR,Cameroon,2000,24.4075,4.4261,Lower middle income,moderate
 TCD,Chad,2000,7.7603,11.399,Low income,moderate
 COD,DR Congo,2000,0.0,2.4994,Low income,moderate
 COG,Congo Republic,2000,1.6648,2.2729,Lower middle income,moderate
-DJI,Djibouti,2000,5.8414,6.0754,Lower middle income,moderate
+DJI,Djibouti,2000,5.8386,6.0801,Lower middle income,moderate
 EGY,Egypt,2000,5.8345,6.6639,Lower middle income,moderate
 ETH,Ethiopia,2000,5.9012,7.03,Low income,moderate
 GUY,Guyana,2000,14.1427,7.8164,Upper middle income,moderate
@@ -56,9 +55,9 @@ KEN,Kenya,2000,17.2598,4.8739,Lower middle income,moderate
 MDG,Madagascar,2000,14.3826,11.5194,Low income,moderate
 MUS,Mauritius,2000,41.7366,7.313,Upper middle income,moderate
 MNG,Mongolia,2000,7.9504,12.2525,Lower middle income,moderate
-NPL,Nepal,2000,12.7429,4.2408,Lower middle income,moderate
+NPL,Nepal,2000,12.7423,4.2412,Lower middle income,moderate
 NIC,Nicaragua,2000,14.2623,12.4839,Lower middle income,moderate
-PAK,Pakistan,2000,12.991,6.3177,Lower middle income,moderate
+PAK,Pakistan,2000,12.9913,7.0062,Lower middle income,moderate
 PRY,Paraguay,2000,12.1225,11.6876,Upper middle income,moderate
 RUS,Russia,2000,5.5258,9.7212,Upper middle income,moderate
 WSM,Samoa,2000,6.6487,12.0926,Lower middle income,moderate
@@ -66,15 +65,16 @@ STP,Sao Tome and Principe,2000,41.2108,32.0485,Lower middle income,moderate
 SEN,Senegal,2000,21.675,8.9597,Lower middle income,moderate
 ZAF,South Africa,2000,6.7535,11.8555,Upper middle income,moderate
 TJK,Tajikistan,2000,10.9349,4.622,Lower middle income,moderate
-TON,Tonga,2000,11.179,11.4921,Upper middle income,moderate
+TON,Tonga,2000,11.1819,11.6085,Upper middle income,moderate
 TUR,Türkiye,2000,8.99,7.1862,Upper middle income,moderate
 UKR,Ukraine,2000,15.3436,7.0811,Lower middle income,moderate
 VNM,Vietnam,2000,17.5287,7.4927,Lower middle income,moderate
 ZMB,Zambia,2000,20.1579,14.8609,Low income,moderate
 BTN,Bhutan,2000,3.3457,7.6626,Lower middle income,high
 CRI,Costa Rica,2000,22.3278,25.2649,Upper middle income,high
-CIV,Cote d'Ivoire,2000,35.1254,4.5578,Lower middle income,high
+CIV,Cote d'Ivoire,2000,35.0734,4.5578,Lower middle income,high
 DMA,Dominica,2000,7.7283,8.7238,Upper middle income,high
+ECU,Ecuador,2000,55.1098,4.1395,Upper middle income,high
 GMB,Gambia,2000,19.3699,6.3067,Low income,high
 GEO,Georgia,2000,15.5187,4.8523,Upper middle income,high
 GHA,Ghana,2000,25.298,6.0126,Lower middle income,high
@@ -85,17 +85,16 @@ IDN,Indonesia,2000,27.9069,3.5924,Lower middle income,high
 JOR,Jordan,2000,18.9348,12.6907,Upper middle income,high
 LAO,Laos,2000,9.4183,6.1991,Lower middle income,high
 MDV,Maldives,2000,8.0196,8.8291,Upper middle income,high
-MEX,Mexico,2000,17.2385,9.8995,Upper middle income,high
+MEX,Mexico,2000,17.2384,10.3769,Upper middle income,high
 MAR,Morocco,2000,25.8174,4.454,Lower middle income,high
 MKD,North Macedonia,2000,4.5731,14.7146,Upper middle income,high
 PNG,Papua New Guinea,2000,16.0204,8.3175,Lower middle income,high
 PER,Peru,2000,19.089,10.7701,Upper middle income,high
 LKA,Sri Lanka,2000,14.2039,10.4795,Lower middle income,high
-LCA,St. Lucia,2000,13.7488,7.8426,Upper middle income,high
+LCA,St. Lucia,2000,14.0162,7.9951,Upper middle income,high
 AGO,Angola,2000,37.078,2.7386,Lower middle income,very high
 BLZ,Belize,2000,27.6151,7.841,Upper middle income,very high
-DOM,Dominican Republic,2000,13.4434,11.7658,Upper middle income,very high
-ECU,Ecuador,2000,55.1098,4.1395,Upper middle income,very high
+DOM,Dominican Republic,2000,13.8679,12.1373,Upper middle income,very high
 SLV,El Salvador,2000,10.6721,18.81,Lower middle income,very high
 GAB,Gabon,2000,28.4865,5.2414,Upper middle income,very high
 JAM,Jamaica,2000,23.3393,12.0839,Upper middle income,very high
@@ -113,29 +112,29 @@ IRN,Iran,2001,1.9731,11.8704,Lower middle income,very low
 LBR,Liberia,2001,0.0,6.6122,Low income,very low
 NGA,Nigeria,2001,10.9376,2.7796,Lower middle income,very low
 SLB,Solomon Islands,2001,1.829,25.838,Lower middle income,very low
-THA,Thailand,2001,20.559,7.995,Upper middle income,very low
+THA,Thailand,2001,20.5263,7.995,Upper middle income,very low
 UGA,Uganda,2001,2.3862,8.3348,Low income,very low
 VUT,Vanuatu,2001,2.5517,11.2656,Lower middle income,very low
 AZE,Azerbaijan,2001,7.2618,4.707,Upper middle income,low
 BLR,Belarus,2001,3.495,10.047,Upper middle income,low
 BEN,Benin,2001,6.1203,6.0019,Lower middle income,low
 BIH,Bosnia and Herzegovina,2001,8.829,8.6009,Upper middle income,low
-BRA,Brazil,2001,7.8882,9.7898,Upper middle income,low
+BRA,Brazil,2001,6.84,8.489,Upper middle income,low
 BGR,Bulgaria,2001,15.9843,10.5434,Upper middle income,low
 BFA,Burkina Faso,2001,4.4914,4.9421,Low income,low
 COM,Comoros,2001,4.0611,4.1154,Lower middle income,low
-ERI,Eritrea,2001,1.1681,2.0085,Low income,low
+ERI,Eritrea,2001,1.7507,3.0101,Low income,low
 SWZ,Eswatini,2001,6.5496,9.6041,Lower middle income,low
 FJI,Fiji,2001,3.6104,7.7311,Upper middle income,low
 GNB,Guinea-Bissau,2001,5.1056,15.1394,Low income,low
 HTI,Haiti,2001,5.9745,11.9092,Lower middle income,low
 IND,India,2001,6.1023,2.8958,Lower middle income,low
 KGZ,Kyrgyz Republic,2001,11.715,7.1318,Lower middle income,low
-LSO,Lesotho,2001,22.0615,9.6078,Lower middle income,low
+LSO,Lesotho,2001,19.9807,9.6078,Lower middle income,low
 MLI,Mali,2001,9.7885,5.7464,Low income,low
 MDA,Moldova,2001,17.3641,9.7121,Upper middle income,low
 MOZ,Mozambique,2001,4.1102,6.3166,Low income,low
-MMR,Myanmar,2001,1.1964,1.4071,Lower middle income,low
+MMR,Myanmar,2001,1.1966,1.3207,Lower middle income,low
 NER,Niger,2001,5.8273,8.3438,Low income,low
 RWA,Rwanda,2001,4.3892,3.6614,Low income,low
 SRB,Serbia,2001,1.1165,14.3352,Upper middle income,low
@@ -146,14 +145,14 @@ TGO,Togo,2001,8.5875,2.9949,Low income,low
 UZB,Uzbekistan,2001,14.4371,6.6443,Lower middle income,low
 ALB,Albania,2001,1.4025,8.4237,Upper middle income,moderate
 ARG,Argentina,2001,12.5866,17.3733,Upper middle income,moderate
-BGD,Bangladesh,2001,8.6878,4.2454,Lower middle income,moderate
+BGD,Bangladesh,2001,8.4026,4.2454,Lower middle income,moderate
 BOL,Bolivia,2001,9.4696,8.1803,Lower middle income,moderate
 CPV,Cabo Verde,2001,7.1561,11.1729,Lower middle income,moderate
 CMR,Cameroon,2001,12.6373,5.3437,Lower middle income,moderate
 TCD,Chad,2001,6.0206,11.8688,Low income,moderate
 COD,DR Congo,2001,0.0,2.4992,Low income,moderate
 COG,Congo Republic,2001,9.2953,3.3191,Lower middle income,moderate
-DJI,Djibouti,2001,4.7831,5.9686,Lower middle income,moderate
+DJI,Djibouti,2001,4.7867,5.9731,Lower middle income,moderate
 EGY,Egypt,2001,5.8542,6.6327,Lower middle income,moderate
 ETH,Ethiopia,2001,9.3359,8.9822,Low income,moderate
 GUY,Guyana,2001,10.2023,6.7955,Upper middle income,moderate
@@ -162,9 +161,9 @@ KEN,Kenya,2001,12.7035,5.0273,Lower middle income,moderate
 MDG,Madagascar,2001,7.4755,12.2749,Low income,moderate
 MUS,Mauritius,2001,13.081,7.3923,Upper middle income,moderate
 MNG,Mongolia,2001,8.4857,9.9483,Lower middle income,moderate
-NPL,Nepal,2001,10.1736,4.517,Lower middle income,moderate
+NPL,Nepal,2001,10.1752,4.5177,Lower middle income,moderate
 NIC,Nicaragua,2001,12.2246,12.7908,Lower middle income,moderate
-PAK,Pakistan,2001,16.2011,6.3643,Lower middle income,moderate
+PAK,Pakistan,2001,16.2005,7.0485,Lower middle income,moderate
 PRY,Paraguay,2001,14.0752,10.0905,Upper middle income,moderate
 RUS,Russia,2001,8.8504,9.6714,Upper middle income,moderate
 WSM,Samoa,2001,5.7613,10.6633,Lower middle income,moderate
@@ -172,15 +171,16 @@ STP,Sao Tome and Principe,2001,7.7401,6.8829,Lower middle income,moderate
 SEN,Senegal,2001,15.6925,9.0107,Lower middle income,moderate
 ZAF,South Africa,2001,8.6927,10.6229,Upper middle income,moderate
 TJK,Tajikistan,2001,16.6288,4.7621,Lower middle income,moderate
-TON,Tonga,2001,7.6728,12.823,Upper middle income,moderate
+TON,Tonga,2001,7.6789,12.8331,Upper middle income,moderate
 TUR,Türkiye,2001,12.9259,7.4645,Upper middle income,moderate
 UKR,Ukraine,2001,6.2632,7.6346,Lower middle income,moderate
 VNM,Vietnam,2001,14.4498,6.2272,Lower middle income,moderate
 ZMB,Zambia,2001,11.6326,11.1065,Low income,moderate
 BTN,Bhutan,2001,2.629,6.5463,Lower middle income,high
 CRI,Costa Rica,2001,22.6649,24.5613,Upper middle income,high
-CIV,Cote d'Ivoire,2001,17.1422,4.4566,Lower middle income,high
+CIV,Cote d'Ivoire,2001,17.109,4.4566,Lower middle income,high
 DMA,Dominica,2001,16.6573,8.68,Upper middle income,high
+ECU,Ecuador,2001,29.3427,6.2079,Upper middle income,high
 GMB,Gambia,2001,13.481,6.3072,Low income,high
 GEO,Georgia,2001,9.0917,6.7495,Upper middle income,high
 GHA,Ghana,2001,11.3543,7.1953,Lower middle income,high
@@ -191,17 +191,16 @@ IDN,Indonesia,2001,19.7104,3.9583,Lower middle income,high
 JOR,Jordan,2001,17.9075,13.6353,Upper middle income,high
 LAO,Laos,2001,10.3491,7.0549,Lower middle income,high
 MDV,Maldives,2001,8.9592,9.0312,Upper middle income,high
-MEX,Mexico,2001,15.7156,10.2576,Upper middle income,high
+MEX,Mexico,2001,15.7149,10.7908,Upper middle income,high
 MAR,Morocco,2001,24.6026,4.5784,Lower middle income,high
 MKD,North Macedonia,2001,10.103,12.1993,Upper middle income,high
 PNG,Papua New Guinea,2001,14.9126,7.7327,Lower middle income,high
 PER,Peru,2001,16.4125,11.827,Upper middle income,high
 LKA,Sri Lanka,2001,12.2485,9.8379,Lower middle income,high
-LCA,St. Lucia,2001,10.88,7.9504,Upper middle income,high
+LCA,St. Lucia,2001,11.0918,8.1052,Upper middle income,high
 AGO,Angola,2001,58.9445,5.9682,Lower middle income,very high
 BLZ,Belize,2001,31.069,9.1107,Upper middle income,very high
-DOM,Dominican Republic,2001,14.3196,10.827,Upper middle income,very high
-ECU,Ecuador,2001,29.3427,6.2079,Upper middle income,very high
+DOM,Dominican Republic,2001,15.1283,11.4384,Upper middle income,very high
 SLV,El Salvador,2001,11.6032,17.6859,Lower middle income,very high
 GAB,Gabon,2001,30.6916,4.5378,Upper middle income,very high
 JAM,Jamaica,2001,25.5912,8.4021,Upper middle income,very high
@@ -220,18 +219,18 @@ LBR,Liberia,2002,0.0157,3.8422,Low income,very low
 MWI,Malawi,2002,4.0808,7.0428,Low income,very low
 NGA,Nigeria,2002,7.851,2.7415,Lower middle income,very low
 SLB,Solomon Islands,2002,2.3786,32.2865,Lower middle income,very low
-THA,Thailand,2002,22.0804,8.0755,Upper middle income,very low
+THA,Thailand,2002,22.0601,8.0755,Upper middle income,very low
 UGA,Uganda,2002,3.4544,8.7524,Low income,very low
 VUT,Vanuatu,2002,2.6921,11.7457,Lower middle income,very low
 AZE,Azerbaijan,2002,4.4501,3.1742,Upper middle income,low
 BLR,Belarus,2002,2.4197,9.3174,Upper middle income,low
 BEN,Benin,2002,6.8333,4.7478,Lower middle income,low
 BIH,Bosnia and Herzegovina,2002,3.3305,9.3221,Upper middle income,low
-BRA,Brazil,2002,11.1057,9.537,Upper middle income,low
+BRA,Brazil,2002,9.3091,7.9942,Upper middle income,low
 BGR,Bulgaria,2002,10.1243,11.9799,Upper middle income,low
 BFA,Burkina Faso,2002,4.7496,5.4348,Low income,low
 COM,Comoros,2002,6.9345,6.7119,Lower middle income,low
-ERI,Eritrea,2002,1.9571,2.6221,Low income,low
+ERI,Eritrea,2002,2.6336,3.5285,Low income,low
 SWZ,Eswatini,2002,5.6226,9.4205,Lower middle income,low
 FJI,Fiji,2002,3.2265,7.8299,Upper middle income,low
 GNB,Guinea-Bissau,2002,2.4169,12.3394,Low income,low
@@ -239,13 +238,13 @@ HTI,Haiti,2002,4.0551,7.3621,Lower middle income,low
 IND,India,2002,7.9111,2.6918,Lower middle income,low
 KAZ,Kazakhstan,2002,17.2563,9.4207,Upper middle income,low
 KGZ,Kyrgyz Republic,2002,9.7407,7.5632,Lower middle income,low
-LSO,Lesotho,2002,20.2617,8.6185,Lower middle income,low
+LSO,Lesotho,2002,18.1551,8.6185,Lower middle income,low
 MLI,Mali,2002,7.6895,5.566,Low income,low
 MDA,Moldova,2002,21.6959,11.5382,Upper middle income,low
 MOZ,Mozambique,2002,3.4924,6.3167,Low income,low
-MMR,Myanmar,2002,1.7616,2.597,Lower middle income,low
+MMR,Myanmar,2002,1.7622,2.4376,Lower middle income,low
 NER,Niger,2002,3.5366,8.3561,Low income,low
-RWA,Rwanda,2002,3.7856,3.7057,Low income,low
+RWA,Rwanda,2002,3.7862,3.7097,Low income,low
 SRB,Serbia,2002,1.3468,14.4135,Upper middle income,low
 SLE,Sierra Leone,2002,5.2512,14.0093,Low income,low
 SDN,Sudan,2002,6.1816,10.7073,Low income,low
@@ -254,14 +253,14 @@ TGO,Togo,2002,1.2968,4.0515,Low income,low
 UZB,Uzbekistan,2002,15.1419,5.5845,Lower middle income,low
 ALB,Albania,2002,2.7259,8.2089,Upper middle income,moderate
 ARG,Argentina,2002,14.5564,18.4574,Upper middle income,moderate
-BGD,Bangladesh,2002,8.9764,5.3921,Lower middle income,moderate
+BGD,Bangladesh,2002,8.8152,5.3921,Lower middle income,moderate
 BOL,Bolivia,2002,8.3498,7.8159,Lower middle income,moderate
 CPV,Cabo Verde,2002,9.2535,9.5042,Lower middle income,moderate
 CMR,Cameroon,2002,15.505,6.4331,Lower middle income,moderate
 TCD,Chad,2002,4.6535,11.7245,Low income,moderate
 COD,DR Congo,2002,113.2231,2.4992,Low income,moderate
 COG,Congo Republic,2002,1.4221,1.3443,Lower middle income,moderate
-DJI,Djibouti,2002,5.0752,5.4956,Lower middle income,moderate
+DJI,Djibouti,2002,5.0793,5.5001,Lower middle income,moderate
 EGY,Egypt,2002,6.7417,6.1411,Lower middle income,moderate
 ETH,Ethiopia,2002,3.7487,8.3684,Low income,moderate
 GUY,Guyana,2002,14.7027,7.5092,Upper middle income,moderate
@@ -270,9 +269,9 @@ KEN,Kenya,2002,14.254,4.8294,Lower middle income,moderate
 MDG,Madagascar,2002,8.7937,14.3819,Low income,moderate
 MUS,Mauritius,2002,17.5415,7.7794,Upper middle income,moderate
 MNG,Mongolia,2002,8.875,10.0498,Lower middle income,moderate
-NPL,Nepal,2002,10.9243,6.0872,Lower middle income,moderate
+NPL,Nepal,2002,10.9251,6.0877,Lower middle income,moderate
 NIC,Nicaragua,2002,10.5612,13.1451,Lower middle income,moderate
-PAK,Pakistan,2002,15.0047,6.3283,Lower middle income,moderate
+PAK,Pakistan,2002,15.0045,7.0648,Lower middle income,moderate
 PRY,Paraguay,2002,15.7819,8.1541,Upper middle income,moderate
 RUS,Russia,2002,6.2479,9.5189,Upper middle income,moderate
 WSM,Samoa,2002,5.3398,11.408,Lower middle income,moderate
@@ -287,8 +286,9 @@ VNM,Vietnam,2002,12.7275,6.6489,Lower middle income,moderate
 ZMB,Zambia,2002,12.4903,10.7292,Low income,moderate
 BTN,Bhutan,2002,3.1747,7.8796,Lower middle income,high
 CRI,Costa Rica,2002,19.6863,24.7576,Upper middle income,high
-CIV,Cote d'Ivoire,2002,22.5477,4.148,Lower middle income,high
+CIV,Cote d'Ivoire,2002,22.4889,4.148,Lower middle income,high
 DMA,Dominica,2002,12.7982,8.5156,Upper middle income,high
+ECU,Ecuador,2002,28.4333,6.5467,Upper middle income,high
 GMB,Gambia,2002,18.6213,6.3077,Low income,high
 GEO,Georgia,2002,12.4967,7.019,Upper middle income,high
 GHA,Ghana,2002,11.0672,6.1032,Lower middle income,high
@@ -299,17 +299,16 @@ IDN,Indonesia,2002,18.232,3.9828,Lower middle income,high
 JOR,Jordan,2002,14.761,13.5069,Upper middle income,high
 LAO,Laos,2002,11.6227,6.1297,Lower middle income,high
 MDV,Maldives,2002,8.5485,8.621,Upper middle income,high
-MEX,Mexico,2002,12.1267,10.4315,Upper middle income,high
+MEX,Mexico,2002,12.1273,10.9529,Upper middle income,high
 MAR,Morocco,2002,25.5943,4.5329,Lower middle income,high
 MKD,North Macedonia,2002,9.7712,12.388,Upper middle income,high
 PNG,Papua New Guinea,2002,15.3701,8.476,Lower middle income,high
 PER,Peru,2002,29.2402,12.8389,Upper middle income,high
 LKA,Sri Lanka,2002,12.1594,10.723,Lower middle income,high
-LCA,St. Lucia,2002,8.0937,7.795,Upper middle income,high
+LCA,St. Lucia,2002,8.251,7.9465,Upper middle income,high
 AGO,Angola,2002,29.854,4.1912,Lower middle income,very high
 BLZ,Belize,2002,61.5013,9.9265,Upper middle income,very high
-DOM,Dominican Republic,2002,13.2433,10.5999,Upper middle income,very high
-ECU,Ecuador,2002,28.4333,6.5467,Upper middle income,very high
+DOM,Dominican Republic,2002,12.7369,10.1946,Upper middle income,very high
 SLV,El Salvador,2002,13.3422,17.7852,Lower middle income,very high
 GAB,Gabon,2002,27.8275,4.6637,Upper middle income,very high
 JAM,Jamaica,2002,26.544,8.948,Upper middle income,very high
@@ -328,18 +327,18 @@ LBR,Liberia,2003,0.0,5.9146,Low income,very low
 MWI,Malawi,2003,4.6849,7.6337,Low income,very low
 NGA,Nigeria,2003,6.815,4.0068,Lower middle income,very low
 SLB,Solomon Islands,2003,6.9793,24.2362,Lower middle income,very low
-THA,Thailand,2003,26.3059,11.1865,Upper middle income,very low
+THA,Thailand,2003,26.2819,11.1865,Upper middle income,very low
 UGA,Uganda,2003,4.4134,8.9551,Low income,very low
 VUT,Vanuatu,2003,3.0172,13.2141,Lower middle income,very low
 AZE,Azerbaijan,2003,5.0983,3.5962,Upper middle income,low
 BLR,Belarus,2003,2.1162,10.0745,Upper middle income,low
 BEN,Benin,2003,5.2382,4.8571,Lower middle income,low
 BIH,Bosnia and Herzegovina,2003,2.3729,11.5853,Upper middle income,low
-BRA,Brazil,2003,9.1104,8.6126,Upper middle income,low
+BRA,Brazil,2003,8.6856,8.211,Upper middle income,low
 BGR,Bulgaria,2003,8.7706,12.2224,Upper middle income,low
 BFA,Burkina Faso,2003,5.1011,5.5699,Low income,low
 COM,Comoros,2003,3.6991,6.6852,Lower middle income,low
-ERI,Eritrea,2003,1.8672,1.9275,Low income,low
+ERI,Eritrea,2003,2.7805,2.8704,Low income,low
 SWZ,Eswatini,2003,5.6263,11.6143,Lower middle income,low
 FJI,Fiji,2003,2.5583,8.3153,Upper middle income,low
 GNB,Guinea-Bissau,2003,2.8282,13.1888,Low income,low
@@ -347,13 +346,13 @@ HTI,Haiti,2003,9.8147,6.6059,Lower middle income,low
 IND,India,2003,9.9079,2.5496,Lower middle income,low
 KAZ,Kazakhstan,2003,7.0878,9.5556,Upper middle income,low
 KGZ,Kyrgyz Republic,2003,5.1929,8.0726,Lower middle income,low
-LSO,Lesotho,2003,14.5873,8.9525,Lower middle income,low
+LSO,Lesotho,2003,12.8799,8.9525,Lower middle income,low
 MLI,Mali,2003,5.5732,6.7859,Low income,low
 MDA,Moldova,2003,10.0454,9.593,Upper middle income,low
 MOZ,Mozambique,2003,3.9858,6.3168,Low income,low
-MMR,Myanmar,2003,1.6069,1.8784,Lower middle income,low
+MMR,Myanmar,2003,1.6069,1.7631,Lower middle income,low
 NER,Niger,2003,4.8361,7.63,Low income,low
-RWA,Rwanda,2003,4.9841,12.4551,Low income,low
+RWA,Rwanda,2003,4.9835,12.4659,Low income,low
 SRB,Serbia,2003,1.8765,14.3917,Upper middle income,low
 SLE,Sierra Leone,2003,6.0118,11.689,Low income,low
 SDN,Sudan,2003,9.2075,10.0719,Low income,low
@@ -362,14 +361,14 @@ TGO,Togo,2003,1.2528,4.2419,Low income,low
 UZB,Uzbekistan,2003,17.964,6.011,Lower middle income,low
 ALB,Albania,2003,2.4768,8.9971,Upper middle income,moderate
 ARG,Argentina,2003,21.782,17.1259,Upper middle income,moderate
-BGD,Bangladesh,2003,7.8418,5.6897,Lower middle income,moderate
+BGD,Bangladesh,2003,7.8241,5.6897,Lower middle income,moderate
 BOL,Bolivia,2003,10.337,8.6116,Lower middle income,moderate
-CPV,Cabo Verde,2003,7.347,11.367,Lower middle income,moderate
+CPV,Cabo Verde,2003,7.3515,12.05,Lower middle income,moderate
 CMR,Cameroon,2003,14.4682,6.5153,Lower middle income,moderate
 TCD,Chad,2003,4.4579,8.9817,Low income,moderate
 COD,DR Congo,2003,16.9649,2.499,Low income,moderate
 COG,Congo Republic,2003,5.4307,1.8553,Lower middle income,moderate
-DJI,Djibouti,2003,6.1679,5.8152,Lower middle income,moderate
+DJI,Djibouti,2003,6.1656,5.82,Lower middle income,moderate
 EGY,Egypt,2003,8.8051,5.4432,Lower middle income,moderate
 ETH,Ethiopia,2003,3.5283,8.4181,Low income,moderate
 GUY,Guyana,2003,12.8322,7.3575,Upper middle income,moderate
@@ -378,13 +377,13 @@ KEN,Kenya,2003,14.901,4.9217,Lower middle income,moderate
 MDG,Madagascar,2003,6.1434,12.9069,Low income,moderate
 MUS,Mauritius,2003,12.0776,7.6288,Upper middle income,moderate
 MNG,Mongolia,2003,51.6783,8.2777,Lower middle income,moderate
-NPL,Nepal,2003,12.7009,5.5086,Lower middle income,moderate
+NPL,Nepal,2003,12.7013,5.5095,Lower middle income,moderate
 NIC,Nicaragua,2003,11.119,12.2443,Lower middle income,moderate
-PAK,Pakistan,2003,13.4801,4.049,Lower middle income,moderate
+PAK,Pakistan,2003,13.4799,4.5058,Lower middle income,moderate
 PRY,Paraguay,2003,17.4589,10.0682,Upper middle income,moderate
 RUS,Russia,2003,7.0698,9.2029,Upper middle income,moderate
 WSM,Samoa,2003,5.4946,10.123,Lower middle income,moderate
-STP,Sao Tome and Principe,2003,10.2968,13.4945,Lower middle income,moderate
+STP,Sao Tome and Principe,2003,8.8971,11.6602,Lower middle income,moderate
 SEN,Senegal,2003,12.696,9.0479,Lower middle income,moderate
 ZAF,South Africa,2003,5.2354,12.3382,Upper middle income,moderate
 TJK,Tajikistan,2003,12.9223,4.0299,Lower middle income,moderate
@@ -395,8 +394,9 @@ VNM,Vietnam,2003,6.6688,5.4369,Lower middle income,moderate
 ZMB,Zambia,2003,32.7851,8.9353,Low income,moderate
 BTN,Bhutan,2003,3.342,7.6386,Lower middle income,high
 CRI,Costa Rica,2003,24.3303,26.3322,Upper middle income,high
-CIV,Cote d'Ivoire,2003,11.2118,4.067,Lower middle income,high
+CIV,Cote d'Ivoire,2003,11.1874,4.067,Lower middle income,high
 DMA,Dominica,2003,13.9904,8.9737,Upper middle income,high
+ECU,Ecuador,2003,21.9569,8.2138,Upper middle income,high
 GMB,Gambia,2003,25.3978,6.3094,Low income,high
 GEO,Georgia,2003,14.4637,7.1322,Upper middle income,high
 GHA,Ghana,2003,9.8176,6.3339,Lower middle income,high
@@ -407,17 +407,16 @@ IDN,Indonesia,2003,16.14,4.4996,Lower middle income,high
 JOR,Jordan,2003,27.0163,11.4386,Upper middle income,high
 LAO,Laos,2003,11.4278,6.8349,Lower middle income,high
 MDV,Maldives,2003,7.4847,8.1449,Upper middle income,high
-MEX,Mexico,2003,13.3952,10.6929,Upper middle income,high
+MEX,Mexico,2003,13.3955,11.2239,Upper middle income,high
 MAR,Morocco,2003,27.7116,4.4811,Lower middle income,high
 MKD,North Macedonia,2003,7.2878,13.7611,Upper middle income,high
 PNG,Papua New Guinea,2003,16.7384,7.634,Lower middle income,high
 PER,Peru,2003,18.8415,11.6129,Upper middle income,high
 LKA,Sri Lanka,2003,11.2081,10.7329,Lower middle income,high
-LCA,St. Lucia,2003,11.7091,7.1607,Upper middle income,high
+LCA,St. Lucia,2003,11.9372,7.3002,Upper middle income,high
 AGO,Angola,2003,24.0919,4.2605,Lower middle income,very high
 BLZ,Belize,2003,47.0451,9.3573,Upper middle income,very high
-DOM,Dominican Republic,2003,16.1702,6.1003,Upper middle income,very high
-ECU,Ecuador,2003,21.9569,8.2138,Upper middle income,very high
+DOM,Dominican Republic,2003,17.8507,6.7342,Upper middle income,very high
 SLV,El Salvador,2003,16.8698,17.4036,Lower middle income,very high
 GAB,Gabon,2003,25.7153,6.7543,Upper middle income,very high
 JAM,Jamaica,2003,26.5656,6.4157,Upper middle income,very high
@@ -436,18 +435,18 @@ LBR,Liberia,2004,0.0,5.7021,Low income,very low
 MWI,Malawi,2004,5.8412,4.9952,Low income,very low
 NGA,Nigeria,2004,7.133,6.5542,Lower middle income,very low
 SLB,Solomon Islands,2004,5.2055,21.1124,Lower middle income,very low
-THA,Thailand,2004,14.6888,10.411,Upper middle income,very low
+THA,Thailand,2004,14.6764,10.411,Upper middle income,very low
 UGA,Uganda,2004,4.1878,8.7729,Low income,very low
 VUT,Vanuatu,2004,3.5778,12.5557,Lower middle income,very low
 AZE,Azerbaijan,2004,3.3032,3.5692,Upper middle income,low
 BLR,Belarus,2004,2.0467,9.9979,Upper middle income,low
 BEN,Benin,2004,3.8368,5.4765,Lower middle income,low
 BIH,Bosnia and Herzegovina,2004,2.1074,11.3209,Upper middle income,low
-BRA,Brazil,2004,8.0994,9.1517,Upper middle income,low
+BRA,Brazil,2004,7.4669,8.437,Upper middle income,low
 BGR,Bulgaria,2004,15.7158,11.8317,Upper middle income,low
 BFA,Burkina Faso,2004,4.3837,8.3911,Low income,low
 COM,Comoros,2004,4.133,6.7562,Lower middle income,low
-ERI,Eritrea,2004,3.1114,2.2005,Low income,low
+ERI,Eritrea,2004,3.8645,2.7331,Low income,low
 SWZ,Eswatini,2004,5.5145,10.0577,Lower middle income,low
 FJI,Fiji,2004,1.5959,8.9808,Upper middle income,low
 GNB,Guinea-Bissau,2004,3.2247,14.0275,Low income,low
@@ -455,11 +454,11 @@ HTI,Haiti,2004,20.2589,7.949,Lower middle income,low
 IND,India,2004,4.6082,2.5453,Lower middle income,low
 KAZ,Kazakhstan,2004,9.5546,10.9112,Upper middle income,low
 KGZ,Kyrgyz Republic,2004,4.1723,8.2125,Lower middle income,low
-LSO,Lesotho,2004,10.4656,9.5284,Lower middle income,low
+LSO,Lesotho,2004,9.0641,9.5284,Lower middle income,low
 MLI,Mali,2004,6.555,7.3004,Low income,low
 MDA,Moldova,2004,12.3253,15.2507,Upper middle income,low
 MOZ,Mozambique,2004,2.5595,6.3167,Low income,low
-MMR,Myanmar,2004,1.4403,1.9212,Lower middle income,low
+MMR,Myanmar,2004,1.4399,1.8034,Lower middle income,low
 NER,Niger,2004,4.0502,7.3487,Low income,low
 RWA,Rwanda,2004,5.8898,10.7891,Low income,low
 SRB,Serbia,2004,2.1643,14.4116,Upper middle income,low
@@ -470,14 +469,14 @@ TGO,Togo,2004,1.3504,4.2056,Low income,low
 UZB,Uzbekistan,2004,15.3149,6.1377,Lower middle income,low
 ALB,Albania,2004,2.653,9.3544,Upper middle income,moderate
 ARG,Argentina,2004,6.8024,16.2587,Upper middle income,moderate
-BGD,Bangladesh,2004,8.2236,5.7823,Lower middle income,moderate
+BGD,Bangladesh,2004,8.1295,5.7823,Lower middle income,moderate
 BOL,Bolivia,2004,9.2088,7.839,Lower middle income,moderate
-CPV,Cabo Verde,2004,7.2309,9.6314,Lower middle income,moderate
+CPV,Cabo Verde,2004,7.2266,10.1054,Lower middle income,moderate
 CMR,Cameroon,2004,18.812,5.2617,Lower middle income,moderate
 TCD,Chad,2004,3.9028,15.0314,Low income,moderate
 COD,DR Congo,2004,16.477,2.4989,Low income,moderate
 COG,Congo Republic,2004,15.9674,1.7843,Lower middle income,moderate
-DJI,Djibouti,2004,7.0891,5.3861,Lower middle income,moderate
+DJI,Djibouti,2004,7.0872,5.3903,Lower middle income,moderate
 EGY,Egypt,2004,7.885,5.2431,Lower middle income,moderate
 ETH,Ethiopia,2004,3.5971,5.7267,Low income,moderate
 GUY,Guyana,2004,10.1965,7.353,Upper middle income,moderate
@@ -486,13 +485,13 @@ KEN,Kenya,2004,8.6309,5.1443,Lower middle income,moderate
 MDG,Madagascar,2004,6.8098,10.0987,Low income,moderate
 MUS,Mauritius,2004,12.1006,8.3367,Upper middle income,moderate
 MNG,Mongolia,2004,4.2439,8.3474,Lower middle income,moderate
-NPL,Nepal,2004,11.76,5.4698,Lower middle income,moderate
+NPL,Nepal,2004,11.7603,5.4707,Lower middle income,moderate
 NIC,Nicaragua,2004,5.4952,10.9212,Lower middle income,moderate
-PAK,Pakistan,2004,19.4788,4.5776,Lower middle income,moderate
+PAK,Pakistan,2004,19.4796,5.0926,Lower middle income,moderate
 PRY,Paraguay,2004,23.3181,10.1427,Upper middle income,moderate
 RUS,Russia,2004,5.5043,9.4422,Upper middle income,moderate
 WSM,Samoa,2004,5.3201,11.3419,Lower middle income,moderate
-STP,Sao Tome and Principe,2004,12.4379,10.3399,Lower middle income,moderate
+STP,Sao Tome and Principe,2004,10.2907,8.5549,Lower middle income,moderate
 SEN,Senegal,2004,15.2455,8.9669,Lower middle income,moderate
 ZAF,South Africa,2004,3.438,12.0291,Upper middle income,moderate
 TJK,Tajikistan,2004,13.2905,4.4075,Lower middle income,moderate
@@ -503,8 +502,9 @@ VNM,Vietnam,2004,5.7404,6.9679,Lower middle income,moderate
 ZMB,Zambia,2004,8.3917,10.3769,Low income,moderate
 BTN,Bhutan,2004,5.491,9.0861,Lower middle income,high
 CRI,Costa Rica,2004,19.3197,25.7378,Upper middle income,high
-CIV,Cote d'Ivoire,2004,3.0715,4.1452,Lower middle income,high
+CIV,Cote d'Ivoire,2004,3.0641,4.1452,Lower middle income,high
 DMA,Dominica,2004,14.3003,8.5057,Upper middle income,high
+ECU,Ecuador,2004,27.3288,8.4609,Upper middle income,high
 GMB,Gambia,2004,21.2095,6.3086,Low income,high
 GEO,Georgia,2004,16.208,6.2495,Upper middle income,high
 GHA,Ghana,2004,7.6889,4.9061,Lower middle income,high
@@ -516,17 +516,16 @@ JOR,Jordan,2004,13.1785,9.4033,Upper middle income,high
 LAO,Laos,2004,12.8012,5.8535,Lower middle income,high
 MDV,Maldives,2004,9.5496,9.6033,Upper middle income,high
 MRT,Mauritania,2004,7.8014,2.9611,Lower middle income,high
-MEX,Mexico,2004,14.9937,12.0723,Upper middle income,high
+MEX,Mexico,2004,14.9944,12.647,Upper middle income,high
 MAR,Morocco,2004,16.5173,4.4692,Lower middle income,high
 MKD,North Macedonia,2004,6.1418,13.8335,Upper middle income,high
 PNG,Papua New Guinea,2004,14.3875,8.7465,Lower middle income,high
 PER,Peru,2004,18.9263,11.7784,Upper middle income,high
 LKA,Sri Lanka,2004,11.5613,11.4214,Lower middle income,high
-LCA,St. Lucia,2004,8.215,6.8384,Upper middle income,high
+LCA,St. Lucia,2004,8.3749,6.9716,Upper middle income,high
 AGO,Angola,2004,26.6084,5.6593,Lower middle income,very high
 BLZ,Belize,2004,107.5575,10.3618,Upper middle income,very high
-DOM,Dominican Republic,2004,19.7154,6.7202,Upper middle income,very high
-ECU,Ecuador,2004,27.3288,8.4609,Upper middle income,very high
+DOM,Dominican Republic,2004,19.4254,6.6213,Upper middle income,very high
 SLV,El Salvador,2004,19.4864,18.684,Lower middle income,very high
 GAB,Gabon,2004,13.055,6.5132,Upper middle income,very high
 JAM,Jamaica,2004,25.2295,7.8568,Upper middle income,very high
@@ -545,7 +544,7 @@ LBR,Liberia,2005,0.0291,4.9207,Low income,very low
 MWI,Malawi,2005,6.6345,6.0378,Low income,very low
 NGA,Nigeria,2005,29.1236,6.4077,Lower middle income,very low
 SLB,Solomon Islands,2005,5.7781,23.7612,Lower middle income,very low
-THA,Thailand,2005,8.4142,10.2812,Upper middle income,very low
+THA,Thailand,2005,8.4035,10.2812,Upper middle income,very low
 UGA,Uganda,2005,7.2974,7.1376,Low income,very low
 VUT,Vanuatu,2005,2.5373,11.6996,Lower middle income,very low
 ARM,Armenia,2005,2.5615,7.44,Upper middle income,low
@@ -553,11 +552,11 @@ AZE,Azerbaijan,2005,2.4847,4.0798,Upper middle income,low
 BLR,Belarus,2005,1.5374,10.0531,Upper middle income,low
 BEN,Benin,2005,4.1736,4.8296,Lower middle income,low
 BIH,Bosnia and Herzegovina,2005,2.1608,10.8096,Upper middle income,low
-BRA,Brazil,2005,4.5796,8.4416,Upper middle income,low
+BRA,Brazil,2005,4.1853,7.7149,Upper middle income,low
 BGR,Bulgaria,2005,20.5451,12.0606,Upper middle income,low
 BFA,Burkina Faso,2005,3.3135,6.0486,Low income,low
 COM,Comoros,2005,5.0021,5.9121,Lower middle income,low
-ERI,Eritrea,2005,3.2017,1.1483,Low income,low
+ERI,Eritrea,2005,3.106,1.114,Low income,low
 SWZ,Eswatini,2005,3.9483,12.937,Lower middle income,low
 FJI,Fiji,2005,1.792,10.0555,Upper middle income,low
 GNB,Guinea-Bissau,2005,2.3385,13.3338,Low income,low
@@ -565,11 +564,11 @@ HTI,Haiti,2005,8.1015,6.6685,Lower middle income,low
 IND,India,2005,7.0258,2.8869,Lower middle income,low
 KAZ,Kazakhstan,2005,9.83,11.5082,Upper middle income,low
 KGZ,Kyrgyz Republic,2005,4.0219,13.0697,Lower middle income,low
-LSO,Lesotho,2005,14.1494,6.9911,Lower middle income,low
+LSO,Lesotho,2005,12.1374,6.9911,Lower middle income,low
 MLI,Mali,2005,5.8054,6.4581,Low income,low
 MDA,Moldova,2005,5.807,13.5766,Upper middle income,low
 MOZ,Mozambique,2005,2.7473,8.3972,Low income,low
-MMR,Myanmar,2005,1.4359,1.2861,Lower middle income,low
+MMR,Myanmar,2005,1.436,1.2073,Lower middle income,low
 NER,Niger,2005,3.8338,12.3476,Low income,low
 RWA,Rwanda,2005,3.9719,8.0925,Low income,low
 SRB,Serbia,2005,2.6067,13.619,Upper middle income,low
@@ -580,14 +579,14 @@ TGO,Togo,2005,2.0317,3.801,Low income,low
 UZB,Uzbekistan,2005,12.4529,6.4677,Lower middle income,low
 ALB,Albania,2005,2.7205,9.2251,Upper middle income,moderate
 ARG,Argentina,2005,6.5295,16.0215,Upper middle income,moderate
-BGD,Bangladesh,2005,9.4787,5.2202,Lower middle income,moderate
+BGD,Bangladesh,2005,9.124,5.2202,Lower middle income,moderate
 BOL,Bolivia,2005,8.9805,8.2985,Lower middle income,moderate
-CPV,Cabo Verde,2005,9.7362,8.8031,Lower middle income,moderate
+CPV,Cabo Verde,2005,9.7365,9.0375,Lower middle income,moderate
 CMR,Cameroon,2005,23.6236,5.2473,Lower middle income,moderate
 TCD,Chad,2005,5.2103,12.4237,Low income,moderate
 COD,DR Congo,2005,19.7983,2.6337,Low income,moderate
 COG,Congo Republic,2005,6.7489,1.9532,Lower middle income,moderate
-DJI,Djibouti,2005,5.66,5.3278,Lower middle income,moderate
+DJI,Djibouti,2005,5.6589,5.3321,Lower middle income,moderate
 EGY,Egypt,2005,7.6895,5.2435,Lower middle income,moderate
 ETH,Ethiopia,2005,2.81,7.5501,Low income,moderate
 GUY,Guyana,2005,5.2069,6.2754,Upper middle income,moderate
@@ -596,13 +595,13 @@ KEN,Kenya,2005,11.7589,5.0779,Lower middle income,moderate
 MDG,Madagascar,2005,6.1772,10.5659,Low income,moderate
 MUS,Mauritius,2005,13.7313,7.8915,Upper middle income,moderate
 MNG,Mongolia,2005,5.0402,9.0493,Lower middle income,moderate
-NPL,Nepal,2005,10.312,6.237,Lower middle income,moderate
+NPL,Nepal,2005,10.3104,6.2375,Lower middle income,moderate
 NIC,Nicaragua,2005,8.0199,11.7934,Lower middle income,moderate
-PAK,Pakistan,2005,9.279,4.0397,Lower middle income,moderate
+PAK,Pakistan,2005,9.279,4.4161,Lower middle income,moderate
 PRY,Paraguay,2005,19.8813,10.6931,Upper middle income,moderate
 RUS,Russia,2005,11.4875,9.9045,Upper middle income,moderate
 WSM,Samoa,2005,3.88,10.6658,Lower middle income,moderate
-STP,Sao Tome and Principe,2005,13.2866,12.9092,Lower middle income,moderate
+STP,Sao Tome and Principe,2005,11.8577,11.5209,Lower middle income,moderate
 SEN,Senegal,2005,6.213,8.5441,Lower middle income,moderate
 ZAF,South Africa,2005,5.6237,10.919,Upper middle income,moderate
 TJK,Tajikistan,2005,8.6172,4.3021,Lower middle income,moderate
@@ -612,9 +611,10 @@ UKR,Ukraine,2005,4.7201,8.4319,Lower middle income,moderate
 VNM,Vietnam,2005,5.3042,7.1475,Lower middle income,moderate
 ZMB,Zambia,2005,5.3338,8.1564,Low income,moderate
 BTN,Bhutan,2005,2.2258,6.7241,Lower middle income,high
-CRI,Costa Rica,2005,14.1529,25.7057,Upper middle income,high
-CIV,Cote d'Ivoire,2005,0.7332,3.8913,Lower middle income,high
+CRI,Costa Rica,2005,14.7693,26.8252,Upper middle income,high
+CIV,Cote d'Ivoire,2005,0.7325,3.8913,Lower middle income,high
 DMA,Dominica,2005,13.6599,9.0265,Upper middle income,high
+ECU,Ecuador,2005,19.3372,7.8659,Upper middle income,high
 GMB,Gambia,2005,19.0422,6.3087,Low income,high
 GEO,Georgia,2005,7.307,5.5781,Upper middle income,high
 GHA,Ghana,2005,8.1553,10.6034,Lower middle income,high
@@ -626,17 +626,16 @@ JOR,Jordan,2005,10.1154,11.924,Upper middle income,high
 LAO,Laos,2005,11.6118,5.9143,Lower middle income,high
 MDV,Maldives,2005,6.4656,7.6515,Upper middle income,high
 MRT,Mauritania,2005,8.3447,3.8443,Lower middle income,high
-MEX,Mexico,2005,11.9667,11.1421,Upper middle income,high
+MEX,Mexico,2005,11.9668,11.6514,Upper middle income,high
 MAR,Morocco,2005,12.3621,4.1667,Lower middle income,high
 MKD,North Macedonia,2005,6.0103,13.4677,Upper middle income,high
 PNG,Papua New Guinea,2005,10.0475,7.825,Lower middle income,high
 PER,Peru,2005,29.3513,12.5904,Upper middle income,high
 LKA,Sri Lanka,2005,5.3497,10.4775,Lower middle income,high
-LCA,St. Lucia,2005,9.3378,6.2148,Upper middle income,high
+LCA,St. Lucia,2005,9.5195,6.3358,Upper middle income,high
 AGO,Angola,2005,25.9573,4.8206,Lower middle income,very high
 BLZ,Belize,2005,72.3411,10.9556,Upper middle income,very high
-DOM,Dominican Republic,2005,12.3759,9.199,Upper middle income,very high
-ECU,Ecuador,2005,19.3372,7.8659,Upper middle income,very high
+DOM,Dominican Republic,2005,12.0908,8.9871,Upper middle income,very high
 SLV,El Salvador,2005,16.0132,18.9409,Lower middle income,very high
 GAB,Gabon,2005,8.5227,5.0767,Upper middle income,very high
 JAM,Jamaica,2005,27.4576,7.6163,Upper middle income,very high
@@ -656,7 +655,7 @@ LBR,Liberia,2006,0.0413,6.5949,Low income,very low
 MWI,Malawi,2006,4.9467,5.2928,Low income,very low
 NGA,Nigeria,2006,24.4175,7.3221,Lower middle income,very low
 SLB,Solomon Islands,2006,2.5932,18.0081,Lower middle income,very low
-THA,Thailand,2006,7.6093,11.902,Upper middle income,very low
+THA,Thailand,2006,7.6034,11.902,Upper middle income,very low
 UGA,Uganda,2006,4.8609,7.1697,Low income,very low
 VUT,Vanuatu,2006,3.5727,10.6742,Lower middle income,very low
 ARM,Armenia,2006,2.0485,7.932,Upper middle income,low
@@ -664,11 +663,11 @@ AZE,Azerbaijan,2006,1.8032,3.4234,Upper middle income,low
 BLR,Belarus,2006,1.1978,8.4422,Upper middle income,low
 BEN,Benin,2006,4.3557,5.5318,Lower middle income,low
 BIH,Bosnia and Herzegovina,2006,2.249,10.9582,Upper middle income,low
-BRA,Brazil,2006,7.315,9.0624,Upper middle income,low
+BRA,Brazil,2006,6.6878,8.2853,Upper middle income,low
 BGR,Bulgaria,2006,7.1509,11.1794,Upper middle income,low
 BFA,Burkina Faso,2006,3.0208,6.5407,Low income,low
 COM,Comoros,2006,4.0666,5.1819,Lower middle income,low
-ERI,Eritrea,2006,2.4697,1.5386,Low income,low
+ERI,Eritrea,2006,2.6022,1.6212,Low income,low
 SWZ,Eswatini,2006,4.564,12.9259,Lower middle income,low
 FJI,Fiji,2006,1.5936,9.7476,Upper middle income,low
 GNB,Guinea-Bissau,2006,4.6059,12.56,Low income,low
@@ -676,11 +675,11 @@ HTI,Haiti,2006,6.9941,2.9943,Lower middle income,low
 IND,India,2006,2.4056,2.7959,Lower middle income,low
 KAZ,Kazakhstan,2006,2.0899,11.6865,Upper middle income,low
 KGZ,Kyrgyz Republic,2006,4.1837,14.4585,Lower middle income,low
-LSO,Lesotho,2006,6.8247,7.987,Lower middle income,low
+LSO,Lesotho,2006,6.0271,7.987,Lower middle income,low
 MLI,Mali,2006,5.3373,5.546,Low income,low
 MDA,Moldova,2006,5.1292,12.8909,Upper middle income,low
 MOZ,Mozambique,2006,1.9195,5.6727,Low income,low
-MMR,Myanmar,2006,2.8234,1.9114,Lower middle income,low
+MMR,Myanmar,2006,2.8229,1.7941,Lower middle income,low
 NER,Niger,2006,6.4315,13.5448,Low income,low
 RWA,Rwanda,2006,3.7536,7.2026,Low income,low
 SRB,Serbia,2006,3.9265,12.5321,Upper middle income,low
@@ -693,12 +692,12 @@ ALB,Albania,2006,3.1547,8.7675,Upper middle income,moderate
 ARG,Argentina,2006,6.4602,15.0993,Upper middle income,moderate
 BGD,Bangladesh,2006,7.4514,5.6639,Lower middle income,moderate
 BOL,Bolivia,2006,9.1071,8.752,Lower middle income,moderate
-CPV,Cabo Verde,2006,7.6323,8.921,Lower middle income,moderate
+CPV,Cabo Verde,2006,7.6371,9.0998,Lower middle income,moderate
 CMR,Cameroon,2006,9.5282,5.1832,Lower middle income,moderate
 TCD,Chad,2006,3.8889,7.1446,Low income,moderate
 COD,DR Congo,2006,21.183,2.6776,Low income,moderate
 COG,Congo Republic,2006,3.748,2.0838,Lower middle income,moderate
-DJI,Djibouti,2006,8.4842,7.2324,Lower middle income,moderate
+DJI,Djibouti,2006,8.483,7.2382,Lower middle income,moderate
 EGY,Egypt,2006,6.0605,5.05,Lower middle income,moderate
 ETH,Ethiopia,2006,3.8501,5.076,Low income,moderate
 GUY,Guyana,2006,5.3102,5.6966,Upper middle income,moderate
@@ -707,9 +706,9 @@ KEN,Kenya,2006,7.6308,4.8405,Lower middle income,moderate
 MDG,Madagascar,2006,4.8576,10.1848,Low income,moderate
 MUS,Mauritius,2006,15.8564,7.9379,Upper middle income,moderate
 MNG,Mongolia,2006,4.5138,9.5115,Lower middle income,moderate
-NPL,Nepal,2006,11.6498,7.5662,Lower middle income,moderate
+NPL,Nepal,2006,11.6492,7.5675,Lower middle income,moderate
 NIC,Nicaragua,2006,6.7784,13.4051,Lower middle income,moderate
-PAK,Pakistan,2006,7.7723,3.2088,Lower middle income,moderate
+PAK,Pakistan,2006,7.7723,3.3621,Lower middle income,moderate
 PRY,Paraguay,2006,15.8922,11.5691,Upper middle income,moderate
 RUS,Russia,2006,11.6374,10.1322,Upper middle income,moderate
 WSM,Samoa,2006,4.87,12.7558,Lower middle income,moderate
@@ -723,9 +722,10 @@ UKR,Ukraine,2006,3.9455,8.6963,Lower middle income,moderate
 VNM,Vietnam,2006,4.661,7.4508,Lower middle income,moderate
 ZMB,Zambia,2006,2.8504,8.7612,Low income,moderate
 BTN,Bhutan,2006,3.1787,6.8298,Lower middle income,high
-CRI,Costa Rica,2006,10.5175,29.5094,Upper middle income,high
-CIV,Cote d'Ivoire,2006,0.4585,3.8573,Lower middle income,high
+CRI,Costa Rica,2006,10.7861,30.2632,Upper middle income,high
+CIV,Cote d'Ivoire,2006,0.4578,3.8573,Lower middle income,high
 DMA,Dominica,2006,14.9119,9.0769,Upper middle income,high
+ECU,Ecuador,2006,25.4302,8.5682,Upper middle income,high
 GMB,Gambia,2006,16.8497,6.309,Low income,high
 GEO,Georgia,2006,10.6223,5.2303,Upper middle income,high
 GHA,Ghana,2006,5.7569,9.5551,Lower middle income,high
@@ -737,17 +737,16 @@ JOR,Jordan,2006,9.9045,11.5571,Upper middle income,high
 LAO,Laos,2006,8.8246,4.3635,Lower middle income,high
 MDV,Maldives,2006,5.3045,8.4457,Upper middle income,high
 MRT,Mauritania,2006,8.3149,3.5597,Lower middle income,high
-MEX,Mexico,2006,17.6322,10.7315,Upper middle income,high
+MEX,Mexico,2006,17.6317,11.2248,Upper middle income,high
 MAR,Morocco,2006,10.5516,7.0133,Lower middle income,high
 MKD,North Macedonia,2006,16.6378,13.4015,Upper middle income,high
 PNG,Papua New Guinea,2006,9.7444,8.377,Lower middle income,high
 PER,Peru,2006,15.1477,11.5652,Upper middle income,high
 LKA,Sri Lanka,2006,10.0326,9.883,Lower middle income,high
-LCA,St. Lucia,2006,9.9771,6.3864,Upper middle income,high
+LCA,St. Lucia,2006,9.9705,6.3872,Upper middle income,high
 AGO,Angola,2006,27.0059,4.7187,Lower middle income,very high
 BLZ,Belize,2006,40.7453,12.1781,Upper middle income,very high
-DOM,Dominican Republic,2006,19.4059,8.6745,Upper middle income,very high
-ECU,Ecuador,2006,25.4302,8.5682,Upper middle income,very high
+DOM,Dominican Republic,2006,18.5003,8.2697,Upper middle income,very high
 SLV,El Salvador,2006,21.8977,19.3088,Lower middle income,very high
 GAB,Gabon,2006,7.2855,5.76,Upper middle income,very high
 JAM,Jamaica,2006,19.8694,6.4685,Upper middle income,very high
@@ -767,7 +766,7 @@ LBR,Liberia,2007,297.2575,5.126,Low income,very low
 MWI,Malawi,2007,2.4112,3.5446,Low income,very low
 NGA,Nigeria,2007,2.1071,4.2937,Lower middle income,very low
 SLB,Solomon Islands,2007,4.8603,13.0293,Lower middle income,very low
-THA,Thailand,2007,3.8887,12.0709,Upper middle income,very low
+THA,Thailand,2007,3.8897,12.0709,Upper middle income,very low
 UGA,Uganda,2007,2.6738,7.8188,Low income,very low
 VUT,Vanuatu,2007,2.6067,9.9044,Lower middle income,very low
 ARM,Armenia,2007,1.2944,7.1984,Upper middle income,low
@@ -775,11 +774,11 @@ AZE,Azerbaijan,2007,1.5805,3.4789,Upper middle income,low
 BLR,Belarus,2007,1.3122,8.1242,Upper middle income,low
 BEN,Benin,2007,2.2645,3.7697,Lower middle income,low
 BIH,Bosnia and Herzegovina,2007,2.0907,11.3288,Upper middle income,low
-BRA,Brazil,2007,4.0421,9.2812,Upper middle income,low
+BRA,Brazil,2007,3.6497,8.3803,Upper middle income,low
 BGR,Bulgaria,2007,4.7811,10.3711,Upper middle income,low
 BFA,Burkina Faso,2007,2.1552,6.2708,Low income,low
 COM,Comoros,2007,24.9548,4.3326,Lower middle income,low
-ERI,Eritrea,2007,1.0878,2.3541,Low income,low
+ERI,Eritrea,2007,1.0965,2.3729,Low income,low
 SWZ,Eswatini,2007,5.0242,12.7236,Lower middle income,low
 FJI,Fiji,2007,3.1552,10.4998,Upper middle income,low
 GNB,Guinea-Bissau,2007,3.8866,10.6781,Low income,low
@@ -791,25 +790,25 @@ LSO,Lesotho,2007,11.2736,9.642,Lower middle income,low
 MLI,Mali,2007,3.5426,4.638,Low income,low
 MDA,Moldova,2007,3.2419,13.1811,Upper middle income,low
 MOZ,Mozambique,2007,1.1181,5.6028,Low income,low
-MMR,Myanmar,2007,3.016,1.4331,Lower middle income,low
+MMR,Myanmar,2007,3.0163,1.3451,Lower middle income,low
 NER,Niger,2007,1.6238,8.6319,Low income,low
-RWA,Rwanda,2007,2.4823,7.7928,Low income,low
+RWA,Rwanda,2007,2.4829,7.7963,Low income,low
 SRB,Serbia,2007,3.2697,13.5589,Upper middle income,low
 SLE,Sierra Leone,2007,3.3652,8.2903,Low income,low
 SDN,Sudan,2007,2.6344,10.4655,Low income,low
 TZA,Tanzania,2007,1.0841,10.8865,Lower middle income,low
-TGO,Togo,2007,1.0311,4.3451,Low income,low
+TGO,Togo,2007,1.0311,4.5481,Low income,low
 UZB,Uzbekistan,2007,9.158,7.2385,Lower middle income,low
 ALB,Albania,2007,2.7633,8.3105,Upper middle income,moderate
 ARG,Argentina,2007,5.8898,14.3986,Upper middle income,moderate
 BGD,Bangladesh,2007,9.9024,6.0795,Lower middle income,moderate
 BOL,Bolivia,2007,6.2441,8.5001,Lower middle income,moderate
-CPV,Cabo Verde,2007,6.542,10.0902,Lower middle income,moderate
+CPV,Cabo Verde,2007,6.5403,11.0012,Lower middle income,moderate
 CMR,Cameroon,2007,7.8064,4.2262,Lower middle income,moderate
 TCD,Chad,2007,3.532,5.9949,Low income,moderate
 COD,DR Congo,2007,25.7921,2.7702,Low income,moderate
 COG,Congo Republic,2007,4.1015,2.0521,Lower middle income,moderate
-DJI,Djibouti,2007,7.5767,6.5266,Lower middle income,moderate
+DJI,Djibouti,2007,7.5763,6.5318,Lower middle income,moderate
 EGY,Egypt,2007,6.3277,5.0176,Lower middle income,moderate
 ETH,Ethiopia,2007,3.1607,6.4961,Low income,moderate
 GUY,Guyana,2007,4.4087,6.6087,Upper middle income,moderate
@@ -818,9 +817,9 @@ KEN,Kenya,2007,6.2514,5.1237,Lower middle income,moderate
 MDG,Madagascar,2007,1.3533,11.7061,Low income,moderate
 MUS,Mauritius,2007,7.9071,7.3295,Upper middle income,moderate
 MNG,Mongolia,2007,3.0428,8.1639,Lower middle income,moderate
-NPL,Nepal,2007,9.2149,5.1638,Lower middle income,moderate
+NPL,Nepal,2007,9.214,5.1642,Lower middle income,moderate
 NIC,Nicaragua,2007,15.2921,14.6784,Lower middle income,moderate
-PAK,Pakistan,2007,6.637,2.8206,Lower middle income,moderate
+PAK,Pakistan,2007,6.6373,3.0284,Lower middle income,moderate
 PRY,Paraguay,2007,12.3158,12.3077,Upper middle income,moderate
 RUS,Russia,2007,3.625,9.2239,Upper middle income,moderate
 WSM,Samoa,2007,3.9182,10.8189,Lower middle income,moderate
@@ -834,9 +833,10 @@ UKR,Ukraine,2007,3.024,8.1587,Lower middle income,moderate
 VNM,Vietnam,2007,4.7329,6.8143,Lower middle income,moderate
 ZMB,Zambia,2007,1.4782,4.9093,Low income,moderate
 BTN,Bhutan,2007,8.6719,7.4639,Lower middle income,high
-CRI,Costa Rica,2007,9.5594,31.2072,Upper middle income,high
-CIV,Cote d'Ivoire,2007,3.6686,3.9638,Lower middle income,high
+CRI,Costa Rica,2007,9.7225,31.7396,Upper middle income,high
+CIV,Cote d'Ivoire,2007,3.6626,3.9638,Lower middle income,high
 DMA,Dominica,2007,11.5436,7.3993,Upper middle income,high
+ECU,Ecuador,2007,15.9283,8.4791,Upper middle income,high
 GMB,Gambia,2007,20.1644,6.3087,Low income,high
 GEO,Georgia,2007,3.8407,3.9537,Upper middle income,high
 GHA,Ghana,2007,3.27,9.134,Lower middle income,high
@@ -848,17 +848,16 @@ JOR,Jordan,2007,9.8082,12.7417,Upper middle income,high
 LAO,Laos,2007,7.968,3.7751,Lower middle income,high
 MDV,Maldives,2007,5.9479,11.2452,Upper middle income,high
 MRT,Mauritania,2007,13.5887,3.8856,Lower middle income,high
-MEX,Mexico,2007,8.6511,10.7143,Upper middle income,high
+MEX,Mexico,2007,8.651,11.2196,Upper middle income,high
 MAR,Morocco,2007,10.7117,7.3963,Lower middle income,high
 MKD,North Macedonia,2007,13.1473,12.8464,Upper middle income,high
 PNG,Papua New Guinea,2007,12.2524,9.0695,Lower middle income,high
 PER,Peru,2007,38.8361,11.5864,Upper middle income,high
 LKA,Sri Lanka,2007,9.5864,9.6408,Lower middle income,high
-LCA,St. Lucia,2007,14.235,6.9961,Upper middle income,high
+LCA,St. Lucia,2007,14.2356,6.9964,Upper middle income,high
 AGO,Angola,2007,17.531,4.5162,Lower middle income,very high
 BLZ,Belize,2007,172.485,14.241,Upper middle income,very high
-DOM,Dominican Republic,2007,17.0214,10.3533,Upper middle income,very high
-ECU,Ecuador,2007,15.9283,8.4791,Upper middle income,very high
+DOM,Dominican Republic,2007,16.9714,10.3228,Upper middle income,very high
 SLV,El Salvador,2007,18.4269,17.9827,Lower middle income,very high
 GAB,Gabon,2007,34.2129,6.362,Upper middle income,very high
 JAM,Jamaica,2007,25.9386,8.4987,Upper middle income,very high
@@ -878,7 +877,7 @@ LBR,Liberia,2008,29.1736,6.2864,Low income,very low
 MWI,Malawi,2008,2.0425,6.6251,Low income,very low
 NGA,Nigeria,2008,0.8999,4.5942,Lower middle income,very low
 SLB,Solomon Islands,2008,6.21,9.0742,Lower middle income,very low
-THA,Thailand,2008,4.3082,13.5611,Upper middle income,very low
+THA,Thailand,2008,4.302,13.5611,Upper middle income,very low
 UGA,Uganda,2008,2.3189,7.2866,Low income,very low
 VUT,Vanuatu,2008,2.2674,8.1792,Lower middle income,very low
 ARM,Armenia,2008,1.0065,6.6925,Upper middle income,low
@@ -886,11 +885,11 @@ AZE,Azerbaijan,2008,1.4819,2.7474,Upper middle income,low
 BLR,Belarus,2008,0.9689,5.8038,Upper middle income,low
 BEN,Benin,2008,1.8613,3.869,Lower middle income,low
 BIH,Bosnia and Herzegovina,2008,1.8471,10.9184,Upper middle income,low
-BRA,Brazil,2008,3.4948,9.2683,Upper middle income,low
+BRA,Brazil,2008,3.1708,8.4091,Upper middle income,low
 BGR,Bulgaria,2008,5.6263,10.413,Upper middle income,low
 BFA,Burkina Faso,2008,2.3872,7.3214,Low income,low
 COM,Comoros,2008,8.8829,2.8645,Lower middle income,low
-ERI,Eritrea,2008,2.6789,2.3543,Low income,low
+ERI,Eritrea,2008,2.433,2.1382,Low income,low
 SWZ,Eswatini,2008,5.5156,13.7255,Lower middle income,low
 FJI,Fiji,2008,2.8487,9.6844,Upper middle income,low
 GNB,Guinea-Bissau,2008,6.1512,10.1771,Low income,low
@@ -902,25 +901,25 @@ LSO,Lesotho,2008,3.6177,8.0812,Lower middle income,low
 MLI,Mali,2008,3.7051,3.8069,Low income,low
 MDA,Moldova,2008,2.4008,12.7214,Upper middle income,low
 MOZ,Mozambique,2008,1.2527,5.6681,Low income,low
-MMR,Myanmar,2008,2.6601,1.3161,Lower middle income,low
+MMR,Myanmar,2008,2.6595,1.2353,Lower middle income,low
 NER,Niger,2008,1.4104,9.1881,Low income,low
-RWA,Rwanda,2008,1.2151,8.0762,Low income,low
-SRB,Serbia,2008,2.4033,13.7256,Upper middle income,low
+RWA,Rwanda,2008,1.2151,8.0819,Low income,low
+SRB,Serbia,2008,2.2642,12.9313,Upper middle income,low
 SLE,Sierra Leone,2008,1.3112,3.916,Low income,low
 SDN,Sudan,2008,2.258,8.7863,Low income,low
 TZA,Tanzania,2008,0.6934,12.4853,Lower middle income,low
-TGO,Togo,2008,33.7343,4.8439,Low income,low
+TGO,Togo,2008,33.7325,4.9463,Low income,low
 UZB,Uzbekistan,2008,6.0491,7.2344,Lower middle income,low
 ALB,Albania,2008,2.4828,7.159,Upper middle income,moderate
 ARG,Argentina,2008,5.2519,14.6562,Upper middle income,moderate
 BGD,Bangladesh,2008,6.5858,4.6009,Lower middle income,moderate
 BOL,Bolivia,2008,8.0044,7.6469,Lower middle income,moderate
-CPV,Cabo Verde,2008,5.6397,8.1072,Lower middle income,moderate
+CPV,Cabo Verde,2008,5.6386,8.8852,Lower middle income,moderate
 CMR,Cameroon,2008,4.4444,3.461,Lower middle income,moderate
 TCD,Chad,2008,6.258,4.2315,Low income,moderate
 COD,DR Congo,2008,19.4765,2.8975,Low income,moderate
 COG,Congo Republic,2008,5.8346,4.5489,Lower middle income,moderate
-DJI,Djibouti,2008,6.464,6.349,Lower middle income,moderate
+DJI,Djibouti,2008,6.4643,6.354,Lower middle income,moderate
 EGY,Egypt,2008,5.668,4.6992,Lower middle income,moderate
 ETH,Ethiopia,2008,2.09,2.7418,Low income,moderate
 GUY,Guyana,2008,4.3854,7.0215,Upper middle income,moderate
@@ -929,9 +928,9 @@ KEN,Kenya,2008,4.8972,6.1015,Lower middle income,moderate
 MDG,Madagascar,2008,1.5104,8.8737,Low income,moderate
 MUS,Mauritius,2008,6.003,6.2869,Upper middle income,moderate
 MNG,Mongolia,2008,3.0378,8.5524,Lower middle income,moderate
-NPL,Nepal,2008,8.3415,5.299,Lower middle income,moderate
+NPL,Nepal,2008,8.3414,5.2994,Lower middle income,moderate
 NIC,Nicaragua,2008,4.9196,14.5833,Lower middle income,moderate
-PAK,Pakistan,2008,6.0396,2.2233,Lower middle income,moderate
+PAK,Pakistan,2008,6.0399,2.3485,Lower middle income,moderate
 PRY,Paraguay,2008,10.5858,12.6398,Upper middle income,moderate
 RUS,Russia,2008,5.7863,9.5939,Upper middle income,moderate
 WSM,Samoa,2008,4.2495,12.8495,Lower middle income,moderate
@@ -945,9 +944,10 @@ UKR,Ukraine,2008,2.3042,6.7753,Lower middle income,moderate
 VNM,Vietnam,2008,4.6408,7.1445,Lower middle income,moderate
 ZMB,Zambia,2008,2.1596,2.98,Low income,moderate
 BTN,Bhutan,2008,16.6832,6.0287,Lower middle income,high
-CRI,Costa Rica,2008,22.7201,32.3796,Upper middle income,high
-CIV,Cote d'Ivoire,2008,15.7201,4.1359,Lower middle income,high
+CRI,Costa Rica,2008,23.413,33.3672,Upper middle income,high
+CIV,Cote d'Ivoire,2008,15.6885,4.1359,Lower middle income,high
 DMA,Dominica,2008,11.5449,7.5269,Upper middle income,high
+ECU,Ecuador,2008,8.0155,5.9579,Upper middle income,high
 GMB,Gambia,2008,8.8849,6.3098,Low income,high
 GEO,Georgia,2008,3.917,4.8308,Upper middle income,high
 GHA,Ghana,2008,2.9645,9.8968,Lower middle income,high
@@ -959,17 +959,16 @@ JOR,Jordan,2008,33.8741,15.1243,Upper middle income,high
 LAO,Laos,2008,7.7713,3.1975,Lower middle income,high
 MDV,Maldives,2008,6.245,17.986,Upper middle income,high
 MRT,Mauritania,2008,5.8097,4.4803,Lower middle income,high
-MEX,Mexico,2008,7.1608,9.4348,Upper middle income,high
+MEX,Mexico,2008,7.161,9.873,Upper middle income,high
 MAR,Morocco,2008,8.6816,7.23,Lower middle income,high
 MKD,North Macedonia,2008,3.9586,12.5361,Upper middle income,high
 PNG,Papua New Guinea,2008,8.4656,7.6647,Lower middle income,high
-PER,Peru,2008,15.8146,10.9497,Upper middle income,high
+PER,Peru,2008,15.8147,10.9535,Upper middle income,high
 LKA,Sri Lanka,2008,10.9493,9.0226,Lower middle income,high
 LCA,St. Lucia,2008,15.1602,7.1284,Upper middle income,high
 AGO,Angola,2008,3.3811,4.0604,Lower middle income,very high
 BLZ,Belize,2008,26.684,17.1077,Upper middle income,very high
-DOM,Dominican Republic,2008,13.185,11.5981,Upper middle income,very high
-ECU,Ecuador,2008,8.0155,5.9579,Upper middle income,very high
+DOM,Dominican Republic,2008,13.0465,11.4764,Upper middle income,very high
 SLV,El Salvador,2008,16.3052,16.6571,Lower middle income,very high
 GAB,Gabon,2008,88.9424,5.6129,Upper middle income,very high
 JAM,Jamaica,2008,19.8391,8.4809,Upper middle income,very high
@@ -989,7 +988,7 @@ LBR,Liberia,2009,3.8076,4.0282,Low income,very low
 MWI,Malawi,2009,2.1168,5.2325,Low income,very low
 NGA,Nigeria,2009,0.9287,3.6939,Lower middle income,very low
 SLB,Solomon Islands,2009,2.8146,7.7338,Lower middle income,very low
-THA,Thailand,2009,1.6868,12.185,Upper middle income,very low
+THA,Thailand,2009,1.6849,12.185,Upper middle income,very low
 UGA,Uganda,2009,2.3699,7.0417,Low income,very low
 VUT,Vanuatu,2009,3.0186,7.268,Lower middle income,very low
 ARM,Armenia,2009,1.7865,6.345,Upper middle income,low
@@ -997,11 +996,11 @@ AZE,Azerbaijan,2009,1.753,3.2769,Upper middle income,low
 BLR,Belarus,2009,2.1794,6.7315,Upper middle income,low
 BEN,Benin,2009,2.6299,4.3969,Lower middle income,low
 BIH,Bosnia and Herzegovina,2009,2.0103,12.5238,Upper middle income,low
-BRA,Brazil,2009,2.1753,10.0133,Upper middle income,low
+BRA,Brazil,2009,1.9308,8.8879,Upper middle income,low
 BGR,Bulgaria,2009,3.4841,10.5085,Upper middle income,low
 BFA,Burkina Faso,2009,2.1641,7.6294,Low income,low
 COM,Comoros,2009,8.1555,2.7746,Lower middle income,low
-ERI,Eritrea,2009,3.7916,2.3541,Low income,low
+ERI,Eritrea,2009,3.6979,2.2959,Low income,low
 SWZ,Eswatini,2009,4.6603,13.569,Lower middle income,low
 FJI,Fiji,2009,3.2846,8.3694,Upper middle income,low
 GNB,Guinea-Bissau,2009,10.5979,12.9434,Low income,low
@@ -1013,25 +1012,25 @@ LSO,Lesotho,2009,2.4915,7.3227,Lower middle income,low
 MLI,Mali,2009,2.9015,2.9342,Low income,low
 MDA,Moldova,2009,3.1311,12.876,Upper middle income,low
 MOZ,Mozambique,2009,1.3258,4.9652,Low income,low
-MMR,Myanmar,2009,2.7502,1.4354,Lower middle income,low
+MMR,Myanmar,2009,2.7499,1.3473,Lower middle income,low
 NER,Niger,2009,2.2495,8.6939,Low income,low
-RWA,Rwanda,2009,0.8702,8.4303,Low income,low
+RWA,Rwanda,2009,0.8703,8.4356,Low income,low
 SRB,Serbia,2009,2.6199,13.4698,Upper middle income,low
 SLE,Sierra Leone,2009,1.6491,5.3393,Low income,low
 SDN,Sudan,2009,4.666,14.0195,Low income,low
 TZA,Tanzania,2009,0.9561,7.5839,Lower middle income,low
-TGO,Togo,2009,7.8061,4.7769,Low income,low
+TGO,Togo,2009,7.806,4.9477,Low income,low
 UZB,Uzbekistan,2009,4.0635,7.2686,Lower middle income,low
 ALB,Albania,2009,3.8441,7.1546,Upper middle income,moderate
 ARG,Argentina,2009,6.5986,16.4229,Upper middle income,moderate
 BGD,Bangladesh,2009,6.9053,4.9296,Lower middle income,moderate
 BOL,Bolivia,2009,4.2892,8.8172,Lower middle income,moderate
-CPV,Cabo Verde,2009,5.5177,8.3094,Lower middle income,moderate
+CPV,Cabo Verde,2009,5.5196,9.0661,Lower middle income,moderate
 CMR,Cameroon,2009,3.4304,3.0475,Lower middle income,moderate
 TCD,Chad,2009,2.875,3.8367,Low income,moderate
 COD,DR Congo,2009,20.235,2.5167,Low income,moderate
 COG,Congo Republic,2009,7.4616,2.5282,Lower middle income,moderate
-DJI,Djibouti,2009,6.3876,6.1399,Lower middle income,moderate
+DJI,Djibouti,2009,6.3882,6.1448,Lower middle income,moderate
 EGY,Egypt,2009,4.4051,4.7181,Lower middle income,moderate
 ETH,Ethiopia,2009,1.9313,5.3001,Low income,moderate
 GUY,Guyana,2009,2.8176,7.4143,Upper middle income,moderate
@@ -1040,13 +1039,13 @@ KEN,Kenya,2009,4.017,7.2008,Lower middle income,moderate
 MDG,Madagascar,2009,3.489,9.8824,Low income,moderate
 MUS,Mauritius,2009,4.6283,6.5431,Upper middle income,moderate
 MNG,Mongolia,2009,5.3593,8.7487,Lower middle income,moderate
-NPL,Nepal,2009,6.9034,4.6797,Lower middle income,moderate
+NPL,Nepal,2009,6.9036,4.6803,Lower middle income,moderate
 NIC,Nicaragua,2009,5.2731,16.7692,Lower middle income,moderate
-PAK,Pakistan,2009,7.5638,2.9632,Lower middle income,moderate
+PAK,Pakistan,2009,7.5637,2.933,Lower middle income,moderate
 PRY,Paraguay,2009,10.6005,13.9544,Upper middle income,moderate
 RUS,Russia,2009,4.294,9.0761,Upper middle income,moderate
 WSM,Samoa,2009,4.3576,12.987,Lower middle income,moderate
-STP,Sao Tome and Principe,2009,2.1033,3.2725,Lower middle income,moderate
+STP,Sao Tome and Principe,2009,2.102,3.4963,Lower middle income,moderate
 SEN,Senegal,2009,4.0504,6.6601,Lower middle income,moderate
 ZAF,South Africa,2009,3.3781,13.3702,Upper middle income,moderate
 TJK,Tajikistan,2009,4.9827,4.5702,Lower middle income,moderate
@@ -1056,9 +1055,10 @@ UKR,Ukraine,2009,5.0334,7.9141,Lower middle income,moderate
 VNM,Vietnam,2009,4.3259,6.051,Lower middle income,moderate
 ZMB,Zambia,2009,2.6102,2.4609,Low income,moderate
 BTN,Bhutan,2009,15.0738,6.1937,Lower middle income,high
-CRI,Costa Rica,2009,15.2807,33.0973,Upper middle income,high
-CIV,Cote d'Ivoire,2009,16.0121,4.645,Lower middle income,high
+CRI,Costa Rica,2009,15.4541,33.4728,Upper middle income,high
+CIV,Cote d'Ivoire,2009,15.9648,4.645,Lower middle income,high
 DMA,Dominica,2009,11.6291,7.4427,Upper middle income,high
+ECU,Ecuador,2009,34.053,7.2228,Upper middle income,high
 GMB,Gambia,2009,9.095,6.3093,Low income,high
 GEO,Georgia,2009,5.6196,5.8839,Upper middle income,high
 GHA,Ghana,2009,3.6443,12.3564,Lower middle income,high
@@ -1070,17 +1070,16 @@ JOR,Jordan,2009,6.4274,17.9168,Upper middle income,high
 LAO,Laos,2009,6.9248,5.7038,Lower middle income,high
 MDV,Maldives,2009,6.5109,15.7443,Upper middle income,high
 MRT,Mauritania,2009,8.3019,4.4762,Lower middle income,high
-MEX,Mexico,2009,7.1516,10.2921,Upper middle income,high
+MEX,Mexico,2009,7.1516,10.7881,Upper middle income,high
 MAR,Morocco,2009,6.193,8.1871,Lower middle income,high
 MKD,North Macedonia,2009,4.276,12.1921,Upper middle income,high
 PNG,Papua New Guinea,2009,2.9058,6.3156,Lower middle income,high
-PER,Peru,2009,11.2186,11.7336,Upper middle income,high
+PER,Peru,2009,11.2183,11.7391,Upper middle income,high
 LKA,Sri Lanka,2009,10.6073,8.1028,Lower middle income,high
-LCA,St. Lucia,2009,12.4142,7.5001,Upper middle income,high
+LCA,St. Lucia,2009,12.3636,7.4747,Upper middle income,high
 AGO,Angola,2009,11.1614,5.7779,Lower middle income,very high
 BLZ,Belize,2009,24.5307,15.8965,Upper middle income,very high
-DOM,Dominican Republic,2009,15.5435,14.3412,Upper middle income,very high
-ECU,Ecuador,2009,34.053,7.2228,Upper middle income,very high
+DOM,Dominican Republic,2009,15.6436,14.4336,Upper middle income,very high
 SLV,El Salvador,2009,20.4415,15.8137,Lower middle income,very high
 GAB,Gabon,2009,15.3297,6.8177,Upper middle income,very high
 JAM,Jamaica,2009,26.6964,7.6235,Upper middle income,very high
@@ -1100,7 +1099,7 @@ LBR,Liberia,2010,0.8794,3.1871,Low income,very low
 MWI,Malawi,2010,1.0285,5.7747,Low income,very low
 NGA,Nigeria,2010,0.5008,2.7029,Lower middle income,very low
 SLB,Solomon Islands,2010,2.9271,7.078,Lower middle income,very low
-THA,Thailand,2010,1.3354,11.3634,Upper middle income,very low
+THA,Thailand,2010,1.3349,11.3634,Upper middle income,very low
 UGA,Uganda,2010,1.6014,7.1182,Low income,very low
 VUT,Vanuatu,2010,2.7952,6.8482,Lower middle income,very low
 ZWE,Zimbabwe,2010,0.7131,15.2203,Lower middle income,very low
@@ -1109,11 +1108,11 @@ AZE,Azerbaijan,2010,1.7648,3.1628,Upper middle income,low
 BLR,Belarus,2010,2.3292,8.6853,Upper middle income,low
 BEN,Benin,2010,2.8843,5.1465,Lower middle income,low
 BIH,Bosnia and Herzegovina,2010,2.4003,12.6008,Upper middle income,low
-BRA,Brazil,2010,1.6947,9.0463,Upper middle income,low
+BRA,Brazil,2010,1.5892,8.4834,Upper middle income,low
 BGR,Bulgaria,2010,2.5562,11.3418,Upper middle income,low
 BFA,Burkina Faso,2010,2.211,6.0324,Low income,low
 COM,Comoros,2010,3.5283,2.8453,Lower middle income,low
-ERI,Eritrea,2010,3.8751,2.3542,Low income,low
+ERI,Eritrea,2010,3.9827,2.4195,Low income,low
 SWZ,Eswatini,2010,3.8318,14.0221,Lower middle income,low
 FJI,Fiji,2010,2.8049,8.5451,Upper middle income,low
 GNB,Guinea-Bissau,2010,5.5674,5.5958,Low income,low
@@ -1125,25 +1124,25 @@ LSO,Lesotho,2010,2.0908,8.5279,Lower middle income,low
 MLI,Mali,2010,3.1425,3.3016,Low income,low
 MDA,Moldova,2010,3.0006,13.6272,Upper middle income,low
 MOZ,Mozambique,2010,3.0376,4.6725,Low income,low
-MMR,Myanmar,2010,4.4394,1.3522,Lower middle income,low
+MMR,Myanmar,2010,4.4395,1.2693,Lower middle income,low
 NER,Niger,2010,1.5572,9.1776,Low income,low
-RWA,Rwanda,2010,0.9547,8.5589,Low income,low
+RWA,Rwanda,2010,0.9546,8.5611,Low income,low
 SRB,Serbia,2010,3.7875,13.5615,Upper middle income,low
 SLE,Sierra Leone,2010,1.6883,6.2919,Low income,low
 SDN,Sudan,2010,4.2447,9.488,Low income,low
 TZA,Tanzania,2010,1.3678,7.3213,Lower middle income,low
-TGO,Togo,2010,4.9955,7.4458,Low income,low
+TGO,Togo,2010,4.995,7.6387,Low income,low
 UZB,Uzbekistan,2010,3.2933,8.0395,Lower middle income,low
 ALB,Albania,2010,6.8541,8.0946,Upper middle income,moderate
 ARG,Argentina,2010,6.1652,16.6927,Upper middle income,moderate
 BGD,Bangladesh,2010,6.2768,5.3181,Lower middle income,moderate
 BOL,Bolivia,2010,4.8235,9.7057,Lower middle income,moderate
-CPV,Cabo Verde,2010,5.0206,7.2295,Lower middle income,moderate
+CPV,Cabo Verde,2010,5.0199,7.9282,Lower middle income,moderate
 CMR,Cameroon,2010,3.5671,2.6759,Lower middle income,moderate
 TCD,Chad,2010,2.3688,3.498,Low income,moderate
 COD,DR Congo,2010,6.2113,2.5917,Low income,moderate
 COG,Congo Republic,2010,3.9309,3.6022,Lower middle income,moderate
-DJI,Djibouti,2010,7.4504,6.9705,Lower middle income,moderate
+DJI,Djibouti,2010,7.4469,6.9759,Lower middle income,moderate
 EGY,Egypt,2010,4.0312,4.3615,Lower middle income,moderate
 ETH,Ethiopia,2010,3.5216,5.1072,Low income,moderate
 GUY,Guyana,2010,3.9263,7.605,Upper middle income,moderate
@@ -1152,13 +1151,13 @@ KEN,Kenya,2010,3.5817,7.2442,Lower middle income,moderate
 MDG,Madagascar,2010,4.3873,15.2091,Low income,moderate
 MUS,Mauritius,2010,3.6625,8.7172,Upper middle income,moderate
 MNG,Mongolia,2010,6.2157,7.743,Lower middle income,moderate
-NPL,Nepal,2010,6.0187,4.7936,Lower middle income,moderate
+NPL,Nepal,2010,6.0186,4.7945,Lower middle income,moderate
 NIC,Nicaragua,2010,4.5159,15.7362,Lower middle income,moderate
-PAK,Pakistan,2010,8.1117,2.8897,Lower middle income,moderate
+PAK,Pakistan,2010,8.111,2.8506,Lower middle income,moderate
 PRY,Paraguay,2010,7.6122,14.4319,Upper middle income,moderate
 RUS,Russia,2010,5.4685,8.5938,Upper middle income,moderate
 WSM,Samoa,2010,5.2865,13.5595,Lower middle income,moderate
-STP,Sao Tome and Principe,2010,1.479,4.099,Lower middle income,moderate
+STP,Sao Tome and Principe,2010,1.4742,3.9608,Lower middle income,moderate
 SEN,Senegal,2010,4.2311,5.3532,Lower middle income,moderate
 ZAF,South Africa,2010,2.7442,14.1449,Upper middle income,moderate
 TJK,Tajikistan,2010,4.0663,4.5156,Lower middle income,moderate
@@ -1168,9 +1167,10 @@ UKR,Ukraine,2010,3.0509,7.5005,Lower middle income,moderate
 VNM,Vietnam,2010,4.7637,7.8485,Lower middle income,moderate
 ZMB,Zambia,2010,1.5825,4.6572,Low income,moderate
 BTN,Bhutan,2010,13.7626,5.6494,Lower middle income,high
-CRI,Costa Rica,2010,8.0488,31.7361,Upper middle income,high
-CIV,Cote d'Ivoire,2010,9.9841,4.0622,Lower middle income,high
+CRI,Costa Rica,2010,8.1621,32.1829,Upper middle income,high
+CIV,Cote d'Ivoire,2010,9.973,4.0622,Lower middle income,high
 DMA,Dominica,2010,7.8221,7.5063,Upper middle income,high
+ECU,Ecuador,2010,4.0111,8.1739,Upper middle income,high
 GMB,Gambia,2010,10.8801,6.3087,Low income,high
 GEO,Georgia,2010,6.6325,6.1534,Upper middle income,high
 GHA,Ghana,2010,3.1001,11.9157,Lower middle income,high
@@ -1182,17 +1182,16 @@ JOR,Jordan,2010,7.191,17.0205,Upper middle income,high
 LAO,Laos,2010,5.1553,2.6946,Lower middle income,high
 MDV,Maldives,2010,6.9951,13.5424,Upper middle income,high
 MRT,Mauritania,2010,11.4952,4.223,Lower middle income,high
-MEX,Mexico,2010,6.7637,10.4105,Upper middle income,high
+MEX,Mexico,2010,6.7638,10.8791,Upper middle income,high
 MAR,Morocco,2010,7.228,8.1509,Lower middle income,high
 MKD,North Macedonia,2010,5.0603,12.5087,Upper middle income,high
 PNG,Papua New Guinea,2010,3.1962,7.0693,Lower middle income,high
-PER,Peru,2010,14.6948,11.69,Upper middle income,high
+PER,Peru,2010,14.6947,11.6934,Upper middle income,high
 LKA,Sri Lanka,2010,10.4024,8.0988,Lower middle income,high
-LCA,St. Lucia,2010,10.8551,7.0599,Upper middle income,high
+LCA,St. Lucia,2010,10.8881,6.9906,Upper middle income,high
 AGO,Angola,2010,6.9361,4.2496,Lower middle income,very high
 BLZ,Belize,2010,23.6371,15.9855,Upper middle income,very high
-DOM,Dominican Republic,2010,13.3179,15.9275,Upper middle income,very high
-ECU,Ecuador,2010,4.0111,8.1739,Upper middle income,very high
+DOM,Dominican Republic,2010,13.1105,15.6794,Upper middle income,very high
 SLV,El Salvador,2010,17.7026,17.0861,Lower middle income,very high
 GAB,Gabon,2010,13.5607,6.8133,Upper middle income,very high
 JAM,Jamaica,2010,18.86,9.1825,Upper middle income,very high
@@ -1212,7 +1211,7 @@ LBR,Liberia,2011,0.4292,5.0868,Low income,very low
 MWI,Malawi,2011,1.1125,6.78,Low income,very low
 NGA,Nigeria,2011,0.4908,2.7714,Lower middle income,very low
 SLB,Solomon Islands,2011,2.0354,7.4246,Lower middle income,very low
-THA,Thailand,2011,1.8197,12.9165,Upper middle income,very low
+THA,Thailand,2011,1.8202,12.9165,Upper middle income,very low
 UGA,Uganda,2011,1.7049,6.8972,Low income,very low
 VUT,Vanuatu,2011,2.6384,9.3939,Lower middle income,very low
 ZWE,Zimbabwe,2011,0.676,9.122,Lower middle income,very low
@@ -1221,11 +1220,11 @@ AZE,Azerbaijan,2011,1.5162,2.8099,Upper middle income,low
 BLR,Belarus,2011,7.1934,7.6645,Upper middle income,low
 BEN,Benin,2011,2.7159,5.4043,Lower middle income,low
 BIH,Bosnia and Herzegovina,2011,2.7413,13.3805,Upper middle income,low
-BRA,Brazil,2011,2.1094,8.9719,Upper middle income,low
+BRA,Brazil,2011,1.937,8.2387,Upper middle income,low
 BGR,Bulgaria,2011,2.4441,12.0335,Upper middle income,low
 BFA,Burkina Faso,2011,2.6062,6.5874,Low income,low
 COM,Comoros,2011,2.9038,7.2386,Lower middle income,low
-ERI,Eritrea,2011,3.2474,2.3542,Low income,low
+ERI,Eritrea,2011,3.2973,2.3903,Low income,low
 SWZ,Eswatini,2011,4.1143,14.7984,Lower middle income,low
 FJI,Fiji,2011,17.5687,7.1308,Upper middle income,low
 GNB,Guinea-Bissau,2011,2.9544,2.5236,Low income,low
@@ -1237,40 +1236,40 @@ LSO,Lesotho,2011,2.1653,8.9266,Lower middle income,low
 MLI,Mali,2011,2.5464,2.9412,Low income,low
 MDA,Moldova,2011,3.1896,13.0372,Upper middle income,low
 MOZ,Mozambique,2011,1.9311,4.3443,Low income,low
-MMR,Myanmar,2011,2.8654,1.6468,Lower middle income,low
+MMR,Myanmar,2011,2.8655,1.5362,Lower middle income,low
 NER,Niger,2011,1.9284,8.2999,Low income,low
-RWA,Rwanda,2011,1.0773,8.9007,Low income,low
+RWA,Rwanda,2011,1.077,8.905,Low income,low
 SRB,Serbia,2011,3.8892,13.3789,Upper middle income,low
 SLE,Sierra Leone,2011,2.0601,4.1343,Low income,low
 SDN,Sudan,2011,4.2928,7.0357,Low income,low
 TZA,Tanzania,2011,1.1886,6.762,Lower middle income,low
-TGO,Togo,2011,1.5008,5.6693,Low income,low
+TGO,Togo,2011,1.5006,5.8841,Low income,low
 UZB,Uzbekistan,2011,2.5495,8.8317,Lower middle income,low
 ALB,Albania,2011,7.93,8.1788,Upper middle income,moderate
 ARG,Argentina,2011,4.2467,16.2775,Upper middle income,moderate
 BGD,Bangladesh,2011,6.7626,5.0093,Lower middle income,moderate
 BOL,Bolivia,2011,2.7093,8.5434,Lower middle income,moderate
-CPV,Cabo Verde,2011,5.6445,8.6078,Lower middle income,moderate
+CPV,Cabo Verde,2011,5.6443,9.4424,Lower middle income,moderate
 CMR,Cameroon,2011,3.4815,3.2106,Lower middle income,moderate
 TCD,Chad,2011,2.7414,3.6881,Low income,moderate
 COD,DR Congo,2011,6.9829,2.5861,Low income,moderate
 COG,Congo Republic,2011,2.9695,2.3368,Lower middle income,moderate
-DJI,Djibouti,2011,8.1678,8.4745,Lower middle income,moderate
+DJI,Djibouti,2011,8.1696,8.4812,Lower middle income,moderate
 EGY,Egypt,2011,4.6954,4.827,Lower middle income,moderate
 ETH,Ethiopia,2011,6.146,2.0912,Low income,moderate
 GUY,Guyana,2011,4.2341,8.6204,Upper middle income,moderate
 HND,Honduras,2011,2.7223,15.0266,Lower middle income,moderate
-KEN,Kenya,2011,4.1013,7.9812,Lower middle income,moderate
+KEN,Kenya,2011,4.1291,7.9812,Lower middle income,moderate
 MDG,Madagascar,2011,3.0047,13.9368,Low income,moderate
 MUS,Mauritius,2011,3.4771,7.687,Upper middle income,moderate
 MNG,Mongolia,2011,1.8776,5.6204,Lower middle income,moderate
-NPL,Nepal,2011,5.3279,4.8621,Lower middle income,moderate
+NPL,Nepal,2011,5.3282,4.863,Lower middle income,moderate
 NIC,Nicaragua,2011,4.4665,15.0008,Lower middle income,moderate
-PAK,Pakistan,2011,5.0881,2.5432,Lower middle income,moderate
+PAK,Pakistan,2011,5.0879,2.4394,Lower middle income,moderate
 PRY,Paraguay,2011,5.8116,15.5284,Upper middle income,moderate
 RUS,Russia,2011,3.5152,9.0317,Upper middle income,moderate
 WSM,Samoa,2011,4.7437,10.9963,Lower middle income,moderate
-STP,Sao Tome and Principe,2011,1.1854,4.3085,Lower middle income,moderate
+STP,Sao Tome and Principe,2011,1.1852,4.2149,Lower middle income,moderate
 SEN,Senegal,2011,5.9623,5.6282,Lower middle income,moderate
 ZAF,South Africa,2011,2.9318,14.6841,Upper middle income,moderate
 TJK,Tajikistan,2011,4.0106,5.4346,Lower middle income,moderate
@@ -1280,9 +1279,10 @@ UKR,Ukraine,2011,3.3068,7.4917,Lower middle income,moderate
 VNM,Vietnam,2011,5.1951,8.4097,Lower middle income,moderate
 ZMB,Zambia,2011,1.4892,6.1652,Low income,moderate
 BTN,Bhutan,2011,12.5769,6.1464,Lower middle income,high
-CRI,Costa Rica,2011,11.3041,32.7666,Upper middle income,high
-CIV,Cote d'Ivoire,2011,8.8619,4.3937,Lower middle income,high
+CRI,Costa Rica,2011,11.4482,33.1843,Upper middle income,high
+CIV,Cote d'Ivoire,2011,8.8437,4.3937,Lower middle income,high
 DMA,Dominica,2011,8.3619,8.9476,Upper middle income,high
+ECU,Ecuador,2011,4.5695,7.7666,Upper middle income,high
 GMB,Gambia,2011,11.2772,6.3089,Low income,high
 GEO,Georgia,2011,15.274,5.0414,Upper middle income,high
 GHA,Ghana,2011,2.8982,12.0738,Lower middle income,high
@@ -1294,23 +1294,22 @@ JOR,Jordan,2011,6.9917,15.4178,Upper middle income,high
 LAO,Laos,2011,8.7865,1.8175,Lower middle income,high
 MDV,Maldives,2011,9.3397,11.7627,Upper middle income,high
 MRT,Mauritania,2011,10.7484,4.401,Lower middle income,high
-MEX,Mexico,2011,6.0214,10.5144,Upper middle income,high
+MEX,Mexico,2011,6.0213,10.9464,Upper middle income,high
 MAR,Morocco,2011,6.4138,7.8128,Lower middle income,high
 MKD,North Macedonia,2011,5.5487,12.7354,Upper middle income,high
 PNG,Papua New Guinea,2011,2.7819,7.6039,Lower middle income,high
-PER,Peru,2011,5.6079,11.7228,Upper middle income,high
+PER,Peru,2011,5.6082,11.7234,Upper middle income,high
 LKA,Sri Lanka,2011,8.2511,8.2651,Lower middle income,high
-LCA,St. Lucia,2011,10.2699,6.7248,Upper middle income,high
+LCA,St. Lucia,2011,10.2655,6.7263,Upper middle income,high
 AGO,Angola,2011,6.701,4.5806,Lower middle income,very high
 BLZ,Belize,2011,20.5904,15.7502,Upper middle income,very high
-DOM,Dominican Republic,2011,13.6164,17.0892,Upper middle income,very high
-ECU,Ecuador,2011,4.5695,7.7666,Upper middle income,very high
+DOM,Dominican Republic,2011,13.601,17.0699,Upper middle income,very high
 SLV,El Salvador,2011,19.6142,18.9868,Lower middle income,very high
 GAB,Gabon,2011,10.3697,7.183,Upper middle income,very high
 JAM,Jamaica,2011,26.426,9.6834,Upper middle income,very high
 LBN,Lebanon,2011,45.3288,12.4031,Lower middle income,very high
 MNE,Montenegro,2011,9.8023,10.7281,Upper middle income,very high
-PHL,Philippines,2011,19.2674,6.1937,Lower middle income,very high
+PHL,Philippines,2011,19.1857,6.1674,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2011,16.7259,8.1594,Upper middle income,very high
 TUN,Tunisia,2011,17.3981,12.3864,Lower middle income,very high
 AFG,Afghanistan,2012,0.1954,1.37,Low income,very low
@@ -1325,7 +1324,7 @@ LBR,Liberia,2012,0.5538,2.8342,Low income,very low
 MWI,Malawi,2012,1.5287,5.0963,Low income,very low
 NGA,Nigeria,2012,0.3679,3.668,Lower middle income,very low
 SLB,Solomon Islands,2012,1.8148,7.8243,Lower middle income,very low
-THA,Thailand,2012,1.1793,12.0455,Upper middle income,very low
+THA,Thailand,2012,1.1797,12.0455,Upper middle income,very low
 UGA,Uganda,2012,1.6336,7.0502,Low income,very low
 VUT,Vanuatu,2012,2.6845,9.4049,Lower middle income,very low
 ZWE,Zimbabwe,2012,0.5941,9.7964,Lower middle income,very low
@@ -1334,11 +1333,11 @@ AZE,Azerbaijan,2012,1.4745,3.0398,Upper middle income,low
 BLR,Belarus,2012,13.2577,8.8543,Upper middle income,low
 BEN,Benin,2012,3.5347,5.2453,Lower middle income,low
 BIH,Bosnia and Herzegovina,2012,2.8952,13.883,Upper middle income,low
-BRA,Brazil,2012,1.2389,8.6984,Upper middle income,low
+BRA,Brazil,2012,1.1397,8.0019,Upper middle income,low
 BGR,Bulgaria,2012,2.4411,11.7773,Upper middle income,low
 BFA,Burkina Faso,2012,2.2935,4.6961,Low income,low
 COM,Comoros,2012,5.1615,5.3522,Lower middle income,low
-ERI,Eritrea,2012,12.2444,2.3541,Low income,low
+ERI,Eritrea,2012,12.3807,2.3803,Low income,low
 SWZ,Eswatini,2012,3.5527,12.9919,Lower middle income,low
 FJI,Fiji,2012,3.5892,7.3569,Upper middle income,low
 GNB,Guinea-Bissau,2012,4.5768,3.8881,Low income,low
@@ -1350,40 +1349,40 @@ LSO,Lesotho,2012,2.4524,8.2964,Lower middle income,low
 MLI,Mali,2012,3.012,2.6626,Low income,low
 MDA,Moldova,2012,2.7899,13.174,Upper middle income,low
 MOZ,Mozambique,2012,2.0415,4.3946,Low income,low
-MMR,Myanmar,2012,10.9159,2.3163,Lower middle income,low
+MMR,Myanmar,2012,10.9163,2.1644,Lower middle income,low
 NER,Niger,2012,2.1735,6.2492,Low income,low
-RWA,Rwanda,2012,1.0967,8.363,Low income,low
-SRB,Serbia,2012,5.4058,12.839,Upper middle income,low
+RWA,Rwanda,2012,1.0968,8.3667,Low income,low
+SRB,Serbia,2012,5.4038,12.839,Upper middle income,low
 SLE,Sierra Leone,2012,1.7366,4.6823,Low income,low
 SDN,Sudan,2012,4.3969,9.0606,Low income,low
 TZA,Tanzania,2012,1.1462,6.0057,Lower middle income,low
-TGO,Togo,2012,2.1895,6.1092,Low income,low
+TGO,Togo,2012,2.1892,6.3289,Low income,low
 UZB,Uzbekistan,2012,2.2797,9.7626,Lower middle income,low
 ALB,Albania,2012,8.3963,8.6974,Upper middle income,moderate
 ARG,Argentina,2012,2.8601,16.6613,Upper middle income,moderate
 BGD,Bangladesh,2012,6.7961,4.8109,Lower middle income,moderate
 BOL,Bolivia,2012,4.5025,8.3144,Lower middle income,moderate
-CPV,Cabo Verde,2012,5.4918,8.865,Lower middle income,moderate
+CPV,Cabo Verde,2012,5.4925,9.7366,Lower middle income,moderate
 CMR,Cameroon,2012,2.2312,3.7319,Lower middle income,moderate
 TCD,Chad,2012,2.6827,3.9647,Low income,moderate
 COD,DR Congo,2012,6.8624,3.9732,Low income,moderate
 COG,Congo Republic,2012,3.0668,2.6713,Lower middle income,moderate
-DJI,Djibouti,2012,7.8179,7.1332,Lower middle income,moderate
+DJI,Djibouti,2012,7.82,7.1389,Lower middle income,moderate
 EGY,Egypt,2012,3.4339,4.6326,Lower middle income,moderate
 ETH,Ethiopia,2012,6.098,6.407,Low income,moderate
-GUY,Guyana,2012,14.9529,8.2261,Upper middle income,moderate
+GUY,Guyana,2012,14.834,8.1607,Upper middle income,moderate
 HND,Honduras,2012,2.695,12.836,Lower middle income,moderate
-KEN,Kenya,2012,3.8166,7.3592,Lower middle income,moderate
+KEN,Kenya,2012,3.8157,7.3592,Lower middle income,moderate
 MDG,Madagascar,2012,4.4564,12.9367,Low income,moderate
 MUS,Mauritius,2012,3.2891,8.6926,Upper middle income,moderate
 MNG,Mongolia,2012,2.03,6.5033,Lower middle income,moderate
 NPL,Nepal,2012,5.7139,4.692,Lower middle income,moderate
 NIC,Nicaragua,2012,3.6234,15.5666,Lower middle income,moderate
-PAK,Pakistan,2012,4.3064,3.1706,Lower middle income,moderate
+PAK,Pakistan,2012,4.3067,3.1401,Lower middle income,moderate
 PRY,Paraguay,2012,4.8443,16.2309,Upper middle income,moderate
 RUS,Russia,2012,2.2096,9.2416,Upper middle income,moderate
 WSM,Samoa,2012,5.134,11.837,Lower middle income,moderate
-STP,Sao Tome and Principe,2012,9.6804,4.5662,Lower middle income,moderate
+STP,Sao Tome and Principe,2012,9.701,4.178,Lower middle income,moderate
 SEN,Senegal,2012,5.6403,5.3074,Lower middle income,moderate
 ZAF,South Africa,2012,4.8118,14.4671,Upper middle income,moderate
 TJK,Tajikistan,2012,5.6032,6.5516,Lower middle income,moderate
@@ -1393,9 +1392,10 @@ UKR,Ukraine,2012,3.986,7.638,Lower middle income,moderate
 VNM,Vietnam,2012,4.8521,8.9337,Lower middle income,moderate
 ZMB,Zambia,2012,2.5018,5.9393,Low income,moderate
 BTN,Bhutan,2012,19.6227,6.4584,Lower middle income,high
-CRI,Costa Rica,2012,11.364,31.2911,Upper middle income,high
-CIV,Cote d'Ivoire,2012,5.018,4.622,Lower middle income,high
+CRI,Costa Rica,2012,11.5245,31.7331,Upper middle income,high
+CIV,Cote d'Ivoire,2012,5.0118,4.622,Lower middle income,high
 DMA,Dominica,2012,9.5604,9.6223,Upper middle income,high
+ECU,Ecuador,2012,4.5221,7.9694,Upper middle income,high
 GMB,Gambia,2012,9.5277,6.309,Low income,high
 GEO,Georgia,2012,4.1287,5.5061,Upper middle income,high
 GHA,Ghana,2012,3.374,8.9727,Lower middle income,high
@@ -1407,23 +1407,22 @@ JOR,Jordan,2012,6.3483,13.6712,Upper middle income,high
 LAO,Laos,2012,6.2632,1.7667,Lower middle income,high
 MDV,Maldives,2012,9.012,14.14,Upper middle income,high
 MRT,Mauritania,2012,10.2706,4.167,Lower middle income,high
-MEX,Mexico,2012,10.9821,10.6586,Upper middle income,high
+MEX,Mexico,2012,10.9822,11.1379,Upper middle income,high
 MAR,Morocco,2012,6.7586,7.7547,Lower middle income,high
 MKD,North Macedonia,2012,7.218,12.4334,Upper middle income,high
 PNG,Papua New Guinea,2012,2.0154,8.1287,Lower middle income,high
-PER,Peru,2012,5.9146,12.2629,Upper middle income,high
+PER,Peru,2012,5.9142,12.2611,Upper middle income,high
 LKA,Sri Lanka,2012,14.3101,8.3005,Lower middle income,high
-LCA,St. Lucia,2012,9.8337,7.3188,Upper middle income,high
+LCA,St. Lucia,2012,9.8341,7.3191,Upper middle income,high
 AGO,Angola,2012,9.0766,4.2015,Lower middle income,very high
 BLZ,Belize,2012,22.17,16.0824,Upper middle income,very high
-DOM,Dominican Republic,2012,8.7832,13.7375,Upper middle income,very high
-ECU,Ecuador,2012,4.9052,8.6446,Upper middle income,very high
+DOM,Dominican Republic,2012,8.931,13.9687,Upper middle income,very high
 SLV,El Salvador,2012,14.7347,16.2673,Lower middle income,very high
 GAB,Gabon,2012,10.3077,6.1915,Upper middle income,very high
 JAM,Jamaica,2012,24.9376,9.3353,Upper middle income,very high
 LBN,Lebanon,2012,28.6255,10.075,Lower middle income,very high
 MNE,Montenegro,2012,13.5994,11.6064,Upper middle income,very high
-PHL,Philippines,2012,11.5464,6.0621,Lower middle income,very high
+PHL,Philippines,2012,11.8118,6.2014,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2012,19.0239,10.4753,Upper middle income,very high
 TUN,Tunisia,2012,15.9074,12.6388,Lower middle income,very high
 AFG,Afghanistan,2013,0.2318,1.7751,Low income,very low
@@ -1448,11 +1447,11 @@ AZE,Azerbaijan,2013,2.998,2.8139,Upper middle income,low
 BLR,Belarus,2013,5.4076,8.744,Upper middle income,low
 BEN,Benin,2013,4.3487,5.1338,Lower middle income,low
 BIH,Bosnia and Herzegovina,2013,3.1714,14.795,Upper middle income,low
-BRA,Brazil,2013,2.1888,9.2039,Upper middle income,low
+BRA,Brazil,2013,1.9848,8.3462,Upper middle income,low
 BGR,Bulgaria,2013,9.5276,11.3886,Upper middle income,low
 BFA,Burkina Faso,2013,2.1496,6.3828,Low income,low
 COM,Comoros,2013,0.346,4.4499,Lower middle income,low
-ERI,Eritrea,2013,13.2863,2.3541,Low income,low
+ERI,Eritrea,2013,13.4483,2.3828,Low income,low
 SWZ,Eswatini,2013,2.8926,11.8972,Lower middle income,low
 FJI,Fiji,2013,3.8543,7.2238,Upper middle income,low
 GNB,Guinea-Bissau,2013,1.7767,4.4427,Low income,low
@@ -1464,40 +1463,40 @@ LSO,Lesotho,2013,2.8422,7.9686,Lower middle income,low
 MLI,Mali,2013,4.0225,4.1289,Low income,low
 MDA,Moldova,2013,3.2507,12.4992,Upper middle income,low
 MOZ,Mozambique,2013,3.3452,4.7262,Low income,low
-MMR,Myanmar,2013,18.0991,2.7077,Lower middle income,low
+MMR,Myanmar,2013,18.0995,2.6309,Lower middle income,low
 NER,Niger,2013,3.104,6.5554,Low income,low
-RWA,Rwanda,2013,1.8258,8.3041,Low income,low
+RWA,Rwanda,2013,1.8257,8.3091,Low income,low
 SRB,Serbia,2013,8.5812,13.1747,Upper middle income,low
 SLE,Sierra Leone,2013,2.2052,5.1502,Low income,low
 SDN,Sudan,2013,3.5298,7.5173,Low income,low
 TZA,Tanzania,2013,2.484,6.3068,Lower middle income,low
-TGO,Togo,2013,3.993,4.6897,Low income,low
+TGO,Togo,2013,3.9932,4.8436,Low income,low
 UZB,Uzbekistan,2013,1.9218,9.5183,Lower middle income,low
 ALB,Albania,2013,5.2396,8.83,Upper middle income,moderate
 ARG,Argentina,2013,3.2261,16.5424,Upper middle income,moderate
 BGD,Bangladesh,2013,7.0979,4.3332,Lower middle income,moderate
 BOL,Bolivia,2013,2.3991,8.4891,Lower middle income,moderate
-CPV,Cabo Verde,2013,5.9179,9.0296,Lower middle income,moderate
+CPV,Cabo Verde,2013,5.916,9.9002,Lower middle income,moderate
 CMR,Cameroon,2013,2.2678,2.5009,Lower middle income,moderate
 TCD,Chad,2013,3.9386,5.0368,Low income,moderate
 COD,DR Congo,2013,9.4364,4.1741,Low income,moderate
 COG,Congo Republic,2013,5.6532,2.2095,Lower middle income,moderate
-DJI,Djibouti,2013,7.308,6.735,Lower middle income,moderate
+DJI,Djibouti,2013,7.3104,6.7403,Lower middle income,moderate
 EGY,Egypt,2013,3.3029,4.3759,Lower middle income,moderate
 ETH,Ethiopia,2013,7.8869,6.1932,Low income,moderate
-GUY,Guyana,2013,3.9411,8.8189,Upper middle income,moderate
+GUY,Guyana,2013,3.9236,8.7795,Upper middle income,moderate
 HND,Honduras,2013,3.5498,11.8127,Lower middle income,moderate
-KEN,Kenya,2013,3.1485,7.1499,Lower middle income,moderate
+KEN,Kenya,2013,3.1468,7.1499,Lower middle income,moderate
 MDG,Madagascar,2013,3.6042,10.2681,Low income,moderate
 MUS,Mauritius,2013,2.9578,8.3616,Upper middle income,moderate
 MNG,Mongolia,2013,3.3147,7.1064,Lower middle income,moderate
 NPL,Nepal,2013,5.8499,4.8837,Lower middle income,moderate
 NIC,Nicaragua,2013,3.6785,15.9852,Lower middle income,moderate
-PAK,Pakistan,2013,4.9938,3.2492,Lower middle income,moderate
+PAK,Pakistan,2013,4.9938,3.2296,Lower middle income,moderate
 PRY,Paraguay,2013,4.0472,15.0179,Upper middle income,moderate
 RUS,Russia,2013,2.8226,9.1469,Upper middle income,moderate
 WSM,Samoa,2013,6.0557,13.5755,Lower middle income,moderate
-STP,Sao Tome and Principe,2013,5.4655,8.4388,Lower middle income,moderate
+STP,Sao Tome and Principe,2013,5.4696,7.4977,Lower middle income,moderate
 SEN,Senegal,2013,6.0041,5.3,Lower middle income,moderate
 ZAF,South Africa,2013,7.266,14.338,Upper middle income,moderate
 TJK,Tajikistan,2013,5.4371,6.8258,Lower middle income,moderate
@@ -1507,9 +1506,10 @@ UKR,Ukraine,2013,8.7113,6.9404,Lower middle income,moderate
 VNM,Vietnam,2013,5.138,9.7769,Lower middle income,moderate
 ZMB,Zambia,2013,3.3648,5.4521,Low income,moderate
 BTN,Bhutan,2013,12.1368,7.098,Lower middle income,high
-CRI,Costa Rica,2013,14.467,29.1448,Upper middle income,high
-CIV,Cote d'Ivoire,2013,7.7379,4.59,Lower middle income,high
+CRI,Costa Rica,2013,14.6201,29.4533,Upper middle income,high
+CIV,Cote d'Ivoire,2013,7.7234,4.59,Lower middle income,high
 DMA,Dominica,2013,10.1384,9.8123,Upper middle income,high
+ECU,Ecuador,2013,4.0951,8.0568,Upper middle income,high
 GMB,Gambia,2013,12.0595,6.3087,Low income,high
 GEO,Georgia,2013,7.6778,6.8517,Upper middle income,high
 GHA,Ghana,2013,4.3619,8.6169,Lower middle income,high
@@ -1521,23 +1521,22 @@ JOR,Jordan,2013,6.1897,13.1256,Upper middle income,high
 LAO,Laos,2013,6.2504,2.94,Lower middle income,high
 MDV,Maldives,2013,7.3191,15.9304,Upper middle income,high
 MRT,Mauritania,2013,11.2671,5.385,Lower middle income,high
-MEX,Mexico,2013,6.3463,11.2414,Upper middle income,high
+MEX,Mexico,2013,6.3463,11.7085,Upper middle income,high
 MAR,Morocco,2013,8.2567,8.2749,Lower middle income,high
 MKD,North Macedonia,2013,15.1826,13.9271,Upper middle income,high
 PNG,Papua New Guinea,2013,1.5878,7.1878,Lower middle income,high
-PER,Peru,2013,8.7212,12.3631,Upper middle income,high
+PER,Peru,2013,8.7208,12.3625,Upper middle income,high
 LKA,Sri Lanka,2013,10.4046,10.465,Lower middle income,high
 LCA,St. Lucia,2013,8.4349,8.2444,Upper middle income,high
 AGO,Angola,2013,9.8078,4.5753,Lower middle income,very high
 BLZ,Belize,2013,22.9153,15.7442,Upper middle income,very high
-DOM,Dominican Republic,2013,12.7466,15.7039,Upper middle income,very high
-ECU,Ecuador,2013,4.3955,8.6478,Upper middle income,very high
+DOM,Dominican Republic,2013,12.2044,15.0358,Upper middle income,very high
 SLV,El Salvador,2013,13.3525,16.7161,Lower middle income,very high
 GAB,Gabon,2013,18.969,5.2575,Upper middle income,very high
 JAM,Jamaica,2013,20.141,10.9967,Upper middle income,very high
 LBN,Lebanon,2013,25.0891,10.786,Lower middle income,very high
 MNE,Montenegro,2013,16.9909,10.6873,Upper middle income,very high
-PHL,Philippines,2013,10.7849,6.2862,Lower middle income,very high
+PHL,Philippines,2013,11.0955,6.4672,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2013,14.4676,9.0761,Upper middle income,very high
 TUN,Tunisia,2013,12.5274,12.4981,Lower middle income,very high
 AFG,Afghanistan,2014,0.4059,1.8607,Low income,very low
@@ -1554,7 +1553,7 @@ NGA,Nigeria,2014,0.3471,3.3363,Lower middle income,very low
 SLB,Solomon Islands,2014,1.6491,8.3471,Lower middle income,very low
 THA,Thailand,2014,0.7694,12.569,Upper middle income,very low
 TLS,Timor-Leste,2014,0.011,3.7185,Lower middle income,very low
-UGA,Uganda,2014,2.1268,7.009,Low income,very low
+UGA,Uganda,2014,2.0273,7.009,Low income,very low
 VUT,Vanuatu,2014,3.8605,2.5165,Lower middle income,very low
 ZWE,Zimbabwe,2014,3.4321,13.3585,Lower middle income,very low
 ARM,Armenia,2014,4.0653,6.2752,Upper middle income,low
@@ -1562,11 +1561,11 @@ AZE,Azerbaijan,2014,2.5298,3.1011,Upper middle income,low
 BLR,Belarus,2014,9.1673,8.6849,Upper middle income,low
 BEN,Benin,2014,3.7638,4.0445,Lower middle income,low
 BIH,Bosnia and Herzegovina,2014,3.5993,14.4324,Upper middle income,low
-BRA,Brazil,2014,1.5285,9.3236,Upper middle income,low
+BRA,Brazil,2014,1.3729,8.3745,Upper middle income,low
 BGR,Bulgaria,2014,2.0243,12.0671,Upper middle income,low
 BFA,Burkina Faso,2014,3.0323,7.7736,Low income,low
 COM,Comoros,2014,0.4646,3.8196,Lower middle income,low
-ERI,Eritrea,2014,7.8385,2.3541,Low income,low
+ERI,Eritrea,2014,7.9267,2.3806,Low income,low
 SWZ,Eswatini,2014,2.4505,8.7055,Lower middle income,low
 FJI,Fiji,2014,3.4463,6.8439,Upper middle income,low
 GNB,Guinea-Bissau,2014,1.6246,2.5981,Low income,low
@@ -1577,53 +1576,54 @@ KGZ,Kyrgyz Republic,2014,3.4627,7.1389,Lower middle income,low
 LSO,Lesotho,2014,3.2974,9.8883,Lower middle income,low
 MLI,Mali,2014,3.4959,4.4547,Low income,low
 MDA,Moldova,2014,2.4671,12.7572,Upper middle income,low
-MOZ,Mozambique,2014,3.5782,4.3175,Low income,low
+MOZ,Mozambique,2014,3.578,4.3173,Low income,low
 MMR,Myanmar,2014,4.1254,4.4688,Lower middle income,low
 NER,Niger,2014,4.0268,5.4026,Low income,low
-RWA,Rwanda,2014,2.3356,7.9832,Low income,low
+RWA,Rwanda,2014,2.3358,7.9876,Low income,low
 SRB,Serbia,2014,7.3284,12.0213,Upper middle income,low
 SLE,Sierra Leone,2014,2.5395,7.5798,Low income,low
 SDN,Sudan,2014,3.0296,10.6183,Low income,low
 TZA,Tanzania,2014,2.2297,6.9377,Lower middle income,low
-TGO,Togo,2014,3.3936,4.5581,Low income,low
+TGO,Togo,2014,3.3935,4.7211,Low income,low
 UZB,Uzbekistan,2014,1.8476,9.3025,Lower middle income,low
 ALB,Albania,2014,6.0705,8.1743,Upper middle income,moderate
 ARG,Argentina,2014,4.6161,16.2852,Upper middle income,moderate
 BGD,Bangladesh,2014,6.6164,4.3035,Lower middle income,moderate
 BOL,Bolivia,2014,2.5795,8.536,Lower middle income,moderate
-CPV,Cabo Verde,2014,7.4494,9.9829,Lower middle income,moderate
+CPV,Cabo Verde,2014,7.4497,10.96,Lower middle income,moderate
 CMR,Cameroon,2014,6.617,2.9398,Lower middle income,moderate
 TCD,Chad,2014,19.1064,5.5486,Low income,moderate
 COD,DR Congo,2014,6.1593,3.1817,Low income,moderate
 COG,Congo Republic,2014,5.5197,1.95,Lower middle income,moderate
-DJI,Djibouti,2014,5.5817,6.0689,Lower middle income,moderate
+DJI,Djibouti,2014,5.5815,6.0852,Lower middle income,moderate
 EGY,Egypt,2014,5.3668,4.3802,Lower middle income,moderate
 ETH,Ethiopia,2014,7.9255,4.0883,Low income,moderate
-GUY,Guyana,2014,4.1402,9.4168,Upper middle income,moderate
+GUY,Guyana,2014,4.1355,9.4062,Upper middle income,moderate
 HND,Honduras,2014,5.3441,11.5531,Lower middle income,moderate
-KEN,Kenya,2014,7.6909,7.845,Lower middle income,moderate
+KEN,Kenya,2014,7.6785,7.845,Lower middle income,moderate
 MDG,Madagascar,2014,4.783,13.9239,Low income,moderate
 MUS,Mauritius,2014,4.6954,11.0274,Upper middle income,moderate
 MNG,Mongolia,2014,4.0966,7.4849,Lower middle income,moderate
 NPL,Nepal,2014,5.4719,5.2683,Lower middle income,moderate
 NIC,Nicaragua,2014,4.0713,16.9118,Lower middle income,moderate
-PAK,Pakistan,2014,5.0353,3.3427,Lower middle income,moderate
+PAK,Pakistan,2014,5.0354,3.2984,Lower middle income,moderate
 PRY,Paraguay,2014,3.7722,17.6011,Upper middle income,moderate
 RUS,Russia,2014,7.1275,9.1643,Upper middle income,moderate
 WSM,Samoa,2014,6.7643,13.1759,Lower middle income,moderate
-STP,Sao Tome and Principe,2014,11.9213,7.7743,Lower middle income,moderate
+STP,Sao Tome and Principe,2014,11.9287,6.5755,Lower middle income,moderate
 SEN,Senegal,2014,4.9866,4.6755,Lower middle income,moderate
 ZAF,South Africa,2014,3.9623,14.9162,Upper middle income,moderate
 TJK,Tajikistan,2014,5.1937,7.5427,Lower middle income,moderate
-TON,Tonga,2014,4.7119,9.1641,Upper middle income,moderate
+TON,Tonga,2014,4.7121,9.1644,Upper middle income,moderate
 TUR,Türkiye,2014,3.7857,10.1518,Upper middle income,moderate
 UKR,Ukraine,2014,6.5569,7.7069,Lower middle income,moderate
 VNM,Vietnam,2014,6.6245,8.5055,Lower middle income,moderate
 ZMB,Zambia,2014,2.6065,7.7845,Low income,moderate
 BTN,Bhutan,2014,14.2618,7.7789,Lower middle income,high
-CRI,Costa Rica,2014,11.7628,29.1361,Upper middle income,high
-CIV,Cote d'Ivoire,2014,7.9972,5.1111,Lower middle income,high
+CRI,Costa Rica,2014,11.9424,29.5811,Upper middle income,high
+CIV,Cote d'Ivoire,2014,7.9841,5.1111,Lower middle income,high
 DMA,Dominica,2014,11.0187,9.818,Upper middle income,high
+ECU,Ecuador,2014,4.2988,8.8593,Upper middle income,high
 GMB,Gambia,2014,19.1081,5.7543,Low income,high
 GEO,Georgia,2014,7.2108,7.7792,Upper middle income,high
 GHA,Ghana,2014,6.2868,6.7196,Lower middle income,high
@@ -1635,23 +1635,22 @@ JOR,Jordan,2014,8.4991,13.0638,Upper middle income,high
 LAO,Laos,2014,6.7107,2.7364,Lower middle income,high
 MDV,Maldives,2014,15.4848,16.8627,Upper middle income,high
 MRT,Mauritania,2014,15.0872,5.2406,Lower middle income,high
-MEX,Mexico,2014,5.2425,10.3459,Upper middle income,high
+MEX,Mexico,2014,5.2425,10.7325,Upper middle income,high
 MAR,Morocco,2014,7.6021,7.4007,Lower middle income,high
 MKD,North Macedonia,2014,6.9023,12.6717,Upper middle income,high
 PNG,Papua New Guinea,2014,1.495,7.4701,Lower middle income,high
-PER,Peru,2014,4.1243,13.1463,Upper middle income,high
+PER,Peru,2014,4.1244,13.148,Upper middle income,high
 LKA,Sri Lanka,2014,23.6998,9.3946,Lower middle income,high
-LCA,St. Lucia,2014,8.4389,8.1553,Upper middle income,high
+LCA,St. Lucia,2014,8.4353,8.1564,Upper middle income,high
 AGO,Angola,2014,13.4254,3.6157,Lower middle income,very high
 BLZ,Belize,2014,14.0074,15.5982,Upper middle income,very high
 DOM,Dominican Republic,2014,15.74,14.4758,Upper middle income,very high
-ECU,Ecuador,2014,4.614,9.5087,Upper middle income,very high
 SLV,El Salvador,2014,14.026,16.9795,Lower middle income,very high
 GAB,Gabon,2014,11.9987,6.3847,Upper middle income,very high
 JAM,Jamaica,2014,24.8723,11.4476,Upper middle income,very high
 LBN,Lebanon,2014,28.4695,12.3781,Lower middle income,very high
 MNE,Montenegro,2014,13.3027,10.9855,Upper middle income,very high
-PHL,Philippines,2014,9.9879,7.2878,Lower middle income,very high
+PHL,Philippines,2014,10.2864,7.5056,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2014,12.7151,8.3234,Upper middle income,very high
 TUN,Tunisia,2014,12.7103,13.543,Lower middle income,very high
 AFG,Afghanistan,2015,0.5268,2.0144,Low income,very low
@@ -1666,21 +1665,21 @@ LBR,Liberia,2015,0.4482,3.2469,Low income,very low
 MWI,Malawi,2015,2.611,9.7287,Low income,very low
 NGA,Nigeria,2015,0.7294,5.331,Lower middle income,very low
 SLB,Solomon Islands,2015,1.3403,8.3462,Lower middle income,very low
-THA,Thailand,2015,1.5607,12.3916,Upper middle income,very low
+THA,Thailand,2015,1.5603,12.3916,Upper middle income,very low
 TLS,Timor-Leste,2015,0.0193,4.5054,Lower middle income,very low
-UGA,Uganda,2015,2.0643,5.0865,Low income,very low
+UGA,Uganda,2015,1.9247,5.1091,Low income,very low
 VUT,Vanuatu,2015,1.9169,4.7607,Lower middle income,very low
 ZWE,Zimbabwe,2015,3.833,7.5584,Lower middle income,very low
 ARM,Armenia,2015,12.949,6.1153,Upper middle income,low
-AZE,Azerbaijan,2015,4.0226,3.3678,Upper middle income,low
+AZE,Azerbaijan,2015,4.0205,3.366,Upper middle income,low
 BLR,Belarus,2015,13.871,8.8263,Upper middle income,low
 BEN,Benin,2015,3.3532,3.2251,Lower middle income,low
 BIH,Bosnia and Herzegovina,2015,5.675,15.1633,Upper middle income,low
-BRA,Brazil,2015,3.7134,8.9371,Upper middle income,low
+BRA,Brazil,2015,3.258,7.841,Upper middle income,low
 BGR,Bulgaria,2015,2.1076,11.0712,Upper middle income,low
 BFA,Burkina Faso,2015,4.0749,7.1525,Low income,low
 COM,Comoros,2015,3.8601,2.4457,Lower middle income,low
-ERI,Eritrea,2015,5.1362,2.354,Low income,low
+ERI,Eritrea,2015,5.198,2.3824,Low income,low
 SWZ,Eswatini,2015,2.4794,8.7615,Lower middle income,low
 FJI,Fiji,2015,21.9899,6.8479,Upper middle income,low
 GNB,Guinea-Bissau,2015,1.9793,2.501,Low income,low
@@ -1694,18 +1693,18 @@ MDA,Moldova,2015,2.2543,12.2149,Upper middle income,low
 MOZ,Mozambique,2015,7.0663,5.5544,Low income,low
 MMR,Myanmar,2015,3.1791,4.9765,Lower middle income,low
 NER,Niger,2015,3.2944,4.5863,Low income,low
-RWA,Rwanda,2015,2.4894,7.9149,Low income,low
+RWA,Rwanda,2015,2.4895,7.9187,Low income,low
 SRB,Serbia,2015,8.3998,11.918,Upper middle income,low
 SLE,Sierra Leone,2015,2.4426,7.9108,Low income,low
 SDN,Sudan,2015,6.4364,18.2845,Low income,low
 TZA,Tanzania,2015,4.2546,7.3305,Lower middle income,low
-TGO,Togo,2015,3.3045,4.0382,Low income,low
+TGO,Togo,2015,3.3044,4.1202,Low income,low
 UZB,Uzbekistan,2015,1.7019,9.5965,Lower middle income,low
 ALB,Albania,2015,16.822,8.8801,Upper middle income,moderate
 ARG,Argentina,2015,4.3313,16.4975,Upper middle income,moderate
 BGD,Bangladesh,2015,4.8187,4.0453,Lower middle income,moderate
 BOL,Bolivia,2015,3.5521,9.6579,Lower middle income,moderate
-CPV,Cabo Verde,2015,8.2651,10.0938,Lower middle income,moderate
+CPV,Cabo Verde,2015,8.2657,11.0615,Lower middle income,moderate
 CMR,Cameroon,2015,5.9624,1.8129,Lower middle income,moderate
 TCD,Chad,2015,4.9896,5.2453,Low income,moderate
 COD,DR Congo,2015,5.4563,4.0686,Low income,moderate
@@ -1713,19 +1712,19 @@ COG,Congo Republic,2015,8.2453,2.7098,Lower middle income,moderate
 DJI,Djibouti,2015,4.1944,4.0345,Lower middle income,moderate
 EGY,Egypt,2015,3.2644,5.3329,Lower middle income,moderate
 ETH,Ethiopia,2015,9.6889,5.572,Low income,moderate
-GUY,Guyana,2015,4.9011,10.8407,Upper middle income,moderate
+GUY,Guyana,2015,4.9058,10.8512,Upper middle income,moderate
 HND,Honduras,2015,6.0706,11.3287,Lower middle income,moderate
-KEN,Kenya,2015,4.0693,8.0744,Lower middle income,moderate
+KEN,Kenya,2015,4.0551,8.0744,Lower middle income,moderate
 MDG,Madagascar,2015,8.1395,15.2745,Low income,moderate
 MUS,Mauritius,2015,4.1651,10.0113,Upper middle income,moderate
 MNG,Mongolia,2015,4.3061,7.7267,Lower middle income,moderate
 NPL,Nepal,2015,4.5863,5.1459,Lower middle income,moderate
 NIC,Nicaragua,2015,4.1066,17.6258,Lower middle income,moderate
-PAK,Pakistan,2015,5.8875,3.8505,Lower middle income,moderate
+PAK,Pakistan,2015,5.8874,3.7929,Lower middle income,moderate
 PRY,Paraguay,2015,4.2921,15.4311,Upper middle income,moderate
 RUS,Russia,2015,9.8534,8.8163,Upper middle income,moderate
 WSM,Samoa,2015,7.6944,14.9949,Lower middle income,moderate
-STP,Sao Tome and Principe,2015,1.612,4.9366,Lower middle income,moderate
+STP,Sao Tome and Principe,2015,1.6095,4.0608,Lower middle income,moderate
 SEN,Senegal,2015,5.8866,4.6987,Lower middle income,moderate
 ZAF,South Africa,2015,15.1939,15.2378,Upper middle income,moderate
 TJK,Tajikistan,2015,5.0285,6.4073,Lower middle income,moderate
@@ -1735,9 +1734,10 @@ UKR,Ukraine,2015,38.1951,8.552,Lower middle income,moderate
 VNM,Vietnam,2015,4.7253,7.896,Lower middle income,moderate
 ZMB,Zambia,2015,4.864,7.5613,Low income,moderate
 BTN,Bhutan,2015,21.6735,9.3688,Lower middle income,high
-CRI,Costa Rica,2015,10.8036,29.4926,Upper middle income,high
-CIV,Cote d'Ivoire,2015,5.2748,4.8746,Lower middle income,high
+CRI,Costa Rica,2015,10.7788,29.4249,Upper middle income,high
+CIV,Cote d'Ivoire,2015,5.2651,4.8746,Lower middle income,high
 DMA,Dominica,2015,12.0687,10.0413,Upper middle income,high
+ECU,Ecuador,2015,7.3974,9.9845,Upper middle income,high
 GMB,Gambia,2015,13.0401,5.0991,Low income,high
 GEO,Georgia,2015,14.6234,9.6082,Upper middle income,high
 GHA,Ghana,2015,10.0596,8.5581,Lower middle income,high
@@ -1749,23 +1749,22 @@ JOR,Jordan,2015,14.2089,12.2196,Upper middle income,high
 LAO,Laos,2015,6.6992,3.3508,Lower middle income,high
 MDV,Maldives,2015,6.8228,18.4543,Upper middle income,high
 MRT,Mauritania,2015,14.8573,5.5302,Lower middle income,high
-MEX,Mexico,2015,8.1263,10.8646,Upper middle income,high
+MEX,Mexico,2015,8.1263,11.2488,Upper middle income,high
 MAR,Morocco,2015,8.129,7.6129,Lower middle income,high
 MKD,North Macedonia,2015,12.4648,12.7841,Upper middle income,high
 PNG,Papua New Guinea,2015,1.76,6.0309,Lower middle income,high
-PER,Peru,2015,4.0078,13.5878,Upper middle income,high
+PER,Peru,2015,4.0081,13.5994,Upper middle income,high
 LKA,Sri Lanka,2015,14.9333,8.8741,Lower middle income,high
-LCA,St. Lucia,2015,15.5536,8.4594,Upper middle income,high
+LCA,St. Lucia,2015,15.5609,8.4633,Upper middle income,high
 AGO,Angola,2015,20.9364,4.5626,Lower middle income,very high
 BLZ,Belize,2015,12.5637,14.4603,Upper middle income,very high
 DOM,Dominican Republic,2015,29.711,14.1956,Upper middle income,very high
-ECU,Ecuador,2015,7.9447,10.7231,Upper middle income,very high
 SLV,El Salvador,2015,14.1589,17.7397,Lower middle income,very high
 GAB,Gabon,2015,14.603,7.035,Upper middle income,very high
 JAM,Jamaica,2015,29.3636,13.0461,Upper middle income,very high
 LBN,Lebanon,2015,29.3751,12.4237,Lower middle income,very high
 MNE,Montenegro,2015,25.2794,11.6335,Upper middle income,very high
-PHL,Philippines,2015,10.1048,8.144,Lower middle income,very high
+PHL,Philippines,2015,10.2451,8.2571,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2015,14.954,9.1546,Upper middle income,very high
 TUN,Tunisia,2015,12.6337,12.2858,Lower middle income,very high
 AFG,Afghanistan,2016,0.5994,2.1411,Low income,very low
@@ -1780,25 +1779,25 @@ LBR,Liberia,2016,0.4025,3.8967,Low income,very low
 MWI,Malawi,2016,3.264,9.678,Low income,very low
 NGA,Nigeria,2016,0.8985,4.866,Lower middle income,very low
 SLB,Solomon Islands,2016,1.4257,8.1511,Lower middle income,very low
-THA,Thailand,2016,0.8965,13.3555,Upper middle income,very low
+THA,Thailand,2016,0.897,13.3555,Upper middle income,very low
 TLS,Timor-Leste,2016,0.044,3.0704,Lower middle income,very low
-UGA,Uganda,2016,2.2838,5.1776,Low income,very low
+UGA,Uganda,2016,2.2114,5.1873,Low income,very low
 VUT,Vanuatu,2016,2.8644,3.6618,Lower middle income,very low
 ZWE,Zimbabwe,2016,3.1855,6.6869,Lower middle income,very low
 ARM,Armenia,2016,6.8659,6.0535,Upper middle income,low
-AZE,Azerbaijan,2016,7.4223,3.2858,Upper middle income,low
+AZE,Azerbaijan,2016,7.4185,3.2841,Upper middle income,low
 BLR,Belarus,2016,15.7616,10.3065,Upper middle income,low
 BEN,Benin,2016,4.8548,3.7264,Lower middle income,low
 BIH,Bosnia and Herzegovina,2016,4.6747,15.8192,Upper middle income,low
-BRA,Brazil,2016,3.0789,8.9073,Upper middle income,low
-BGR,Bulgaria,2016,2.9534,12.5678,Upper middle income,low
+BRA,Brazil,2016,2.8087,8.1257,Upper middle income,low
+BGR,Bulgaria,2016,2.9531,12.5678,Upper middle income,low
 BFA,Burkina Faso,2016,3.8265,11.0226,Low income,low
 COM,Comoros,2016,2.395,3.0361,Lower middle income,low
-ERI,Eritrea,2016,3.8969,2.3541,Low income,low
+ERI,Eritrea,2016,3.9249,2.371,Low income,low
 SWZ,Eswatini,2016,3.0348,8.3104,Lower middle income,low
 FJI,Fiji,2016,4.506,6.5328,Upper middle income,low
 GNB,Guinea-Bissau,2016,2.17,2.3623,Low income,low
-HTI,Haiti,2016,5.7915,4.9744,Lower middle income,low
+HTI,Haiti,2016,5.8476,5.0225,Lower middle income,low
 IND,India,2016,3.6125,3.4535,Lower middle income,low
 KAZ,Kazakhstan,2016,4.1679,9.4842,Upper middle income,low
 KGZ,Kyrgyz Republic,2016,5.0215,6.4158,Lower middle income,low
@@ -1808,26 +1807,26 @@ MDA,Moldova,2016,2.1485,12.208,Upper middle income,low
 MOZ,Mozambique,2016,9.9084,5.9989,Low income,low
 MMR,Myanmar,2016,5.1124,3.0518,Lower middle income,low
 NER,Niger,2016,5.1994,5.6857,Low income,low
-RWA,Rwanda,2016,2.963,8.8826,Low income,low
+RWA,Rwanda,2016,2.9627,8.8865,Low income,low
 SRB,Serbia,2016,9.5104,11.6486,Upper middle income,low
 SLE,Sierra Leone,2016,3.572,7.9108,Low income,low
 SDN,Sudan,2016,4.3635,12.9297,Low income,low
 TZA,Tanzania,2016,7.3349,9.5212,Lower middle income,low
-TGO,Togo,2016,4.6914,4.2586,Low income,low
+TGO,Togo,2016,4.6915,4.2865,Low income,low
 UZB,Uzbekistan,2016,2.1653,8.82,Lower middle income,low
 ALB,Albania,2016,7.9539,9.6218,Upper middle income,moderate
 ARG,Argentina,2016,7.642,13.4656,Upper middle income,moderate
 BGD,Bangladesh,2016,3.9928,4.9107,Lower middle income,moderate
 BOL,Bolivia,2016,3.4065,11.0933,Lower middle income,moderate
-CPV,Cabo Verde,2016,8.8658,10.3923,Lower middle income,moderate
+CPV,Cabo Verde,2016,8.8408,11.5596,Lower middle income,moderate
 CMR,Cameroon,2016,6.526,1.813,Lower middle income,moderate
 TCD,Chad,2016,11.0128,5.725,Low income,moderate
 COD,DR Congo,2016,7.5946,3.958,Low income,moderate
-COG,Congo Republic,2016,8.3695,2.9014,Lower middle income,moderate
+COG,Congo Republic,2016,8.3699,3.1035,Lower middle income,moderate
 DJI,Djibouti,2016,6.6211,4.0484,Lower middle income,moderate
 EGY,Egypt,2016,5.6303,5.3464,Lower middle income,moderate
 ETH,Ethiopia,2016,9.0426,5.0244,Low income,moderate
-GUY,Guyana,2016,4.4026,10.0541,Upper middle income,moderate
+GUY,Guyana,2016,4.4059,10.0617,Upper middle income,moderate
 HND,Honduras,2016,6.6625,11.2957,Lower middle income,moderate
 KEN,Kenya,2016,4.0664,8.0307,Lower middle income,moderate
 MDG,Madagascar,2016,5.9914,17.5103,Low income,moderate
@@ -1839,7 +1838,7 @@ PAK,Pakistan,2016,6.7039,3.9603,Lower middle income,moderate
 PRY,Paraguay,2016,5.8481,16.18,Upper middle income,moderate
 RUS,Russia,2016,11.1636,8.234,Upper middle income,moderate
 WSM,Samoa,2016,9.2478,14.6908,Lower middle income,moderate
-STP,Sao Tome and Principe,2016,1.5743,8.0027,Lower middle income,moderate
+STP,Sao Tome and Principe,2016,1.5764,6.7697,Lower middle income,moderate
 SEN,Senegal,2016,5.8373,4.457,Lower middle income,moderate
 ZAF,South Africa,2016,5.8828,15.2896,Upper middle income,moderate
 TJK,Tajikistan,2016,5.4428,5.139,Lower middle income,moderate
@@ -1849,9 +1848,10 @@ UKR,Ukraine,2016,8.9754,8.9225,Lower middle income,moderate
 VNM,Vietnam,2016,6.082,9.6407,Lower middle income,moderate
 ZMB,Zambia,2016,9.4003,7.1644,Low income,moderate
 BTN,Bhutan,2016,11.2567,8.1023,Lower middle income,high
-CRI,Costa Rica,2016,9.4428,28.5524,Upper middle income,high
-CIV,Cote d'Ivoire,2016,12.2536,4.8968,Lower middle income,high
+CRI,Costa Rica,2016,9.4604,28.6057,Upper middle income,high
+CIV,Cote d'Ivoire,2016,12.2263,4.8968,Lower middle income,high
 DMA,Dominica,2016,9.1612,6.9335,Upper middle income,high
+ECU,Ecuador,2016,7.0882,10.2304,Upper middle income,high
 GMB,Gambia,2016,12.0767,6.6579,Low income,high
 GEO,Georgia,2016,9.5136,10.3271,Upper middle income,high
 GHA,Ghana,2016,14.0295,6.5376,Lower middle income,high
@@ -1863,23 +1863,22 @@ JOR,Jordan,2016,16.2781,12.2196,Upper middle income,high
 LAO,Laos,2016,11.2722,3.6641,Lower middle income,high
 MDV,Maldives,2016,5.9462,19.7488,Upper middle income,high
 MRT,Mauritania,2016,18.5217,5.7564,Lower middle income,high
-MEX,Mexico,2016,13.8282,10.4117,Upper middle income,high
+MEX,Mexico,2016,13.8276,10.7371,Upper middle income,high
 MAR,Morocco,2016,9.5093,7.5848,Lower middle income,high
 MKD,North Macedonia,2016,11.8857,13.0541,Upper middle income,high
 PNG,Papua New Guinea,2016,2.2666,8.0408,Lower middle income,high
-PER,Peru,2016,4.5336,14.6899,Upper middle income,high
+PER,Peru,2016,4.5336,14.7026,Upper middle income,high
 LKA,Sri Lanka,2016,13.1661,9.1481,Lower middle income,high
-LCA,St. Lucia,2016,10.4792,8.6618,Upper middle income,high
+LCA,St. Lucia,2016,10.4724,8.6748,Upper middle income,high
 AGO,Angola,2016,42.1626,5.4327,Lower middle income,very high
 BLZ,Belize,2016,13.6965,15.2251,Upper middle income,very high
 DOM,Dominican Republic,2016,13.8641,15.6985,Upper middle income,very high
-ECU,Ecuador,2016,7.6262,11.0069,Upper middle income,very high
 SLV,El Salvador,2016,14.5954,17.6512,Lower middle income,very high
 GAB,Gabon,2016,11.9654,9.2024,Upper middle income,very high
 JAM,Jamaica,2016,43.9232,12.878,Upper middle income,very high
 LBN,Lebanon,2016,30.0375,12.9226,Lower middle income,very high
 MNE,Montenegro,2016,22.3062,10.9225,Upper middle income,very high
-PHL,Philippines,2016,10.6985,7.7167,Lower middle income,very high
+PHL,Philippines,2016,10.7475,7.752,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2016,13.9114,9.559,Upper middle income,very high
 TUN,Tunisia,2016,13.7353,12.6258,Lower middle income,very high
 AFG,Afghanistan,2017,0.5842,2.3191,Low income,very low
@@ -1896,27 +1895,27 @@ NGA,Nigeria,2017,0.7631,4.4422,Lower middle income,very low
 SLB,Solomon Islands,2017,1.135,8.2085,Lower middle income,very low
 THA,Thailand,2017,0.7992,12.8959,Upper middle income,very low
 TLS,Timor-Leste,2017,0.1252,5.0809,Lower middle income,very low
-UGA,Uganda,2017,3.4711,3.922,Low income,very low
+UGA,Uganda,2017,3.4504,3.9208,Low income,very low
 VUT,Vanuatu,2017,2.6116,3.9616,Lower middle income,very low
 ZWE,Zimbabwe,2017,2.3047,5.5634,Lower middle income,very low
 ARM,Armenia,2017,7.6809,5.2734,Upper middle income,low
-AZE,Azerbaijan,2017,10.7925,2.818,Upper middle income,low
+AZE,Azerbaijan,2017,10.7883,2.8169,Upper middle income,low
 BLR,Belarus,2017,11.9274,10.1956,Upper middle income,low
 BEN,Benin,2017,3.8426,4.5792,Lower middle income,low
 BIH,Bosnia and Herzegovina,2017,5.0099,15.6768,Upper middle income,low
-BRA,Brazil,2017,3.3956,9.2599,Upper middle income,low
+BRA,Brazil,2017,3.0019,8.1864,Upper middle income,low
 BGR,Bulgaria,2017,8.7376,12.8572,Upper middle income,low
 BFA,Burkina Faso,2017,3.1289,10.0436,Low income,low
 COM,Comoros,2017,0.99,3.5856,Lower middle income,low
-ERI,Eritrea,2017,3.3039,2.3541,Low income,low
+ERI,Eritrea,2017,3.3273,2.3708,Low income,low
 SWZ,Eswatini,2017,2.958,10.0991,Lower middle income,low
 FJI,Fiji,2017,3.7707,7.5077,Upper middle income,low
 GNB,Guinea-Bissau,2017,4.9155,2.7523,Low income,low
-HTI,Haiti,2017,0.7091,4.7659,Lower middle income,low
+HTI,Haiti,2017,0.6767,4.5483,Lower middle income,low
 IND,India,2017,2.0319,3.6877,Lower middle income,low
 KAZ,Kazakhstan,2017,4.7613,7.8573,Upper middle income,low
 KGZ,Kyrgyz Republic,2017,4.6486,6.3416,Lower middle income,low
-LSO,Lesotho,2017,4.0502,11.0652,Lower middle income,low
+LSO,Lesotho,2017,4.0369,11.0288,Lower middle income,low
 MLI,Mali,2017,4.1316,5.1373,Low income,low
 MDA,Moldova,2017,2.3578,11.4589,Upper middle income,low
 MOZ,Mozambique,2017,9.1,5.9959,Low income,low
@@ -1927,23 +1926,23 @@ SRB,Serbia,2017,15.6529,11.7883,Upper middle income,low
 SLE,Sierra Leone,2017,4.1807,3.6321,Low income,low
 SDN,Sudan,2017,3.6005,8.0479,Low income,low
 TZA,Tanzania,2017,7.9593,9.5212,Lower middle income,low
-TGO,Togo,2017,7.1762,6.4505,Low income,low
+TGO,Togo,2017,7.1761,6.4422,Low income,low
 UZB,Uzbekistan,2017,3.3098,8.9819,Lower middle income,low
 ALB,Albania,2017,8.0176,9.1732,Upper middle income,moderate
 ARG,Argentina,2017,11.427,16.0486,Upper middle income,moderate
 BGD,Bangladesh,2017,4.1381,4.8315,Lower middle income,moderate
 BOL,Bolivia,2017,3.986,11.5228,Lower middle income,moderate
-CPV,Cabo Verde,2017,9.072,10.3924,Lower middle income,moderate
+CPV,Cabo Verde,2017,9.2195,11.7253,Lower middle income,moderate
 CMR,Cameroon,2017,5.9817,0.7344,Lower middle income,moderate
 TCD,Chad,2017,12.2137,4.6784,Low income,moderate
-COD,DR Congo,2017,7.6263,4.1365,Low income,moderate
-COG,Congo Republic,2017,12.9052,3.4054,Lower middle income,moderate
+COD,DR Congo,2017,7.6324,4.1398,Low income,moderate
+COG,Congo Republic,2017,12.9053,3.6323,Lower middle income,moderate
 DJI,Djibouti,2017,7.8063,4.0632,Lower middle income,moderate
 EGY,Egypt,2017,8.1413,5.7103,Lower middle income,moderate
 ETH,Ethiopia,2017,10.2396,4.7883,Low income,moderate
-GUY,Guyana,2017,4.6229,10.6136,Upper middle income,moderate
+GUY,Guyana,2017,4.6245,10.6172,Upper middle income,moderate
 HND,Honduras,2017,6.8021,10.6263,Lower middle income,moderate
-KEN,Kenya,2017,5.6856,6.8003,Lower middle income,moderate
+KEN,Kenya,2017,5.6907,6.8003,Lower middle income,moderate
 MDG,Madagascar,2017,5.8158,15.0325,Low income,moderate
 MUS,Mauritius,2017,8.4663,10.8452,Upper middle income,moderate
 MNG,Mongolia,2017,7.7223,7.6523,Lower middle income,moderate
@@ -1953,7 +1952,7 @@ PAK,Pakistan,2017,9.1269,4.7719,Lower middle income,moderate
 PRY,Paraguay,2017,5.5282,15.5448,Upper middle income,moderate
 RUS,Russia,2017,4.9377,8.7836,Upper middle income,moderate
 WSM,Samoa,2017,8.7869,13.5123,Lower middle income,moderate
-STP,Sao Tome and Principe,2017,3.142,10.7621,Lower middle income,moderate
+STP,Sao Tome and Principe,2017,3.1456,9.3134,Lower middle income,moderate
 SEN,Senegal,2017,9.3256,4.499,Lower middle income,moderate
 ZAF,South Africa,2017,4.859,15.2898,Upper middle income,moderate
 TJK,Tajikistan,2017,5.8915,5.8842,Lower middle income,moderate
@@ -1963,9 +1962,10 @@ UKR,Ukraine,2017,10.8063,8.425,Lower middle income,moderate
 VNM,Vietnam,2017,5.4805,10.0934,Lower middle income,moderate
 ZMB,Zambia,2017,7.6335,7.1645,Low income,moderate
 BTN,Bhutan,2017,10.0314,7.5843,Lower middle income,high
-CRI,Costa Rica,2017,9.6374,26.9048,Upper middle income,high
-CIV,Cote d'Ivoire,2017,18.4129,5.2426,Lower middle income,high
-DMA,Dominica,2017,9.7614,6.7486,Upper middle income,high
+CRI,Costa Rica,2017,9.6837,27.034,Upper middle income,high
+CIV,Cote d'Ivoire,2017,18.3715,5.2426,Lower middle income,high
+DMA,Dominica,2017,9.7612,6.7484,Upper middle income,high
+ECU,Ecuador,2017,11.0012,11.1967,Upper middle income,high
 GMB,Gambia,2017,9.0966,4.4915,Low income,high
 GEO,Georgia,2017,13.5915,9.5184,Upper middle income,high
 GHA,Ghana,2017,18.3113,6.0396,Lower middle income,high
@@ -1977,17 +1977,16 @@ JOR,Jordan,2017,7.8563,12.4607,Upper middle income,high
 LAO,Laos,2017,12.758,4.077,Lower middle income,high
 MDV,Maldives,2017,8.0432,21.4721,Upper middle income,high
 MRT,Mauritania,2017,21.9365,6.0655,Lower middle income,high
-MEX,Mexico,2017,12.2011,10.7295,Upper middle income,high
+MEX,Mexico,2017,12.2012,11.0241,Upper middle income,high
 MAR,Morocco,2017,10.06,7.6988,Lower middle income,high
 MKD,North Macedonia,2017,10.3973,11.8274,Upper middle income,high
 PNG,Papua New Guinea,2017,3.2155,9.1549,Lower middle income,high
-PER,Peru,2017,10.3656,14.4936,Upper middle income,high
+PER,Peru,2017,10.3652,14.497,Upper middle income,high
 LKA,Sri Lanka,2017,20.4775,8.2443,Lower middle income,high
-LCA,St. Lucia,2017,9.1817,8.8158,Upper middle income,high
+LCA,St. Lucia,2017,9.1841,8.8273,Upper middle income,high
 AGO,Angola,2017,27.8268,5.3643,Lower middle income,very high
 BLZ,Belize,2017,13.716,14.4051,Upper middle income,very high
 DOM,Dominican Republic,2017,11.1492,15.7185,Upper middle income,very high
-ECU,Ecuador,2017,11.7619,11.9709,Upper middle income,very high
 SLV,El Salvador,2017,14.1581,16.5073,Lower middle income,very high
 GAB,Gabon,2017,22.8597,9.7149,Upper middle income,very high
 JAM,Jamaica,2017,29.3922,14.2012,Upper middle income,very high
@@ -2000,64 +1999,64 @@ AFG,Afghanistan,2018,0.6138,1.909,Low income,very low
 DZA,Algeria,2018,0.2091,10.0647,Lower middle income,very low
 BWA,Botswana,2018,2.8898,11.6393,Upper middle income,very low
 BDI,Burundi,2018,1.5496,8.3127,Low income,very low
-KHM,Cambodia,2018,4.6889,7.1689,Lower middle income,very low
-CAF,Central African Republic,2018,3.077,3.9111,Low income,very low
+KHM,Cambodia,2018,4.6923,7.1741,Lower middle income,very low
+CAF,Central African Republic,2018,3.076,3.9113,Low income,very low
 CHN,China,2018,0.4652,8.7614,Upper middle income,very low
-IRN,Iran,2018,0.4151,22.6644,Lower middle income,very low
+IRN,Iran,2018,0.3062,22.6644,Lower middle income,very low
 LBR,Liberia,2018,1.1497,5.1661,Low income,very low
 MWI,Malawi,2018,2.844,8.6679,Low income,very low
 NGA,Nigeria,2018,2.6529,3.881,Lower middle income,very low
 SLB,Solomon Islands,2018,1.1267,9.3347,Lower middle income,very low
-THA,Thailand,2018,1.486,12.8456,Upper middle income,very low
+THA,Thailand,2018,1.4856,12.8456,Upper middle income,very low
 TLS,Timor-Leste,2018,0.2376,4.5627,Lower middle income,very low
-UGA,Uganda,2018,5.8151,4.1656,Low income,very low
+UGA,Uganda,2018,5.8236,4.1664,Low income,very low
 VUT,Vanuatu,2018,5.2443,6.4368,Lower middle income,very low
-ZWE,Zimbabwe,2018,1.1985,7.8567,Lower middle income,very low
+ZWE,Zimbabwe,2018,1.1984,7.8757,Lower middle income,very low
 ARM,Armenia,2018,10.0121,5.1338,Upper middle income,low
 AZE,Azerbaijan,2018,13.3424,2.7987,Upper middle income,low
 BLR,Belarus,2018,19.7144,10.3052,Upper middle income,low
 BEN,Benin,2018,8.8786,2.9628,Lower middle income,low
 BIH,Bosnia and Herzegovina,2018,5.0372,15.368,Upper middle income,low
-BRA,Brazil,2018,4.2026,9.1851,Upper middle income,low
+BRA,Brazil,2018,3.7455,8.1861,Upper middle income,low
 BGR,Bulgaria,2018,2.498,12.3109,Upper middle income,low
 BFA,Burkina Faso,2018,2.9931,8.6913,Low income,low
 COM,Comoros,2018,1.3079,3.9938,Lower middle income,low
-ERI,Eritrea,2018,5.0985,2.3541,Low income,low
+ERI,Eritrea,2018,5.2942,2.4445,Low income,low
 SWZ,Eswatini,2018,2.9132,10.0971,Lower middle income,low
 FJI,Fiji,2018,3.6132,7.5531,Upper middle income,low
 GNB,Guinea-Bissau,2018,5.1032,2.842,Low income,low
-HTI,Haiti,2018,0.4603,4.7244,Lower middle income,low
+HTI,Haiti,2018,0.4555,4.6749,Lower middle income,low
 IND,India,2018,3.3208,3.7232,Lower middle income,low
 KAZ,Kazakhstan,2018,4.4193,9.0959,Upper middle income,low
 KGZ,Kyrgyz Republic,2018,5.6884,7.3343,Lower middle income,low
-LSO,Lesotho,2018,4.6351,10.2884,Lower middle income,low
+LSO,Lesotho,2018,4.5921,10.193,Lower middle income,low
 MLI,Mali,2018,4.688,5.6689,Low income,low
 MDA,Moldova,2018,3.1358,11.8103,Upper middle income,low
 MOZ,Mozambique,2018,8.7102,5.7648,Low income,low
 MMR,Myanmar,2018,5.8371,3.4549,Lower middle income,low
 NER,Niger,2018,4.2632,8.3264,Low income,low
-RWA,Rwanda,2018,3.1586,8.8837,Low income,low
+RWA,Rwanda,2018,3.1586,8.8784,Low income,low
 SRB,Serbia,2018,14.7918,12.4486,Upper middle income,low
 SLE,Sierra Leone,2018,4.142,3.5992,Low income,low
 SDN,Sudan,2018,3.7049,6.1709,Low income,low
 TZA,Tanzania,2018,9.7742,9.4147,Lower middle income,low
-TGO,Togo,2018,6.3406,5.4889,Low income,low
+TGO,Togo,2018,6.3402,5.4249,Low income,low
 UZB,Uzbekistan,2018,4.0106,7.807,Lower middle income,low
 ALB,Albania,2018,15.276,9.7096,Upper middle income,moderate
 ARG,Argentina,2018,13.112,15.3085,Upper middle income,moderate
 BGD,Bangladesh,2018,4.1042,4.3983,Lower middle income,moderate
 BOL,Bolivia,2018,4.4891,12.9347,Lower middle income,moderate
-CPV,Cabo Verde,2018,9.2185,11.3902,Lower middle income,moderate
+CPV,Cabo Verde,2018,9.8043,11.6532,Lower middle income,moderate
 CMR,Cameroon,2018,8.4147,1.957,Lower middle income,moderate
 TCD,Chad,2018,7.0162,4.8724,Low income,moderate
-COD,DR Congo,2018,5.299,4.5605,Low income,moderate
-COG,Congo Republic,2018,17.774,3.4942,Lower middle income,moderate
+COD,DR Congo,2018,4.8144,4.1435,Low income,moderate
+COG,Congo Republic,2018,17.7731,3.7762,Lower middle income,moderate
 DJI,Djibouti,2018,7.61,4.1693,Lower middle income,moderate
 EGY,Egypt,2018,10.4638,4.965,Lower middle income,moderate
 ETH,Ethiopia,2018,12.1939,4.7607,Low income,moderate
-GUY,Guyana,2018,5.8369,10.7117,Upper middle income,moderate
+GUY,Guyana,2018,5.8234,10.6868,Upper middle income,moderate
 HND,Honduras,2018,8.3155,10.892,Lower middle income,moderate
-KEN,Kenya,2018,10.2544,7.2267,Lower middle income,moderate
+KEN,Kenya,2018,10.2536,7.2267,Lower middle income,moderate
 MDG,Madagascar,2018,5.1056,10.4775,Low income,moderate
 MUS,Mauritius,2018,5.028,10.7646,Upper middle income,moderate
 MNG,Mongolia,2018,23.3039,7.7802,Lower middle income,moderate
@@ -2067,19 +2066,20 @@ PAK,Pakistan,2018,6.9165,4.898,Lower middle income,moderate
 PRY,Paraguay,2018,5.5788,14.7106,Upper middle income,moderate
 RUS,Russia,2018,11.4944,9.7607,Upper middle income,moderate
 WSM,Samoa,2018,10.6232,13.1822,Lower middle income,moderate
-STP,Sao Tome and Principe,2018,3.6768,10.7622,Lower middle income,moderate
+STP,Sao Tome and Principe,2018,3.6787,10.017,Lower middle income,moderate
 SEN,Senegal,2018,11.4965,4.9616,Lower middle income,moderate
-ZAF,South Africa,2018,12.8544,15.2643,Upper middle income,moderate
+ZAF,South Africa,2018,12.8542,15.3058,Upper middle income,moderate
 TJK,Tajikistan,2018,8.3433,6.1439,Lower middle income,moderate
 TON,Tonga,2018,5.3594,8.0662,Upper middle income,moderate
-TUR,Türkiye,2018,5.8231,9.22,Upper middle income,moderate
-UKR,Ukraine,2018,9.397,8.3279,Lower middle income,moderate
+TUR,Türkiye,2018,5.8228,9.2256,Upper middle income,moderate
+UKR,Ukraine,2018,9.3969,8.3285,Lower middle income,moderate
 VNM,Vietnam,2018,5.7783,10.2641,Lower middle income,moderate
 ZMB,Zambia,2018,9.9506,7.1644,Low income,moderate
 BTN,Bhutan,2018,10.0944,7.7033,Lower middle income,high
-CRI,Costa Rica,2018,13.382,27.8119,Upper middle income,high
-CIV,Cote d'Ivoire,2018,10.8029,5.1622,Lower middle income,high
-DMA,Dominica,2018,9.1304,6.3639,Upper middle income,high
+CRI,Costa Rica,2018,13.4316,27.915,Upper middle income,high
+CIV,Cote d'Ivoire,2018,10.7875,5.1622,Lower middle income,high
+DMA,Dominica,2018,9.1301,6.3637,Upper middle income,high
+ECU,Ecuador,2018,12.3596,12.0468,Upper middle income,high
 GMB,Gambia,2018,10.4034,5.1357,Low income,high
 GEO,Georgia,2018,9.7561,10.3248,Upper middle income,high
 GHA,Ghana,2018,17.9703,6.417,Lower middle income,high
@@ -2091,19 +2091,18 @@ JOR,Jordan,2018,8.3849,12.7551,Upper middle income,high
 LAO,Laos,2018,16.8704,4.1576,Lower middle income,high
 MDV,Maldives,2018,22.5723,17.6791,Upper middle income,high
 MRT,Mauritania,2018,25.5229,7.0912,Lower middle income,high
-MEX,Mexico,2018,9.8663,10.4112,Upper middle income,high
+MEX,Mexico,2018,9.8662,10.6997,Upper middle income,high
 MAR,Morocco,2018,8.491,7.7441,Lower middle income,high
 MKD,North Macedonia,2018,13.3146,12.4143,Upper middle income,high
 PNG,Papua New Guinea,2018,3.6926,7.9492,Lower middle income,high
-PER,Peru,2018,4.6522,15.0096,Upper middle income,high
+PER,Peru,2018,4.6521,15.0138,Upper middle income,high
 LKA,Sri Lanka,2018,26.7668,10.1897,Lower middle income,high
-LCA,St. Lucia,2018,9.2339,8.5318,Upper middle income,high
+LCA,St. Lucia,2018,9.2385,8.5524,Upper middle income,high
 AGO,Angola,2018,44.6494,5.3643,Lower middle income,very high
 BLZ,Belize,2018,13.8993,14.9727,Upper middle income,very high
 DOM,Dominican Republic,2018,12.2853,15.4441,Upper middle income,very high
-ECU,Ecuador,2018,13.1713,12.8379,Upper middle income,very high
 SLV,El Salvador,2018,14.4507,16.6761,Lower middle income,very high
-GAB,Gabon,2018,24.6675,9.4154,Upper middle income,very high
+GAB,Gabon,2018,24.6673,9.3902,Upper middle income,very high
 JAM,Jamaica,2018,22.722,13.207,Upper middle income,very high
 LBN,Lebanon,2018,26.7063,11.475,Lower middle income,very high
 MNE,Montenegro,2018,26.6816,10.53,Upper middle income,very high
@@ -2114,86 +2113,87 @@ AFG,Afghanistan,2019,0.6204,1.7753,Low income,very low
 DZA,Algeria,2019,0.1611,9.7318,Lower middle income,very low
 BWA,Botswana,2019,2.9424,11.8633,Upper middle income,very low
 BDI,Burundi,2019,2.6238,8.3128,Low income,very low
-KHM,Cambodia,2019,4.8092,7.0381,Lower middle income,very low
-CAF,Central African Republic,2019,4.3549,4.8435,Low income,very low
+KHM,Cambodia,2019,4.8094,7.0384,Lower middle income,very low
+CAF,Central African Republic,2019,4.3546,4.8432,Low income,very low
 CHN,China,2019,0.5982,8.7695,Upper middle income,very low
 IRN,Iran,2019,0.3168,20.8234,Lower middle income,very low
-LBR,Liberia,2019,1.2807,4.1977,Low income,very low
+LBR,Liberia,2019,1.2806,4.1973,Low income,very low
 MWI,Malawi,2019,3.7087,8.668,Low income,very low
 NGA,Nigeria,2019,2.4786,3.7515,Lower middle income,very low
 SLB,Solomon Islands,2019,1.1404,9.9685,Lower middle income,very low
-THA,Thailand,2019,1.6556,12.7593,Upper middle income,very low
+THA,Thailand,2019,1.6551,12.7593,Upper middle income,very low
 TLS,Timor-Leste,2019,0.5058,4.9931,Lower middle income,very low
-UGA,Uganda,2019,4.0365,3.1386,Low income,very low
+UGA,Uganda,2019,4.0583,3.1424,Low income,very low
 VUT,Vanuatu,2019,2.4259,4.7825,Lower middle income,very low
-ZWE,Zimbabwe,2019,2.1139,4.4591,Lower middle income,very low
+ZWE,Zimbabwe,2019,2.1142,4.4614,Lower middle income,very low
 ARM,Armenia,2019,22.2974,5.6689,Upper middle income,low
 AZE,Azerbaijan,2019,10.3853,3.9305,Upper middle income,low
 BLR,Belarus,2019,14.8716,11.044,Upper middle income,low
 BEN,Benin,2019,23.4292,3.7052,Lower middle income,low
 BIH,Bosnia and Herzegovina,2019,5.6673,15.5802,Upper middle income,low
-BRA,Brazil,2019,5.2718,9.2352,Upper middle income,low
+BRA,Brazil,2019,4.777,8.3683,Upper middle income,low
 BGR,Bulgaria,2019,2.1541,11.6969,Upper middle income,low
 BFA,Burkina Faso,2019,3.4515,9.6894,Low income,low
-COM,Comoros,2019,0.9242,4.1251,Lower middle income,low
-ERI,Eritrea,2019,3.1797,2.3543,Low income,low
-SWZ,Eswatini,2019,3.4768,10.0596,Lower middle income,low
-FJI,Fiji,2019,11.0889,8.2434,Upper middle income,low
+COM,Comoros,2019,0.9261,4.1335,Lower middle income,low
+ERI,Eritrea,2019,3.3936,2.5127,Low income,low
+SWZ,Eswatini,2019,3.4769,10.0599,Lower middle income,low
+FJI,Fiji,2019,11.1217,8.2103,Upper middle income,low
 GNB,Guinea-Bissau,2019,5.9834,2.8419,Low income,low
-HTI,Haiti,2019,0.639,4.0243,Lower middle income,low
+HTI,Haiti,2019,0.6748,4.2497,Lower middle income,low
 IND,India,2019,2.1679,3.6706,Lower middle income,low
 KAZ,Kazakhstan,2019,6.8609,8.2514,Upper middle income,low
-KGZ,Kyrgyz Republic,2019,6.1479,7.0938,Lower middle income,low
-LSO,Lesotho,2019,4.9623,9.6843,Lower middle income,low
+KGZ,Kyrgyz Republic,2019,6.1485,7.4941,Lower middle income,low
+LSO,Lesotho,2019,4.9087,9.5798,Lower middle income,low
 MLI,Mali,2019,4.7626,5.6689,Low income,low
 MDA,Moldova,2019,3.31,11.8837,Upper middle income,low
-MOZ,Mozambique,2019,15.0139,6.1697,Low income,low
+MOZ,Mozambique,2019,15.871,6.5219,Low income,low
 MMR,Myanmar,2019,4.5236,3.6395,Lower middle income,low
 NER,Niger,2019,4.6165,9.383,Low income,low
-RWA,Rwanda,2019,2.9888,8.8819,Low income,low
+RWA,Rwanda,2019,2.9887,8.8731,Low income,low
 SRB,Serbia,2019,15.0584,12.0308,Upper middle income,low
 SLE,Sierra Leone,2019,5.769,5.8235,Low income,low
-SDN,Sudan,2019,2.853,5.3682,Low income,low
+SDN,Sudan,2019,2.8534,5.372,Low income,low
 TZA,Tanzania,2019,11.267,9.4208,Lower middle income,low
-TGO,Togo,2019,7.5963,5.3818,Low income,low
+TGO,Togo,2019,7.5961,5.2118,Low income,low
 UZB,Uzbekistan,2019,4.198,8.3301,Lower middle income,low
 ALB,Albania,2019,8.0079,9.8618,Upper middle income,moderate
 ARG,Argentina,2019,16.5425,16.0715,Upper middle income,moderate
 BGD,Bangladesh,2019,4.0053,3.8272,Lower middle income,moderate
 BOL,Bolivia,2019,5.2703,13.5768,Lower middle income,moderate
-CPV,Cabo Verde,2019,9.9063,11.3902,Lower middle income,moderate
+CPV,Cabo Verde,2019,9.9935,11.8023,Lower middle income,moderate
 CMR,Cameroon,2019,8.9981,2.1799,Lower middle income,moderate
-TCD,Chad,2019,5.612,4.8722,Low income,moderate
-COD,DR Congo,2019,15.6125,4.4169,Low income,moderate
-COG,Congo Republic,2019,19.1553,5.1551,Lower middle income,moderate
+TCD,Chad,2019,5.6301,4.8879,Low income,moderate
+COD,DR Congo,2019,14.866,4.2057,Low income,moderate
+COG,Congo Republic,2019,19.1545,5.581,Lower middle income,moderate
 DJI,Djibouti,2019,8.4732,3.9888,Lower middle income,moderate
 EGY,Egypt,2019,9.4379,5.071,Lower middle income,moderate
 ETH,Ethiopia,2019,14.7808,4.7605,Low income,moderate
-GUY,Guyana,2019,5.2947,10.421,Upper middle income,moderate
+GUY,Guyana,2019,5.2895,10.4107,Upper middle income,moderate
 HND,Honduras,2019,9.0029,11.1676,Lower middle income,moderate
-KEN,Kenya,2019,16.2582,8.218,Lower middle income,moderate
+KEN,Kenya,2019,16.2664,8.218,Lower middle income,moderate
 MDG,Madagascar,2019,4.4747,7.9521,Low income,moderate
 MUS,Mauritius,2019,4.3127,9.6432,Upper middle income,moderate
 MNG,Mongolia,2019,10.9572,8.016,Lower middle income,moderate
 NPL,Nepal,2019,2.6281,4.0339,Lower middle income,moderate
-NIC,Nicaragua,2019,8.4165,18.9364,Lower middle income,moderate
+NIC,Nicaragua,2019,8.4066,19.0672,Lower middle income,moderate
 PAK,Pakistan,2019,14.7633,4.9492,Lower middle income,moderate
 PRY,Paraguay,2019,6.1658,14.4607,Upper middle income,moderate
 RUS,Russia,2019,7.0381,10.2339,Upper middle income,moderate
 WSM,Samoa,2019,9.3024,14.5583,Lower middle income,moderate
-STP,Sao Tome and Principe,2019,8.6292,10.763,Lower middle income,moderate
+STP,Sao Tome and Principe,2019,8.6379,10.3991,Lower middle income,moderate
 SEN,Senegal,2019,14.046,4.3721,Lower middle income,moderate
-ZAF,South Africa,2019,6.2795,15.3134,Upper middle income,moderate
+ZAF,South Africa,2019,6.2792,15.3446,Upper middle income,moderate
 TJK,Tajikistan,2019,8.5336,6.5836,Lower middle income,moderate
 TON,Tonga,2019,2.7756,7.5008,Upper middle income,moderate
-TUR,Türkiye,2019,6.8054,9.4824,Upper middle income,moderate
-UKR,Ukraine,2019,7.4742,7.6558,Lower middle income,moderate
+TUR,Türkiye,2019,6.805,9.4952,Upper middle income,moderate
+UKR,Ukraine,2019,7.4741,7.6582,Lower middle income,moderate
 VNM,Vietnam,2019,5.8372,10.3215,Lower middle income,moderate
 ZMB,Zambia,2019,13.2767,7.1647,Low income,moderate
 BTN,Bhutan,2019,8.5581,10.2399,Lower middle income,high
-CRI,Costa Rica,2019,12.4818,24.1005,Upper middle income,high
-CIV,Cote d'Ivoire,2019,24.3275,5.8669,Lower middle income,high
+CRI,Costa Rica,2019,12.5095,24.1538,Upper middle income,high
+CIV,Cote d'Ivoire,2019,23.7204,5.7312,Lower middle income,high
 DMA,Dominica,2019,8.4814,6.8515,Upper middle income,high
+ECU,Ecuador,2019,14.7254,12.1998,Upper middle income,high
 GMB,Gambia,2019,8.4113,5.4797,Low income,high
 GEO,Georgia,2019,10.0529,9.3871,Upper middle income,high
 GHA,Ghana,2019,15.307,6.1554,Lower middle income,high
@@ -2201,140 +2201,138 @@ GRD,Grenada,2019,19.5088,9.4319,Upper middle income,high
 GTM,Guatemala,2019,7.7383,17.6863,Upper middle income,high
 GIN,Guinea,2019,5.0574,6.1164,Low income,high
 IDN,Indonesia,2019,11.5389,8.7021,Lower middle income,high
-JOR,Jordan,2019,15.8837,13.0191,Upper middle income,high
+JOR,Jordan,2019,15.8837,12.8769,Upper middle income,high
 LAO,Laos,2019,21.8988,5.1182,Lower middle income,high
-MDV,Maldives,2019,21.8677,17.8539,Upper middle income,high
+MDV,Maldives,2019,21.8703,17.8592,Upper middle income,high
 MRT,Mauritania,2019,25.2118,7.1323,Lower middle income,high
-MEX,Mexico,2019,12.8368,10.3143,Upper middle income,high
+MEX,Mexico,2019,12.8369,10.6085,Upper middle income,high
 MAR,Morocco,2019,8.4599,7.9533,Lower middle income,high
 MKD,North Macedonia,2019,8.4487,13.5562,Upper middle income,high
 PNG,Papua New Guinea,2019,8.3888,6.5367,Lower middle income,high
-PER,Peru,2019,4.7511,15.4972,Upper middle income,high
+PER,Peru,2019,4.7512,15.5023,Upper middle income,high
 LKA,Sri Lanka,2019,28.6784,7.7094,Lower middle income,high
-LCA,St. Lucia,2019,8.7206,8.1824,Upper middle income,high
+LCA,St. Lucia,2019,8.7175,8.2148,Upper middle income,high
 AGO,Angola,2019,64.3322,5.3643,Lower middle income,very high
 BLZ,Belize,2019,14.2875,15.0684,Upper middle income,very high
-DOM,Dominican Republic,2019,13.3651,15.6242,Upper middle income,very high
-ECU,Ecuador,2019,15.707,13.0131,Upper middle income,very high
+DOM,Dominican Republic,2019,12.4148,14.5132,Upper middle income,very high
 SLV,El Salvador,2019,25.4657,17.3187,Lower middle income,very high
-GAB,Gabon,2019,23.0114,9.5917,Upper middle income,very high
+GAB,Gabon,2019,23.0096,9.562,Upper middle income,very high
 JAM,Jamaica,2019,41.7629,13.3879,Upper middle income,very high
 LBN,Lebanon,2019,31.8942,11.3607,Lower middle income,very high
 MNE,Montenegro,2019,22.5301,11.5238,Upper middle income,very high
-PHL,Philippines,2019,7.983,7.803,Lower middle income,very high
+PHL,Philippines,2019,7.9687,7.7889,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2019,13.4124,9.714,Upper middle income,very high
 TUN,Tunisia,2019,20.2353,9.5477,Lower middle income,very high
 AFG,Afghanistan,2020,0.5101,4.246,Low income,very low
 DZA,Algeria,2020,0.1607,9.3244,Lower middle income,very low
-BWA,Botswana,2020,3.0996,12.6561,Upper middle income,very low
+BWA,Botswana,2020,3.098,12.6499,Upper middle income,very low
 BDI,Burundi,2020,1.5562,8.1651,Low income,very low
-KHM,Cambodia,2020,5.0994,7.6045,Lower middle income,very low
-CAF,Central African Republic,2020,0.8614,4.8434,Low income,very low
+KHM,Cambodia,2020,5.099,7.604,Lower middle income,very low
+CAF,Central African Republic,2020,0.8617,4.8432,Low income,very low
 CHN,China,2020,0.6211,8.6463,Upper middle income,very low
 IRN,Iran,2020,0.3929,22.1128,Lower middle income,very low
-LBR,Liberia,2020,2.265,4.5176,Low income,very low
+LBR,Liberia,2020,2.2539,4.4954,Low income,very low
 MWI,Malawi,2020,2.6966,8.6678,Low income,very low
 NGA,Nigeria,2020,2.9989,4.1882,Lower middle income,very low
 SLB,Solomon Islands,2020,1.2277,10.772,Lower middle income,very low
-THA,Thailand,2020,4.3426,12.104,Upper middle income,very low
+THA,Thailand,2020,4.4198,12.3169,Upper middle income,very low
 TLS,Timor-Leste,2020,0.611,8.9161,Lower middle income,very low
-UGA,Uganda,2020,3.8879,3.1447,Low income,very low
+UGA,Uganda,2020,3.8387,3.1393,Low income,very low
 VUT,Vanuatu,2020,3.3044,6.0133,Lower middle income,very low
-ZWE,Zimbabwe,2020,1.1274,6.0427,Lower middle income,very low
+ZWE,Zimbabwe,2020,1.1278,6.0489,Lower middle income,very low
 ARM,Armenia,2020,12.3979,7.69,Upper middle income,low
-AZE,Azerbaijan,2020,7.7893,3.9375,Upper middle income,low
+AZE,Azerbaijan,2020,7.8308,3.9585,Upper middle income,low
 BLR,Belarus,2020,15.4501,11.9356,Upper middle income,low
 BEN,Benin,2020,7.0426,4.5546,Lower middle income,low
 BIH,Bosnia and Herzegovina,2020,5.0378,15.0617,Upper middle income,low
-BRA,Brazil,2020,4.4578,9.8193,Upper middle income,low
+BRA,Brazil,2020,4.1975,9.246,Upper middle income,low
 BGR,Bulgaria,2020,2.0526,13.4916,Upper middle income,low
 BFA,Burkina Faso,2020,3.1194,12.0364,Low income,low
 COM,Comoros,2020,1.4759,4.1244,Lower middle income,low
-ERI,Eritrea,2020,2.8774,2.3871,Low income,low
 SWZ,Eswatini,2020,4.4342,10.295,Lower middle income,low
-FJI,Fiji,2020,18.2083,8.1976,Upper middle income,low
+FJI,Fiji,2020,18.2374,8.1281,Upper middle income,low
 GNB,Guinea-Bissau,2020,6.1233,2.8419,Low income,low
-HTI,Haiti,2020,0.6801,4.1017,Lower middle income,low
+HTI,Haiti,2020,0.6707,4.0448,Lower middle income,low
 IND,India,2020,3.1336,3.492,Lower middle income,low
 KAZ,Kazakhstan,2020,5.0391,10.2124,Upper middle income,low
-KGZ,Kyrgyz Republic,2020,6.8092,6.9168,Lower middle income,low
-LSO,Lesotho,2020,5.2795,11.4693,Lower middle income,low
+KGZ,Kyrgyz Republic,2020,6.8088,7.3522,Lower middle income,low
+LSO,Lesotho,2020,5.2528,11.4113,Lower middle income,low
 MLI,Mali,2020,5.0145,5.7182,Low income,low
 MDA,Moldova,2020,3.3435,11.9778,Upper middle income,low
 MOZ,Mozambique,2020,13.0334,7.3566,Low income,low
 MMR,Myanmar,2020,2.8903,3.406,Lower middle income,low
 NER,Niger,2020,5.6067,10.4732,Low income,low
-RWA,Rwanda,2020,3.3289,8.7562,Low income,low
+RWA,Rwanda,2020,3.329,8.746,Low income,low
 SRB,Serbia,2020,10.4877,11.0039,Upper middle income,low
 SLE,Sierra Leone,2020,4.9036,5.2879,Low income,low
-SDN,Sudan,2020,3.8857,9.5958,Low income,low
+SDN,Sudan,2020,3.8852,9.6128,Low income,low
 TZA,Tanzania,2020,10.908,9.5698,Lower middle income,low
-TGO,Togo,2020,4.9076,5.3818,Low income,low
+TGO,Togo,2020,4.9078,5.25,Low income,low
 UZB,Uzbekistan,2020,5.1379,10.8464,Lower middle income,low
-ALB,Albania,2020,12.8079,8.9968,Upper middle income,moderate
+ALB,Albania,2020,12.8078,9.0153,Upper middle income,moderate
 ARG,Argentina,2020,6.5292,15.7315,Upper middle income,moderate
 BGD,Bangladesh,2020,4.0472,3.5638,Lower middle income,moderate
 BOL,Bolivia,2020,5.86,14.8745,Lower middle income,moderate
-CPV,Cabo Verde,2020,9.3552,10.9653,Lower middle income,moderate
+CPV,Cabo Verde,2020,9.3547,10.9647,Lower middle income,moderate
 CMR,Cameroon,2020,12.4572,3.6993,Lower middle income,moderate
-TCD,Chad,2020,5.4339,4.8857,Low income,moderate
-COD,DR Congo,2020,5.0588,6.272,Low income,moderate
-COG,Congo Republic,2020,29.5343,8.355,Lower middle income,moderate
-DJI,Djibouti,2020,6.663,4.0036,Lower middle income,moderate
+TCD,Chad,2020,5.3071,4.7716,Low income,moderate
+COD,DR Congo,2020,4.1003,5.0836,Low income,moderate
+COG,Congo Republic,2020,29.5348,9.1371,Lower middle income,moderate
+DJI,Djibouti,2020,6.5691,3.9522,Lower middle income,moderate
 EGY,Egypt,2020,13.0045,5.4235,Lower middle income,moderate
 ETH,Ethiopia,2020,14.0936,6.7923,Low income,moderate
-GUY,Guyana,2020,4.575,13.1579,Upper middle income,moderate
-HND,Honduras,2020,16.9608,12.2725,Lower middle income,moderate
-KEN,Kenya,2020,9.8693,8.204,Lower middle income,moderate
+GUY,Guyana,2020,4.5743,13.1557,Upper middle income,moderate
+HND,Honduras,2020,17.0594,12.3439,Lower middle income,moderate
+KEN,Kenya,2020,9.844,8.2027,Lower middle income,moderate
 MDG,Madagascar,2020,4.8707,8.7866,Low income,moderate
 MUS,Mauritius,2020,10.0674,10.8439,Upper middle income,moderate
 MNG,Mongolia,2020,22.9816,8.5116,Lower middle income,moderate
 NPL,Nepal,2020,2.7683,5.6315,Lower middle income,moderate
-NIC,Nicaragua,2020,9.4777,18.3333,Lower middle income,moderate
+NIC,Nicaragua,2020,9.4143,18.3497,Lower middle income,moderate
 PAK,Pakistan,2020,11.7654,5.124,Lower middle income,moderate
 PRY,Paraguay,2020,6.292,15.9249,Upper middle income,moderate
 RUS,Russia,2020,10.3742,13.6872,Upper middle income,moderate
-WSM,Samoa,2020,8.2589,12.6211,Lower middle income,moderate
-STP,Sao Tome and Principe,2020,1.5747,10.7549,Lower middle income,moderate
+WSM,Samoa,2020,8.2543,12.643,Lower middle income,moderate
+STP,Sao Tome and Principe,2020,1.5737,10.7248,Lower middle income,moderate
 SEN,Senegal,2020,24.1797,6.481,Lower middle income,moderate
-ZAF,South Africa,2020,9.5032,15.3875,Upper middle income,moderate
+ZAF,South Africa,2020,9.5031,15.4182,Upper middle income,moderate
 TJK,Tajikistan,2020,7.0464,7.3758,Lower middle income,moderate
 TON,Tonga,2020,3.148,7.8211,Upper middle income,moderate
-TUR,Türkiye,2020,7.4049,10.7165,Upper middle income,moderate
+TUR,Türkiye,2020,7.4051,10.7171,Upper middle income,moderate
 UKR,Ukraine,2020,9.6022,8.2323,Lower middle income,moderate
 VNM,Vietnam,2020,6.1875,9.9368,Lower middle income,moderate
 ZMB,Zambia,2020,9.2265,7.1647,Low income,moderate
 BTN,Bhutan,2020,5.8428,10.3167,Lower middle income,high
-CRI,Costa Rica,2020,11.6468,25.2695,Upper middle income,high
-CIV,Cote d'Ivoire,2020,15.0592,6.837,Lower middle income,high
-DMA,Dominica,2020,7.4868,5.1757,Upper middle income,high
+CRI,Costa Rica,2020,11.6625,25.3035,Upper middle income,high
+CIV,Cote d'Ivoire,2020,14.7567,6.7126,Lower middle income,high
+DMA,Dominica,2020,7.6191,5.2671,Upper middle income,high
+ECU,Ecuador,2020,12.9227,12.7927,Upper middle income,high
 GMB,Gambia,2020,5.9861,5.425,Low income,high
 GEO,Georgia,2020,17.0964,8.0595,Upper middle income,high
 GHA,Ghana,2020,11.5861,6.2973,Lower middle income,high
-GRD,Grenada,2020,15.7705,8.4957,Upper middle income,high
-GTM,Guatemala,2020,8.7548,15.8671,Upper middle income,high
-GIN,Guinea,2020,3.071,5.6998,Low income,high
+GRD,Grenada,2020,12.9958,7.001,Upper middle income,high
+GTM,Guatemala,2020,8.7547,15.8854,Upper middle income,high
+GIN,Guinea,2020,3.071,5.6642,Low income,high
 IDN,Indonesia,2020,14.1079,10.1282,Lower middle income,high
-JOR,Jordan,2020,16.8135,12.0138,Upper middle income,high
+JOR,Jordan,2020,16.8138,11.85,Upper middle income,high
 LAO,Laos,2020,18.5936,6.2133,Lower middle income,high
-MDV,Maldives,2020,14.5311,18.1731,Upper middle income,high
+MDV,Maldives,2020,14.533,18.1902,Upper middle income,high
 MRT,Mauritania,2020,17.2163,7.4078,Lower middle income,high
-MEX,Mexico,2020,13.4729,11.5565,Upper middle income,high
-MAR,Morocco,2020,10.1409,7.64,Lower middle income,high
+MEX,Mexico,2020,13.4731,11.8766,Upper middle income,high
+MAR,Morocco,2020,10.1409,7.6405,Lower middle income,high
 MKD,North Macedonia,2020,16.3607,13.0893,Upper middle income,high
 PNG,Papua New Guinea,2020,17.6327,7.3188,Lower middle income,high
-PER,Peru,2020,2.1875,15.9387,Upper middle income,high
-LKA,Sri Lanka,2020,24.6068,8.9847,Lower middle income,high
-LCA,St. Lucia,2020,8.2543,8.4016,Upper middle income,high
+PER,Peru,2020,2.1873,15.9535,Upper middle income,high
+LKA,Sri Lanka,2020,24.6065,8.889,Lower middle income,high
+LCA,St. Lucia,2020,8.4131,8.6029,Upper middle income,high
 AGO,Angola,2020,52.3495,5.2616,Lower middle income,very high
 BLZ,Belize,2020,11.1128,15.247,Upper middle income,very high
-DOM,Dominican Republic,2020,24.1133,14.681,Upper middle income,very high
-ECU,Ecuador,2020,13.7411,13.6029,Upper middle income,very high
-SLV,El Salvador,2020,12.8614,17.6309,Lower middle income,very high
-GAB,Gabon,2020,46.1208,9.5911,Upper middle income,very high
+DOM,Dominican Republic,2020,24.1122,14.6803,Upper middle income,very high
+SLV,El Salvador,2020,12.8292,17.8494,Lower middle income,very high
+GAB,Gabon,2020,46.1198,9.5896,Upper middle income,very high
 JAM,Jamaica,2020,23.6948,13.7785,Upper middle income,very high
 LBN,Lebanon,2020,7.3737,13.465,Lower middle income,very high
 MNE,Montenegro,2020,24.0686,13.1273,Upper middle income,very high
-PHL,Philippines,2020,6.1109,8.8019,Lower middle income,very high
+PHL,Philippines,2020,6.1119,8.8033,Lower middle income,very high
 VCT,St. Vincent and the Grenadines,2020,10.9474,9.817,Upper middle income,very high
 TUN,Tunisia,2020,16.3337,10.7933,Lower middle income,very high
