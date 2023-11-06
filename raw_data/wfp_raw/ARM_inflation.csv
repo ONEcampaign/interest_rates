@@ -232,6 +232,7 @@ Food Inflation,2023-06-30,-5.5,ARM
 Food Inflation,2023-07-31,-3.9,ARM
 Food Inflation,2023-08-31,-4.0,ARM
 Food Inflation,2023-09-30,-3.1,ARM
+Food Inflation,2023-10-31,-3.0,ARM
 Inflation Rate,1993-12-31,7336.01,ARM
 Inflation Rate,1994-01-31,14944.9,ARM
 Inflation Rate,1994-02-28,12481.6,ARM
@@ -589,3 +590,4 @@ Inflation Rate,2023-05-31,1.29,ARM
 Inflation Rate,2023-06-30,-0.51,ARM
 Inflation Rate,2023-07-31,-0.1,ARM
 Inflation Rate,2023-08-31,-0.17,ARM
+Inflation Rate,2023-09-30,0.1,ARM
