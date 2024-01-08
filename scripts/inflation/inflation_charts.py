@@ -174,3 +174,6 @@ def inflation_key_numbers() -> dict:
         "africa_latest_value": africa_latest["value"].max(),
     }
 
+
+if __name__ == "__main__":
+    inflation_key_numbers()
