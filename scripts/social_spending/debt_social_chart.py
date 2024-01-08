@@ -1,5 +1,9 @@
 import pandas as pd
-from bblocks import add_income_level_column, add_short_names_column
+from bblocks import (
+    add_income_level_column,
+    add_short_names_column,
+    filter_african_countries,
+)
 
 from scripts import config
 from scripts.debt.debt_service import service_data
@@ -109,3 +113,4 @@ def debt_health_comparison_chart(update_data: bool = False) -> None:
         config.Paths.output / "debt_health_2020.csv",
         index=False,
     )
+
