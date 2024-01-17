@@ -1,8 +1,4 @@
 indicator,date,value,iso_code
-Food Inflation,2017-12-31,20.36,ARG
-Food Inflation,2018-01-31,21.3,ARG
-Food Inflation,2018-02-28,21.71,ARG
-Food Inflation,2018-03-31,21.18,ARG
 Food Inflation,2018-04-30,19.94,ARG
 Food Inflation,2018-05-31,22.27,ARG
 Food Inflation,2018-06-30,27.45,ARG
@@ -71,6 +67,7 @@ Food Inflation,2023-08-31,133.4931,ARG
 Food Inflation,2023-09-30,150.1323,ARG
 Food Inflation,2023-10-31,153.7554,ARG
 Food Inflation,2023-11-30,183.5566,ARG
+Food Inflation,2023-12-31,251.3416,ARG
 Inflation Rate,1944-01-31,-3.3,ARG
 Inflation Rate,1944-02-29,-2.6,ARG
 Inflation Rate,1944-03-31,-3.5,ARG
