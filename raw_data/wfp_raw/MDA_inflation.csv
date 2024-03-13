@@ -144,10 +144,10 @@ Food Inflation,2015-10-31,13.5,MDA
 Food Inflation,2015-11-30,14.5,MDA
 Food Inflation,2015-12-31,14.3,MDA
 Food Inflation,2016-01-31,14.6,MDA
-Food Inflation,2016-02-29,11.8,MDA
-Food Inflation,2016-03-31,10.1,MDA
-Food Inflation,2016-04-30,9.3,MDA
-Food Inflation,2016-05-31,8.1,MDA
+Food Inflation,2016-02-29,11.77,MDA
+Food Inflation,2016-03-31,10.07,MDA
+Food Inflation,2016-04-30,9.27,MDA
+Food Inflation,2016-05-31,8.05,MDA
 Food Inflation,2016-06-30,7.58,MDA
 Food Inflation,2016-07-31,7.93,MDA
 Food Inflation,2016-08-31,6.22,MDA
@@ -240,6 +240,7 @@ Food Inflation,2023-10-31,5.58,MDA
 Food Inflation,2023-11-30,5.02,MDA
 Food Inflation,2023-12-31,4.62,MDA
 Food Inflation,2024-01-31,4.24,MDA
+Food Inflation,2024-02-29,3.5,MDA
 Inflation Rate,2007-01-31,12.9,MDA
 Inflation Rate,2007-02-28,12.0,MDA
 Inflation Rate,2007-03-31,11.1,MDA
@@ -444,3 +445,4 @@ Inflation Rate,2023-09-30,8.63,MDA
 Inflation Rate,2023-10-31,6.3,MDA
 Inflation Rate,2023-11-30,5.5,MDA
 Inflation Rate,2023-12-31,4.2,MDA
+Inflation Rate,2024-01-31,4.55,MDA
