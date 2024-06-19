@@ -152,6 +152,8 @@ Food Inflation,2023-09-30,4.37,IRQ
 Food Inflation,2023-10-31,5.05,IRQ
 Food Inflation,2023-11-30,4.14,IRQ
 Food Inflation,2023-12-31,4.42,IRQ
+Food Inflation,2024-02-29,0.7,IRQ
+Food Inflation,2024-03-31,-0.1,IRQ
 Inflation Rate,2005-01-31,40.88,IRQ
 Inflation Rate,2005-02-28,55.14,IRQ
 Inflation Rate,2005-03-31,33.59,IRQ
@@ -380,3 +382,5 @@ Inflation Rate,2023-09-30,3.55,IRQ
 Inflation Rate,2023-10-31,4.075,IRQ
 Inflation Rate,2023-11-30,3.98,IRQ
 Inflation Rate,2023-12-31,3.966,IRQ
+Inflation Rate,2024-01-31,0.406,IRQ
+Inflation Rate,2024-02-29,0.6,IRQ
