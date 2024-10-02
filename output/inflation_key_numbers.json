@@ -1,9 +1,9 @@
 {
-    "world_max_value": 10.4,
+    "world_max_value": 10.5,
     "world_max_date": "September 2022",
     "africa_max_value": 19.8,
     "africa_max_date": "July 2021",
-    "world_latest_value": 7.2,
+    "world_latest_value": 7.1,
     "world_latest_date": "December 2023",
     "africa_latest_date": "December 2023",
     "africa_latest_value": 17.4
