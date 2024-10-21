@@ -1,13 +1,12 @@
 iso_code,country,year,rate,continent
-GNB,Guinea-Bissau,2021,3.0,Africa
 RWA,Rwanda,2021,5.485,Africa
 BEN,Benin,2021,5.2999,Africa
-CMR,Cameroon,2021,0.0,Africa
+CMR,Cameroon,2021,5.9499,Africa
 CIV,Cote d'Ivoire,2021,5.3947,Africa
 EGY,"Egypt, Arab Rep.",2021,6.5475,Africa
 GHA,Ghana,2021,6.8801,Africa
 KEN,Kenya,2021,6.3,Africa
-MAR,Morocco,2021,0.0443,Africa
+MAR,Morocco,2021,4.4375,Africa
 NGA,Nigeria,2021,7.2578,Africa
 SEN,Senegal,2021,5.38,Africa
 GAB,Gabon,2021,7.0,Africa
